@@ -1,84 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract Golden Gate bridge towers rising through fog">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Sweeping translucent blue wave under a sky fading to warm cream">
+  <!--
+    A rendition of the macOS Tahoe "Light" desktop picture: the glassy
+    sweeping wave, the bright rim light along its leading edge, and the sky
+    falling from blue through pale to warm cream at the horizon. Drawn here
+    rather than shipped from Apple's own file, which is not ours to
+    redistribute.
+  -->
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0.15" y2="1">
-      <stop offset="0%"   stop-color="#1d4f86"/>
-      <stop offset="22%"  stop-color="#3b78ab"/>
-      <stop offset="45%"  stop-color="#79a8c6"/>
-      <stop offset="66%"  stop-color="#c3cfd2"/>
-      <stop offset="82%"  stop-color="#e8c9a8"/>
-      <stop offset="100%" stop-color="#f0a878"/>
-    </linearGradient>
-    <radialGradient id="sun" cx="0.24" cy="0.78" r="0.5">
-      <stop offset="0%"   stop-color="#fff0d2" stop-opacity="0.9"/>
-      <stop offset="40%"  stop-color="#ffcf95" stop-opacity="0.34"/>
-      <stop offset="100%" stop-color="#ffb87a" stop-opacity="0"/>
-    </radialGradient>
-
-    <!-- International orange, the bridge's actual colour. -->
-    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#e2683c"/>
-      <stop offset="55%"  stop-color="#c4462a"/>
-      <stop offset="100%" stop-color="#96301f"/>
-    </linearGradient>
-    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#d9836a" stop-opacity="0.62"/>
-      <stop offset="100%" stop-color="#b25a44" stop-opacity="0.42"/>
+    <linearGradient id="sky" x1="0.15" y1="0" x2="0.05" y2="1">
+      <stop offset="0%"   stop-color="#1f74c8"/>
+      <stop offset="22%"  stop-color="#3f8dd8"/>
+      <stop offset="44%"  stop-color="#7fb0dd"/>
+      <stop offset="62%"  stop-color="#b9c9d8"/>
+      <stop offset="78%"  stop-color="#e4dcc0"/>
+      <stop offset="100%" stop-color="#f3e6bd"/>
     </linearGradient>
 
-    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#eef2f3" stop-opacity="0"/>
-      <stop offset="45%"  stop-color="#eef2f3" stop-opacity="0.72"/>
-      <stop offset="100%" stop-color="#f4f6f6" stop-opacity="0.96"/>
+    <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#57c2dd"/>
+      <stop offset="60%"  stop-color="#2f8fd0"/>
+      <stop offset="100%" stop-color="#1f6ec4"/>
     </linearGradient>
-    <linearGradient id="fogtop" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#dfe8ec" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#dfe8ec" stop-opacity="0"/>
+
+    <linearGradient id="mass" x1="0.1" y1="0" x2="0.7" y2="1">
+      <stop offset="0%"   stop-color="#2a6fe8"/>
+      <stop offset="32%"  stop-color="#0f47d6"/>
+      <stop offset="62%"  stop-color="#1a53da"/>
+      <stop offset="100%" stop-color="#3f7ae2"/>
     </linearGradient>
+
+    <linearGradient id="crest" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%"   stop-color="#eae7cd"/>
+      <stop offset="26%"  stop-color="#cfe0d2"/>
+      <stop offset="52%"  stop-color="#7fc9dd"/>
+      <stop offset="76%"  stop-color="#2f8ee2"/>
+      <stop offset="100%" stop-color="#1450d8"/>
+    </linearGradient>
+
+    <linearGradient id="silver" x1="0.2" y1="0" x2="0.6" y2="1">
+      <stop offset="0%"   stop-color="#dfe8ee"/>
+      <stop offset="45%"  stop-color="#b9cbd8"/>
+      <stop offset="100%" stop-color="#8ea6bb"/>
+    </linearGradient>
+
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="28%"  stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="70%"  stop-color="#f2f8ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#dbeaff" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <filter id="soft" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="softer" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="whisper" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
   </defs>
 
   <rect width="1600" height="1000" fill="url(#sky)"/>
-  <rect width="1600" height="1000" fill="url(#sun)"/>
 
-  <!-- Far tower, mostly swallowed by fog -->
-  <g fill="url(#far)">
-    <rect x="1178" y="336" width="26" height="520"/>
-    <rect x="1266" y="336" width="26" height="520"/>
-    <rect x="1170" y="410" width="130" height="17" rx="3"/>
-    <rect x="1170" y="556" width="130" height="17" rx="3"/>
-    <rect x="1174" y="336" width="122" height="14" rx="4"/>
-  </g>
-  <path d="M1191 350 C 1320 470, 1470 560, 1600 596" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
-  <path d="M1279 350 C 1150 476, 980 566, 840 604" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
-
-  <!-- Near tower -->
-  <g fill="url(#near)">
-    <rect x="470" y="150" width="42" height="740"/>
-    <rect x="612" y="150" width="42" height="740"/>
-    <rect x="458" y="252" width="208" height="27" rx="4"/>
-    <rect x="458" y="474" width="208" height="27" rx="4"/>
-    <rect x="458" y="696" width="208" height="27" rx="4"/>
-    <rect x="462" y="150" width="200" height="22" rx="6"/>
-    <rect x="452" y="140" width="220" height="12" rx="6" opacity="0.85"/>
+  <!-- Distant headland, far out of focus -->
+  <g filter="url(#softer)" opacity="0.92">
+    <path fill="url(#hill)" d="M-120 690 C 30 596, 130 548, 250 578 C 350 602, 404 664, 470 706 C 520 738, 560 754, 610 764 L610 1000 L-120 1000 Z"/>
+    <path fill="#2f8fd0" opacity="0.55" d="M-140 742 C 60 690, 240 700, 420 742 C 520 766, 580 782, 660 790 L660 1000 L-140 1000 Z"/>
   </g>
 
-  <!-- Main cables sweeping off both sides of the near tower -->
-  <path d="M491 168 C 300 300, 120 420, 0 468" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
-  <path d="M633 168 C 830 306, 1030 432, 1190 486" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
-
-  <!-- Suspender ropes down to the deck -->
-  <g stroke="#c4462a" stroke-width="4" opacity="0.62" stroke-linecap="round">
-    <path d="M180 424 V806"/><path d="M262 388 V806"/><path d="M344 348 V806"/><path d="M420 300 V806"/>
-    <path d="M700 232 V806"/><path d="M782 276 V806"/><path d="M864 320 V806"/><path d="M946 362 V806"/>
-    <path d="M1028 402 V806"/><path d="M1110 442 V806"/>
+  <!-- Far crest behind the main wave, with its banded ripples -->
+  <g filter="url(#soft)">
+    <path fill="url(#crest)" d="M560 700 C 860 520, 1140 356, 1660 236 L1660 1000 L560 1000 Z"/>
+    <g stroke-linecap="round" fill="none" opacity="0.55">
+      <path stroke="#f0ecd4" stroke-width="16" d="M690 640 C 960 486, 1220 356, 1660 258"/>
+      <path stroke="#cfe4d8" stroke-width="13" d="M720 672 C 990 520, 1250 392, 1660 300"/>
+      <path stroke="#79c6dd" stroke-width="15" d="M760 706 C 1020 560, 1280 436, 1660 348"/>
+      <path stroke="#3f94e0" stroke-width="18" d="M800 744 C 1060 604, 1310 486, 1660 402"/>
+    </g>
+    <!-- the small serrated break where the crest folds over -->
+    <path fill="#0f47d6" opacity="0.8" d="M1180 470 l38 -34 6 40 34 -40 8 42 34 -36 8 44 36 -34 10 44 34 -30 12 46 40 -30 v120 h-300 z"/>
   </g>
 
-  <!-- Deck -->
-  <rect x="0" y="800" width="1600" height="16" fill="url(#near)"/>
-  <rect x="0" y="816" width="1600" height="9" fill="#8a2b1c" opacity="0.75"/>
+  <!-- The main mass, its leading edge sweeping from lower left to upper right -->
+  <path filter="url(#soft)" fill="url(#mass)"
+        d="M-60 918 C 200 828, 402 744, 686 596 C 940 462, 1226 300, 1680 206 L1680 1060 L-60 1060 Z"/>
 
-  <!-- Fog rolling in, which is what actually makes this view -->
-  <rect x="0" y="300" width="1600" height="220" fill="url(#fogtop)"/>
-  <rect x="0" y="520" width="1600" height="480" fill="url(#fog)"/>
-  <path d="M0 742 C 240 700, 430 762, 660 736 C 900 708, 1090 764, 1320 738 C 1450 724, 1530 736, 1600 730 L1600 1000 L0 1000 Z" fill="#f3f6f6" opacity="0.88"/>
-  <path d="M0 856 C 260 828, 470 878, 720 856 C 960 834, 1150 880, 1390 860 C 1490 852, 1550 860, 1600 856 L1600 1000 L0 1000 Z" fill="#fafbfb" opacity="0.95"/>
+  <!-- Soft interior folds -->
+  <g filter="url(#soft)" opacity="0.5">
+    <path fill="#4d84ea" d="M240 1000 C 420 860, 700 700, 1010 610 C 1240 544, 1450 520, 1680 512 L1680 1000 Z"/>
+    <path fill="#0c3fce" d="M700 1000 C 840 852, 1080 730, 1330 676 C 1460 648, 1580 640, 1680 638 L1680 1000 Z"/>
+  </g>
+
+  <!-- The rim light: the signature of this picture -->
+  <path filter="url(#whisper)" fill="none" stroke="url(#rim)" stroke-width="4.5" stroke-linecap="round"
+        d="M-60 918 C 200 828, 402 744, 686 596 C 940 462, 1226 300, 1680 206"/>
+
+  <!-- Pale silvery forms rolling across the foreground -->
+  <g filter="url(#softer)" opacity="0.9">
+    <path fill="url(#silver)" d="M-120 940 C 60 860, 210 878, 330 962 C 400 1012, 430 1040, 470 1060 L-120 1060 Z"/>
+    <path fill="url(#silver)" d="M980 1060 C 1080 940, 1240 872, 1420 866 C 1530 862, 1610 878, 1680 902 L1680 1060 Z"/>
+    <path fill="#c8d6e0" opacity="0.55" d="M300 1060 C 420 964, 600 918, 800 936 C 900 946, 960 972, 1010 1000 L1010 1060 Z"/>
+  </g>
 </svg>

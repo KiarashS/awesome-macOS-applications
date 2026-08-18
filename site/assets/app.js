@@ -460,10 +460,10 @@
     );
     if (cat) {
       const chip = el("button", {
-        class: "tagbtn", title: `Show the ${cat.label} category`,
+        class: "tagbtn is-category", title: `Show the ${cat.label} category`,
         onclick: () => { closeSheet(); setScope(cat.id); },
       }, [svg("i-" + cat.icon, 11), document.createTextNode(cat.label)]);
-      chip.style.color = cat.color || "";
+      if (cat.color) chip.style.setProperty("--chip-color", cat.color);
       chips.unshift(chip);
     }
     $("#sheet-tags").replaceChildren(...chips);
@@ -707,9 +707,16 @@
     $("#control-centre").addEventListener("input", (e) => e.stopPropagation());
 
     $("#menus").addEventListener("click", (e) => {
+      const menuitem = e.target.closest("[role='menuitem']");
       const item = e.target.closest("[data-act]");
+      if (!menuitem && !item) return;
+      // Dismiss the menu first, then act, so an action that opens a panel of
+      // its own is not undone by its own dismissal. Then stop the click here:
+      // the document-level handler that closes menus would otherwise fire on
+      // the way up and shut the panel that just opened.
+      if (menuitem) closeMenus();
       if (item) runAction(item.dataset.act);
-      if (e.target.closest("[role='menuitem']")) closeMenus();
+      e.stopPropagation();
     });
     document.addEventListener("click", closeMenus);
 
