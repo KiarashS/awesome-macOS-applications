@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T19:07:19Z",
+  "generated_at": "2026-08-18T19:19:04Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 97,
+    "apps": 102,
     "categories": 23,
-    "tags": 58,
-    "stars": 852349
+    "tags": 59,
+    "stars": 893183
   },
   "categories": [
     {
@@ -18,7 +18,7 @@
       "icon": "notch",
       "color": "#5e5ce6",
       "blurb": "Apps that turn the MacBook notch into something useful.",
-      "count": 8
+      "count": 10
     },
     {
       "id": "clipboard",
@@ -26,7 +26,7 @@
       "icon": "clipboard",
       "color": "#ff9f0a",
       "blurb": "Clipboard managers and paste history.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "packages",
@@ -170,7 +170,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 4
+      "count": 5
     },
     {
       "id": "web",
@@ -186,7 +186,7 @@
       "icon": "hammer",
       "color": "#ac8e68",
       "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "fun",
@@ -200,31 +200,31 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 56
+      "count": 58
     },
     {
       "name": "TypeScript",
-      "count": 14
+      "count": 15
     },
     {
       "name": "SwiftUI",
+      "count": 13
+    },
+    {
+      "name": "Notch",
       "count": 12
+    },
+    {
+      "name": "AI",
+      "count": 11
     },
     {
       "name": "Cross-platform",
       "count": 10
     },
     {
-      "name": "Notch",
-      "count": 10
-    },
-    {
-      "name": "AI",
-      "count": 9
-    },
-    {
       "name": "Menu Bar",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Windows",
@@ -251,11 +251,19 @@
       "count": 5
     },
     {
+      "name": "Electron",
+      "count": 5
+    },
+    {
       "name": "Files",
       "count": 5
     },
     {
       "name": "Markdown",
+      "count": 5
+    },
+    {
+      "name": "Notes",
       "count": 5
     },
     {
@@ -279,10 +287,6 @@
       "count": 4
     },
     {
-      "name": "Notes",
-      "count": 4
-    },
-    {
       "name": "Notifications",
       "count": 4
     },
@@ -303,6 +307,10 @@
       "count": 3
     },
     {
+      "name": "Clipboard",
+      "count": 3
+    },
+    {
       "name": "Downloads",
       "count": 3
     },
@@ -311,7 +319,7 @@
       "count": 3
     },
     {
-      "name": "Electron",
+      "name": "Git",
       "count": 3
     },
     {
@@ -327,6 +335,14 @@
       "count": 3
     },
     {
+      "name": "Vue",
+      "count": 3
+    },
+    {
+      "name": "iOS",
+      "count": 3
+    },
+    {
       "name": "Archive",
       "count": 2
     },
@@ -336,10 +352,6 @@
     },
     {
       "name": "Cleanup",
-      "count": 2
-    },
-    {
-      "name": "Clipboard",
       "count": 2
     },
     {
@@ -383,23 +395,11 @@
       "count": 2
     },
     {
-      "name": "Vue",
-      "count": 2
-    },
-    {
       "name": "Web",
       "count": 2
     },
     {
-      "name": "iOS",
-      "count": 2
-    },
-    {
       "name": "Encryption",
-      "count": 1
-    },
-    {
-      "name": "Git",
       "count": 1
     },
     {
@@ -428,6 +428,10 @@
     },
     {
       "name": "Speech",
+      "count": 1
+    },
+    {
+      "name": "System & Maintenance",
       "count": 1
     }
   ],
@@ -515,8 +519,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50379,
-      "forks": 6863,
+      "stars": 50381,
+      "forks": 6864,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-18T15:27:46Z"
@@ -670,7 +674,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29878,
+      "stars": 29879,
       "forks": 2653,
       "license": "MIT",
       "archived": false,
@@ -707,6 +711,39 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-09-20T20:28:17Z"
+    },
+    {
+      "full_name": "Molunerfinn/PicGo",
+      "name": "PicGo",
+      "owner": "Molunerfinn",
+      "avatar": "https://avatars.githubusercontent.com/u/12621342?v=4",
+      "icon": "icons/Molunerfinn__PicGo.png",
+      "url": "https://github.com/Molunerfinn/PicGo",
+      "homepage": "https://picgo.app",
+      "description": "Rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste…",
+      "category": "clipboard",
+      "tags": [
+        "Clipboard",
+        "Git",
+        "Electron",
+        "TypeScript"
+      ],
+      "topics": [
+        "aliyun-oss",
+        "cloudflare-r2",
+        "electron",
+        "electron-app",
+        "electron-vue",
+        "github",
+        "image",
+        "imageuploader"
+      ],
+      "language": "TypeScript",
+      "stars": 26994,
+      "forks": 2326,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-17T07:01:33Z"
     },
     {
       "full_name": "mattermost-community/focalboard",
@@ -773,7 +810,7 @@
       "forks": 1481,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T19:03:17Z"
+      "pushed_at": "2026-08-18T19:12:31Z"
     },
     {
       "full_name": "ayangweb/BongoCat",
@@ -1310,6 +1347,30 @@
       "pushed_at": "2026-08-17T11:32:12Z"
     },
     {
+      "full_name": "PostgresApp/PostgresApp",
+      "name": "PostgresApp",
+      "owner": "PostgresApp",
+      "avatar": "https://avatars.githubusercontent.com/u/4306503?v=4",
+      "icon": "icons/PostgresApp__PostgresApp.png",
+      "url": "https://github.com/PostgresApp/PostgresApp",
+      "homepage": "https://postgresapp.com",
+      "description": "The easiest way to get started with PostgreSQL on the Mac",
+      "category": "system",
+      "tags": [
+        "System & Maintenance"
+      ],
+      "topics": [
+        "postgis",
+        "postgres"
+      ],
+      "language": "Makefile",
+      "stars": 7768,
+      "forks": 401,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-17T08:16:46Z"
+    },
+    {
       "full_name": "peazip/PeaZip",
       "name": "PeaZip",
       "owner": "peazip",
@@ -1535,7 +1596,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 5921,
+      "stars": 5922,
       "forks": 211,
       "license": "",
       "archived": false,
@@ -1824,6 +1885,38 @@
       "pushed_at": "2026-08-18T11:29:13Z"
     },
     {
+      "full_name": "Kuingsmile/PicList",
+      "name": "PicList",
+      "owner": "Kuingsmile",
+      "avatar": "https://avatars.githubusercontent.com/u/96409857?v=4",
+      "icon": "icons/Kuingsmile__PicList.png",
+      "url": "https://github.com/Kuingsmile/PicList",
+      "homepage": "https://piclist.cn",
+      "description": "An image upload and manage tool, base on PicGo",
+      "category": "devtools",
+      "tags": [
+        "Git",
+        "Electron",
+        "Vue"
+      ],
+      "topics": [
+        "alioss",
+        "electron",
+        "github",
+        "imgur",
+        "imgur-uploader",
+        "picgo",
+        "qiniu",
+        "s3"
+      ],
+      "language": "Vue",
+      "stars": 3741,
+      "forks": 155,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-16T13:32:51Z"
+    },
+    {
       "full_name": "f/textream",
       "name": "textream",
       "owner": "f",
@@ -2064,6 +2157,38 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-15T22:08:30Z"
+    },
+    {
+      "full_name": "wxtsky/CodeIsland",
+      "name": "CodeIsland",
+      "owner": "wxtsky",
+      "avatar": "https://avatars.githubusercontent.com/u/79189721?v=4",
+      "icon": "icons/wxtsky__CodeIsland.png",
+      "url": "https://github.com/wxtsky/CodeIsland",
+      "homepage": "",
+      "description": "Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "AI",
+        "iOS",
+        "Swift"
+      ],
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "developer-tools",
+        "dynamic-island",
+        "macos",
+        "notch",
+        "swift"
+      ],
+      "language": "Swift",
+      "stars": 2310,
+      "forks": 270,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-15T06:32:02Z"
     },
     {
       "full_name": "hainguyents13/mechvibes",
@@ -3153,6 +3278,41 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-05-08T18:52:55Z"
+    },
+    {
+      "full_name": "cyrus-cai/notchi",
+      "name": "notchi",
+      "owner": "cyrus-cai",
+      "avatar": "https://avatars.githubusercontent.com/u/91727456?v=4",
+      "icon": "icons/cyrus-cai__notchi.png",
+      "url": "https://github.com/cyrus-cai/notchi",
+      "homepage": "https://www.notch.website/",
+      "description": "Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.",
+      "category": "notch",
+      "tags": [
+        "Menu Bar",
+        "Notch",
+        "Notes",
+        "AI",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "apple-notes",
+        "coding-agent",
+        "dynamic-island",
+        "llm",
+        "macbook",
+        "macos"
+      ],
+      "language": "Swift",
+      "stars": 17,
+      "forks": 0,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-18T13:01:57Z"
     }
   ]
 }

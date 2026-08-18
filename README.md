@@ -1,19 +1,19 @@
 # awesome-macOS-applications
 
 > A tagged, categorised browser for the macOS apps I keep an eye on —
-> generated nightly from my [**app** star list](https://github.com/stars/KiarashS/lists/app) on GitHub.
+> rebuilt from my [**app** star list](https://github.com/stars/KiarashS/lists/app) on GitHub, every three hours.
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`97 apps` · `23 categories` · `58 tags` · `852,349 stars`
+`102 apps` · `23 categories` · `59 tags` · `893,183 stars`
 
 Last updated 2026-08-18. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
 
 ## Contents
 
-- 🌗 [Notch & Island](#cat-notch) (8)
-- 📋 [Clipboard](#cat-clipboard) (2)
+- 🌗 [Notch & Island](#cat-notch) (10)
+- 📋 [Clipboard](#cat-clipboard) (3)
 - 📦 [Package Managers](#cat-packages) (7)
 - 🧊 [Virtualization](#cat-virtualization) (2)
 - 📸 [Screenshots & Recording](#cat-capture) (3)
@@ -31,9 +31,9 @@ into the list and it shows up on the next run.
 - 🎬 [Media & Music](#cat-media) (5)
 - 📝 [Notes & Writing](#cat-notes) (7)
 - 🗂️ [Files & Sync](#cat-files) (3)
-- ⚙️ [System & Maintenance](#cat-system) (4)
+- ⚙️ [System & Maintenance](#cat-system) (5)
 - 🧩 [Web & Templates](#cat-web) (3)
-- 🛠️ [Developer Tools](#cat-devtools) (2)
+- 🛠️ [Developer Tools](#cat-devtools) (3)
 - 🎈 [Fun & Desktop Toys](#cat-fun) (1)
 
 <a id="cat-notch"></a>
@@ -46,6 +46,8 @@ _Apps that turn the MacBook notch into something useful._
   <sub>★ 10,387 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
 - **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS  
   <sub>★ 3,973 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
+- **[CodeIsland](https://github.com/wxtsky/CodeIsland)** — Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions  
+  <sub>★ 2,310 · wxtsky · Swift · `Notch` `AI` `iOS` `Swift`</sub>
 - **[NotchDrop](https://github.com/Lakr233/NotchDrop)** — Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop  
   <sub>★ 2,082 · Lakr233 · Swift · `Notch` `Files` `Swift`</sub>
 - **[mew-notch](https://github.com/monuk7735/mew-notch)** — Make the Notches on newer Macs Useful!  
@@ -58,6 +60,8 @@ _Apps that turn the MacBook notch into something useful._
   <sub>★ 120 · Lakr233 · Swift · `Notch` `Notifications` `Swift`</sub>
 - **[Notchly](https://github.com/Notchly/Notchly)** — Lightweight Dynamic Island for macOS with AI coding agent notifications  
   <sub>★ 45 · Notchly · Swift · `Menu Bar` `Notch` `AI` `Notifications` `Swift`</sub>
+- **[notchi](https://github.com/cyrus-cai/notchi)** — Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.  
+  <sub>★ 17 · cyrus-cai · Swift · `Menu Bar` `Notch` `Notes` `AI` `SwiftUI` `Swift`</sub>
 
 <a id="cat-clipboard"></a>
 
@@ -65,6 +69,8 @@ _Apps that turn the MacBook notch into something useful._
 
 _Clipboard managers and paste history._
 
+- **[PicGo](https://github.com/Molunerfinn/PicGo)** — Rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste…  
+  <sub>★ 26,994 · Molunerfinn · TypeScript · `Clipboard` `Git` `Electron` `TypeScript`</sub>
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS  
   <sub>★ 21,224 · p0deje · Swift · `Clipboard` `Swift`</sub>
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
@@ -148,9 +154,9 @@ _Local and hosted models, assistants and speech tooling._
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 50,728 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 50,379 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 50,381 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 29,878 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 29,879 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
   <sub>★ 4,728 · nguyenphutrong · Swift · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Swift`</sub>
 - **[nativ](https://github.com/Blaizzy/nativ)** — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.  
@@ -211,7 +217,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,384 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
-  <sub>★ 5,921 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
+  <sub>★ 5,922 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Master your Mac’s ⌘Tab  
   <sub>★ 678 · rokartur · Swift · `Windows` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
@@ -351,6 +357,8 @@ _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
   <sub>★ 14,355 · alienator88 · Swift · `Cleanup` `Swift`</sub>
+- **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
+  <sub>★ 7,768 · PostgresApp · Makefile · `System & Maintenance`</sub>
 - **[PureMac](https://github.com/momenbasel/PureMac)** — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.  
   <sub>★ 5,833 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
 - **[ZTools](https://github.com/ZToolsCenter/ZTools)** — An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.  
@@ -381,6 +389,8 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
   <sub>★ 7,505 · Sequel-Ace · Objective-C · `Objective-C`</sub>
 - **[briefer](https://github.com/briefercloud/briefer)** — Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.  
   <sub>★ 4,315 · briefercloud · TypeScript · `Dashboard` `TypeScript`</sub>
+- **[PicList](https://github.com/Kuingsmile/PicList)** — An image upload and manage tool, base on PicGo  
+  <sub>★ 3,741 · Kuingsmile · Vue · `Git` `Electron` `Vue`</sub>
 
 <a id="cat-fun"></a>
 
@@ -400,8 +410,13 @@ _Purely delightful, mostly useless, entirely worth installing._
    `scripts/overrides.json` pins anything the rules get wrong.
 4. The result is written to `site/data/apps.json` and to this README.
 
-The workflow in `.github/workflows/update.yml` runs it every night at
-**03:00 Asia/Tehran** (23:30 UTC) and redeploys the site.
+The workflow in `.github/workflows/update.yml` polls the list every 15
+minutes and rebuilds the moment a repository joins or leaves it, so a new
+star shows up here within about a quarter of an hour. On top of that it
+does a full refresh every three hours on the clock from **13:00
+Asia/Tehran** — 13:00, 16:00, 19:00, 22:00, 01:00, 04:00, 07:00 and 10:00
+local — so star counts, descriptions and icons stay current even when the
+list itself has not moved.
 
 ```bash
 python3 scripts/build.py            # refresh everything
