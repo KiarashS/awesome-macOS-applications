@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`102 apps` · `23 categories` · `59 tags` · `893,244 stars`
+`102 apps` · `23 categories` · `59 tags` · `893,251 stars`
 
 Last updated 2026-08-18. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -128,7 +128,7 @@ _Screenshots, screen recording and screen sharing._
 _Download managers and accelerators._
 
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 17,318 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 17,319 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,566 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
@@ -154,7 +154,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 50,730 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 50,414 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 50,417 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
   <sub>★ 29,886 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
@@ -164,7 +164,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[FlowDown](https://github.com/Lakr233/FlowDown)** — Https://flowdown.ai/  
   <sub>★ 1,187 · Lakr233 · Swift · `AI` `Swift`</sub>
 - **[KeyType](https://github.com/johnbean393/KeyType)** — An open-source Cotypist with macOS system wide AI autocomplete  
-  <sub>★ 475 · johnbean393 · Swift · `AI` `Swift`</sub>
+  <sub>★ 477 · johnbean393 · Swift · `AI` `Swift`</sub>
 
 <a id="cat-launchers"></a>
 
@@ -213,7 +213,7 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
-  <sub>★ 16,223 · ianyh · Swift · `Windows` `Swift`</sub>
+  <sub>★ 16,222 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,384 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
@@ -282,7 +282,7 @@ _Proxies, VPNs, DNS switchers and network tooling._
 _Keyboards, mice, trackpads, cursors and typing feedback._
 
 - **[keycastr](https://github.com/keycastr/keycastr)** — KeyCastr, an open-source keystroke visualizer  
-  <sub>★ 15,047 · keycastr · Objective-C · `Keyboard` `Objective-C`</sub>
+  <sub>★ 15,048 · keycastr · Objective-C · `Keyboard` `Objective-C`</sub>
 - **[mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)** — Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!  
   <sub>★ 10,700 · noah-nuebling · Objective-C · `Mouse` `Objective-C`</sub>
 - **[MiddleClick](https://github.com/artginzburg/MiddleClick)** —  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.  
@@ -399,7 +399,7 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
 _Purely delightful, mostly useless, entirely worth installing._
 
 - **[BongoCat](https://github.com/ayangweb/BongoCat)** — A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.  
-  <sub>★ 22,652 · ayangweb · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
+  <sub>★ 22,653 · ayangweb · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
 
 ## How this is built
 
