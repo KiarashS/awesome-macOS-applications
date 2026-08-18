@@ -3,12 +3,10 @@
 > A tagged, categorised browser for the macOS apps I keep an eye on —
 > generated nightly from my [**app** star list](https://github.com/stars/KiarashS/lists/app) on GitHub.
 
-**[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
+**[Browse it as a macOS desktop →](https://mac.kiarashs.ir)**
 
 `91 apps` · `23 categories` · `57 tags` · `831,759 stars`
 
-Last updated 2026-08-18. Nothing here is edited by hand: star a repo
-into the list and it shows up on the next run.
 
 ## Contents
 
