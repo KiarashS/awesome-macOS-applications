@@ -3,10 +3,12 @@
 > A tagged, categorised browser for the macOS apps I keep an eye on —
 > generated nightly from my [**app** star list](https://github.com/stars/KiarashS/lists/app) on GitHub.
 
-**[Browse it as a macOS desktop →](https://mac.kiarashs.ir)**
+**[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`91 apps` · `23 categories` · `57 tags` · `831,759 stars`
+`91 apps` · `23 categories` · `57 tags` · `831,783 stars`
 
+Last updated 2026-08-18. Nothing here is edited by hand: star a repo
+into the list and it shows up on the next run.
 
 ## Contents
 
@@ -107,9 +109,9 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
-  <sub>★ 20,953 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
+  <sub>★ 20,954 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[Capso](https://github.com/lzhgus/Capso)** — Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.  
-  <sub>★ 1,154 · lzhgus · Swift · `Capture` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,155 · lzhgus · Swift · `Capture` `SwiftUI` `Swift`</sub>
 
 <a id="cat-downloads"></a>
 
@@ -118,7 +120,7 @@ _Screenshots, screen recording and screen sharing._
 _Download managers and accelerators._
 
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 17,305 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 17,306 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,556 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
@@ -133,7 +135,7 @@ _Feed readers, ebook readers and read-it-later apps._
 - **[Folo](https://github.com/RSSNext/Folo)** — Folo is the AI RSS Reader  
   <sub>★ 38,820 · RSSNext · TypeScript · `RSS` `Reading` `AI` `TypeScript`</sub>
 - **[readest](https://github.com/readest/readest)** — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…  
-  <sub>★ 23,518 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 23,519 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
 
 <a id="cat-ai"></a>
 
@@ -142,15 +144,15 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 50,716 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 50,717 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 50,233 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 50,249 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 29,857 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 29,858 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[FlowDown](https://github.com/Lakr233/FlowDown)** — Https://flowdown.ai/  
   <sub>★ 1,187 · Lakr233 · Swift · `AI` `Swift`</sub>
 - **[KeyType](https://github.com/johnbean393/KeyType)** — An open-source Cotypist with macOS system wide AI autocomplete  
-  <sub>★ 468 · johnbean393 · Swift · `AI` `Swift`</sub>
+  <sub>★ 470 · johnbean393 · Swift · `AI` `Swift`</sub>
 
 <a id="cat-launchers"></a>
 
@@ -201,7 +203,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,382 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
-  <sub>★ 5,916 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
+  <sub>★ 5,917 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Master your Mac’s ⌘Tab  
   <sub>★ 677 · rokartur · Swift · `Windows` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
@@ -229,7 +231,7 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
-  <sub>★ 54,926 · romkatv · Shell · `Terminal` `Shell`</sub>
+  <sub>★ 54,927 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
   <sub>★ 33,161 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 
@@ -253,7 +255,7 @@ _Proxies, VPNs, DNS switchers and network tooling._
 - **[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)** — A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.  
   <sub>★ 6,205 · MetaCubeX · `Proxy`</sub>
 - **[ClashMac](https://github.com/666OS/ClashMac)** — Native Proxy Experience Built for macOS  
-  <sub>★ 6,132 · 666OS · `Proxy` `SwiftUI`</sub>
+  <sub>★ 6,131 · 666OS · `Proxy` `SwiftUI`</sub>
 - **[dns-easy-switcher](https://github.com/glinford/dns-easy-switcher)** — DNS Easy Switcher (for MacOS)  
   <sub>★ 357 · glinford · Swift · `DNS` `Swift`</sub>
 - **[bargozin-desktop](https://github.com/403unlocker/bargozin-desktop)** — DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers  
@@ -289,7 +291,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 _Video players, music apps and everything that makes noise._
 
 - **[iina](https://github.com/iina/iina)** — The modern video player for macOS.  
-  <sub>★ 46,002 · iina · Swift · `Video` `Swift`</sub>
+  <sub>★ 46,000 · iina · Swift · `Video` `Swift`</sub>
 - **[textream](https://github.com/f/textream)** — Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay…  
   <sub>★ 3,611 · f · Swift · `Presenting` `Notch` `Swift`</sub>
 - **[iina-plus](https://github.com/xjbeta/iina-plus)** — Extra danmaku support for iina. (iina 弹幕支持  
@@ -375,7 +377,7 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
 _Purely delightful, mostly useless, entirely worth installing._
 
 - **[BongoCat](https://github.com/ayangweb/BongoCat)** — A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.  
-  <sub>★ 22,646 · ayangweb · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
+  <sub>★ 22,647 · ayangweb · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
 
 ## How this is built
 
