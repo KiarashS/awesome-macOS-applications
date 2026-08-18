@@ -9,10 +9,13 @@ on:
   schedule:
     # Membership poll. Adding a repo to the list shows up within ~15 minutes.
     - cron: "*/15 * * * *"
-    # One full pass a day so star counts, descriptions and icons stay current
-    # even during a stretch where the list itself never changes. Delete this
-    # line if you would rather the site only ever move when the list moves.
-    - cron: "30 23 * * *"
+    # Full refresh every three hours, on the clock from 13:00 Asia/Tehran:
+    # 13:00, 16:00, 19:00, 22:00, 01:00, 04:00, 07:00, 10:00 local. Tehran is
+    # UTC+3:30 with no DST, so that is 09:30, 12:30, 15:30, 18:30, 21:30,
+    # 00:30, 03:30 and 06:30 UTC — hence the :30. This one runs whether or
+    # not the list changed, so star counts, descriptions and icons stay
+    # current. GitHub's scheduler can lag a few minutes under load.
+    - cron: "30 0,3,6,9,12,15,18,21 * * *"
   push:
     paths-ignore:
       - "README.md"
@@ -57,8 +60,11 @@ jobs:
           GITHUB_USER: KiarashS
           LIST_SLUG: app
         run: |
-          # Everything except the 15-minute poll rebuilds unconditionally.
-          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" = "30 23 * * *" ]; then
+          # The 15-minute poll is the only trigger that has to earn a
+          # rebuild. Every other one — the three-hourly refresh, a push, a
+          # manual run, a dispatch — rebuilds unconditionally. Written as
+          # "not the poll" so changing the refresh cron cannot desync it.
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" != "*/15 * * * *" ]; then
             echo "Triggered by ${{ github.event_name }} — running a full rebuild."
             echo "rebuild=true" >> "$GITHUB_OUTPUT"
             exit 0

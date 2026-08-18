@@ -512,9 +512,10 @@
         <p>Click a tag anywhere — on a card, in the sidebar, in an app's info panel — to filter by it.
            Tags stack, so picking two shows only the apps carrying both. The sidebar picks the category,
            the search field narrows by name, description, language or topic.</p>
-        <p>Nothing here is written by hand. A GitHub Action re-reads the star list every night at
-           03:00 Asia/Tehran, pulls fresh metadata for each repository from the GitHub API, and
-           republishes this page. Last run: <strong>${new Date(DATA.generated_at).toLocaleString()}</strong>.</p>
+        <p>Nothing here is written by hand. A GitHub Action watches the star list and rebuilds
+           within about fifteen minutes of a repository joining or leaving it, plus a full refresh
+           every three hours from 13:00 Asia/Tehran that pulls current metadata and icons for every
+           repository. Last run: <strong>${new Date(DATA.generated_at).toLocaleString()}</strong>.</p>
         <p><a href="https://github.com/KiarashS/awesome-macOS-applications" target="_blank" rel="noopener">Source repository →</a></p>` }));
     }
     $("#window").classList.add("is-inactive");
@@ -823,7 +824,7 @@
     } catch (err) {
       $("#loading").replaceChildren(el("div", { html:
         `<p class="empty-title">Could not load the app list</p>
-         <p class="empty-sub">${String(err.message || err)} — the nightly build may not have run yet.</p>` }));
+         <p class="empty-sub">${String(err.message || err)} — the build may not have run yet.</p>` }));
       return;
     }
 
