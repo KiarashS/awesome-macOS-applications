@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Applications — awesome macOS applications</title>
-<meta name="description" content="A tagged, categorised browser for the macOS apps in KiarashS's GitHub star list, laid out like a macOS Big Sur desktop.">
+<meta name="description" content="A tagged, categorised browser for the macOS apps in KiarashS's GitHub star list, laid out like a macOS Golden Gate desktop.">
 <meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#1f4f7d" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#070f1e" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#2a5f8f" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#060c18" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="assets/icon.svg">
 <link rel="preload" href="data/apps.json" as="fetch" crossorigin="anonymous">
@@ -18,7 +18,7 @@
 <!-- ── icon sprite ─────────────────────────────────────────────────────── -->
 <svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Big Sur app icons are superellipses, not rounded rectangles. -->
+    <!-- macOS app icons are superellipses, not rounded rectangles. -->
     <clipPath id="squircle" clipPathUnits="objectBoundingBox">
       <path d="M0.5,0 C0.115,0 0,0.115 0,0.5 C0,0.885 0.115,1 0.5,1 C0.885,1 1,0.885 1,0.5 C1,0.115 0.885,0 0.5,0 Z"/>
     </clipPath>
@@ -82,7 +82,8 @@
     </div>
     <div class="menubar-right">
       <span class="menubar-stat" id="menubar-count" title="Applications in the list"></span>
-      <button class="menubar-btn" id="appearance-btn" title="Appearance" aria-label="Change appearance">
+      <button class="menubar-btn" id="cc-btn" title="Control Centre"
+              aria-haspopup="true" aria-expanded="false" aria-label="Appearance and Liquid Glass">
         <svg class="icon appearance-icon" width="15" height="15"><use href="#i-auto"/></svg>
       </button>
       <button class="menubar-btn" id="menubar-search" title="Search" aria-label="Search applications">
@@ -97,9 +98,7 @@
     <div class="menu-panel" data-panel="apple" role="menu">
       <button role="menuitem" data-act="about">About This List</button>
       <hr>
-      <button role="menuitem" data-act="appearance-light">Appearance: Light</button>
-      <button role="menuitem" data-act="appearance-dark">Appearance: Dark</button>
-      <button role="menuitem" data-act="appearance-auto">Appearance: Automatic</button>
+      <button role="menuitem" data-act="control-centre">Appearance &amp; Liquid Glass…</button>
       <hr>
       <a role="menuitem" href="https://github.com/KiarashS" target="_blank" rel="noopener">Visit KiarashS on GitHub<svg class="icon menu-trail" width="12" height="12"><use href="#i-external"/></svg></a>
     </div>
@@ -122,6 +121,28 @@
       <button role="menuitem" data-act="toggle-sidebar">Hide/Show Sidebar<span class="menu-key">⌘⌥S</span></button>
     </div>
     <div class="menu-panel" data-panel="go" role="menu" id="menu-go"></div>
+    <div class="control-centre" id="control-centre" role="dialog" aria-label="Appearance and Liquid Glass">
+      <div class="cc-group">
+        <p class="cc-label" id="cc-appearance-label">Appearance</p>
+        <div class="cc-seg" role="radiogroup" aria-labelledby="cc-appearance-label">
+          <button role="radio" aria-checked="false" data-act="appearance-light">Light</button>
+          <button role="radio" aria-checked="false" data-act="appearance-dark">Dark</button>
+          <button role="radio" aria-checked="true"  data-act="appearance-auto">Auto</button>
+        </div>
+      </div>
+      <div class="cc-group">
+        <p class="cc-label"><label for="glass-slider">Liquid Glass</label></p>
+        <div class="cc-slider">
+          <span class="cc-ends">Ultraclear</span>
+          <input id="glass-slider" type="range" min="0" max="100" step="1" value="55"
+                 aria-describedby="glass-note">
+          <span class="cc-ends">Tinted</span>
+        </div>
+        <p class="cc-note" id="glass-note">Clear lets the desktop through; tinted trades that
+          for legibility over busy content.</p>
+      </div>
+    </div>
+
     <div class="menu-panel" data-panel="help" role="menu">
       <button role="menuitem" data-act="about">What is this?</button>
       <button role="menuitem" data-act="shortcuts">Keyboard Shortcuts</button>
@@ -130,51 +151,30 @@
     </div>
   </div>
 
-  <!-- the Finder-ish window -->
-  <main class="window" role="main">
-    <div class="titlebar">
-      <div class="lights" aria-hidden="true">
-        <span class="light close"></span><span class="light min"></span><span class="light zoom"></span>
-      </div>
+  <!-- the window: an edge-to-edge sidebar beside the content pane -->
+  <main class="window" id="window" role="main">
 
-      <button class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false"
-              aria-controls="sidebar" aria-label="Show categories and tags" title="Categories and tags">
-        <svg class="icon" width="15" height="15"><use href="#i-sidebar"/></svg>
-      </button>
-
-      <div class="titlebar-title">
-        <span class="title-main" id="window-title">All Applications</span>
-        <span class="title-sub" id="window-sub"></span>
-      </div>
-
-      <div class="titlebar-tools">
-        <div class="segmented" role="group" aria-label="View as">
-          <button class="seg is-on" data-view="grid" aria-label="Icon view" title="Icon view"><svg class="icon" width="14" height="14"><use href="#i-grid"/></svg></button>
-          <button class="seg" data-view="list" aria-label="List view" title="List view"><svg class="icon" width="14" height="14"><use href="#i-list"/></svg></button>
+    <aside class="sidebar" id="sidebar" aria-label="Categories and tags">
+      <div class="sidebar-top">
+        <div class="lights" aria-hidden="true">
+          <span class="light close"></span><span class="light min"></span><span class="light zoom"></span>
         </div>
-
-        <label class="searchfield">
-          <svg class="icon" width="13" height="13" aria-hidden="true"><use href="#i-magnifier"/></svg>
-          <input id="search" type="search" placeholder="Search" autocomplete="off" spellcheck="false" aria-label="Search applications">
-        </label>
       </div>
-    </div>
 
-    <div class="window-body">
-      <aside class="sidebar" id="sidebar" aria-label="Categories and tags">
+      <div class="side-scroll">
         <nav class="side-group">
           <p class="side-head">Library</p>
-          <button class="side-row is-on" data-scope="all">
+          <button class="side-row is-on" data-scope="all" style="--row-color:#0a84ff">
             <svg class="icon side-glyph" width="15" height="15"><use href="#i-all"/></svg>
             <span class="side-label">All Applications</span>
             <span class="side-count" id="count-all"></span>
           </button>
-          <button class="side-row" data-scope="top">
+          <button class="side-row" data-scope="top" style="--row-color:#ffd60a">
             <svg class="icon side-glyph" width="15" height="15"><use href="#i-star"/></svg>
             <span class="side-label">Most Starred</span>
             <span class="side-count">25</span>
           </button>
-          <button class="side-row" data-scope="fresh">
+          <button class="side-row" data-scope="fresh" style="--row-color:#30d158">
             <svg class="icon side-glyph" width="15" height="15"><use href="#i-clock"/></svg>
             <span class="side-label">Recently Updated</span>
             <span class="side-count">25</span>
@@ -193,11 +193,38 @@
           </p>
           <div class="tagcloud" id="side-tags"></div>
         </nav>
+      </div>
 
-        <div class="side-foot">
-          <span id="generated-at"></span>
+      <div class="side-foot"><span id="generated-at"></span></div>
+    </aside>
+
+    <div class="pane">
+      <div class="toolbar">
+        <div class="lights" aria-hidden="true">
+          <span class="light close"></span><span class="light min"></span><span class="light zoom"></span>
         </div>
-      </aside>
+        <button class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false"
+                aria-controls="sidebar" aria-label="Show categories and tags" title="Categories and tags">
+          <svg class="icon" width="15" height="15"><use href="#i-sidebar"/></svg>
+        </button>
+
+        <div class="toolbar-title">
+          <span class="title-main" id="window-title">All Applications</span>
+          <span class="title-sub" id="window-sub"></span>
+        </div>
+
+        <div class="toolbar-tools">
+          <div class="segmented" role="group" aria-label="View as">
+            <button class="seg is-on" data-view="grid" aria-label="Icon view" title="Icon view"><svg class="icon" width="14" height="14"><use href="#i-grid"/></svg></button>
+            <button class="seg" data-view="list" aria-label="List view" title="List view"><svg class="icon" width="14" height="14"><use href="#i-list"/></svg></button>
+          </div>
+
+          <label class="searchfield">
+            <svg class="icon" width="13" height="13" aria-hidden="true"><use href="#i-magnifier"/></svg>
+            <input id="search" type="search" placeholder="Search" autocomplete="off" spellcheck="false" aria-label="Search applications">
+          </label>
+        </div>
+      </div>
 
       <section class="content" id="content">
         <div class="filterbar" id="filterbar" hidden>
@@ -220,12 +247,12 @@
           <p>Loading applications…</p>
         </div>
       </section>
-    </div>
 
-    <footer class="statusbar">
-      <span id="status-left"></span>
-      <span id="status-right"></span>
-    </footer>
+      <footer class="statusbar">
+        <span id="status-left"></span>
+        <span id="status-right"></span>
+      </footer>
+    </div>
   </main>
 
   <!-- dock -->

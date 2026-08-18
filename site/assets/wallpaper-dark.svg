@@ -1,65 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Stylised coastal ridges under a night sky">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract Golden Gate bridge towers rising through night fog">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#050b1c"/>
-      <stop offset="28%"  stop-color="#0a1832"/>
-      <stop offset="54%"  stop-color="#12294c"/>
-      <stop offset="76%"  stop-color="#1d3c66"/>
-      <stop offset="90%"  stop-color="#2c4f7a"/>
-      <stop offset="100%" stop-color="#40608c"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0.15" y2="1">
+      <stop offset="0%"   stop-color="#04070f"/>
+      <stop offset="24%"  stop-color="#0a1424"/>
+      <stop offset="48%"  stop-color="#122340"/>
+      <stop offset="70%"  stop-color="#1e3557"/>
+      <stop offset="86%"  stop-color="#33456a"/>
+      <stop offset="100%" stop-color="#4a4f6b"/>
     </linearGradient>
-    <radialGradient id="moon" cx="0.74" cy="0.2" r="0.34">
-      <stop offset="0%"   stop-color="#dce9ff" stop-opacity="0.55"/>
-      <stop offset="30%"  stop-color="#9fbde8" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#6f92c8" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0.24" cy="0.8" r="0.5">
+      <stop offset="0%"   stop-color="#ffb066" stop-opacity="0.30"/>
+      <stop offset="45%"  stop-color="#c97a4a" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#8a5a3c" stop-opacity="0"/>
     </radialGradient>
 
-    <linearGradient id="r1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#33507c"/><stop offset="100%" stop-color="#3d5c8c"/>
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#a8422a"/>
+      <stop offset="55%"  stop-color="#7d2c1c"/>
+      <stop offset="100%" stop-color="#4d1a11"/>
     </linearGradient>
-    <linearGradient id="r2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#27406a"/><stop offset="100%" stop-color="#2f4c78"/>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#7a4030" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#4a2419" stop-opacity="0.34"/>
     </linearGradient>
-    <linearGradient id="r3" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1c3153"/><stop offset="100%" stop-color="#233b62"/>
+
+    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1b2740" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#1b2740" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#222f49" stop-opacity="0.95"/>
     </linearGradient>
-    <linearGradient id="r4" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#132340"/><stop offset="100%" stop-color="#182c4c"/>
-    </linearGradient>
-    <linearGradient id="r5" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0c182e"/><stop offset="100%" stop-color="#101f3a"/>
-    </linearGradient>
-    <linearGradient id="r6" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#060d1c"/><stop offset="100%" stop-color="#091326"/>
+    <linearGradient id="fogtop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#16223a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#16223a" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <rect width="1600" height="1000" fill="url(#sky)"/>
 
   <g fill="#ffffff">
-    <circle cx="180"  cy="120" r="1.6" opacity=".85"/>
-    <circle cx="340"  cy="66"  r="1.1" opacity=".55"/>
-    <circle cx="470"  cy="210" r="1.4" opacity=".65"/>
-    <circle cx="620"  cy="98"  r="1"   opacity=".45"/>
-    <circle cx="760"  cy="176" r="1.7" opacity=".8"/>
-    <circle cx="905"  cy="60"  r="1.2" opacity=".5"/>
-    <circle cx="1040" cy="150" r="1.5" opacity=".7"/>
-    <circle cx="1210" cy="88"  r="1.1" opacity=".5"/>
-    <circle cx="1355" cy="196" r="1.6" opacity=".75"/>
-    <circle cx="1500" cy="112" r="1.2" opacity=".55"/>
-    <circle cx="90"   cy="290" r="1.3" opacity=".5"/>
-    <circle cx="1120" cy="300" r="1"   opacity=".4"/>
-    <circle cx="700"  cy="330" r="1.2" opacity=".45"/>
+    <circle cx="210"  cy="96"  r="1.5" opacity=".8"/>
+    <circle cx="392"  cy="52"  r="1"   opacity=".5"/>
+    <circle cx="548"  cy="164" r="1.3" opacity=".6"/>
+    <circle cx="726"  cy="80"  r="1"   opacity=".42"/>
+    <circle cx="880"  cy="140" r="1.6" opacity=".72"/>
+    <circle cx="1046" cy="46"  r="1.1" opacity=".48"/>
+    <circle cx="1214" cy="122" r="1.4" opacity=".64"/>
+    <circle cx="1388" cy="70"  r="1"   opacity=".45"/>
+    <circle cx="1522" cy="178" r="1.5" opacity=".68"/>
+    <circle cx="120"  cy="238" r="1.2" opacity=".44"/>
+    <circle cx="960"  cy="256" r="1"   opacity=".38"/>
   </g>
 
-  <rect width="1600" height="1000" fill="url(#moon)"/>
-  <circle cx="1184" cy="200" r="26" fill="#e8eefc" opacity=".92"/>
-  <circle cx="1174" cy="192" r="26" fill="#0a1832" opacity=".55"/>
+  <rect width="1600" height="1000" fill="url(#glow)"/>
 
-  <path fill="url(#r1)" d="M0 690 C 150 640, 250 700, 380 668 C 520 634, 610 566, 742 604 C 880 644, 960 700, 1090 672 C 1230 642, 1330 592, 1450 620 C 1520 636, 1560 662, 1600 656 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r2)" d="M0 742 C 120 718, 232 754, 356 726 C 498 694, 566 628, 700 662 C 848 700, 918 758, 1052 732 C 1190 705, 1288 654, 1420 686 C 1502 706, 1554 728, 1600 720 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r3)" d="M0 800 C 140 786, 226 812, 338 792 C 470 768, 548 704, 678 736 C 818 770, 884 826, 1016 804 C 1156 780, 1246 726, 1382 756 C 1478 777, 1544 796, 1600 790 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r4)" d="M0 858 C 118 848, 214 870, 322 852 C 452 830, 528 776, 656 806 C 796 838, 852 886, 984 868 C 1122 849, 1210 800, 1346 828 C 1452 850, 1540 862, 1600 856 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r5)" d="M0 912 C 130 906, 208 924, 314 910 C 442 892, 512 848, 638 874 C 774 902, 826 940, 956 926 C 1094 911, 1180 870, 1316 894 C 1430 914, 1538 922, 1600 918 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r6)" d="M0 962 C 140 958, 206 972, 310 962 C 438 950, 500 918, 624 938 C 756 959, 804 986, 932 976 C 1070 965, 1156 932, 1292 950 C 1416 966, 1540 972, 1600 970 L1600 1000 L0 1000 Z"/>
+  <g fill="url(#far)">
+    <rect x="1178" y="336" width="26" height="520"/>
+    <rect x="1266" y="336" width="26" height="520"/>
+    <rect x="1170" y="410" width="130" height="17" rx="3"/>
+    <rect x="1170" y="556" width="130" height="17" rx="3"/>
+    <rect x="1174" y="336" width="122" height="14" rx="4"/>
+  </g>
+  <path d="M1191 350 C 1320 470, 1470 560, 1600 596" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M1279 350 C 1150 476, 980 566, 840 604" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+  <g fill="url(#near)">
+    <rect x="470" y="150" width="42" height="740"/>
+    <rect x="612" y="150" width="42" height="740"/>
+    <rect x="458" y="252" width="208" height="27" rx="4"/>
+    <rect x="458" y="474" width="208" height="27" rx="4"/>
+    <rect x="458" y="696" width="208" height="27" rx="4"/>
+    <rect x="462" y="150" width="200" height="22" rx="6"/>
+    <rect x="452" y="140" width="220" height="12" rx="6" opacity="0.85"/>
+  </g>
+
+  <!-- Aircraft warning lights on the towers -->
+  <circle cx="491" cy="146" r="4" fill="#ff5b4a" opacity="0.95"/>
+  <circle cx="633" cy="146" r="4" fill="#ff5b4a" opacity="0.95"/>
+
+  <path d="M491 168 C 300 300, 120 420, 0 468" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <path d="M633 168 C 830 306, 1030 432, 1190 486" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
+
+  <g stroke="#7d2c1c" stroke-width="4" opacity="0.55" stroke-linecap="round">
+    <path d="M180 424 V806"/><path d="M262 388 V806"/><path d="M344 348 V806"/><path d="M420 300 V806"/>
+    <path d="M700 232 V806"/><path d="M782 276 V806"/><path d="M864 320 V806"/><path d="M946 362 V806"/>
+    <path d="M1028 402 V806"/><path d="M1110 442 V806"/>
+  </g>
+
+  <rect x="0" y="800" width="1600" height="16" fill="url(#near)"/>
+  <rect x="0" y="816" width="1600" height="9" fill="#2f0f0a" opacity="0.8"/>
+  <!-- Deck lamps -->
+  <g fill="#ffd9a0" opacity="0.85">
+    <circle cx="120" cy="796" r="2.6"/><circle cx="300" cy="796" r="2.6"/><circle cx="480" cy="796" r="2.6"/>
+    <circle cx="660" cy="796" r="2.6"/><circle cx="840" cy="796" r="2.6"/><circle cx="1020" cy="796" r="2.6"/>
+    <circle cx="1200" cy="796" r="2.6"/><circle cx="1380" cy="796" r="2.6"/>
+  </g>
+
+  <rect x="0" y="300" width="1600" height="220" fill="url(#fogtop)"/>
+  <rect x="0" y="520" width="1600" height="480" fill="url(#fog)"/>
+  <path d="M0 742 C 240 700, 430 762, 660 736 C 900 708, 1090 764, 1320 738 C 1450 724, 1530 736, 1600 730 L1600 1000 L0 1000 Z" fill="#1d2a44" opacity="0.9"/>
+  <path d="M0 856 C 260 828, 470 878, 720 856 C 960 834, 1150 880, 1390 860 C 1490 852, 1550 860, 1600 856 L1600 1000 L0 1000 Z" fill="#141d31" opacity="0.95"/>
 </svg>

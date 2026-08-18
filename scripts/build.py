@@ -27,14 +27,20 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from appicons import IconStore  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 SCRIPTS = ROOT / "scripts"
-SITE_DATA = ROOT / "site" / "data" / "apps.json"
+SITE = ROOT / "site"
+SITE_DATA = SITE / "data" / "apps.json"
 LIST_CACHE = ROOT / "data" / "list-cache.json"
+ICON_CACHE = ROOT / "data" / "icon-cache.json"
 README = ROOT / "README.md"
 
 GITHUB_USER = os.environ.get("GITHUB_USER", "KiarashS")
@@ -237,9 +243,20 @@ def fetch_repo(full_name: str) -> dict | None:
         "forks": raw.get("forks_count", 0),
         "license": license_info.get("spdx_id") if license_info.get("spdx_id") not in (None, "NOASSERTION") else "",
         "archived": bool(raw.get("archived")),
+        "default_branch": raw.get("default_branch") or "main",
         "pushed_at": raw.get("pushed_at") or "",
         "created_at": raw.get("created_at") or "",
     }
+
+
+def fetch_tree(full_name: str, ref: str):
+    """Recursive git tree for a ref: (entries, was_truncated)."""
+    data = api_json(f"/repos/{full_name}/git/trees/{urllib.parse.quote(ref)}?recursive=1")
+    return data.get("tree") or [], bool(data.get("truncated"))
+
+
+def fetch_bytes(url: str) -> bytes:
+    return http_get(url, accept="*/*")
 
 
 # --------------------------------------------------------------------------
@@ -352,6 +369,7 @@ def build_payload(apps: list[dict]) -> dict:
             "id": rule["id"],
             "label": rule["label"],
             "icon": rule["icon"],
+            "color": rule.get("color", "#0a84ff"),
             "blurb": rule["blurb"],
             "count": sum(1 for a in apps if a["category"] == rule["id"]),
         }
@@ -463,22 +481,68 @@ def write_readme(payload: dict, site_url: str) -> None:
     README.write_text("\n".join(lines))
 
 
+def check_only() -> int:
+    """Cheap membership poll: has the star list gained or lost repositories?
+
+    Prints 'changed' or 'unchanged' on stdout for a workflow to branch on.
+    A scrape that fails prints 'unchanged' on purpose — a network blip should
+    not kick off a rebuild, and the daily full run will catch up regardless.
+    """
+    cached = load_cache()
+    try:
+        found = scrape_list()
+    except Exception as exc:
+        print(f"star list unreadable ({exc}); reporting unchanged", file=sys.stderr)
+        print("unchanged")
+        return 0
+
+    if not found:
+        print("star list parsed to zero repos; reporting unchanged", file=sys.stderr)
+        print("unchanged")
+        return 0
+
+    added = [n for n in found if n not in set(cached)]
+    removed = [n for n in cached if n not in set(found)]
+
+    if cached and len(found) < len(cached) * MIN_KEEP_RATIO:
+        print(f"only found {len(found)} of {len(cached)} cached repos; treating as a "
+              "parse failure and reporting unchanged", file=sys.stderr)
+        print("unchanged")
+        return 0
+
+    for name in added:
+        print(f"  + {name}", file=sys.stderr)
+    for name in removed:
+        print(f"  - {name}", file=sys.stderr)
+
+    print("changed" if (added or removed) else "unchanged")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--offline", action="store_true", help="use data/list-cache.json instead of scraping")
+    parser.add_argument("--skip-icons", action="store_true", help="leave site/icons alone")
+    parser.add_argument("--check-only", action="store_true",
+                        help="print 'changed' or 'unchanged' and exit, without rebuilding")
     parser.add_argument("--site-url", default=os.environ.get("SITE_URL", f"https://{GITHUB_USER.lower()}.github.io/awesome-macOS-applications/"))
     args = parser.parse_args()
+
+    if args.check_only:
+        return check_only()
 
     names = resolve_repo_names(args.offline)
     print(f"resolving metadata for {len(names)} repositories", file=sys.stderr)
 
     apps: list[dict] = []
     kept_names: list[str] = []
+    branches: list[str] = []
     for index, full_name in enumerate(names, 1):
         repo = fetch_repo(full_name)
         if repo is None:
             continue
         kept_names.append(repo["full_name"])
+        branches.append(repo["default_branch"])
         haystack = build_haystack(repo)
         category = categorise(repo, haystack)
         app = {
@@ -486,6 +550,7 @@ def main() -> int:
             "name": repo["name"],
             "owner": repo["owner"],
             "avatar": repo["avatar"],
+            "icon": "",
             "url": repo["url"],
             "homepage": repo["homepage"],
             "description": describe(repo),
@@ -506,7 +571,22 @@ def main() -> int:
     if not apps:
         sys.exit("no repositories resolved; refusing to overwrite existing data")
 
+    branch_of = dict(zip([a["full_name"] for a in apps], branches))
     apps.sort(key=lambda a: (-a["stars"], a["name"].lower()))
+
+    if not args.skip_icons:
+        print("resolving application icons", file=sys.stderr)
+        icons = IconStore(SITE, ICON_CACHE, fetch_tree, fetch_bytes,
+                          log=lambda m: print(m, file=sys.stderr))
+        for app in apps:
+            app["icon"] = icons.resolve(app["full_name"], branch_of[app["full_name"]]) or ""
+        pruned = icons.prune({a["full_name"] for a in apps})
+        icons.save()
+        stats = icons.stats
+        print(f"  icons: {stats['downloaded']} downloaded, {stats['cached']} unchanged, "
+              f"{stats['none']} none found, {stats['failed']} failed, {pruned} pruned",
+              file=sys.stderr)
+
     payload = build_payload(apps)
 
     SITE_DATA.parent.mkdir(parents=True, exist_ok=True)

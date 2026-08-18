@@ -17,161 +17,184 @@
       "label": "Notch & Island",
       "icon": "notch",
       "blurb": "Apps that turn the MacBook notch into something useful.",
-      "count": 8
+      "count": 8,
+      "color": "#5e5ce6"
     },
     {
       "id": "clipboard",
       "label": "Clipboard",
       "icon": "clipboard",
       "blurb": "Clipboard managers and paste history.",
-      "count": 2
+      "count": 2,
+      "color": "#ff9f0a"
     },
     {
       "id": "packages",
       "label": "Package Managers",
       "icon": "shippingbox",
       "blurb": "Homebrew front-ends, App Store tooling and update checkers.",
-      "count": 7
+      "count": 7,
+      "color": "#a2845e"
     },
     {
       "id": "virtualization",
       "label": "Virtualization",
       "icon": "cube",
       "blurb": "Virtual machines, emulators and containers.",
-      "count": 2
+      "count": 2,
+      "color": "#64d2ff"
     },
     {
       "id": "capture",
       "label": "Screenshots & Recording",
       "icon": "camera",
       "blurb": "Screenshots, screen recording and screen sharing.",
-      "count": 2
+      "count": 2,
+      "color": "#ff375f"
     },
     {
       "id": "downloads",
       "label": "Downloads",
       "icon": "arrowdown",
       "blurb": "Download managers and accelerators.",
-      "count": 3
+      "count": 3,
+      "color": "#30d158"
     },
     {
       "id": "reading",
       "label": "Reading & RSS",
       "icon": "book",
       "blurb": "Feed readers, ebook readers and read-it-later apps.",
-      "count": 2
+      "count": 2,
+      "color": "#ff9500"
     },
     {
       "id": "ai",
       "label": "AI & LLM",
       "icon": "sparkles",
       "blurb": "Local and hosted models, assistants and speech tooling.",
-      "count": 5
+      "count": 5,
+      "color": "#bf5af2"
     },
     {
       "id": "launchers",
       "label": "Launchers & Search",
       "icon": "magnifier",
       "blurb": "App launchers, command palettes and Launchpad replacements.",
-      "count": 7
+      "count": 7,
+      "color": "#0a84ff"
     },
     {
       "id": "focus",
       "label": "Productivity & Focus",
       "icon": "timer",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 5
+      "count": 5,
+      "color": "#ff453a"
     },
     {
       "id": "windows",
       "label": "Window Management",
       "icon": "rectangles",
       "blurb": "Tiling, window switching, the Dock and Mission Control.",
-      "count": 6
+      "count": 6,
+      "color": "#5ac8fa"
     },
     {
       "id": "menubar",
       "label": "Menu Bar",
       "icon": "menubar",
       "blurb": "Menu bar utilities and status item managers.",
-      "count": 3
+      "count": 3,
+      "color": "#8e8e93"
     },
     {
       "id": "terminal",
       "label": "Terminal & Shell",
       "icon": "terminal",
       "blurb": "Shells, prompts, terminal emulators and CLI toys.",
-      "count": 2
+      "count": 2,
+      "color": "#32d74b"
     },
     {
       "id": "security",
       "label": "Security & Privacy",
       "icon": "lock",
       "blurb": "Firewalls, Gatekeeper tooling, encryption and password managers.",
-      "count": 2
+      "count": 2,
+      "color": "#ffd60a"
     },
     {
       "id": "network",
       "label": "Networking & Proxy",
       "icon": "globe",
       "blurb": "Proxies, VPNs, DNS switchers and network tooling.",
-      "count": 4
+      "count": 4,
+      "color": "#00c7be"
     },
     {
       "id": "input",
       "label": "Keyboard & Input",
       "icon": "keyboard",
       "blurb": "Keyboards, mice, trackpads, cursors and typing feedback.",
-      "count": 8
+      "count": 8,
+      "color": "#ff6482"
     },
     {
       "id": "media",
       "label": "Media & Music",
       "icon": "play",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 4
+      "count": 4,
+      "color": "#ff2d55"
     },
     {
       "id": "notes",
       "label": "Notes & Writing",
       "icon": "note",
       "blurb": "Note taking, Markdown editors and knowledge bases.",
-      "count": 7
+      "count": 7,
+      "color": "#ffd426"
     },
     {
       "id": "files",
       "label": "Files & Sync",
       "icon": "folder",
       "blurb": "File managers, drag-and-drop shelves, backup and archiving.",
-      "count": 3
+      "count": 3,
+      "color": "#409cff"
     },
     {
       "id": "system",
       "label": "System & Maintenance",
       "icon": "gear",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 4
+      "count": 4,
+      "color": "#98989d"
     },
     {
       "id": "web",
       "label": "Web & Templates",
       "icon": "browser",
       "blurb": "Portfolio sites, resumes, dashboards and web templates.",
-      "count": 3
+      "count": 3,
+      "color": "#66d4cf"
     },
     {
       "id": "devtools",
       "label": "Developer Tools",
       "icon": "hammer",
       "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
-      "count": 1
+      "count": 1,
+      "color": "#ac8e68"
     },
     {
       "id": "fun",
       "label": "Fun & Desktop Toys",
       "icon": "sparkle",
       "blurb": "Purely delightful, mostly useless, entirely worth installing.",
-      "count": 1
+      "count": 1,
+      "color": "#ff8cc8"
     }
   ],
   "tags": [
@@ -426,7 +449,8 @@
       "forks": 2440,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T09:23:06Z"
+      "pushed_at": "2026-08-15T09:23:06Z",
+      "icon": ""
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -456,7 +480,8 @@
       "forks": 4808,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T09:25:13Z"
+      "pushed_at": "2026-08-18T09:25:13Z",
+      "icon": ""
     },
     {
       "full_name": "diegosouzapw/OmniRoute",
@@ -489,7 +514,8 @@
       "forks": 6815,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-18T09:16:31Z"
+      "pushed_at": "2026-08-18T09:16:31Z",
+      "icon": ""
     },
     {
       "full_name": "iina/iina",
@@ -517,7 +543,8 @@
       "forks": 2895,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T02:17:06Z"
+      "pushed_at": "2026-08-18T02:17:06Z",
+      "icon": ""
     },
     {
       "full_name": "RSSNext/Folo",
@@ -546,7 +573,8 @@
       "forks": 2110,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T23:35:22Z"
+      "pushed_at": "2026-08-17T23:35:22Z",
+      "icon": ""
     },
     {
       "full_name": "utmapp/UTM",
@@ -577,7 +605,8 @@
       "forks": 1784,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-05T07:54:18Z"
+      "pushed_at": "2026-08-05T07:54:18Z",
+      "icon": ""
     },
     {
       "full_name": "qier222/YesPlayMusic",
@@ -611,7 +640,8 @@
       "forks": 4677,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-14T12:57:40Z"
+      "pushed_at": "2026-06-14T12:57:40Z",
+      "icon": ""
     },
     {
       "full_name": "cjpais/Handy",
@@ -639,7 +669,8 @@
       "forks": 2646,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-18T00:45:57Z"
+      "pushed_at": "2026-08-18T00:45:57Z",
+      "icon": ""
     },
     {
       "full_name": "jordanbaird/Ice",
@@ -670,7 +701,8 @@
       "forks": 843,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2025-09-20T20:28:17Z"
+      "pushed_at": "2025-09-20T20:28:17Z",
+      "icon": ""
     },
     {
       "full_name": "mattermost-community/focalboard",
@@ -702,7 +734,8 @@
       "forks": 2576,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-18T16:05:00Z"
+      "pushed_at": "2026-05-18T16:05:00Z",
+      "icon": ""
     },
     {
       "full_name": "readest/readest",
@@ -735,7 +768,8 @@
       "forks": 1481,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:42:30Z"
+      "pushed_at": "2026-08-17T16:42:30Z",
+      "icon": ""
     },
     {
       "full_name": "ayangweb/BongoCat",
@@ -767,7 +801,8 @@
       "forks": 1094,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-04-28T07:33:13Z"
+      "pushed_at": "2026-04-28T07:33:13Z",
+      "icon": ""
     },
     {
       "full_name": "p0deje/Maccy",
@@ -792,7 +827,8 @@
       "forks": 1111,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-13T00:05:03Z"
+      "pushed_at": "2026-08-13T00:05:03Z",
+      "icon": ""
     },
     {
       "full_name": "CapSoftware/Cap",
@@ -823,7 +859,8 @@
       "forks": 1785,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-16T18:30:27Z"
+      "pushed_at": "2026-08-16T18:30:27Z",
+      "icon": ""
     },
     {
       "full_name": "obsidianmd/obsidian-releases",
@@ -851,7 +888,8 @@
       "forks": 7613,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T08:28:36Z"
+      "pushed_at": "2026-08-18T08:28:36Z",
+      "icon": ""
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -872,7 +910,8 @@
       "forks": 1358,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:26:43Z"
+      "pushed_at": "2026-08-17T16:26:43Z",
+      "icon": ""
     },
     {
       "full_name": "amir1376/ab-download-manager",
@@ -903,7 +942,8 @@
       "forks": 891,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-14T05:45:37Z"
+      "pushed_at": "2026-08-14T05:45:37Z",
+      "icon": ""
     },
     {
       "full_name": "ianyh/Amethyst",
@@ -929,7 +969,8 @@
       "forks": 528,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T00:32:39Z"
+      "pushed_at": "2026-08-11T00:32:39Z",
+      "icon": ""
     },
     {
       "full_name": "lwouis/alt-tab-macos",
@@ -960,7 +1001,8 @@
       "forks": 834,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-06T08:40:13Z"
+      "pushed_at": "2026-08-06T08:40:13Z",
+      "icon": ""
     },
     {
       "full_name": "keycastr/keycastr",
@@ -981,7 +1023,8 @@
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
-      "pushed_at": "2026-05-11T00:50:56Z"
+      "pushed_at": "2026-05-11T00:50:56Z",
+      "icon": ""
     },
     {
       "full_name": "alienator88/Pearcleaner",
@@ -1002,7 +1045,8 @@
       "forks": 365,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-06-22T18:49:18Z"
+      "pushed_at": "2026-06-22T18:49:18Z",
+      "icon": ""
     },
     {
       "full_name": "objective-see/LuLu",
@@ -1023,7 +1067,8 @@
       "forks": 594,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T16:19:32Z"
+      "pushed_at": "2026-08-05T16:19:32Z",
+      "icon": ""
     },
     {
       "full_name": "mas-cli/mas",
@@ -1054,7 +1099,8 @@
       "forks": 296,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T12:46:16Z"
+      "pushed_at": "2026-08-17T12:46:16Z",
+      "icon": ""
     },
     {
       "full_name": "mrkai77/Loop",
@@ -1085,7 +1131,8 @@
       "forks": 258,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-09T16:22:23Z"
+      "pushed_at": "2026-08-09T16:22:23Z",
+      "icon": ""
     },
     {
       "full_name": "noah-nuebling/mac-mouse-fix",
@@ -1115,7 +1162,8 @@
       "forks": 391,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T07:48:59Z"
+      "pushed_at": "2026-08-18T07:48:59Z",
+      "icon": ""
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -1136,7 +1184,8 @@
       "forks": 935,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T22:34:45Z"
+      "pushed_at": "2026-08-16T22:34:45Z",
+      "icon": ""
     },
     {
       "full_name": "AnInsomniacy/motrix-next",
@@ -1157,7 +1206,8 @@
       "forks": 299,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-03T11:57:16Z"
+      "pushed_at": "2026-08-03T11:57:16Z",
+      "icon": ""
     },
     {
       "full_name": "tw93/MiaoYan",
@@ -1188,7 +1238,8 @@
       "forks": 501,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T14:48:21Z"
+      "pushed_at": "2026-08-15T14:48:21Z",
+      "icon": ""
     },
     {
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
@@ -1220,7 +1271,8 @@
       "forks": 525,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T08:11:52Z"
+      "pushed_at": "2026-08-18T08:11:52Z",
+      "icon": ""
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -1250,7 +1302,8 @@
       "forks": 528,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T11:32:12Z"
+      "pushed_at": "2026-08-17T11:32:12Z",
+      "icon": ""
     },
     {
       "full_name": "peazip/PeaZip",
@@ -1283,7 +1336,8 @@
       "forks": 398,
       "license": "LGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T13:01:57Z"
+      "pushed_at": "2026-08-16T13:01:57Z",
+      "icon": ""
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -1313,7 +1367,8 @@
       "forks": 572,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T18:05:25Z"
+      "pushed_at": "2026-08-17T18:05:25Z",
+      "icon": ""
     },
     {
       "full_name": "milanvarady/Applite",
@@ -1342,7 +1397,8 @@
       "forks": 176,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-07T12:31:50Z"
+      "pushed_at": "2026-08-07T12:31:50Z",
+      "icon": ""
     },
     {
       "full_name": "hovancik/stretchly",
@@ -1374,7 +1430,8 @@
       "forks": 552,
       "license": "BSD-2-Clause",
       "archived": false,
-      "pushed_at": "2026-08-14T08:51:57Z"
+      "pushed_at": "2026-08-14T08:51:57Z",
+      "icon": ""
     },
     {
       "full_name": "MetaCubeX/ClashX.Meta",
@@ -1394,7 +1451,8 @@
       "forks": 647,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T11:44:01Z"
+      "pushed_at": "2026-08-16T11:44:01Z",
+      "icon": ""
     },
     {
       "full_name": "666OS/ClashMac",
@@ -1423,7 +1481,8 @@
       "forks": 259,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-07-24T14:45:34Z"
+      "pushed_at": "2026-07-24T14:45:34Z",
+      "icon": ""
     },
     {
       "full_name": "ejbills/DockDoor",
@@ -1445,7 +1504,8 @@
       "forks": 210,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-11T00:49:27Z"
+      "pushed_at": "2026-08-11T00:49:27Z",
+      "icon": ""
     },
     {
       "full_name": "jacklandrin/OnlySwitch",
@@ -1479,7 +1539,8 @@
       "forks": 239,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T20:50:04Z"
+      "pushed_at": "2026-08-11T20:50:04Z",
+      "icon": ""
     },
     {
       "full_name": "momenbasel/PureMac",
@@ -1511,7 +1572,8 @@
       "forks": 321,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T22:48:27Z"
+      "pushed_at": "2026-08-17T22:48:27Z",
+      "icon": ""
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -1544,7 +1606,8 @@
       "forks": 248,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-06-28T14:49:45Z"
+      "pushed_at": "2026-06-28T14:49:45Z",
+      "icon": ""
     },
     {
       "full_name": "mangerlahn/Latest",
@@ -1571,7 +1634,8 @@
       "forks": 142,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-07-18T07:25:39Z"
+      "pushed_at": "2026-07-18T07:25:39Z",
+      "icon": ""
     },
     {
       "full_name": "buresdv/Cork",
@@ -1602,7 +1666,8 @@
       "forks": 277,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T20:26:35Z"
+      "pushed_at": "2026-08-17T20:26:35Z",
+      "icon": ""
     },
     {
       "full_name": "briefercloud/briefer",
@@ -1632,7 +1697,8 @@
       "forks": 291,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2025-08-07T13:20:05Z"
+      "pushed_at": "2025-08-07T13:20:05Z",
+      "icon": ""
     },
     {
       "full_name": "ashutosh1919/masterPortfolio",
@@ -1662,7 +1728,8 @@
       "forks": 1714,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-01-20T03:10:09Z"
+      "pushed_at": "2026-01-20T03:10:09Z",
+      "icon": ""
     },
     {
       "full_name": "Ebullioscopic/Atoll",
@@ -1688,7 +1755,8 @@
       "forks": 265,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T00:20:15Z"
+      "pushed_at": "2026-08-13T00:20:15Z",
+      "icon": ""
     },
     {
       "full_name": "f/textream",
@@ -1714,7 +1782,8 @@
       "forks": 252,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-12T22:32:03Z"
+      "pushed_at": "2026-08-12T22:32:03Z",
+      "icon": ""
     },
     {
       "full_name": "ZToolsCenter/ZTools",
@@ -1734,7 +1803,8 @@
       "forks": 324,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-16T02:05:01Z"
+      "pushed_at": "2026-08-16T02:05:01Z",
+      "icon": ""
     },
     {
       "full_name": "ivoronin/TomatoBar",
@@ -1763,7 +1833,8 @@
       "forks": 203,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-29T06:40:50Z"
+      "pushed_at": "2026-05-29T06:40:50Z",
+      "icon": ""
     },
     {
       "full_name": "ospfranco/sol",
@@ -1793,7 +1864,8 @@
       "forks": 176,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-14T12:56:22Z"
+      "pushed_at": "2026-08-14T12:56:22Z",
+      "icon": ""
     },
     {
       "full_name": "RoversX/LaunchNext",
@@ -1814,7 +1886,8 @@
       "forks": 141,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T05:00:23Z"
+      "pushed_at": "2026-08-13T05:00:23Z",
+      "icon": ""
     },
     {
       "full_name": "artginzburg/MiddleClick",
@@ -1839,7 +1912,8 @@
       "forks": 123,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-01T17:16:35Z"
+      "pushed_at": "2026-08-01T17:16:35Z",
+      "icon": ""
     },
     {
       "full_name": "wickenico/WailBrew",
@@ -1869,7 +1943,8 @@
       "forks": 105,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T22:08:30Z"
+      "pushed_at": "2026-08-15T22:08:30Z",
+      "icon": ""
     },
     {
       "full_name": "hainguyents13/mechvibes",
@@ -1897,7 +1972,8 @@
       "forks": 209,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-09T10:58:41Z"
+      "pushed_at": "2026-08-09T10:58:41Z",
+      "icon": ""
     },
     {
       "full_name": "steipete/RepoBar",
@@ -1924,7 +2000,8 @@
       "forks": 129,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-13T10:39:47Z"
+      "pushed_at": "2026-08-13T10:39:47Z",
+      "icon": ""
     },
     {
       "full_name": "Lakr233/NotchDrop",
@@ -1946,7 +2023,8 @@
       "forks": 155,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-18T17:50:03Z"
+      "pushed_at": "2026-05-18T17:50:03Z",
+      "icon": ""
     },
     {
       "full_name": "alienator88/Sentinel",
@@ -1977,7 +2055,8 @@
       "forks": 55,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-11T16:21:53Z"
+      "pushed_at": "2026-05-11T16:21:53Z",
+      "icon": ""
     },
     {
       "full_name": "leaves615/KeyboardHolder",
@@ -1997,7 +2076,8 @@
       "forks": 38,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-08T08:34:52Z"
+      "pushed_at": "2026-08-08T08:34:52Z",
+      "icon": ""
     },
     {
       "full_name": "tom-james-watson/breaktimer-app",
@@ -2018,7 +2098,8 @@
       "forks": 140,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-10T23:26:01Z"
+      "pushed_at": "2026-08-10T23:26:01Z",
+      "icon": ""
     },
     {
       "full_name": "rsyncOSX/RsyncUI",
@@ -2047,7 +2128,8 @@
       "forks": 31,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-14T05:16:51Z"
+      "pushed_at": "2026-08-14T05:16:51Z",
+      "icon": ""
     },
     {
       "full_name": "xjbeta/iina-plus",
@@ -2077,7 +2159,8 @@
       "forks": 74,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T12:45:32Z"
+      "pushed_at": "2026-08-05T12:45:32Z",
+      "icon": ""
     },
     {
       "full_name": "xykong/flux-markdown",
@@ -2098,7 +2181,8 @@
       "forks": 34,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-14T03:27:04Z"
+      "pushed_at": "2026-08-14T03:27:04Z",
+      "icon": ""
     },
     {
       "full_name": "Lakr233/FlowDown",
@@ -2119,7 +2203,8 @@
       "forks": 117,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T16:56:45Z"
+      "pushed_at": "2026-08-16T16:56:45Z",
+      "icon": ""
     },
     {
       "full_name": "lzhgus/Capso",
@@ -2150,7 +2235,8 @@
       "forks": 57,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T23:43:07Z"
+      "pushed_at": "2026-08-17T23:43:07Z",
+      "icon": ""
     },
     {
       "full_name": "josejuanqm/docky",
@@ -2176,7 +2262,8 @@
       "forks": 60,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:06:35Z"
+      "pushed_at": "2026-08-17T16:06:35Z",
+      "icon": ""
     },
     {
       "full_name": "msitarzewski/brew-browser",
@@ -2197,7 +2284,8 @@
       "forks": 28,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-10T20:34:52Z"
+      "pushed_at": "2026-08-10T20:34:52Z",
+      "icon": ""
     },
     {
       "full_name": "kamillobinski/thock",
@@ -2228,7 +2316,8 @@
       "forks": 46,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-05T12:12:22Z"
+      "pushed_at": "2026-06-05T12:12:22Z",
+      "icon": ""
     },
     {
       "full_name": "ggkevinnnn/LaunchNow",
@@ -2249,7 +2338,8 @@
       "forks": 50,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-07-15T11:38:24Z"
+      "pushed_at": "2026-07-15T11:38:24Z",
+      "icon": ""
     },
     {
       "full_name": "rokartur/BetterCmdTab",
@@ -2277,7 +2367,8 @@
       "forks": 30,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T04:16:41Z"
+      "pushed_at": "2026-08-17T04:16:41Z",
+      "icon": ""
     },
     {
       "full_name": "monuk7735/mew-notch",
@@ -2304,7 +2395,8 @@
       "forks": 36,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T11:56:01Z"
+      "pushed_at": "2026-08-16T11:56:01Z",
+      "icon": ""
     },
     {
       "full_name": "crissNb/Dynamic-Island-Sketchybar",
@@ -2331,7 +2423,8 @@
       "forks": 32,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-09-02T08:21:49Z"
+      "pushed_at": "2025-09-02T08:21:49Z",
+      "icon": ""
     },
     {
       "full_name": "jackson-storm/DynamicNotch",
@@ -2361,7 +2454,8 @@
       "forks": 36,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T21:58:44Z"
+      "pushed_at": "2026-08-17T21:58:44Z",
+      "icon": ""
     },
     {
       "full_name": "anges244/evie",
@@ -2388,7 +2482,8 @@
       "forks": 72,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2022-12-09T15:19:45Z"
+      "pushed_at": "2022-12-09T15:19:45Z",
+      "icon": ""
     },
     {
       "full_name": "Sanyam-G/switch",
@@ -2410,7 +2505,8 @@
       "forks": 36,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-13T05:03:34Z"
+      "pushed_at": "2026-08-13T05:03:34Z",
+      "icon": ""
     },
     {
       "full_name": "guilhermeborgesbastos/live-resume",
@@ -2441,7 +2537,8 @@
       "forks": 273,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-09-01T18:57:46Z"
+      "pushed_at": "2025-09-01T18:57:46Z",
+      "icon": ""
     },
     {
       "full_name": "johnbean393/KeyType",
@@ -2471,7 +2568,8 @@
       "forks": 22,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-27T17:18:28Z"
+      "pushed_at": "2026-06-27T17:18:28Z",
+      "icon": ""
     },
     {
       "full_name": "celve/Peninsula",
@@ -2494,7 +2592,8 @@
       "forks": 7,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2025-10-10T07:50:39Z"
+      "pushed_at": "2025-10-10T07:50:39Z",
+      "icon": ""
     },
     {
       "full_name": "glinford/dns-easy-switcher",
@@ -2515,7 +2614,8 @@
       "forks": 21,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-11-18T22:12:33Z"
+      "pushed_at": "2025-11-18T22:12:33Z",
+      "icon": ""
     },
     {
       "full_name": "romankurnovskii/BrewMate",
@@ -2543,7 +2643,8 @@
       "forks": 37,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T02:13:10Z"
+      "pushed_at": "2026-08-17T02:13:10Z",
+      "icon": ""
     },
     {
       "full_name": "lifedever/PasteMemo-app",
@@ -2570,7 +2671,8 @@
       "forks": 30,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T00:56:33Z"
+      "pushed_at": "2026-08-18T00:56:33Z",
+      "icon": ""
     },
     {
       "full_name": "altic-dev/PeekX",
@@ -2591,7 +2693,8 @@
       "forks": 9,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-11-19T21:27:49Z"
+      "pushed_at": "2025-11-19T21:27:49Z",
+      "icon": ""
     },
     {
       "full_name": "Ender-Wang/EdgeMark",
@@ -2622,7 +2725,8 @@
       "forks": 16,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-10T13:38:10Z"
+      "pushed_at": "2026-08-10T13:38:10Z",
+      "icon": ""
     },
     {
       "full_name": "x0054/MKS",
@@ -2642,7 +2746,8 @@
       "forks": 26,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2022-06-22T05:04:43Z"
+      "pushed_at": "2022-06-22T05:04:43Z",
+      "icon": ""
     },
     {
       "full_name": "403unlocker/bargozin-desktop",
@@ -2673,7 +2778,8 @@
       "forks": 27,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T06:48:52Z"
+      "pushed_at": "2026-08-18T06:48:52Z",
+      "icon": ""
     },
     {
       "full_name": "Punshnut/macos-launchy",
@@ -2703,7 +2809,8 @@
       "forks": 8,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-07-26T07:39:29Z"
+      "pushed_at": "2026-07-26T07:39:29Z",
+      "icon": ""
     },
     {
       "full_name": "Licoy/StrokeMouse",
@@ -2734,7 +2841,8 @@
       "forks": 8,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T15:23:55Z"
+      "pushed_at": "2026-08-13T15:23:55Z",
+      "icon": ""
     },
     {
       "full_name": "Lakr233/NotchNotification",
@@ -2756,7 +2864,8 @@
       "forks": 8,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-18T17:51:07Z"
+      "pushed_at": "2026-05-18T17:51:07Z",
+      "icon": ""
     },
     {
       "full_name": "Ryan-the-hito/Raspberry",
@@ -2777,7 +2886,8 @@
       "forks": 2,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-01-10T17:04:42Z"
+      "pushed_at": "2026-01-10T17:04:42Z",
+      "icon": ""
     },
     {
       "full_name": "ShubhamPP04/Izzy",
@@ -2798,7 +2908,8 @@
       "forks": 0,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-07-26T15:14:16Z"
+      "pushed_at": "2026-07-26T15:14:16Z",
+      "icon": ""
     },
     {
       "full_name": "writronic/MaCursor",
@@ -2819,7 +2930,8 @@
       "forks": 5,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T21:18:11Z"
+      "pushed_at": "2026-08-05T21:18:11Z",
+      "icon": ""
     },
     {
       "full_name": "Notchly/Notchly",
@@ -2852,7 +2964,8 @@
       "forks": 2,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T18:26:15Z"
+      "pushed_at": "2026-08-11T18:26:15Z",
+      "icon": ""
     },
     {
       "full_name": "rewhex/better-launchpad",
@@ -2872,7 +2985,8 @@
       "forks": 0,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-08T18:52:55Z"
+      "pushed_at": "2026-05-08T18:52:55Z",
+      "icon": ""
     }
   ]
 }

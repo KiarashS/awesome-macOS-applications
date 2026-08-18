@@ -5,7 +5,8 @@
     "so put the specific ones above the generic ones. Matching happens against a",
     "haystack built from the repo name, its description and its GitHub topics.",
     "Keywords match on word boundaries, so 'board' will not match 'keyboard'.",
-    "Anything the rules get wrong can be pinned by hand in overrides.json."
+    "Anything the rules get wrong can be pinned by hand in overrides.json.",
+    "Each category carries a 'color' used for its sidebar and Dock icon — macOS Golden Gate brings coloured sidebar icons back after Tahoe removed them."
   ],
   "categories": [
     {
@@ -17,7 +18,8 @@
         "notch",
         "dynamic island",
         "island"
-      ]
+      ],
+      "color": "#5e5ce6"
     },
     {
       "id": "clipboard",
@@ -30,7 +32,8 @@
         "paste history",
         "copy history",
         "paste"
-      ]
+      ],
+      "color": "#ff9f0a"
     },
     {
       "id": "packages",
@@ -48,7 +51,8 @@
         "app updates",
         "update checker",
         "outdated"
-      ]
+      ],
+      "color": "#a2845e"
     },
     {
       "id": "virtualization",
@@ -65,7 +69,8 @@
         "hypervisor",
         "container",
         "docker"
-      ]
+      ],
+      "color": "#64d2ff"
     },
     {
       "id": "capture",
@@ -86,7 +91,8 @@
         "recordings",
         "loom",
         "cleanshot"
-      ]
+      ],
+      "color": "#ff375f"
     },
     {
       "id": "downloads",
@@ -100,7 +106,8 @@
         "torrent",
         "aria2",
         "idm"
-      ]
+      ],
+      "color": "#30d158"
     },
     {
       "id": "reading",
@@ -118,7 +125,8 @@
         "reader",
         "read-it-later",
         "readium"
-      ]
+      ],
+      "color": "#ff9500"
     },
     {
       "id": "ai",
@@ -144,7 +152,8 @@
         "agents",
         "copilot",
         "chatbot"
-      ]
+      ],
+      "color": "#bf5af2"
     },
     {
       "id": "launchers",
@@ -160,7 +169,8 @@
         "quick launch",
         "alfred",
         "raycast"
-      ]
+      ],
+      "color": "#0a84ff"
     },
     {
       "id": "focus",
@@ -188,7 +198,8 @@
         "reminders",
         "eye-strain",
         "rsi"
-      ]
+      ],
+      "color": "#ff453a"
     },
     {
       "id": "windows",
@@ -210,7 +221,8 @@
         "snapping",
         "cmd-tab",
         "command-tab"
-      ]
+      ],
+      "color": "#5ac8fa"
     },
     {
       "id": "menubar",
@@ -226,7 +238,8 @@
         "status item",
         "tray",
         "sketchybar"
-      ]
+      ],
+      "color": "#8e8e93"
     },
     {
       "id": "terminal",
@@ -245,7 +258,8 @@
         "command-line",
         "tmux",
         "dotfiles"
-      ]
+      ],
+      "color": "#32d74b"
     },
     {
       "id": "security",
@@ -269,7 +283,8 @@
         "otp",
         "notarization",
         "codesign"
-      ]
+      ],
+      "color": "#ffd60a"
     },
     {
       "id": "network",
@@ -290,7 +305,8 @@
         "wireguard",
         "bandwidth",
         "sni"
-      ]
+      ],
+      "color": "#00c7be"
     },
     {
       "id": "input",
@@ -319,7 +335,8 @@
         "click",
         "clicks",
         "mechanical"
-      ]
+      ],
+      "color": "#ff6482"
     },
     {
       "id": "media",
@@ -341,7 +358,8 @@
         "lyrics",
         "teleprompter",
         "prompter"
-      ]
+      ],
+      "color": "#ff2d55"
     },
     {
       "id": "notes",
@@ -363,7 +381,8 @@
         "zettelkasten",
         "outliner",
         "annotation"
-      ]
+      ],
+      "color": "#ffd426"
     },
     {
       "id": "files",
@@ -392,7 +411,8 @@
         "quick look",
         "quicklook",
         "preview"
-      ]
+      ],
+      "color": "#409cff"
     },
     {
       "id": "system",
@@ -423,7 +443,8 @@
         "switcher",
         "toggle",
         "toggles"
-      ]
+      ],
+      "color": "#98989d"
     },
     {
       "id": "web",
@@ -446,7 +467,8 @@
         "hugo",
         "nextjs",
         "next.js"
-      ]
+      ],
+      "color": "#66d4cf"
     },
     {
       "id": "devtools",
@@ -478,7 +500,8 @@
         "regex",
         "linter",
         "boilerplate"
-      ]
+      ],
+      "color": "#ac8e68"
     },
     {
       "id": "fun",
@@ -496,7 +519,8 @@
         "wallpaper",
         "screensaver",
         "aquarium"
-      ]
+      ],
+      "color": "#ff8cc8"
     }
   ],
   "fallback_category": "system",

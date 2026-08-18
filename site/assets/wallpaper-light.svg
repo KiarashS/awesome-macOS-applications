@@ -1,47 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Stylised coastal ridges under a blue sky">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Abstract Golden Gate bridge towers rising through fog">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#12447c"/>
-      <stop offset="26%"  stop-color="#2a6fa8"/>
-      <stop offset="52%"  stop-color="#57a3cd"/>
-      <stop offset="72%"  stop-color="#93cbe0"/>
-      <stop offset="86%"  stop-color="#cfe4e2"/>
-      <stop offset="100%" stop-color="#f6d6ae"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0.15" y2="1">
+      <stop offset="0%"   stop-color="#1d4f86"/>
+      <stop offset="22%"  stop-color="#3b78ab"/>
+      <stop offset="45%"  stop-color="#79a8c6"/>
+      <stop offset="66%"  stop-color="#c3cfd2"/>
+      <stop offset="82%"  stop-color="#e8c9a8"/>
+      <stop offset="100%" stop-color="#f0a878"/>
     </linearGradient>
-    <radialGradient id="sun" cx="0.72" cy="0.86" r="0.42">
-      <stop offset="0%"   stop-color="#fff3d6" stop-opacity="0.95"/>
-      <stop offset="38%"  stop-color="#ffd9a1" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#ffc98a" stop-opacity="0"/>
+    <radialGradient id="sun" cx="0.24" cy="0.78" r="0.5">
+      <stop offset="0%"   stop-color="#fff0d2" stop-opacity="0.9"/>
+      <stop offset="40%"  stop-color="#ffcf95" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#ffb87a" stop-opacity="0"/>
     </radialGradient>
 
-    <linearGradient id="r1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#8fc3dd"/><stop offset="100%" stop-color="#a6d2e4"/>
+    <!-- International orange, the bridge's actual colour. -->
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#e2683c"/>
+      <stop offset="55%"  stop-color="#c4462a"/>
+      <stop offset="100%" stop-color="#96301f"/>
     </linearGradient>
-    <linearGradient id="r2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#6aa7c9"/><stop offset="100%" stop-color="#86bcd8"/>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#d9836a" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#b25a44" stop-opacity="0.42"/>
     </linearGradient>
-    <linearGradient id="r3" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#47809f"/><stop offset="100%" stop-color="#5d97b6"/>
+
+    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#eef2f3" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#eef2f3" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#f4f6f6" stop-opacity="0.96"/>
     </linearGradient>
-    <linearGradient id="r4" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2d5c7d"/><stop offset="100%" stop-color="#3d7095"/>
-    </linearGradient>
-    <linearGradient id="r5" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1c3e5c"/><stop offset="100%" stop-color="#25506f"/>
-    </linearGradient>
-    <linearGradient id="r6" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0e2740"/><stop offset="100%" stop-color="#15334f"/>
+    <linearGradient id="fogtop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#dfe8ec" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#dfe8ec" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <rect width="1600" height="1000" fill="url(#sky)"/>
   <rect width="1600" height="1000" fill="url(#sun)"/>
 
-  <!-- Ridges, far to near. Each one sits a little lower and a little darker. -->
-  <path fill="url(#r1)" d="M0 690 C 150 640, 250 700, 380 668 C 520 634, 610 566, 742 604 C 880 644, 960 700, 1090 672 C 1230 642, 1330 592, 1450 620 C 1520 636, 1560 662, 1600 656 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r2)" d="M0 742 C 120 718, 232 754, 356 726 C 498 694, 566 628, 700 662 C 848 700, 918 758, 1052 732 C 1190 705, 1288 654, 1420 686 C 1502 706, 1554 728, 1600 720 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r3)" d="M0 800 C 140 786, 226 812, 338 792 C 470 768, 548 704, 678 736 C 818 770, 884 826, 1016 804 C 1156 780, 1246 726, 1382 756 C 1478 777, 1544 796, 1600 790 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r4)" d="M0 858 C 118 848, 214 870, 322 852 C 452 830, 528 776, 656 806 C 796 838, 852 886, 984 868 C 1122 849, 1210 800, 1346 828 C 1452 850, 1540 862, 1600 856 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r5)" d="M0 912 C 130 906, 208 924, 314 910 C 442 892, 512 848, 638 874 C 774 902, 826 940, 956 926 C 1094 911, 1180 870, 1316 894 C 1430 914, 1538 922, 1600 918 L1600 1000 L0 1000 Z"/>
-  <path fill="url(#r6)" d="M0 962 C 140 958, 206 972, 310 962 C 438 950, 500 918, 624 938 C 756 959, 804 986, 932 976 C 1070 965, 1156 932, 1292 950 C 1416 966, 1540 972, 1600 970 L1600 1000 L0 1000 Z"/>
+  <!-- Far tower, mostly swallowed by fog -->
+  <g fill="url(#far)">
+    <rect x="1178" y="336" width="26" height="520"/>
+    <rect x="1266" y="336" width="26" height="520"/>
+    <rect x="1170" y="410" width="130" height="17" rx="3"/>
+    <rect x="1170" y="556" width="130" height="17" rx="3"/>
+    <rect x="1174" y="336" width="122" height="14" rx="4"/>
+  </g>
+  <path d="M1191 350 C 1320 470, 1470 560, 1600 596" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M1279 350 C 1150 476, 980 566, 840 604" stroke="url(#far)" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+  <!-- Near tower -->
+  <g fill="url(#near)">
+    <rect x="470" y="150" width="42" height="740"/>
+    <rect x="612" y="150" width="42" height="740"/>
+    <rect x="458" y="252" width="208" height="27" rx="4"/>
+    <rect x="458" y="474" width="208" height="27" rx="4"/>
+    <rect x="458" y="696" width="208" height="27" rx="4"/>
+    <rect x="462" y="150" width="200" height="22" rx="6"/>
+    <rect x="452" y="140" width="220" height="12" rx="6" opacity="0.85"/>
+  </g>
+
+  <!-- Main cables sweeping off both sides of the near tower -->
+  <path d="M491 168 C 300 300, 120 420, 0 468" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <path d="M633 168 C 830 306, 1030 432, 1190 486" stroke="url(#near)" stroke-width="11" fill="none" stroke-linecap="round"/>
+
+  <!-- Suspender ropes down to the deck -->
+  <g stroke="#c4462a" stroke-width="4" opacity="0.62" stroke-linecap="round">
+    <path d="M180 424 V806"/><path d="M262 388 V806"/><path d="M344 348 V806"/><path d="M420 300 V806"/>
+    <path d="M700 232 V806"/><path d="M782 276 V806"/><path d="M864 320 V806"/><path d="M946 362 V806"/>
+    <path d="M1028 402 V806"/><path d="M1110 442 V806"/>
+  </g>
+
+  <!-- Deck -->
+  <rect x="0" y="800" width="1600" height="16" fill="url(#near)"/>
+  <rect x="0" y="816" width="1600" height="9" fill="#8a2b1c" opacity="0.75"/>
+
+  <!-- Fog rolling in, which is what actually makes this view -->
+  <rect x="0" y="300" width="1600" height="220" fill="url(#fogtop)"/>
+  <rect x="0" y="520" width="1600" height="480" fill="url(#fog)"/>
+  <path d="M0 742 C 240 700, 430 762, 660 736 C 900 708, 1090 764, 1320 738 C 1450 724, 1530 736, 1600 730 L1600 1000 L0 1000 Z" fill="#f3f6f6" opacity="0.88"/>
+  <path d="M0 856 C 260 828, 470 878, 720 856 C 960 834, 1150 880, 1390 860 C 1490 852, 1550 860, 1600 856 L1600 1000 L0 1000 Z" fill="#fafbfb" opacity="0.95"/>
 </svg>

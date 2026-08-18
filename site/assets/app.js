@@ -1,8 +1,9 @@
 /* =====================================================================
    awesome-macOS-applications — the desktop's behaviour
    ---------------------------------------------------------------------
-   Everything the page shows comes from data/apps.json, which the nightly
-   GitHub Action regenerates. No framework, no build step.
+   Everything the page shows comes from data/apps.json, which the GitHub
+   Action regenerates whenever the star list changes. No framework, no
+   build step.
    ===================================================================== */
 
 (() => {
@@ -70,8 +71,8 @@
       try { localStorage.setItem("appearance", mode); } catch { /* private mode */ }
     }
     const icon = { auto: "i-auto", light: "i-sun", dark: "i-moon" }[mode];
-    $("#appearance-btn .appearance-icon use").setAttribute("href", "#" + icon);
-    $("#appearance-btn").title = `Appearance: ${mode[0].toUpperCase()}${mode.slice(1)}`;
+    $("#cc-btn .appearance-icon use").setAttribute("href", "#" + icon);
+    $("#cc-btn").title = `Control Centre — appearance: ${mode[0].toUpperCase()}${mode.slice(1)}`;
     syncMenuChecks();
   }
 
@@ -79,10 +80,35 @@
     let saved = "auto";
     try { saved = localStorage.getItem("appearance") || "auto"; } catch { /* ignore */ }
     setAppearance(saved, false);
-    $("#appearance-btn").addEventListener("click", () => {
-      const next = APPEARANCES[(APPEARANCES.indexOf(document.documentElement.dataset.appearance) + 1) % 3];
-      setAppearance(next);
-    });
+  }
+
+  /* ── Liquid Glass ──────────────────────────────────────────────── */
+
+  // Golden Gate's Appearance pane gained a slider from ultraclear to fully
+  // tinted; --glass-level drives every glass surface in the stylesheet.
+  function setGlass(level, remember = true) {
+    const clamped = Math.min(1, Math.max(0, Number(level)));
+    document.documentElement.style.setProperty("--glass-level", String(clamped));
+    const slider = $("#glass-slider");
+    slider.value = String(Math.round(clamped * 100));
+    slider.parentElement.style.setProperty("--fill", `${Math.round(clamped * 100)}%`);
+    slider.setAttribute("aria-valuetext",
+      clamped < 0.2 ? "Ultraclear" : clamped < 0.45 ? "Mostly clear"
+      : clamped < 0.7 ? "Balanced" : clamped < 0.9 ? "Mostly tinted" : "Fully tinted");
+    if (remember) {
+      try { localStorage.setItem("glass", String(clamped)); } catch { /* ignore */ }
+    }
+  }
+
+  function initGlass() {
+    let saved = 0.55;
+    try {
+      const stored = localStorage.getItem("glass");
+      if (stored !== null && stored !== "") saved = Number(stored);
+    } catch { /* ignore */ }
+    if (!Number.isFinite(saved)) saved = 0.55;
+    setGlass(saved, false);
+    $("#glass-slider").addEventListener("input", (e) => setGlass(e.target.value / 100));
   }
 
   /* ── clock ─────────────────────────────────────────────────────── */
@@ -112,18 +138,33 @@
     };
   }
 
-  function appIcon(app, big = false) {
-    const box = el("span", { class: "appicon" + (big ? " appicon-lg" : "") }, [
-      el("span", { class: "appicon-txt", text: app.name.replace(/[^A-Za-z0-9]/g, "").slice(0, 2).toUpperCase() || "?" }),
-    ]);
-    Object.entries(tint(app.full_name)).forEach(([k, v]) => box.style.setProperty(k, v));
+  // Three tiers, best first: the project's own app icon, then the owner
+  // avatar, then tinted initials. Each falls through if the image 404s.
+  function standInTile(app) {
+    const tile = el("span", {
+      class: "tile",
+      text: app.name.replace(/[^A-Za-z0-9]/g, "").slice(0, 2).toUpperCase() || "?",
+    });
+    Object.entries(tint(app.full_name)).forEach(([k, v]) => tile.style.setProperty(k, v));
     if (app.avatar) {
-      // The owner avatar stands in for an app icon; the tinted initials show
-      // through while it loads and stay if it never arrives.
-      box.append(el("img", {
+      tile.append(el("img", {
         src: app.avatar, alt: "", loading: "lazy", decoding: "async",
         onerror: (e) => e.target.remove(),
       }));
+    }
+    return tile;
+  }
+
+  function appIcon(app, big = false) {
+    const box = el("span", { class: "appicon" + (big ? " appicon-lg" : "") });
+    if (app.icon) {
+      // A real app icon already has its own shape, so it is never masked.
+      box.append(el("img", {
+        class: "real", src: app.icon, alt: "", loading: "lazy", decoding: "async",
+        onerror: (e) => { e.target.remove(); box.append(standInTile(app)); },
+      }));
+    } else {
+      box.append(standInTile(app));
     }
     return box;
   }
@@ -195,6 +236,7 @@
           class: "side-row" + (state.scope === cat.id ? " is-on" : ""),
           "data-scope": cat.id,
           title: cat.blurb,
+          style: `--row-color:${cat.color || "var(--accent)"}`,
           onclick: () => setScope(cat.id),
         }, [
           svg("i-" + cat.icon, 15, "icon side-glyph"),
@@ -359,7 +401,12 @@
         "aria-label": opts.label,
         onclick: opts.onclick,
       }, kids);
-      Object.entries(tint(opts.seed || opts.label)).forEach(([k, v]) => node.style.setProperty(k, v));
+      if (opts.color) {
+        node.style.setProperty("--ic-a", `color-mix(in srgb, ${opts.color} 72%, white)`);
+        node.style.setProperty("--ic-b", opts.color);
+      } else {
+        Object.entries(tint(opts.seed || opts.label)).forEach(([k, v]) => node.style.setProperty(k, v));
+      }
       node.append(el("span", { class: "dock-tip", text: opts.label }));
       return node;
     };
@@ -367,17 +414,17 @@
     const top = DATA.categories.slice().sort((a, b) => b.count - a.count).slice(0, 8);
 
     inner.replaceChildren(
-      item({ label: "All Applications", scope: "all", seed: "all-apps", onclick: () => setScope("all") },
+      item({ label: "All Applications", scope: "all", color: "#0a84ff", onclick: () => setScope("all") },
            [svg("i-all", 22)]),
-      item({ label: "Most Starred", scope: "top", seed: "most-starred", onclick: () => setScope("top") },
+      item({ label: "Most Starred", scope: "top", color: "#ffb800", onclick: () => setScope("top") },
            [svg("i-star", 22)]),
       el("span", { class: "dock-sep" }),
       ...top.map((c) =>
-        item({ label: `${c.label} (${c.count})`, scope: c.id, seed: c.id, onclick: () => setScope(c.id) },
+        item({ label: `${c.label} (${c.count})`, scope: c.id, color: c.color, onclick: () => setScope(c.id) },
              [svg("i-" + c.icon, 22)])
       ),
       el("span", { class: "dock-sep" }),
-      item({ label: "The star list on GitHub", seed: "github", href: DATA.source.url }, [svg("i-github", 24)]),
+      item({ label: "The star list on GitHub", color: "#5b5b60", href: DATA.source.url }, [svg("i-github", 24)]),
     );
     inner.dataset.built = "1";
   }
@@ -412,10 +459,12 @@
          [document.createTextNode(t)])
     );
     if (cat) {
-      chips.unshift(el("button", {
+      const chip = el("button", {
         class: "tagbtn", title: `Show the ${cat.label} category`,
         onclick: () => { closeSheet(); setScope(cat.id); },
-      }, [svg("i-" + cat.icon, 11), document.createTextNode(cat.label)]));
+      }, [svg("i-" + cat.icon, 11), document.createTextNode(cat.label)]);
+      chip.style.color = cat.color || "";
+      chips.unshift(chip);
     }
     $("#sheet-tags").replaceChildren(...chips);
 
@@ -428,12 +477,14 @@
       home.hidden = true;
     }
 
+    $("#window").classList.add("is-inactive");
     $("#scrim").hidden = false;
     $("#sheet-close").focus();
   }
 
   function closeSheet() {
     $("#scrim").hidden = true;
+    if ($("#about-scrim").hidden) $("#window").classList.remove("is-inactive");
     if (lastFocus && document.contains(lastFocus)) lastFocus.focus();
   }
 
@@ -466,6 +517,7 @@
            republishes this page. Last run: <strong>${new Date(DATA.generated_at).toLocaleString()}</strong>.</p>
         <p><a href="https://github.com/KiarashS/awesome-macOS-applications" target="_blank" rel="noopener">Source repository →</a></p>` }));
     }
+    $("#window").classList.add("is-inactive");
     $("#about-scrim").hidden = false;
     $("#about-close").focus();
   }
@@ -475,7 +527,23 @@
   function closeMenus() {
     $("#menus").hidden = true;
     $$(".menu-panel").forEach((p) => p.classList.remove("is-open"));
-    $$(".menu-title").forEach((b) => b.setAttribute("aria-expanded", "false"));
+    $("#control-centre").classList.remove("is-open");
+    $$(".menu-title, #cc-btn").forEach((b) => b.setAttribute("aria-expanded", "false"));
+  }
+
+  function openControlCentre() {
+    const anchor = $("#cc-btn");
+    const open = anchor.getAttribute("aria-expanded") === "true";
+    closeMenus();
+    if (open) return;
+    const panel = $("#control-centre");
+    $("#menus").hidden = false;
+    panel.classList.add("is-open");
+    anchor.setAttribute("aria-expanded", "true");
+    const rect = anchor.getBoundingClientRect();
+    // Right-aligned to the button, like every other menu-bar popover.
+    panel.style.left =
+      Math.max(6, Math.min(rect.right - panel.offsetWidth, window.innerWidth - panel.offsetWidth - 6)) + "px";
   }
 
   function openMenu(name, anchor) {
@@ -487,6 +555,12 @@
     anchor.setAttribute("aria-expanded", "true");
     const rect = anchor.getBoundingClientRect();
     panel.style.left = Math.max(6, Math.min(rect.left, window.innerWidth - panel.offsetWidth - 6)) + "px";
+  }
+
+  function wireControlCentre() {
+    $$("#control-centre [data-act]").forEach((b) =>
+      b.addEventListener("click", () => runAction(b.dataset.act))
+    );
   }
 
   function syncMenuChecks() {
@@ -513,11 +587,11 @@
       el("button", { role: "menuitem", text: "All Applications", onclick: () => setScope("all") }),
       el("button", { role: "menuitem", text: "Most Starred", onclick: () => setScope("top") }),
       el("hr"),
+      // Text rows, no glyphs: Golden Gate cut back on icons in menus.
       ...DATA.categories.map((c) =>
         el("button", { role: "menuitem", onclick: () => setScope(c.id) }, [
-          svg("i-" + c.icon, 13),
           document.createTextNode(c.label),
-          el("span", { class: "menu-key", text: String(c.count) }),
+          el("span", { class: "menu-count", text: String(c.count) }),
         ])
       )
     );
@@ -530,9 +604,10 @@
     if (act.startsWith("appearance-")) return setAppearance(act.slice(11));
     if (act === "reset") return resetAll();
     if (act === "focus-search") return $("#search").focus();
+    if (act === "control-centre") return openControlCentre();
     if (act === "about") return openAbout("about");
     if (act === "shortcuts") return openAbout("shortcuts");
-    if (act === "toggle-sidebar") return $(".window").classList.toggle("no-sidebar");
+    if (act === "toggle-sidebar") return $("#window").classList.toggle("no-sidebar");
   }
 
   /* ── state transitions ─────────────────────────────────────────── */
@@ -541,7 +616,7 @@
     state.scope = scope;
     $("#content").scrollTop = 0;
     if (window.innerWidth <= 900) {
-      $(".window").classList.remove("show-sidebar");
+      $("#window").classList.remove("show-sidebar");
       $("#sidebar-toggle").setAttribute("aria-expanded", "false");
     }
     commit();
@@ -626,6 +701,11 @@
         if ($$(".menu-title[aria-expanded='true']").length) openMenu(btn.dataset.menu, btn);
       });
     });
+    $("#cc-btn").addEventListener("click", (e) => { e.stopPropagation(); openControlCentre(); });
+    // Clicks inside the Control Centre must not dismiss it.
+    $("#control-centre").addEventListener("click", (e) => e.stopPropagation());
+    $("#control-centre").addEventListener("input", (e) => e.stopPropagation());
+
     $("#menus").addEventListener("click", (e) => {
       const item = e.target.closest("[data-act]");
       if (item) runAction(item.dataset.act);
@@ -651,13 +731,13 @@
     const toggle = $("#sidebar-toggle");
     toggle.addEventListener("click", (e) => {
       e.stopPropagation();
-      const on = $(".window").classList.toggle("show-sidebar");
+      const on = $("#window").classList.toggle("show-sidebar");
       toggle.setAttribute("aria-expanded", on ? "true" : "false");
     });
     // Tapping the app list dismisses the drop-down sidebar on narrow screens.
     $("#content").addEventListener("click", () => {
-      if ($(".window").classList.contains("show-sidebar")) {
-        $(".window").classList.remove("show-sidebar");
+      if ($("#window").classList.contains("show-sidebar")) {
+        $("#window").classList.remove("show-sidebar");
         toggle.setAttribute("aria-expanded", "false");
       }
     }, true);
@@ -669,10 +749,14 @@
     $("#reset-all").addEventListener("click", resetAll);
     $("#empty-reset").addEventListener("click", resetAll);
 
-    // the traffic lights are decoration, but the green one should do something
-    $(".light.zoom").parentElement.addEventListener("click", (e) => {
-      if (e.target.classList.contains("zoom")) $(".window").classList.toggle("no-sidebar");
-    });
+    // The lights are decoration, but the green one should still do something.
+    // There are two sets — one in the sidebar, one in the toolbar for narrow
+    // screens — and only ever one of them is visible.
+    $$(".lights").forEach((set) =>
+      set.addEventListener("click", (e) => {
+        if (e.target.classList.contains("zoom")) $("#window").classList.toggle("no-sidebar");
+      })
+    );
 
     // sheets
     $("#sheet-close").addEventListener("click", closeSheet);
@@ -717,6 +801,8 @@
 
   async function boot() {
     initAppearance();
+    initGlass();
+    wireControlCentre();
     startClock();
 
     try { const v = localStorage.getItem("view"); if (v) state.view = v; } catch { /* ignore */ }

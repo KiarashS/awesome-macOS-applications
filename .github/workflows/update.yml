@@ -1,23 +1,35 @@
 name: Update app list and publish
 
+# GitHub publishes no event for "a repository was added to a star list" —
+# star lists are not covered by the API or by webhooks at all. So the list is
+# polled instead: a cheap check reads the list pages, compares the set of
+# repositories against data/list-cache.json, and stops right there when
+# nothing moved. Only a real change runs the full rebuild and redeploys.
 on:
   schedule:
-    # 23:30 UTC == 03:00 Asia/Tehran. Iran does not observe DST, so this is
-    # 3 AM all year round. GitHub's scheduler can lag a few minutes at peak.
+    # Membership poll. Adding a repo to the list shows up within ~15 minutes.
+    - cron: "*/15 * * * *"
+    # One full pass a day so star counts, descriptions and icons stay current
+    # even during a stretch where the list itself never changes. Delete this
+    # line if you would rather the site only ever move when the list moves.
     - cron: "30 23 * * *"
   push:
-    # No branch filter on purpose: the default branch here is whatever the
-    # repository is set to, and the deploy job below is what gates publishing.
     paths-ignore:
       - "README.md"
       - "site/data/apps.json"
       - "data/list-cache.json"
+      - "data/icon-cache.json"
   workflow_dispatch:
     inputs:
       deploy:
-        description: "Publish to GitHub Pages even when run from a side branch"
+        description: "Publish to Pages even when run from a side branch"
         type: boolean
         default: false
+  # Lets anything that can hit the API push an update immediately:
+  #   gh api repos/KiarashS/awesome-macOS-applications/dispatches \
+  #     -f event_type=app-list-changed
+  repository_dispatch:
+    types: [app-list-changed]
 
 permissions:
   contents: read
@@ -27,8 +39,42 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  poll:
+    name: Has the list changed?
+    runs-on: ubuntu-latest
+    outputs:
+      rebuild: ${{ steps.gate.outputs.rebuild }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - id: gate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: KiarashS
+          LIST_SLUG: app
+        run: |
+          # Everything except the 15-minute poll rebuilds unconditionally.
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" = "30 23 * * *" ]; then
+            echo "Triggered by ${{ github.event_name }} — running a full rebuild."
+            echo "rebuild=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          state=$(python3 scripts/build.py --check-only)
+          echo "Star list is $state."
+          if [ "$state" = "changed" ]; then
+            echo "rebuild=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "rebuild=false" >> "$GITHUB_OUTPUT"
+          fi
+
   build:
     name: Rebuild data
+    needs: poll
+    if: needs.poll.outputs.rebuild == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -38,6 +84,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # Only used to square off and shrink the downloaded app icons; the
+      # build falls back to the original files if it is missing.
+      - run: pip install --quiet Pillow
 
       - name: Read the star list and refresh every repository
         env:
@@ -50,7 +100,7 @@ jobs:
       - name: Sanity-check the payload before it goes anywhere
         run: |
           python3 - <<'PY'
-          import json, sys
+          import json, pathlib
           d = json.load(open("site/data/apps.json"))
           apps = d["apps"]
           assert len(apps) >= 10, f"only {len(apps)} apps — refusing to publish"
@@ -58,18 +108,22 @@ jobs:
           for a in apps:
               for key in ("full_name", "name", "url", "description", "category", "tags"):
                   assert a.get(key) not in (None, ""), f"{a.get('full_name')} is missing {key}"
-          print(f"ok: {len(apps)} apps, {len(d['categories'])} categories, {len(d['tags'])} tags")
+              if a.get("icon"):
+                  assert pathlib.Path("site", a["icon"]).exists(), f"{a['full_name']} icon missing on disk"
+          have = sum(1 for a in apps if a.get("icon"))
+          print(f"ok: {len(apps)} apps, {len(d['categories'])} categories, "
+                f"{len(d['tags'])} tags, {have} real app icons")
           PY
 
       - name: Commit the refreshed data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- README.md site/data/apps.json data/list-cache.json; then
+          git add -A README.md site/data/apps.json site/icons data/list-cache.json data/icon-cache.json
+          if git diff --cached --quiet; then
             echo "Nothing changed since the last run."
             exit 0
           fi
-          git add README.md site/data/apps.json data/list-cache.json
           git commit -m "chore: refresh app list ($(date -u +%Y-%m-%d))"
           for attempt in 1 2 3 4; do
             git push -u origin "HEAD:${GITHUB_REF_NAME}" && break
