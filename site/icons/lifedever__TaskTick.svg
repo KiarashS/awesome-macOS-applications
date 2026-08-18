@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <!-- Subtle warm-white gradient for the rounded-square background so the
+         icon doesn't look flat against light-mode UIs -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f3f4f8"/>
+    </linearGradient>
+    <!-- Light edge glow on the squircle -->
+    <linearGradient id="edgeShine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.6)"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+    <!-- Soft bezel ring around the clock -->
+    <radialGradient id="bezel" cx="50%" cy="50%" r="50%">
+      <stop offset="92%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(70,75,110,0.32)"/>
+    </radialGradient>
+    <filter id="bgShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0f1224" flood-opacity="0.10"/>
+    </filter>
+    <filter id="badgeShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0d6c2f" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <!-- White rounded-square background, subtle inner shadow on bottom for depth -->
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)" filter="url(#bgShadow)"/>
+  <!-- Top highlight to soften the squircle -->
+  <rect width="1024" height="1024" rx="230" fill="url(#edgeShine)" opacity="0.5"/>
+
+  <!-- Clock face — true center (512,512), radius 320 (~31% of canvas) -->
+  <!-- Soft outer bezel ring (gives the clock a tactile edge against white bg) -->
+  <circle cx="512" cy="512" r="328" fill="url(#bezel)"/>
+  <!-- Crisp ring (darkened so it reads at small sizes) -->
+  <circle cx="512" cy="512" r="320" fill="none" stroke="#9da4c2" stroke-width="8"/>
+
+  <!-- Hour markers on r=270 ring (cardinal markers stronger) -->
+  <circle cx="512" cy="242" r="18" fill="#5b76e8"/><!-- 12 -->
+  <circle cx="647" cy="278" r="12" fill="#8a90b3"/><!-- 1 -->
+  <circle cx="746" cy="377" r="12" fill="#8a90b3"/><!-- 2 -->
+  <circle cx="782" cy="512" r="18" fill="#7c66f0"/><!-- 3 -->
+  <circle cx="746" cy="647" r="12" fill="#8a90b3"/><!-- 4 -->
+  <circle cx="647" cy="746" r="12" fill="#8a90b3"/><!-- 5 -->
+  <circle cx="512" cy="782" r="18" fill="#9476f5"/><!-- 6 -->
+  <circle cx="377" cy="746" r="12" fill="#8a90b3"/><!-- 7 -->
+  <circle cx="278" cy="647" r="12" fill="#8a90b3"/><!-- 8 -->
+  <circle cx="242" cy="512" r="18" fill="#5b76e8"/><!-- 9 -->
+  <circle cx="278" cy="377" r="12" fill="#8a90b3"/><!-- 10 -->
+  <circle cx="377" cy="278" r="12" fill="#8a90b3"/><!-- 11 -->
+
+  <!-- Hour hand pointing toward 11 -->
+  <line x1="512" y1="512" x2="512" y2="358" stroke="#1f2240" stroke-width="24" stroke-linecap="round"/>
+  <!-- Minute hand pointing toward 2 (darker for clarity at small sizes) -->
+  <line x1="512" y1="512" x2="640" y2="416" stroke="#4661e0" stroke-width="17" stroke-linecap="round"/>
+
+  <!-- Center pivot -->
+  <circle cx="512" cy="512" r="28" fill="#4661e0"/>
+  <circle cx="512" cy="512" r="12" fill="white"/>
+
+  <!-- Green check badge — bottom-right, comfortably inset -->
+  <circle cx="724" cy="724" r="100" fill="#22c55e" filter="url(#badgeShadow)"/>
+  <circle cx="724" cy="724" r="92" fill="#22c55e"/>
+  <polyline points="676,724 712,760 770,696" fill="none" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

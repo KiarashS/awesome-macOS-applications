@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T18:25:38Z",
+  "generated_at": "2026-08-18T19:07:19Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 94,
+    "apps": 97,
     "categories": 23,
     "tags": 58,
-    "stars": 841543
+    "stars": 852349
   },
   "categories": [
     {
@@ -50,7 +50,7 @@
       "icon": "camera",
       "color": "#ff375f",
       "blurb": "Screenshots, screen recording and screen sharing.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "downloads",
@@ -90,7 +90,7 @@
       "icon": "timer",
       "color": "#ff453a",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 5
+      "count": 6
     },
     {
       "id": "windows",
@@ -186,7 +186,7 @@
       "icon": "hammer",
       "color": "#ac8e68",
       "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
-      "count": 1
+      "count": 2
     },
     {
       "id": "fun",
@@ -200,11 +200,15 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 54
+      "count": 56
     },
     {
       "name": "TypeScript",
       "count": 14
+    },
+    {
+      "name": "SwiftUI",
+      "count": 12
     },
     {
       "name": "Cross-platform",
@@ -215,12 +219,12 @@
       "count": 10
     },
     {
-      "name": "SwiftUI",
-      "count": 10
-    },
-    {
       "name": "AI",
       "count": 9
+    },
+    {
+      "name": "Menu Bar",
+      "count": 8
     },
     {
       "name": "Windows",
@@ -232,10 +236,6 @@
     },
     {
       "name": "Launcher",
-      "count": 7
-    },
-    {
-      "name": "Menu Bar",
       "count": 7
     },
     {
@@ -287,12 +287,20 @@
       "count": 4
     },
     {
+      "name": "Objective-C",
+      "count": 4
+    },
+    {
       "name": "Tauri",
       "count": 4
     },
     {
       "name": "Terminal",
       "count": 4
+    },
+    {
+      "name": "Capture",
+      "count": 3
     },
     {
       "name": "Downloads",
@@ -307,11 +315,11 @@
       "count": 3
     },
     {
-      "name": "Objective-C",
+      "name": "Rust",
       "count": 3
     },
     {
-      "name": "Rust",
+      "name": "Tasks",
       "count": 3
     },
     {
@@ -324,10 +332,6 @@
     },
     {
       "name": "Backup",
-      "count": 2
-    },
-    {
-      "name": "Capture",
       "count": 2
     },
     {
@@ -368,10 +372,6 @@
     },
     {
       "name": "Shell",
-      "count": 2
-    },
-    {
-      "name": "Tasks",
       "count": 2
     },
     {
@@ -481,7 +481,7 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50726,
+      "stars": 50728,
       "forks": 4813,
       "license": "AGPL-3.0",
       "archived": false,
@@ -515,8 +515,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50354,
-      "forks": 6857,
+      "stars": 50379,
+      "forks": 6863,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-18T15:27:46Z"
@@ -606,7 +606,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35046,
+      "stars": 35047,
       "forks": 1785,
       "license": "Apache-2.0",
       "archived": false,
@@ -641,7 +641,7 @@
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 33162,
+      "stars": 33163,
       "forks": 4678,
       "license": "MIT",
       "archived": false,
@@ -670,7 +670,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29875,
+      "stars": 29878,
       "forks": 2653,
       "license": "MIT",
       "archived": false,
@@ -703,7 +703,7 @@
       ],
       "language": "Swift",
       "stars": 29306,
-      "forks": 843,
+      "forks": 844,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-09-20T20:28:17Z"
@@ -769,11 +769,11 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23528,
+      "stars": 23529,
       "forks": 1481,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T18:22:40Z"
+      "pushed_at": "2026-08-18T19:03:17Z"
     },
     {
       "full_name": "ayangweb/BongoCat",
@@ -802,7 +802,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22651,
+      "stars": 22652,
       "forks": 1093,
       "license": "MIT",
       "archived": false,
@@ -860,7 +860,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 20966,
+      "stars": 20967,
       "forks": 1789,
       "license": "",
       "archived": false,
@@ -889,8 +889,8 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20911,
-      "forks": 7615,
+      "stars": 20912,
+      "forks": 7616,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-18T17:27:19Z"
@@ -943,7 +943,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17316,
+      "stars": 17317,
       "forks": 891,
       "license": "Apache-2.0",
       "archived": false,
@@ -1167,7 +1167,7 @@
       "forks": 391,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T16:47:39Z"
+      "pushed_at": "2026-08-18T18:49:34Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -1239,7 +1239,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 8587,
+      "stars": 8588,
       "forks": 501,
       "license": "MIT",
       "archived": false,
@@ -1272,7 +1272,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8435,
+      "stars": 8436,
       "forks": 526,
       "license": "GPL-3.0",
       "archived": false,
@@ -1344,6 +1344,36 @@
       "pushed_at": "2026-08-16T13:01:57Z"
     },
     {
+      "full_name": "Sequel-Ace/Sequel-Ace",
+      "name": "Sequel-Ace",
+      "owner": "Sequel-Ace",
+      "avatar": "https://avatars.githubusercontent.com/u/66785829?v=4",
+      "icon": "icons/Sequel-Ace__Sequel-Ace.png",
+      "url": "https://github.com/Sequel-Ace/Sequel-Ace",
+      "homepage": "https://sequel-ace.com",
+      "description": "MySQL/MariaDB database management for macOS",
+      "category": "devtools",
+      "tags": [
+        "Objective-C"
+      ],
+      "topics": [
+        "hacktoberfest",
+        "macos",
+        "mariadb",
+        "mysql",
+        "objective-c",
+        "sequel",
+        "sequelace",
+        "sequelpro"
+      ],
+      "language": "Objective-C",
+      "stars": 7505,
+      "forks": 330,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-18T18:07:17Z"
+    },
+    {
       "full_name": "glushchenko/fsnotes",
       "name": "fsnotes",
       "owner": "glushchenko",
@@ -1368,7 +1398,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 7445,
+      "stars": 7446,
       "forks": 572,
       "license": "MIT",
       "archived": false,
@@ -1540,7 +1570,7 @@
         "menubar-app"
       ],
       "language": "Swift",
-      "stars": 5888,
+      "stars": 5889,
       "forks": 239,
       "license": "MIT",
       "archived": false,
@@ -1573,7 +1603,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 5832,
+      "stars": 5833,
       "forks": 321,
       "license": "MIT",
       "archived": false,
@@ -1836,7 +1866,7 @@
       "topics": [],
       "language": "TypeScript",
       "stars": 3557,
-      "forks": 324,
+      "forks": 325,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-16T02:05:01Z"
@@ -1973,6 +2003,36 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-01T17:16:35Z"
+    },
+    {
+      "full_name": "duongductrong/Snapzy",
+      "name": "Snapzy",
+      "owner": "duongductrong",
+      "avatar": "https://avatars.githubusercontent.com/u/39333905?v=4",
+      "icon": "icons/duongductrong__Snapzy.png",
+      "url": "https://github.com/duongductrong/Snapzy",
+      "homepage": "https://snapzy.app",
+      "description": "An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.",
+      "category": "capture",
+      "tags": [
+        "Capture",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "capture",
+        "cleanshot-alternative",
+        "recording-app",
+        "screenshot",
+        "screenshot-capture",
+        "swiftui"
+      ],
+      "language": "Swift",
+      "stars": 2801,
+      "forks": 158,
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-08-17T18:29:29Z"
     },
     {
       "full_name": "wickenico/WailBrew",
@@ -2242,7 +2302,7 @@
       "forks": 76,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-18T12:20:23Z"
+      "pushed_at": "2026-08-18T18:30:39Z"
     },
     {
       "full_name": "xykong/flux-markdown",
@@ -2260,7 +2320,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1215,
+      "stars": 1216,
       "forks": 34,
       "license": "GPL-3.0",
       "archived": false,
@@ -2537,7 +2597,7 @@
       "forks": 37,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T17:42:39Z"
+      "pushed_at": "2026-08-18T18:29:52Z"
     },
     {
       "full_name": "anges244/evie",
@@ -2584,7 +2644,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 493,
+      "stars": 494,
       "forks": 36,
       "license": "",
       "archived": false,
@@ -2676,6 +2736,30 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-10-10T07:50:39Z"
+    },
+    {
+      "full_name": "lifedever/TaskTick",
+      "name": "TaskTick",
+      "owner": "lifedever",
+      "avatar": "https://avatars.githubusercontent.com/u/3143306?v=4",
+      "icon": "icons/lifedever__TaskTick.svg",
+      "url": "https://github.com/lifedever/TaskTick",
+      "homepage": "http://www.lifedever.com/TaskTick/",
+      "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more.",
+      "category": "focus",
+      "tags": [
+        "Menu Bar",
+        "Tasks",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 456,
+      "forks": 36,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-17T07:44:50Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
