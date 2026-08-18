@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:27:08Z",
+  "generated_at": "2026-08-18T12:59:03Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,192 +9,192 @@
     "apps": 91,
     "categories": 23,
     "tags": 57,
-    "stars": 831488
+    "stars": 831693
   },
   "categories": [
     {
       "id": "notch",
       "label": "Notch & Island",
       "icon": "notch",
+      "color": "#5e5ce6",
       "blurb": "Apps that turn the MacBook notch into something useful.",
-      "count": 8,
-      "color": "#5e5ce6"
+      "count": 8
     },
     {
       "id": "clipboard",
       "label": "Clipboard",
       "icon": "clipboard",
+      "color": "#ff9f0a",
       "blurb": "Clipboard managers and paste history.",
-      "count": 2,
-      "color": "#ff9f0a"
+      "count": 2
     },
     {
       "id": "packages",
       "label": "Package Managers",
       "icon": "shippingbox",
+      "color": "#a2845e",
       "blurb": "Homebrew front-ends, App Store tooling and update checkers.",
-      "count": 7,
-      "color": "#a2845e"
+      "count": 7
     },
     {
       "id": "virtualization",
       "label": "Virtualization",
       "icon": "cube",
+      "color": "#64d2ff",
       "blurb": "Virtual machines, emulators and containers.",
-      "count": 2,
-      "color": "#64d2ff"
+      "count": 2
     },
     {
       "id": "capture",
       "label": "Screenshots & Recording",
       "icon": "camera",
+      "color": "#ff375f",
       "blurb": "Screenshots, screen recording and screen sharing.",
-      "count": 2,
-      "color": "#ff375f"
+      "count": 2
     },
     {
       "id": "downloads",
       "label": "Downloads",
       "icon": "arrowdown",
+      "color": "#30d158",
       "blurb": "Download managers and accelerators.",
-      "count": 3,
-      "color": "#30d158"
+      "count": 3
     },
     {
       "id": "reading",
       "label": "Reading & RSS",
       "icon": "book",
+      "color": "#ff9500",
       "blurb": "Feed readers, ebook readers and read-it-later apps.",
-      "count": 2,
-      "color": "#ff9500"
+      "count": 2
     },
     {
       "id": "ai",
       "label": "AI & LLM",
       "icon": "sparkles",
+      "color": "#bf5af2",
       "blurb": "Local and hosted models, assistants and speech tooling.",
-      "count": 5,
-      "color": "#bf5af2"
+      "count": 5
     },
     {
       "id": "launchers",
       "label": "Launchers & Search",
       "icon": "magnifier",
+      "color": "#0a84ff",
       "blurb": "App launchers, command palettes and Launchpad replacements.",
-      "count": 7,
-      "color": "#0a84ff"
+      "count": 7
     },
     {
       "id": "focus",
       "label": "Productivity & Focus",
       "icon": "timer",
+      "color": "#ff453a",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 5,
-      "color": "#ff453a"
+      "count": 5
     },
     {
       "id": "windows",
       "label": "Window Management",
       "icon": "rectangles",
+      "color": "#5ac8fa",
       "blurb": "Tiling, window switching, the Dock and Mission Control.",
-      "count": 6,
-      "color": "#5ac8fa"
+      "count": 6
     },
     {
       "id": "menubar",
       "label": "Menu Bar",
       "icon": "menubar",
+      "color": "#8e8e93",
       "blurb": "Menu bar utilities and status item managers.",
-      "count": 3,
-      "color": "#8e8e93"
+      "count": 3
     },
     {
       "id": "terminal",
       "label": "Terminal & Shell",
       "icon": "terminal",
+      "color": "#32d74b",
       "blurb": "Shells, prompts, terminal emulators and CLI toys.",
-      "count": 2,
-      "color": "#32d74b"
+      "count": 2
     },
     {
       "id": "security",
       "label": "Security & Privacy",
       "icon": "lock",
+      "color": "#ffd60a",
       "blurb": "Firewalls, Gatekeeper tooling, encryption and password managers.",
-      "count": 2,
-      "color": "#ffd60a"
+      "count": 2
     },
     {
       "id": "network",
       "label": "Networking & Proxy",
       "icon": "globe",
+      "color": "#00c7be",
       "blurb": "Proxies, VPNs, DNS switchers and network tooling.",
-      "count": 4,
-      "color": "#00c7be"
+      "count": 4
     },
     {
       "id": "input",
       "label": "Keyboard & Input",
       "icon": "keyboard",
+      "color": "#ff6482",
       "blurb": "Keyboards, mice, trackpads, cursors and typing feedback.",
-      "count": 8,
-      "color": "#ff6482"
+      "count": 8
     },
     {
       "id": "media",
       "label": "Media & Music",
       "icon": "play",
+      "color": "#ff2d55",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 4,
-      "color": "#ff2d55"
+      "count": 4
     },
     {
       "id": "notes",
       "label": "Notes & Writing",
       "icon": "note",
+      "color": "#ffd426",
       "blurb": "Note taking, Markdown editors and knowledge bases.",
-      "count": 7,
-      "color": "#ffd426"
+      "count": 7
     },
     {
       "id": "files",
       "label": "Files & Sync",
       "icon": "folder",
+      "color": "#409cff",
       "blurb": "File managers, drag-and-drop shelves, backup and archiving.",
-      "count": 3,
-      "color": "#409cff"
+      "count": 3
     },
     {
       "id": "system",
       "label": "System & Maintenance",
       "icon": "gear",
+      "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 4,
-      "color": "#98989d"
+      "count": 4
     },
     {
       "id": "web",
       "label": "Web & Templates",
       "icon": "browser",
+      "color": "#66d4cf",
       "blurb": "Portfolio sites, resumes, dashboards and web templates.",
-      "count": 3,
-      "color": "#66d4cf"
+      "count": 3
     },
     {
       "id": "devtools",
       "label": "Developer Tools",
       "icon": "hammer",
+      "color": "#ac8e68",
       "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
-      "count": 1,
-      "color": "#ac8e68"
+      "count": 1
     },
     {
       "id": "fun",
       "label": "Fun & Desktop Toys",
       "icon": "sparkle",
+      "color": "#ff8cc8",
       "blurb": "Purely delightful, mostly useless, entirely worth installing.",
-      "count": 1,
-      "color": "#ff8cc8"
+      "count": 1
     }
   ],
   "tags": [
@@ -433,6 +433,7 @@
       "name": "powerlevel10k",
       "owner": "romkatv",
       "avatar": "https://avatars.githubusercontent.com/u/1282067?v=4",
+      "icon": "",
       "url": "https://github.com/romkatv/powerlevel10k",
       "homepage": "",
       "description": "A Zsh theme",
@@ -445,18 +446,18 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 54929,
+      "stars": 54927,
       "forks": 2440,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T09:23:06Z",
-      "icon": ""
+      "pushed_at": "2026-08-15T09:23:06Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
       "name": "cherry-studio",
       "owner": "CherryHQ",
       "avatar": "https://avatars.githubusercontent.com/u/187777663?v=4",
+      "icon": "icons/CherryHQ__cherry-studio.png",
       "url": "https://github.com/CherryHQ/cherry-studio",
       "homepage": "https://cherryai.com",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
@@ -476,18 +477,18 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50700,
-      "forks": 4808,
+      "stars": 50715,
+      "forks": 4810,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T09:25:13Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T12:54:17Z"
     },
     {
       "full_name": "diegosouzapw/OmniRoute",
       "name": "OmniRoute",
       "owner": "diegosouzapw",
       "avatar": "https://avatars.githubusercontent.com/u/8016841?v=4",
+      "icon": "icons/diegosouzapw__OmniRoute.png",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "homepage": "https://omniroute.online",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…",
@@ -510,18 +511,18 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50110,
-      "forks": 6815,
+      "stars": 50201,
+      "forks": 6832,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-18T09:16:31Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T12:11:06Z"
     },
     {
       "full_name": "iina/iina",
       "name": "iina",
       "owner": "iina",
       "avatar": "https://avatars.githubusercontent.com/u/35151645?v=4",
+      "icon": "icons/iina__iina.png",
       "url": "https://github.com/iina/iina",
       "homepage": "https://iina.io",
       "description": "The modern video player for macOS.",
@@ -539,18 +540,18 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 45997,
+      "stars": 46000,
       "forks": 2895,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T02:17:06Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T02:17:06Z"
     },
     {
       "full_name": "RSSNext/Folo",
       "name": "Folo",
       "owner": "RSSNext",
       "avatar": "https://avatars.githubusercontent.com/u/95456295?v=4",
+      "icon": "icons/RSSNext__Folo.png",
       "url": "https://github.com/RSSNext/Folo",
       "homepage": "https://app.folo.is",
       "description": "Folo is the AI RSS Reader",
@@ -573,14 +574,14 @@
       "forks": 2110,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T23:35:22Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T23:35:22Z"
     },
     {
       "full_name": "utmapp/UTM",
       "name": "UTM",
       "owner": "utmapp",
       "avatar": "https://avatars.githubusercontent.com/u/49966544?v=4",
+      "icon": "icons/utmapp__UTM.png",
       "url": "https://github.com/utmapp/UTM",
       "homepage": "https://getutm.app",
       "description": "Virtual machines for iOS and macOS",
@@ -601,18 +602,18 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35047,
+      "stars": 35046,
       "forks": 1784,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-05T07:54:18Z",
-      "icon": ""
+      "pushed_at": "2026-08-05T07:54:18Z"
     },
     {
       "full_name": "qier222/YesPlayMusic",
       "name": "YesPlayMusic",
       "owner": "qier222",
       "avatar": "https://avatars.githubusercontent.com/u/68148142?v=4",
+      "icon": "icons/qier222__YesPlayMusic.png",
       "url": "https://github.com/qier222/YesPlayMusic",
       "homepage": "https://music.qier222.com",
       "description": "A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.",
@@ -640,14 +641,14 @@
       "forks": 4677,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-14T12:57:40Z",
-      "icon": ""
+      "pushed_at": "2026-06-14T12:57:40Z"
     },
     {
       "full_name": "cjpais/Handy",
       "name": "Handy",
       "owner": "cjpais",
       "avatar": "https://avatars.githubusercontent.com/u/1559480?v=4",
+      "icon": "icons/cjpais__Handy.png",
       "url": "https://github.com/cjpais/Handy",
       "homepage": "https://handy.computer",
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
@@ -665,18 +666,18 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29843,
-      "forks": 2646,
+      "stars": 29857,
+      "forks": 2648,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-18T00:45:57Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T00:45:57Z"
     },
     {
       "full_name": "jordanbaird/Ice",
       "name": "Ice",
       "owner": "jordanbaird",
       "avatar": "https://avatars.githubusercontent.com/u/90936861?v=4",
+      "icon": "icons/jordanbaird__Ice.png",
       "url": "https://github.com/jordanbaird/Ice",
       "homepage": "https://icemenubar.app",
       "description": "Powerful menu bar manager for macOS",
@@ -697,18 +698,18 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29300,
+      "stars": 29302,
       "forks": 843,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2025-09-20T20:28:17Z",
-      "icon": ""
+      "pushed_at": "2025-09-20T20:28:17Z"
     },
     {
       "full_name": "mattermost-community/focalboard",
       "name": "focalboard",
       "owner": "mattermost-community",
       "avatar": "https://avatars.githubusercontent.com/u/165817188?v=4",
+      "icon": "icons/mattermost-community__focalboard.png",
       "url": "https://github.com/mattermost-community/focalboard",
       "homepage": "https://www.focalboard.com",
       "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
@@ -734,14 +735,14 @@
       "forks": 2576,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-18T16:05:00Z",
-      "icon": ""
+      "pushed_at": "2026-05-18T16:05:00Z"
     },
     {
       "full_name": "readest/readest",
       "name": "readest",
       "owner": "readest",
       "avatar": "https://avatars.githubusercontent.com/u/190965649?v=4",
+      "icon": "icons/readest__readest.png",
       "url": "https://github.com/readest/readest",
       "homepage": "https://readest.com",
       "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…",
@@ -764,18 +765,18 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23513,
-      "forks": 1481,
+      "stars": 23517,
+      "forks": 1480,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:42:30Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T11:44:00Z"
     },
     {
       "full_name": "ayangweb/BongoCat",
       "name": "BongoCat",
       "owner": "ayangweb",
       "avatar": "https://avatars.githubusercontent.com/u/75017711?v=4",
+      "icon": "icons/ayangweb__BongoCat.png",
       "url": "https://github.com/ayangweb/BongoCat",
       "homepage": "https://github.com/ayangweb/Awesome-BongoCat",
       "description": "A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.",
@@ -797,18 +798,18 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22638,
+      "stars": 22644,
       "forks": 1094,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-04-28T07:33:13Z",
-      "icon": ""
+      "pushed_at": "2026-04-28T07:33:13Z"
     },
     {
       "full_name": "p0deje/Maccy",
       "name": "Maccy",
       "owner": "p0deje",
       "avatar": "https://avatars.githubusercontent.com/u/665846?v=4",
+      "icon": "icons/p0deje__Maccy.png",
       "url": "https://github.com/p0deje/Maccy",
       "homepage": "https://maccy.app",
       "description": "Lightweight clipboard manager for macOS",
@@ -823,18 +824,18 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21214,
+      "stars": 21218,
       "forks": 1111,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-13T00:05:03Z",
-      "icon": ""
+      "pushed_at": "2026-08-13T00:05:03Z"
     },
     {
       "full_name": "CapSoftware/Cap",
       "name": "Cap",
       "owner": "CapSoftware",
       "avatar": "https://avatars.githubusercontent.com/u/151241629?v=4",
+      "icon": "icons/CapSoftware__Cap.svg",
       "url": "https://github.com/CapSoftware/Cap",
       "homepage": "https://cap.so",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
@@ -855,18 +856,18 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 20943,
-      "forks": 1785,
+      "stars": 20950,
+      "forks": 1788,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-16T18:30:27Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T18:30:27Z"
     },
     {
       "full_name": "obsidianmd/obsidian-releases",
       "name": "obsidian-releases",
       "owner": "obsidianmd",
       "avatar": "https://avatars.githubusercontent.com/u/65011256?v=4",
+      "icon": "",
       "url": "https://github.com/obsidianmd/obsidian-releases",
       "homepage": "https://obsidian.md",
       "description": "Community plugins list, theme list, and releases of Obsidian.",
@@ -884,18 +885,18 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20896,
+      "stars": 20901,
       "forks": 7613,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T08:28:36Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T12:29:04Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
       "name": "tolaria",
       "owner": "refactoringhq",
       "avatar": "https://avatars.githubusercontent.com/u/263141683?v=4",
+      "icon": "icons/refactoringhq__tolaria.png",
       "url": "https://github.com/refactoringhq/tolaria",
       "homepage": "https://tolaria.md",
       "description": "Desktop app to manage markdown knowledge bases",
@@ -906,18 +907,18 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19500,
+      "stars": 19503,
       "forks": 1358,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:26:43Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T11:53:36Z"
     },
     {
       "full_name": "amir1376/ab-download-manager",
       "name": "ab-download-manager",
       "owner": "amir1376",
       "avatar": "https://avatars.githubusercontent.com/u/38394888?v=4",
+      "icon": "icons/amir1376__ab-download-manager.png",
       "url": "https://github.com/amir1376/ab-download-manager",
       "homepage": "https://abdownloadmanager.com",
       "description": "A Download Manager that speeds up your downloads",
@@ -938,18 +939,18 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17297,
+      "stars": 17302,
       "forks": 891,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-14T05:45:37Z",
-      "icon": ""
+      "pushed_at": "2026-08-14T05:45:37Z"
     },
     {
       "full_name": "ianyh/Amethyst",
       "name": "Amethyst",
       "owner": "ianyh",
       "avatar": "https://avatars.githubusercontent.com/u/212270?v=4",
+      "icon": "icons/ianyh__Amethyst.png",
       "url": "https://github.com/ianyh/Amethyst",
       "homepage": "https://ianyh.com/amethyst/",
       "description": "Automatic tiling window manager for macOS à la xmonad.",
@@ -969,14 +970,14 @@
       "forks": 528,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T00:32:39Z",
-      "icon": ""
+      "pushed_at": "2026-08-11T00:32:39Z"
     },
     {
       "full_name": "lwouis/alt-tab-macos",
       "name": "alt-tab-macos",
       "owner": "lwouis",
       "avatar": "https://avatars.githubusercontent.com/u/106195?v=4",
+      "icon": "icons/lwouis__alt-tab-macos.png",
       "url": "https://github.com/lwouis/alt-tab-macos",
       "homepage": "https://alt-tab.app",
       "description": "Windows alt-tab on macOS",
@@ -1001,14 +1002,14 @@
       "forks": 834,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-06T08:40:13Z",
-      "icon": ""
+      "pushed_at": "2026-08-06T08:40:13Z"
     },
     {
       "full_name": "keycastr/keycastr",
       "name": "keycastr",
       "owner": "keycastr",
       "avatar": "https://avatars.githubusercontent.com/u/7377825?v=4",
+      "icon": "",
       "url": "https://github.com/keycastr/keycastr",
       "homepage": "",
       "description": "KeyCastr, an open-source keystroke visualizer",
@@ -1019,18 +1020,18 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15045,
+      "stars": 15047,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
-      "pushed_at": "2026-05-11T00:50:56Z",
-      "icon": ""
+      "pushed_at": "2026-05-11T00:50:56Z"
     },
     {
       "full_name": "alienator88/Pearcleaner",
       "name": "Pearcleaner",
       "owner": "alienator88",
       "avatar": "https://avatars.githubusercontent.com/u/6263626?v=4",
+      "icon": "icons/alienator88__Pearcleaner.png",
       "url": "https://github.com/alienator88/Pearcleaner",
       "homepage": "https://itsalin.com/appInfo/?id=pearcleaner",
       "description": "A free, source-available and fair-code licensed mac app cleaner",
@@ -1041,18 +1042,18 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14352,
+      "stars": 14353,
       "forks": 365,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-06-22T18:49:18Z",
-      "icon": ""
+      "pushed_at": "2026-06-22T18:49:18Z"
     },
     {
       "full_name": "objective-see/LuLu",
       "name": "LuLu",
       "owner": "objective-see",
       "avatar": "https://avatars.githubusercontent.com/u/11327812?v=4",
+      "icon": "icons/objective-see__LuLu.png",
       "url": "https://github.com/objective-see/LuLu",
       "homepage": "https://objective-see.org/products/lulu.html",
       "description": "LuLu is the free open-source macOS firewall",
@@ -1063,18 +1064,18 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13067,
+      "stars": 13068,
       "forks": 594,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T16:19:32Z",
-      "icon": ""
+      "pushed_at": "2026-08-05T16:19:32Z"
     },
     {
       "full_name": "mas-cli/mas",
       "name": "mas",
       "owner": "mas-cli",
       "avatar": "https://avatars.githubusercontent.com/u/22406844?v=4",
+      "icon": "",
       "url": "https://github.com/mas-cli/mas",
       "homepage": "",
       "description": "Package: Mac App Store command-line interface",
@@ -1095,18 +1096,18 @@
         "software-update"
       ],
       "language": "Swift",
-      "stars": 12304,
+      "stars": 12306,
       "forks": 296,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T12:46:16Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T12:46:16Z"
     },
     {
       "full_name": "mrkai77/Loop",
       "name": "Loop",
       "owner": "mrkai77",
       "avatar": "https://avatars.githubusercontent.com/u/68963405?v=4",
+      "icon": "icons/mrkai77__Loop.png",
       "url": "https://github.com/mrkai77/Loop",
       "homepage": "",
       "description": "Window management made elegant.",
@@ -1131,14 +1132,14 @@
       "forks": 258,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-09T16:22:23Z",
-      "icon": ""
+      "pushed_at": "2026-08-09T16:22:23Z"
     },
     {
       "full_name": "noah-nuebling/mac-mouse-fix",
       "name": "mac-mouse-fix",
       "owner": "noah-nuebling",
       "avatar": "https://avatars.githubusercontent.com/u/40808343?v=4",
+      "icon": "icons/noah-nuebling__mac-mouse-fix.png",
       "url": "https://github.com/noah-nuebling/mac-mouse-fix",
       "homepage": "https://macmousefix.com/",
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
@@ -1158,18 +1159,18 @@
         "remapping"
       ],
       "language": "Objective-C",
-      "stars": 10698,
+      "stars": 10699,
       "forks": 391,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T07:48:59Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T07:48:59Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
       "name": "boring.notch",
       "owner": "TheBoredTeam",
       "avatar": "https://avatars.githubusercontent.com/u/180768848?v=4",
+      "icon": "icons/TheBoredTeam__boring.notch.png",
       "url": "https://github.com/TheBoredTeam/boring.notch",
       "homepage": "https://theboring.name/",
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
@@ -1180,18 +1181,18 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 10380,
+      "stars": 10383,
       "forks": 935,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T22:34:45Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T22:34:45Z"
     },
     {
       "full_name": "AnInsomniacy/motrix-next",
       "name": "motrix-next",
       "owner": "AnInsomniacy",
       "avatar": "https://avatars.githubusercontent.com/u/62804262?v=4",
+      "icon": "icons/AnInsomniacy__motrix-next.png",
       "url": "https://github.com/AnInsomniacy/motrix-next",
       "homepage": "https://motrix-next.pages.dev",
       "description": "A full-featured download manager — rebuilt from the ground up",
@@ -1202,18 +1203,18 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9548,
+      "stars": 9552,
       "forks": 299,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-03T11:57:16Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T12:02:27Z"
     },
     {
       "full_name": "tw93/MiaoYan",
       "name": "MiaoYan",
       "owner": "tw93",
       "avatar": "https://avatars.githubusercontent.com/u/8736212?v=4",
+      "icon": "icons/tw93__MiaoYan.svg",
       "url": "https://github.com/tw93/MiaoYan",
       "homepage": "https://apps.apple.com/cn/app/miaoyan/id6759252269",
       "description": "Lightweight Markdown app to help you write great sentences.",
@@ -1234,18 +1235,18 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 8583,
+      "stars": 8584,
       "forks": 501,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T14:48:21Z",
-      "icon": ""
+      "pushed_at": "2026-08-15T14:48:21Z"
     },
     {
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
       "name": "Ghost-Downloader-3",
       "owner": "XiaoYouChR",
       "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
+      "icon": "icons/XiaoYouChR__Ghost-Downloader-3.png",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "homepage": "https://gd.xychr.com/",
       "description": "A full-featured multi-threaded download manager — the only downloader you need.",
@@ -1267,18 +1268,18 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8418,
+      "stars": 8426,
       "forks": 525,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T08:11:52Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T08:11:52Z"
     },
     {
       "full_name": "coteditor/CotEditor",
       "name": "CotEditor",
       "owner": "coteditor",
       "avatar": "https://avatars.githubusercontent.com/u/4069840?v=4",
+      "icon": "icons/coteditor__CotEditor.png",
       "url": "https://github.com/coteditor/CotEditor",
       "homepage": "https://coteditor.com",
       "description": "Lightweight Plain Text Editor for macOS",
@@ -1302,14 +1303,14 @@
       "forks": 528,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T11:32:12Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T11:32:12Z"
     },
     {
       "full_name": "peazip/PeaZip",
       "name": "PeaZip",
       "owner": "peazip",
       "avatar": "https://avatars.githubusercontent.com/u/479850?v=4",
+      "icon": "",
       "url": "https://github.com/peazip/PeaZip",
       "homepage": "https://peazip.github.io",
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ…",
@@ -1332,18 +1333,18 @@
         "rar"
       ],
       "language": "Pascal",
-      "stars": 7759,
+      "stars": 7761,
       "forks": 398,
       "license": "LGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T13:01:57Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T13:01:57Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
       "name": "fsnotes",
       "owner": "glushchenko",
       "avatar": "https://avatars.githubusercontent.com/u/1089917?v=4",
+      "icon": "icons/glushchenko__fsnotes.png",
       "url": "https://github.com/glushchenko/fsnotes",
       "homepage": "https://fsnot.es",
       "description": "Notes manager for macOS/iOS",
@@ -1367,14 +1368,14 @@
       "forks": 572,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T18:05:25Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T18:05:25Z"
     },
     {
       "full_name": "milanvarady/Applite",
       "name": "Applite",
       "owner": "milanvarady",
       "avatar": "https://avatars.githubusercontent.com/u/61704770?v=4",
+      "icon": "",
       "url": "https://github.com/milanvarady/Applite",
       "homepage": "https://aerolite.dev/applite",
       "description": "User-friendly GUI macOS application for Homebrew Casks",
@@ -1393,18 +1394,18 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 6943,
+      "stars": 6945,
       "forks": 176,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-07T12:31:50Z",
-      "icon": ""
+      "pushed_at": "2026-08-07T12:31:50Z"
     },
     {
       "full_name": "hovancik/stretchly",
       "name": "stretchly",
       "owner": "hovancik",
       "avatar": "https://avatars.githubusercontent.com/u/4745859?v=4",
+      "icon": "icons/hovancik__stretchly.svg",
       "url": "https://github.com/hovancik/stretchly",
       "homepage": "https://hovancik.net/stretchly",
       "description": "The break time reminder app",
@@ -1426,18 +1427,18 @@
         "windows"
       ],
       "language": "JavaScript",
-      "stars": 6477,
+      "stars": 6479,
       "forks": 552,
       "license": "BSD-2-Clause",
       "archived": false,
-      "pushed_at": "2026-08-14T08:51:57Z",
-      "icon": ""
+      "pushed_at": "2026-08-14T08:51:57Z"
     },
     {
       "full_name": "MetaCubeX/ClashX.Meta",
       "name": "ClashX.Meta",
       "owner": "MetaCubeX",
       "avatar": "https://avatars.githubusercontent.com/u/84378451?v=4",
+      "icon": "icons/MetaCubeX__ClashX.Meta.png",
       "url": "https://github.com/MetaCubeX/ClashX.Meta",
       "homepage": "",
       "description": "A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.",
@@ -1451,14 +1452,14 @@
       "forks": 647,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T11:44:01Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T11:44:01Z"
     },
     {
       "full_name": "666OS/ClashMac",
       "name": "ClashMac",
       "owner": "666OS",
       "avatar": "https://avatars.githubusercontent.com/u/179918304?v=4",
+      "icon": "",
       "url": "https://github.com/666OS/ClashMac",
       "homepage": "https://clashmac.app",
       "description": "Native Proxy Experience Built for macOS",
@@ -1481,14 +1482,14 @@
       "forks": 259,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-07-24T14:45:34Z",
-      "icon": ""
+      "pushed_at": "2026-07-24T14:45:34Z"
     },
     {
       "full_name": "ejbills/DockDoor",
       "name": "DockDoor",
       "owner": "ejbills",
       "avatar": "https://avatars.githubusercontent.com/u/74191134?v=4",
+      "icon": "icons/ejbills__DockDoor.png",
       "url": "https://github.com/ejbills/DockDoor",
       "homepage": "https://dockdoor.net",
       "description": "Window peeking, alt-tab and other enhancements for macOS",
@@ -1500,18 +1501,18 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 5914,
-      "forks": 210,
+      "stars": 5916,
+      "forks": 211,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-11T00:49:27Z",
-      "icon": ""
+      "pushed_at": "2026-08-11T00:49:27Z"
     },
     {
       "full_name": "jacklandrin/OnlySwitch",
       "name": "OnlySwitch",
       "owner": "jacklandrin",
       "avatar": "https://avatars.githubusercontent.com/u/3782279?v=4",
+      "icon": "icons/jacklandrin__OnlySwitch.png",
       "url": "https://github.com/jacklandrin/OnlySwitch",
       "homepage": "https://onlyswitch.click/",
       "description": "All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
@@ -1539,14 +1540,14 @@
       "forks": 239,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T20:50:04Z",
-      "icon": ""
+      "pushed_at": "2026-08-11T20:50:04Z"
     },
     {
       "full_name": "momenbasel/PureMac",
       "name": "PureMac",
       "owner": "momenbasel",
       "avatar": "https://avatars.githubusercontent.com/u/8724766?v=4",
+      "icon": "icons/momenbasel__PureMac.png",
       "url": "https://github.com/momenbasel/PureMac",
       "homepage": "https://www.moamenbasel.com/PureMac/",
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
@@ -1568,18 +1569,18 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 5821,
+      "stars": 5826,
       "forks": 321,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T22:48:27Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T22:48:27Z"
     },
     {
       "full_name": "feschber/lan-mouse",
       "name": "lan-mouse",
       "owner": "feschber",
       "avatar": "https://avatars.githubusercontent.com/u/40996949?v=4",
+      "icon": "",
       "url": "https://github.com/feschber/lan-mouse",
       "homepage": "",
       "description": "Mouse & keyboard sharing via LAN",
@@ -1602,18 +1603,18 @@
         "linux"
       ],
       "language": "Rust",
-      "stars": 5138,
+      "stars": 5139,
       "forks": 248,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-06-28T14:49:45Z",
-      "icon": ""
+      "pushed_at": "2026-06-28T14:49:45Z"
     },
     {
       "full_name": "mangerlahn/Latest",
       "name": "Latest",
       "owner": "mangerlahn",
       "avatar": "https://avatars.githubusercontent.com/u/11056766?v=4",
+      "icon": "icons/mangerlahn__Latest.png",
       "url": "https://github.com/mangerlahn/Latest",
       "homepage": "https://max.codes/latest",
       "description": "A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
@@ -1630,18 +1631,18 @@
         "updater"
       ],
       "language": "Swift",
-      "stars": 4737,
+      "stars": 4738,
       "forks": 142,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-07-18T07:25:39Z",
-      "icon": ""
+      "pushed_at": "2026-07-18T07:25:39Z"
     },
     {
       "full_name": "buresdv/Cork",
       "name": "Cork",
       "owner": "buresdv",
       "avatar": "https://avatars.githubusercontent.com/u/22037369?v=4",
+      "icon": "",
       "url": "https://github.com/buresdv/Cork",
       "homepage": "https://corkmac.app",
       "description": "A fast GUI for Homebrew written in SwiftUI, AI-free",
@@ -1666,14 +1667,14 @@
       "forks": 277,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T20:26:35Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T20:26:35Z"
     },
     {
       "full_name": "briefercloud/briefer",
       "name": "briefer",
       "owner": "briefercloud",
       "avatar": "https://avatars.githubusercontent.com/u/118315700?v=4",
+      "icon": "",
       "url": "https://github.com/briefercloud/briefer",
       "homepage": "https://briefer.cloud",
       "description": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.",
@@ -1697,14 +1698,14 @@
       "forks": 291,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2025-08-07T13:20:05Z",
-      "icon": ""
+      "pushed_at": "2025-08-07T13:20:05Z"
     },
     {
       "full_name": "ashutosh1919/masterPortfolio",
       "name": "masterPortfolio",
       "owner": "ashutosh1919",
       "avatar": "https://avatars.githubusercontent.com/u/20843596?v=4",
+      "icon": "icons/ashutosh1919__masterPortfolio.svg",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
       "homepage": "https://ashutoshhathidara.com",
       "description": "The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
@@ -1728,14 +1729,14 @@
       "forks": 1714,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-01-20T03:10:09Z",
-      "icon": ""
+      "pushed_at": "2026-01-20T03:10:09Z"
     },
     {
       "full_name": "Ebullioscopic/Atoll",
       "name": "Atoll",
       "owner": "Ebullioscopic",
       "avatar": "https://avatars.githubusercontent.com/u/83903166?v=4",
+      "icon": "icons/Ebullioscopic__Atoll.png",
       "url": "https://github.com/Ebullioscopic/Atoll",
       "homepage": "https://getatoll.app",
       "description": "Dynamic Island for macOS",
@@ -1751,18 +1752,18 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 3964,
+      "stars": 3966,
       "forks": 265,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T00:20:15Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T11:29:13Z"
     },
     {
       "full_name": "f/textream",
       "name": "textream",
       "owner": "f",
       "avatar": "https://avatars.githubusercontent.com/u/196477?v=4",
+      "icon": "icons/f__textream.png",
       "url": "https://github.com/f/textream",
       "homepage": "https://textream.net/",
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay…",
@@ -1778,18 +1779,18 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3610,
+      "stars": 3611,
       "forks": 252,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-12T22:32:03Z",
-      "icon": ""
+      "pushed_at": "2026-08-12T22:32:03Z"
     },
     {
       "full_name": "ZToolsCenter/ZTools",
       "name": "ZTools",
       "owner": "ZToolsCenter",
       "avatar": "https://avatars.githubusercontent.com/u/248816589?v=4",
+      "icon": "icons/ZToolsCenter__ZTools.png",
       "url": "https://github.com/ZToolsCenter/ZTools",
       "homepage": "",
       "description": "An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.",
@@ -1799,18 +1800,18 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3556,
+      "stars": 3557,
       "forks": 324,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-16T02:05:01Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T02:05:01Z"
     },
     {
       "full_name": "ivoronin/TomatoBar",
       "name": "TomatoBar",
       "owner": "ivoronin",
       "avatar": "https://avatars.githubusercontent.com/u/1638389?v=4",
+      "icon": "icons/ivoronin__TomatoBar.png",
       "url": "https://github.com/ivoronin/TomatoBar",
       "homepage": "",
       "description": "World's neatest Pomodoro timer for macOS menu bar",
@@ -1833,14 +1834,14 @@
       "forks": 203,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-29T06:40:50Z",
-      "icon": ""
+      "pushed_at": "2026-05-29T06:40:50Z"
     },
     {
       "full_name": "ospfranco/sol",
       "name": "sol",
       "owner": "ospfranco",
       "avatar": "https://avatars.githubusercontent.com/u/1634213?v=4",
+      "icon": "icons/ospfranco__sol.png",
       "url": "https://github.com/ospfranco/sol",
       "homepage": "",
       "description": "MacOS launcher & command palette",
@@ -1860,18 +1861,18 @@
         "react-native"
       ],
       "language": "TypeScript",
-      "stars": 3057,
+      "stars": 3058,
       "forks": 176,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-14T12:56:22Z",
-      "icon": ""
+      "pushed_at": "2026-08-14T12:56:22Z"
     },
     {
       "full_name": "RoversX/LaunchNext",
       "name": "LaunchNext",
       "owner": "RoversX",
       "avatar": "https://avatars.githubusercontent.com/u/85817538?v=4",
+      "icon": "",
       "url": "https://github.com/RoversX/LaunchNext",
       "homepage": "https://closex.org/launchnext/",
       "description": "Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.",
@@ -1886,14 +1887,14 @@
       "forks": 141,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T05:00:23Z",
-      "icon": ""
+      "pushed_at": "2026-08-13T05:00:23Z"
     },
     {
       "full_name": "artginzburg/MiddleClick",
       "name": "MiddleClick",
       "owner": "artginzburg",
       "avatar": "https://avatars.githubusercontent.com/u/46137336?v=4",
+      "icon": "icons/artginzburg__MiddleClick.png",
       "url": "https://github.com/artginzburg/MiddleClick",
       "homepage": "https://wheelclick.app",
       "description": " \"Wheel click\" with three-finger click/tap for Trackpad and Magic Mouse.",
@@ -1912,14 +1913,14 @@
       "forks": 123,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-01T17:16:35Z",
-      "icon": ""
+      "pushed_at": "2026-08-01T17:16:35Z"
     },
     {
       "full_name": "wickenico/WailBrew",
       "name": "WailBrew",
       "owner": "wickenico",
       "avatar": "https://avatars.githubusercontent.com/u/35769900?v=4",
+      "icon": "icons/wickenico__WailBrew.png",
       "url": "https://github.com/wickenico/WailBrew",
       "homepage": "https://wailbrew.app",
       "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
@@ -1943,14 +1944,14 @@
       "forks": 105,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-15T22:08:30Z",
-      "icon": ""
+      "pushed_at": "2026-08-15T22:08:30Z"
     },
     {
       "full_name": "hainguyents13/mechvibes",
       "name": "mechvibes",
       "owner": "hainguyents13",
       "avatar": "https://avatars.githubusercontent.com/u/9494293?v=4",
+      "icon": "icons/hainguyents13__mechvibes.png",
       "url": "https://github.com/hainguyents13/mechvibes",
       "homepage": "https://mechvibes.com",
       "description": "Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs.",
@@ -1972,14 +1973,14 @@
       "forks": 209,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-09T10:58:41Z",
-      "icon": ""
+      "pushed_at": "2026-08-09T10:58:41Z"
     },
     {
       "full_name": "steipete/RepoBar",
       "name": "RepoBar",
       "owner": "steipete",
       "avatar": "https://avatars.githubusercontent.com/u/58493?v=4",
+      "icon": "icons/steipete__RepoBar.png",
       "url": "https://github.com/steipete/RepoBar",
       "homepage": "https://repo.bar",
       "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
@@ -2000,14 +2001,14 @@
       "forks": 129,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-13T10:39:47Z",
-      "icon": ""
+      "pushed_at": "2026-08-13T10:39:47Z"
     },
     {
       "full_name": "Lakr233/NotchDrop",
       "name": "NotchDrop",
       "owner": "Lakr233",
       "avatar": "https://avatars.githubusercontent.com/u/25259084?v=4",
+      "icon": "icons/Lakr233__NotchDrop.png",
       "url": "https://github.com/Lakr233/NotchDrop",
       "homepage": "",
       "description": "Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop",
@@ -2023,14 +2024,14 @@
       "forks": 155,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-18T17:50:03Z",
-      "icon": ""
+      "pushed_at": "2026-05-18T17:50:03Z"
     },
     {
       "full_name": "alienator88/Sentinel",
       "name": "Sentinel",
       "owner": "alienator88",
       "avatar": "https://avatars.githubusercontent.com/u/6263626?v=4",
+      "icon": "icons/alienator88__Sentinel.png",
       "url": "https://github.com/alienator88/Sentinel",
       "homepage": "https://itsalin.com/appInfo/?id=sentinel",
       "description": "Configure Gatekeeper, remove apps from quarantine and self-sign apps",
@@ -2055,14 +2056,14 @@
       "forks": 55,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-11T16:21:53Z",
-      "icon": ""
+      "pushed_at": "2026-05-11T16:21:53Z"
     },
     {
       "full_name": "leaves615/KeyboardHolder",
       "name": "KeyboardHolder",
       "owner": "leaves615",
       "avatar": "https://avatars.githubusercontent.com/u/375323?v=4",
+      "icon": "",
       "url": "https://github.com/leaves615/KeyboardHolder",
       "homepage": "https://keyboardholder.leavesc.com/",
       "description": "No description on GitHub — open the repository to see what it does.",
@@ -2076,14 +2077,14 @@
       "forks": 38,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-08T08:34:52Z",
-      "icon": ""
+      "pushed_at": "2026-08-08T08:34:52Z"
     },
     {
       "full_name": "tom-james-watson/breaktimer-app",
       "name": "breaktimer-app",
       "owner": "tom-james-watson",
       "avatar": "https://avatars.githubusercontent.com/u/3852719?v=4",
+      "icon": "icons/tom-james-watson__breaktimer-app.svg",
       "url": "https://github.com/tom-james-watson/breaktimer-app",
       "homepage": "https://breaktimer.app",
       "description": "Manage periodic breaks. Avoid eye-strain and RSI.",
@@ -2098,14 +2099,14 @@
       "forks": 140,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-10T23:26:01Z",
-      "icon": ""
+      "pushed_at": "2026-08-10T23:26:01Z"
     },
     {
       "full_name": "rsyncOSX/RsyncUI",
       "name": "RsyncUI",
       "owner": "rsyncOSX",
       "avatar": "https://avatars.githubusercontent.com/u/22427340?v=4",
+      "icon": "icons/rsyncOSX__RsyncUI.png",
       "url": "https://github.com/rsyncOSX/RsyncUI",
       "homepage": "https://rsyncui.netlify.app/docs/",
       "description": "A SwiftUI based macOS GUI for rsync.",
@@ -2128,14 +2129,14 @@
       "forks": 31,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-14T05:16:51Z",
-      "icon": ""
+      "pushed_at": "2026-08-14T05:16:51Z"
     },
     {
       "full_name": "xjbeta/iina-plus",
       "name": "iina-plus",
       "owner": "xjbeta",
       "avatar": "https://avatars.githubusercontent.com/u/11794321?v=4",
+      "icon": "icons/xjbeta__iina-plus.png",
       "url": "https://github.com/xjbeta/iina-plus",
       "homepage": "",
       "description": "Extra danmaku support for iina. (iina 弹幕支持",
@@ -2159,14 +2160,14 @@
       "forks": 74,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T12:45:32Z",
-      "icon": ""
+      "pushed_at": "2026-08-05T12:45:32Z"
     },
     {
       "full_name": "xykong/flux-markdown",
       "name": "flux-markdown",
       "owner": "xykong",
       "avatar": "https://avatars.githubusercontent.com/u/1866759?v=4",
+      "icon": "icons/xykong__flux-markdown.png",
       "url": "https://github.com/xykong/flux-markdown",
       "homepage": "",
       "description": "Markdown Preview Enhanced for macOS QuickLook",
@@ -2181,14 +2182,14 @@
       "forks": 34,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-14T03:27:04Z",
-      "icon": ""
+      "pushed_at": "2026-08-14T03:27:04Z"
     },
     {
       "full_name": "Lakr233/FlowDown",
       "name": "FlowDown",
       "owner": "Lakr233",
       "avatar": "https://avatars.githubusercontent.com/u/25259084?v=4",
+      "icon": "icons/Lakr233__FlowDown.png",
       "url": "https://github.com/Lakr233/FlowDown",
       "homepage": "",
       "description": "Https://flowdown.ai/",
@@ -2203,14 +2204,14 @@
       "forks": 117,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T16:56:45Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T16:56:45Z"
     },
     {
       "full_name": "lzhgus/Capso",
       "name": "Capso",
       "owner": "lzhgus",
       "avatar": "https://avatars.githubusercontent.com/u/5875125?v=4",
+      "icon": "icons/lzhgus__Capso.png",
       "url": "https://github.com/lzhgus/Capso",
       "homepage": "https://www.awesomemacapp.com/app/capso",
       "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
@@ -2235,14 +2236,14 @@
       "forks": 57,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-17T23:43:07Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T23:43:07Z"
     },
     {
       "full_name": "josejuanqm/docky",
       "name": "docky",
       "owner": "josejuanqm",
       "avatar": "https://avatars.githubusercontent.com/u/7193708?v=4",
+      "icon": "icons/josejuanqm__docky.png",
       "url": "https://github.com/josejuanqm/docky",
       "homepage": "https://getdocky.com",
       "description": "Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout, widgets…",
@@ -2262,14 +2263,14 @@
       "forks": 60,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T16:06:35Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T16:06:35Z"
     },
     {
       "full_name": "msitarzewski/brew-browser",
       "name": "brew-browser",
       "owner": "msitarzewski",
       "avatar": "https://avatars.githubusercontent.com/u/1972242?v=4",
+      "icon": "icons/msitarzewski__brew-browser.png",
       "url": "https://github.com/msitarzewski/brew-browser",
       "homepage": "https://brew-browser.zerologic.com",
       "description": "Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.",
@@ -2284,14 +2285,14 @@
       "forks": 28,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-10T20:34:52Z",
-      "icon": ""
+      "pushed_at": "2026-08-10T20:34:52Z"
     },
     {
       "full_name": "kamillobinski/thock",
       "name": "thock",
       "owner": "kamillobinski",
       "avatar": "https://avatars.githubusercontent.com/u/48738560?v=4",
+      "icon": "icons/kamillobinski__thock.png",
       "url": "https://github.com/kamillobinski/thock",
       "homepage": "https://thockapp.com",
       "description": "THOCK your mac keyboard",
@@ -2316,14 +2317,14 @@
       "forks": 46,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-05T12:12:22Z",
-      "icon": ""
+      "pushed_at": "2026-06-05T12:12:22Z"
     },
     {
       "full_name": "ggkevinnnn/LaunchNow",
       "name": "LaunchNow",
       "owner": "ggkevinnnn",
       "avatar": "https://avatars.githubusercontent.com/u/216284817?v=4",
+      "icon": "",
       "url": "https://github.com/ggkevinnnn/LaunchNow",
       "homepage": "",
       "description": "Alternative Launchpad for MacOS Tahoe & Golden Gate.",
@@ -2338,14 +2339,14 @@
       "forks": 50,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-07-15T11:38:24Z",
-      "icon": ""
+      "pushed_at": "2026-07-15T11:38:24Z"
     },
     {
       "full_name": "rokartur/BetterCmdTab",
       "name": "BetterCmdTab",
       "owner": "rokartur",
       "avatar": "https://avatars.githubusercontent.com/u/79342641?v=4",
+      "icon": "icons/rokartur__BetterCmdTab.png",
       "url": "https://github.com/rokartur/BetterCmdTab",
       "homepage": "https://bettercmdtab.app",
       "description": "Master your Mac’s ⌘Tab",
@@ -2367,14 +2368,14 @@
       "forks": 30,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T04:16:41Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T04:16:41Z"
     },
     {
       "full_name": "monuk7735/mew-notch",
       "name": "mew-notch",
       "owner": "monuk7735",
       "avatar": "https://avatars.githubusercontent.com/u/55363057?v=4",
+      "icon": "icons/monuk7735__mew-notch.png",
       "url": "https://github.com/monuk7735/mew-notch",
       "homepage": "https://monuk7735.github.io/mew-notch/",
       "description": "Make the Notches on newer Macs Useful!",
@@ -2395,14 +2396,14 @@
       "forks": 36,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-16T11:56:01Z",
-      "icon": ""
+      "pushed_at": "2026-08-16T11:56:01Z"
     },
     {
       "full_name": "crissNb/Dynamic-Island-Sketchybar",
       "name": "Dynamic-Island-Sketchybar",
       "owner": "crissNb",
       "avatar": "https://avatars.githubusercontent.com/u/83137305?v=4",
+      "icon": "",
       "url": "https://github.com/crissNb/Dynamic-Island-Sketchybar",
       "homepage": "",
       "description": "Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar",
@@ -2423,14 +2424,14 @@
       "forks": 32,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-09-02T08:21:49Z",
-      "icon": ""
+      "pushed_at": "2025-09-02T08:21:49Z"
     },
     {
       "full_name": "jackson-storm/DynamicNotch",
       "name": "DynamicNotch",
       "owner": "jackson-storm",
       "avatar": "https://avatars.githubusercontent.com/u/179767501?v=4",
+      "icon": "icons/jackson-storm__DynamicNotch.png",
       "url": "https://github.com/jackson-storm/DynamicNotch",
       "homepage": "https://dynamicnotch.evgeniy-petrukovich.workers.dev",
       "description": "Turn the MacBook notch into a living system surface.",
@@ -2454,14 +2455,14 @@
       "forks": 36,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-17T21:58:44Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T21:58:44Z"
     },
     {
       "full_name": "anges244/evie",
       "name": "evie",
       "owner": "anges244",
       "avatar": "https://avatars.githubusercontent.com/u/3290236?v=4",
+      "icon": "",
       "url": "https://github.com/anges244/evie",
       "homepage": "",
       "description": "A production-ready theme for your projects with a minimal style guide https://evie.undraw.co",
@@ -2482,14 +2483,14 @@
       "forks": 72,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2022-12-09T15:19:45Z",
-      "icon": ""
+      "pushed_at": "2022-12-09T15:19:45Z"
     },
     {
       "full_name": "Sanyam-G/switch",
       "name": "switch",
       "owner": "Sanyam-G",
       "avatar": "https://avatars.githubusercontent.com/u/95066206?v=4",
+      "icon": "icons/Sanyam-G__switch.png",
       "url": "https://github.com/Sanyam-G/switch",
       "homepage": "https://switch-dev.sanyamgarg.com",
       "description": "A keyboard-driven window switcher for macOS. Notarized. Free.",
@@ -2505,14 +2506,14 @@
       "forks": 36,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-13T05:03:34Z",
-      "icon": ""
+      "pushed_at": "2026-08-13T05:03:34Z"
     },
     {
       "full_name": "guilhermeborgesbastos/live-resume",
       "name": "live-resume",
       "owner": "guilhermeborgesbastos",
       "avatar": "https://avatars.githubusercontent.com/u/5444171?v=4",
+      "icon": "",
       "url": "https://github.com/guilhermeborgesbastos/live-resume",
       "homepage": "https://guilhermeborgesbastos.com/",
       "description": "A fast personal web app for building a professional single-page website and resume that highlights your skills and experience.",
@@ -2537,14 +2538,14 @@
       "forks": 273,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-09-01T18:57:46Z",
-      "icon": ""
+      "pushed_at": "2025-09-01T18:57:46Z"
     },
     {
       "full_name": "johnbean393/KeyType",
       "name": "KeyType",
       "owner": "johnbean393",
       "avatar": "https://avatars.githubusercontent.com/u/113509988?v=4",
+      "icon": "icons/johnbean393__KeyType.png",
       "url": "https://github.com/johnbean393/KeyType",
       "homepage": "",
       "description": "An open-source Cotypist with macOS system wide AI autocomplete",
@@ -2564,18 +2565,18 @@
         "llm"
       ],
       "language": "Swift",
-      "stars": 461,
+      "stars": 466,
       "forks": 22,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-06-27T17:18:28Z",
-      "icon": ""
+      "pushed_at": "2026-06-27T17:18:28Z"
     },
     {
       "full_name": "celve/Peninsula",
       "name": "Peninsula",
       "owner": "celve",
       "avatar": "https://avatars.githubusercontent.com/u/95223577?v=4",
+      "icon": "icons/celve__Peninsula.png",
       "url": "https://github.com/celve/Peninsula",
       "homepage": "",
       "description": "Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.",
@@ -2592,14 +2593,14 @@
       "forks": 7,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2025-10-10T07:50:39Z",
-      "icon": ""
+      "pushed_at": "2025-10-10T07:50:39Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
       "name": "dns-easy-switcher",
       "owner": "glinford",
       "avatar": "https://avatars.githubusercontent.com/u/7406497?v=4",
+      "icon": "icons/glinford__dns-easy-switcher.png",
       "url": "https://github.com/glinford/dns-easy-switcher",
       "homepage": "",
       "description": "DNS Easy Switcher (for MacOS)",
@@ -2614,14 +2615,14 @@
       "forks": 21,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-11-18T22:12:33Z",
-      "icon": ""
+      "pushed_at": "2025-11-18T22:12:33Z"
     },
     {
       "full_name": "romankurnovskii/BrewMate",
       "name": "BrewMate",
       "owner": "romankurnovskii",
       "avatar": "https://avatars.githubusercontent.com/u/59924334?v=4",
+      "icon": "icons/romankurnovskii__BrewMate.png",
       "url": "https://github.com/romankurnovskii/BrewMate",
       "homepage": "https://brewmate-macos.web.app",
       "description": "Homebrew GUI apps manager",
@@ -2643,14 +2644,14 @@
       "forks": 37,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T02:13:10Z",
-      "icon": ""
+      "pushed_at": "2026-08-17T02:13:10Z"
     },
     {
       "full_name": "lifedever/PasteMemo-app",
       "name": "PasteMemo-app",
       "owner": "lifedever",
       "avatar": "https://avatars.githubusercontent.com/u/3143306?v=4",
+      "icon": "icons/lifedever__PasteMemo-app.png",
       "url": "https://github.com/lifedever/PasteMemo-app",
       "homepage": "https://www.lifedever.com/PasteMemo/",
       "description": "PasteMemo - A clipboard manager for macOS",
@@ -2671,14 +2672,14 @@
       "forks": 30,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-18T00:56:33Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T12:57:38Z"
     },
     {
       "full_name": "altic-dev/PeekX",
       "name": "PeekX",
       "owner": "altic-dev",
       "avatar": "https://avatars.githubusercontent.com/u/224717674?v=4",
+      "icon": "icons/altic-dev__PeekX.png",
       "url": "https://github.com/altic-dev/PeekX",
       "homepage": "",
       "description": "Quick Look Extension for Folder Preview on macOS",
@@ -2693,14 +2694,14 @@
       "forks": 9,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2025-11-19T21:27:49Z",
-      "icon": ""
+      "pushed_at": "2025-11-19T21:27:49Z"
     },
     {
       "full_name": "Ender-Wang/EdgeMark",
       "name": "EdgeMark",
       "owner": "Ender-Wang",
       "avatar": "https://avatars.githubusercontent.com/u/33310255?v=4",
+      "icon": "icons/Ender-Wang__EdgeMark.png",
       "url": "https://github.com/Ender-Wang/EdgeMark",
       "homepage": "",
       "description": "More than a SideNotes alternative.",
@@ -2725,14 +2726,14 @@
       "forks": 16,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-10T13:38:10Z",
-      "icon": ""
+      "pushed_at": "2026-08-10T13:38:10Z"
     },
     {
       "full_name": "x0054/MKS",
       "name": "MKS",
       "owner": "x0054",
       "avatar": "https://avatars.githubusercontent.com/u/5726551?v=4",
+      "icon": "icons/x0054__MKS.png",
       "url": "https://github.com/x0054/MKS",
       "homepage": "",
       "description": "No description on GitHub — open the repository to see what it does.",
@@ -2746,14 +2747,14 @@
       "forks": 26,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2022-06-22T05:04:43Z",
-      "icon": ""
+      "pushed_at": "2022-06-22T05:04:43Z"
     },
     {
       "full_name": "403unlocker/bargozin-desktop",
       "name": "bargozin-desktop",
       "owner": "403unlocker",
       "avatar": "https://avatars.githubusercontent.com/u/170053323?v=4",
+      "icon": "icons/403unlocker__bargozin-desktop.png",
       "url": "https://github.com/403unlocker/bargozin-desktop",
       "homepage": "https://403unlocker.netlify.app/",
       "description": "DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers",
@@ -2778,14 +2779,14 @@
       "forks": 27,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T06:48:52Z",
-      "icon": ""
+      "pushed_at": "2026-08-18T06:48:52Z"
     },
     {
       "full_name": "Punshnut/macos-launchy",
       "name": "macos-launchy",
       "owner": "Punshnut",
       "avatar": "https://avatars.githubusercontent.com/u/200479332?v=4",
+      "icon": "icons/Punshnut__macos-launchy.png",
       "url": "https://github.com/Punshnut/macos-launchy",
       "homepage": "https://feuerbacher.me/projects/launchy",
       "description": "Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!",
@@ -2805,18 +2806,18 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 167,
+      "stars": 168,
       "forks": 8,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-07-26T07:39:29Z",
-      "icon": ""
+      "pushed_at": "2026-07-26T07:39:29Z"
     },
     {
       "full_name": "Licoy/StrokeMouse",
       "name": "StrokeMouse",
       "owner": "Licoy",
       "avatar": "https://avatars.githubusercontent.com/u/20410697?v=4",
+      "icon": "icons/Licoy__StrokeMouse.png",
       "url": "https://github.com/Licoy/StrokeMouse",
       "homepage": "https://strokemouse.com",
       "description": "MacOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts…",
@@ -2841,14 +2842,14 @@
       "forks": 8,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-13T15:23:55Z",
-      "icon": ""
+      "pushed_at": "2026-08-13T15:23:55Z"
     },
     {
       "full_name": "Lakr233/NotchNotification",
       "name": "NotchNotification",
       "owner": "Lakr233",
       "avatar": "https://avatars.githubusercontent.com/u/25259084?v=4",
+      "icon": "",
       "url": "https://github.com/Lakr233/NotchNotification",
       "homepage": "",
       "description": "Display Notification Inside Mac's Notch.",
@@ -2864,14 +2865,14 @@
       "forks": 8,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-05-18T17:51:07Z",
-      "icon": ""
+      "pushed_at": "2026-05-18T17:51:07Z"
     },
     {
       "full_name": "Ryan-the-hito/Raspberry",
       "name": "Raspberry",
       "owner": "Ryan-the-hito",
       "avatar": "https://avatars.githubusercontent.com/u/95213517?v=4",
+      "icon": "",
       "url": "https://github.com/Ryan-the-hito/Raspberry",
       "homepage": "",
       "description": "Raspberry is another macOS Launchpad alternative and even better to help you organize your groups on macOS Tahoe.",
@@ -2886,14 +2887,14 @@
       "forks": 2,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-01-10T17:04:42Z",
-      "icon": ""
+      "pushed_at": "2026-01-10T17:04:42Z"
     },
     {
       "full_name": "ShubhamPP04/Izzy",
       "name": "Izzy",
       "owner": "ShubhamPP04",
       "avatar": "https://avatars.githubusercontent.com/u/100473672?v=4",
+      "icon": "icons/ShubhamPP04__Izzy.png",
       "url": "https://github.com/ShubhamPP04/Izzy",
       "homepage": "",
       "description": "Izzy Music Player - A battery-efficient macOS music player with advanced prefetching, perfect seeking, and YouTube Music integration",
@@ -2908,14 +2909,14 @@
       "forks": 0,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-07-26T15:14:16Z",
-      "icon": ""
+      "pushed_at": "2026-07-26T15:14:16Z"
     },
     {
       "full_name": "writronic/MaCursor",
       "name": "MaCursor",
       "owner": "writronic",
       "avatar": "https://avatars.githubusercontent.com/u/222517685?v=4",
+      "icon": "icons/writronic__MaCursor.png",
       "url": "https://github.com/writronic/MaCursor",
       "homepage": "https://writronic.com/macursor/",
       "description": "Cursor Control for macOS",
@@ -2930,14 +2931,14 @@
       "forks": 5,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-05T21:18:11Z",
-      "icon": ""
+      "pushed_at": "2026-08-05T21:18:11Z"
     },
     {
       "full_name": "Notchly/Notchly",
       "name": "Notchly",
       "owner": "Notchly",
       "avatar": "https://avatars.githubusercontent.com/u/279989511?v=4",
+      "icon": "icons/Notchly__Notchly.png",
       "url": "https://github.com/Notchly/Notchly",
       "homepage": "https://notchly.xyz",
       "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications",
@@ -2964,14 +2965,14 @@
       "forks": 2,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-11T18:26:15Z",
-      "icon": ""
+      "pushed_at": "2026-08-11T18:26:15Z"
     },
     {
       "full_name": "rewhex/better-launchpad",
       "name": "better-launchpad",
       "owner": "rewhex",
       "avatar": "https://avatars.githubusercontent.com/u/26175102?v=4",
+      "icon": "",
       "url": "https://github.com/rewhex/better-launchpad",
       "homepage": "",
       "description": "A smarter, more customizable Launchpad for macOS with fast search.",
@@ -2985,8 +2986,7 @@
       "forks": 0,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-05-08T18:52:55Z",
-      "icon": ""
+      "pushed_at": "2026-05-08T18:52:55Z"
     }
   ]
 }
