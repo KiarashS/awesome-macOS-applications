@@ -6,9 +6,12 @@ on:
     # 3 AM all year round. GitHub's scheduler can lag a few minutes at peak.
     - cron: "30 23 * * *"
   push:
-    branches: [main]
+    # No branch filter on purpose: the default branch here is whatever the
+    # repository is set to, and the deploy job below is what gates publishing.
     paths-ignore:
       - "README.md"
+      - "site/data/apps.json"
+      - "data/list-cache.json"
   workflow_dispatch:
     inputs:
       deploy:
