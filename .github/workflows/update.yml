@@ -124,18 +124,29 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A README.md site/data/apps.json site/icons data/list-cache.json data/icon-cache.json
-          if git diff --cached --quiet; then
-            echo "Nothing changed since the last run."
-            exit 0
-          fi
-          git commit -m "chore: refresh app list ($(date -u +%Y-%m-%d))"
+          # These files are generated, never hand-edited, so when two runs
+          # race the freshly built copy simply wins. Rebasing them instead
+          # only manufactures conflicts in apps.json and README.md and kills
+          # the run, which is exactly what used to happen.
           for attempt in 1 2 3 4; do
-            git push -u origin "HEAD:${GITHUB_REF_NAME}" && break
-            echo "push failed, retrying in $((2 ** attempt))s"
+            git add -A README.md site/data/apps.json site/icons \
+                       data/list-cache.json data/icon-cache.json
+            if git diff --cached --quiet; then
+              echo "Nothing changed since the last run."
+              exit 0
+            fi
+            git commit -m "chore: refresh app list ($(date -u +%Y-%m-%d))"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push rejected; replaying our output on top of the remote tip."
+            git fetch origin "${GITHUB_REF_NAME}"
+            # Keep the working tree, move the base: our content, their history.
+            git reset --soft "origin/${GITHUB_REF_NAME}"
             sleep $((2 ** attempt))
-            git pull --rebase origin "${GITHUB_REF_NAME}"
           done
+          echo "::error::Could not push the refreshed data after four attempts."
+          exit 1
 
       # enablement:true turns Pages on if it is off, and puts it in
       # workflow mode, so the site heals itself instead of needing someone
