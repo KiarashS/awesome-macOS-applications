@@ -78,6 +78,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      # configure-pages needs pages:write to switch Pages into "GitHub
+      # Actions" mode. Without it the step cannot enable Pages and the
+      # deploy job 404s, so the site silently stops updating.
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
 
@@ -132,8 +137,20 @@ jobs:
             git pull --rebase origin "${GITHUB_REF_NAME}"
           done
 
+      # enablement:true turns Pages on if it is off, and puts it in
+      # workflow mode, so the site heals itself instead of needing someone
+      # to flip a switch in Settings.
       - uses: actions/configure-pages@v5
+        id: pages
         continue-on-error: true
+        with:
+          enablement: true
+
+      - name: Say so if Pages could not be configured
+        if: steps.pages.outcome == 'failure'
+        run: |
+          echo "::warning::Could not configure GitHub Pages automatically."
+          echo "::warning::Set Settings -> Pages -> Source to 'GitHub Actions'."
 
       - name: Package the site
         uses: actions/upload-pages-artifact@v3
