@@ -1,0 +1,1023 @@
+{
+  "_comment": [
+    "Rules that turn a GitHub repository into a category and a set of tags.",
+    "Categories are evaluated in the order listed here and the FIRST match wins,",
+    "so put the specific ones above the generic ones. Matching happens against a",
+    "haystack built from the repo name, its description and its GitHub topics.",
+    "Keywords match on word boundaries, so 'board' will not match 'keyboard'.",
+    "Anything the rules get wrong can be pinned by hand in overrides.json."
+  ],
+  "categories": [
+    {
+      "id": "notch",
+      "label": "Notch & Island",
+      "icon": "notch",
+      "blurb": "Apps that turn the MacBook notch into something useful.",
+      "keywords": [
+        "notch",
+        "dynamic island",
+        "island"
+      ]
+    },
+    {
+      "id": "clipboard",
+      "label": "Clipboard",
+      "icon": "clipboard",
+      "blurb": "Clipboard managers and paste history.",
+      "keywords": [
+        "clipboard",
+        "pasteboard",
+        "paste history",
+        "copy history",
+        "paste"
+      ]
+    },
+    {
+      "id": "packages",
+      "label": "Package Managers",
+      "icon": "shippingbox",
+      "blurb": "Homebrew front-ends, App Store tooling and update checkers.",
+      "keywords": [
+        "homebrew",
+        "brew",
+        "cask",
+        "package manager",
+        "app store",
+        "mas",
+        "app update",
+        "app updates",
+        "update checker",
+        "outdated"
+      ]
+    },
+    {
+      "id": "virtualization",
+      "label": "Virtualization",
+      "icon": "cube",
+      "blurb": "Virtual machines, emulators and containers.",
+      "keywords": [
+        "virtual machine",
+        "virtual machines",
+        "vm",
+        "qemu",
+        "emulator",
+        "emulation",
+        "hypervisor",
+        "container",
+        "docker"
+      ]
+    },
+    {
+      "id": "capture",
+      "label": "Screenshots & Recording",
+      "icon": "camera",
+      "blurb": "Screenshots, screen recording and screen sharing.",
+      "keywords": [
+        "screenshot",
+        "screenshots",
+        "screen recorder",
+        "screen recording",
+        "screen capture",
+        "screencast",
+        "recorder",
+        "gif",
+        "screen recordings",
+        "recording",
+        "recordings",
+        "loom",
+        "cleanshot"
+      ]
+    },
+    {
+      "id": "downloads",
+      "label": "Downloads",
+      "icon": "arrowdown",
+      "blurb": "Download managers and accelerators.",
+      "keywords": [
+        "download",
+        "downloader",
+        "download manager",
+        "torrent",
+        "aria2",
+        "idm"
+      ]
+    },
+    {
+      "id": "reading",
+      "label": "Reading & RSS",
+      "icon": "book",
+      "blurb": "Feed readers, ebook readers and read-it-later apps.",
+      "keywords": [
+        "rss",
+        "feed",
+        "feeds",
+        "feed reader",
+        "ebook",
+        "e-book",
+        "epub",
+        "reader",
+        "read-it-later",
+        "readium"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "AI & LLM",
+      "icon": "sparkles",
+      "blurb": "Local and hosted models, assistants and speech tooling.",
+      "keywords": [
+        "ai",
+        "llm",
+        "llms",
+        "gpt",
+        "chatgpt",
+        "claude",
+        "ollama",
+        "openai",
+        "assistant",
+        "speech-to-text",
+        "speech to text",
+        "transcription",
+        "transcribe",
+        "whisper",
+        "agent",
+        "agents",
+        "copilot",
+        "chatbot"
+      ]
+    },
+    {
+      "id": "launchers",
+      "label": "Launchers & Search",
+      "icon": "magnifier",
+      "blurb": "App launchers, command palettes and Launchpad replacements.",
+      "keywords": [
+        "launcher",
+        "launchpad",
+        "spotlight",
+        "command palette",
+        "app launcher",
+        "quick launch",
+        "alfred",
+        "raycast"
+      ]
+    },
+    {
+      "id": "focus",
+      "label": "Productivity & Focus",
+      "icon": "timer",
+      "blurb": "Pomodoro timers, break reminders, boards and task tools.",
+      "keywords": [
+        "pomodoro",
+        "break",
+        "breaks",
+        "timer",
+        "focus",
+        "kanban",
+        "todo",
+        "to-do",
+        "task",
+        "tasks",
+        "board",
+        "boards",
+        "trello",
+        "notion",
+        "asana",
+        "project management",
+        "reminder",
+        "reminders",
+        "eye-strain",
+        "rsi"
+      ]
+    },
+    {
+      "id": "windows",
+      "label": "Window Management",
+      "icon": "rectangles",
+      "blurb": "Tiling, window switching, the Dock and Mission Control.",
+      "keywords": [
+        "window",
+        "windows manager",
+        "window management",
+        "tiling",
+        "alt-tab",
+        "alttab",
+        "app switcher",
+        "window switcher",
+        "window switching",
+        "dock",
+        "mission control",
+        "snapping",
+        "cmd-tab",
+        "command-tab"
+      ]
+    },
+    {
+      "id": "menubar",
+      "label": "Menu Bar",
+      "icon": "menubar",
+      "blurb": "Menu bar utilities and status item managers.",
+      "keywords": [
+        "menu bar",
+        "menubar",
+        "menu-bar",
+        "status bar",
+        "statusbar",
+        "status item",
+        "tray",
+        "sketchybar"
+      ]
+    },
+    {
+      "id": "terminal",
+      "label": "Terminal & Shell",
+      "icon": "terminal",
+      "blurb": "Shells, prompts, terminal emulators and CLI toys.",
+      "keywords": [
+        "terminal",
+        "shell",
+        "zsh",
+        "bash",
+        "fish",
+        "prompt",
+        "cli",
+        "command line",
+        "command-line",
+        "tmux",
+        "dotfiles"
+      ]
+    },
+    {
+      "id": "security",
+      "label": "Security & Privacy",
+      "icon": "lock",
+      "blurb": "Firewalls, Gatekeeper tooling, encryption and password managers.",
+      "keywords": [
+        "firewall",
+        "security",
+        "privacy",
+        "malware",
+        "antivirus",
+        "gatekeeper",
+        "quarantine",
+        "password",
+        "passwords",
+        "encryption",
+        "encrypt",
+        "keychain",
+        "2fa",
+        "otp",
+        "notarization",
+        "codesign"
+      ]
+    },
+    {
+      "id": "network",
+      "label": "Networking & Proxy",
+      "icon": "globe",
+      "blurb": "Proxies, VPNs, DNS switchers and network tooling.",
+      "keywords": [
+        "proxy",
+        "vpn",
+        "clash",
+        "dns",
+        "network",
+        "networking",
+        "tunnel",
+        "tunneling",
+        "socks",
+        "shadowsocks",
+        "wireguard",
+        "bandwidth",
+        "sni"
+      ]
+    },
+    {
+      "id": "input",
+      "label": "Keyboard & Input",
+      "icon": "keyboard",
+      "blurb": "Keyboards, mice, trackpads, cursors and typing feedback.",
+      "keywords": [
+        "keyboard",
+        "keystroke",
+        "keystrokes",
+        "keypress",
+        "mouse",
+        "trackpad",
+        "cursor",
+        "pointer",
+        "gesture",
+        "gestures",
+        "hotkey",
+        "hotkeys",
+        "shortcut",
+        "shortcuts",
+        "typing",
+        "kvm",
+        "scroll",
+        "scrolling",
+        "click",
+        "clicks",
+        "mechanical"
+      ]
+    },
+    {
+      "id": "media",
+      "label": "Media & Music",
+      "icon": "play",
+      "blurb": "Video players, music apps and everything that makes noise.",
+      "keywords": [
+        "music",
+        "media player",
+        "video",
+        "audio",
+        "media",
+        "podcast",
+        "player",
+        "mpv",
+        "streaming",
+        "spotify",
+        "netease",
+        "lyrics",
+        "teleprompter",
+        "prompter"
+      ]
+    },
+    {
+      "id": "notes",
+      "label": "Notes & Writing",
+      "icon": "note",
+      "blurb": "Note taking, Markdown editors and knowledge bases.",
+      "keywords": [
+        "note",
+        "notes",
+        "markdown",
+        "writing",
+        "writer",
+        "editor",
+        "text editor",
+        "journal",
+        "knowledge base",
+        "wiki",
+        "obsidian",
+        "zettelkasten",
+        "outliner",
+        "annotation"
+      ]
+    },
+    {
+      "id": "files",
+      "label": "Files & Sync",
+      "icon": "folder",
+      "blurb": "File managers, drag-and-drop shelves, backup and archiving.",
+      "keywords": [
+        "rsync",
+        "backup",
+        "sync",
+        "syncing",
+        "archive",
+        "archiver",
+        "zip",
+        "unzip",
+        "7z",
+        "rar",
+        "compress",
+        "compression",
+        "file manager",
+        "finder",
+        "drag",
+        "drop",
+        "shelf",
+        "transfer",
+        "quick look",
+        "quicklook",
+        "preview"
+      ]
+    },
+    {
+      "id": "system",
+      "label": "System & Maintenance",
+      "icon": "gear",
+      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
+      "keywords": [
+        "cleaner",
+        "clean",
+        "uninstall",
+        "uninstaller",
+        "maintenance",
+        "system",
+        "disk",
+        "storage",
+        "battery",
+        "monitor",
+        "monitoring",
+        "tweak",
+        "tweaks",
+        "preferences",
+        "settings",
+        "cpu",
+        "memory",
+        "temperature",
+        "fan",
+        "toolbox",
+        "switcher",
+        "toggle",
+        "toggles"
+      ]
+    },
+    {
+      "id": "web",
+      "label": "Web & Templates",
+      "icon": "browser",
+      "blurb": "Portfolio sites, resumes, dashboards and web templates.",
+      "keywords": [
+        "portfolio",
+        "resume",
+        "cv",
+        "website",
+        "web site",
+        "theme",
+        "template",
+        "landing page",
+        "dashboard",
+        "blog",
+        "static site",
+        "jekyll",
+        "hugo",
+        "nextjs",
+        "next.js"
+      ]
+    },
+    {
+      "id": "devtools",
+      "label": "Developer Tools",
+      "icon": "hammer",
+      "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
+      "keywords": [
+        "developer",
+        "development",
+        "git",
+        "github",
+        "gitlab",
+        "api",
+        "rest",
+        "graphql",
+        "ide",
+        "debug",
+        "debugger",
+        "devtool",
+        "devtools",
+        "repository",
+        "repositories",
+        "repo",
+        "notebook",
+        "notebooks",
+        "sql",
+        "database",
+        "json",
+        "regex",
+        "linter",
+        "boilerplate"
+      ]
+    },
+    {
+      "id": "fun",
+      "label": "Fun & Desktop Toys",
+      "icon": "sparkle",
+      "blurb": "Purely delightful, mostly useless, entirely worth installing.",
+      "keywords": [
+        "pet",
+        "desktop pet",
+        "toy",
+        "toys",
+        "fun",
+        "cat",
+        "mascot",
+        "wallpaper",
+        "screensaver",
+        "aquarium"
+      ]
+    }
+  ],
+  "fallback_category": "system",
+  "tags": [
+    {
+      "tag": "Menu Bar",
+      "keywords": [
+        "menu bar",
+        "menubar",
+        "menu-bar",
+        "status bar",
+        "statusbar",
+        "status item",
+        "tray"
+      ]
+    },
+    {
+      "tag": "Notch",
+      "keywords": [
+        "notch",
+        "dynamic island"
+      ]
+    },
+    {
+      "tag": "Windows",
+      "keywords": [
+        "window",
+        "tiling",
+        "alt-tab",
+        "alttab",
+        "window switcher",
+        "app switcher",
+        "cmd-tab"
+      ]
+    },
+    {
+      "tag": "Dock",
+      "keywords": [
+        "dock"
+      ]
+    },
+    {
+      "tag": "Launcher",
+      "keywords": [
+        "launcher",
+        "launchpad",
+        "spotlight",
+        "command palette"
+      ]
+    },
+    {
+      "tag": "Clipboard",
+      "keywords": [
+        "clipboard",
+        "pasteboard",
+        "paste"
+      ]
+    },
+    {
+      "tag": "Markdown",
+      "keywords": [
+        "markdown",
+        "md"
+      ]
+    },
+    {
+      "tag": "RSS",
+      "keywords": [
+        "rss",
+        "feed",
+        "feeds",
+        "atom"
+      ]
+    },
+    {
+      "tag": "Notes",
+      "keywords": [
+        "note",
+        "notes",
+        "notetaking",
+        "note-taking",
+        "knowledge base",
+        "wiki"
+      ]
+    },
+    {
+      "tag": "Editor",
+      "keywords": [
+        "editor",
+        "text editor",
+        "code editor",
+        "ide",
+        "syntax highlighting"
+      ]
+    },
+    {
+      "tag": "Reading",
+      "keywords": [
+        "ebook",
+        "e-book",
+        "epub",
+        "reader",
+        "reading",
+        "pdf"
+      ]
+    },
+    {
+      "tag": "AI",
+      "keywords": [
+        "ai",
+        "llm",
+        "gpt",
+        "chatgpt",
+        "claude",
+        "ollama",
+        "openai",
+        "assistant",
+        "chatbot",
+        "agent"
+      ]
+    },
+    {
+      "tag": "Speech",
+      "keywords": [
+        "speech-to-text",
+        "speech to text",
+        "transcription",
+        "transcribe",
+        "whisper",
+        "dictation",
+        "voice"
+      ]
+    },
+    {
+      "tag": "Privacy",
+      "keywords": [
+        "privacy",
+        "firewall",
+        "security",
+        "malware",
+        "gatekeeper",
+        "tracking",
+        "telemetry"
+      ]
+    },
+    {
+      "tag": "Encryption",
+      "keywords": [
+        "encryption",
+        "encrypt",
+        "password",
+        "keychain",
+        "aes"
+      ]
+    },
+    {
+      "tag": "Proxy",
+      "keywords": [
+        "proxy",
+        "vpn",
+        "clash",
+        "shadowsocks",
+        "wireguard",
+        "tunnel",
+        "socks"
+      ]
+    },
+    {
+      "tag": "DNS",
+      "keywords": [
+        "dns",
+        "doh",
+        "resolver"
+      ]
+    },
+    {
+      "tag": "Downloads",
+      "keywords": [
+        "download",
+        "downloader",
+        "torrent",
+        "aria2"
+      ]
+    },
+    {
+      "tag": "Homebrew",
+      "keywords": [
+        "homebrew",
+        "brew",
+        "cask",
+        "casks"
+      ]
+    },
+    {
+      "tag": "Updates",
+      "keywords": [
+        "update",
+        "updates",
+        "updater",
+        "outdated",
+        "version check"
+      ]
+    },
+    {
+      "tag": "Keyboard",
+      "keywords": [
+        "keyboard",
+        "keystroke",
+        "keypress",
+        "typing",
+        "hotkey",
+        "shortcut",
+        "shortcuts",
+        "mechanical"
+      ]
+    },
+    {
+      "tag": "Mouse",
+      "keywords": [
+        "mouse",
+        "trackpad",
+        "cursor",
+        "pointer",
+        "gesture",
+        "gestures",
+        "scroll",
+        "click"
+      ]
+    },
+    {
+      "tag": "Focus",
+      "keywords": [
+        "pomodoro",
+        "focus",
+        "break",
+        "breaks",
+        "timer",
+        "eye-strain",
+        "rsi",
+        "distraction"
+      ]
+    },
+    {
+      "tag": "Tasks",
+      "keywords": [
+        "todo",
+        "to-do",
+        "task",
+        "tasks",
+        "kanban",
+        "board",
+        "project management"
+      ]
+    },
+    {
+      "tag": "Audio",
+      "keywords": [
+        "audio",
+        "music",
+        "sound",
+        "sounds",
+        "lyrics",
+        "equalizer",
+        "podcast"
+      ]
+    },
+    {
+      "tag": "Video",
+      "keywords": [
+        "video",
+        "movie",
+        "movies",
+        "player",
+        "mpv",
+        "streaming",
+        "subtitle",
+        "subtitles"
+      ]
+    },
+    {
+      "tag": "Capture",
+      "keywords": [
+        "screenshot",
+        "screenshots",
+        "screen recording",
+        "screen recorder",
+        "screen capture",
+        "screencast",
+        "gif"
+      ]
+    },
+    {
+      "tag": "Backup",
+      "keywords": [
+        "backup",
+        "rsync",
+        "sync",
+        "snapshot",
+        "restore"
+      ]
+    },
+    {
+      "tag": "Archive",
+      "keywords": [
+        "zip",
+        "unzip",
+        "7z",
+        "rar",
+        "archive",
+        "archiver",
+        "compress",
+        "compression"
+      ]
+    },
+    {
+      "tag": "Files",
+      "keywords": [
+        "file",
+        "files",
+        "finder",
+        "file manager",
+        "drag",
+        "drop",
+        "shelf",
+        "folder"
+      ]
+    },
+    {
+      "tag": "Terminal",
+      "keywords": [
+        "terminal",
+        "shell",
+        "zsh",
+        "bash",
+        "fish",
+        "cli",
+        "command line",
+        "command-line",
+        "tmux",
+        "prompt"
+      ]
+    },
+    {
+      "tag": "Git",
+      "keywords": [
+        "git",
+        "github",
+        "gitlab",
+        "repository",
+        "repositories",
+        "commit",
+        "pull request"
+      ]
+    },
+    {
+      "tag": "Virtualization",
+      "keywords": [
+        "virtual machine",
+        "vm",
+        "qemu",
+        "emulator",
+        "emulation",
+        "hypervisor",
+        "container",
+        "docker"
+      ]
+    },
+    {
+      "tag": "Cleanup",
+      "keywords": [
+        "cleaner",
+        "clean",
+        "uninstall",
+        "uninstaller",
+        "leftover",
+        "junk",
+        "cache"
+      ]
+    },
+    {
+      "tag": "Monitoring",
+      "keywords": [
+        "monitor",
+        "monitoring",
+        "cpu",
+        "memory",
+        "battery",
+        "temperature",
+        "fan",
+        "usage",
+        "stats"
+      ]
+    },
+    {
+      "tag": "Template",
+      "keywords": [
+        "template",
+        "boilerplate",
+        "theme",
+        "starter",
+        "portfolio",
+        "resume",
+        "cv"
+      ]
+    },
+    {
+      "tag": "Dashboard",
+      "keywords": [
+        "dashboard",
+        "dashboards",
+        "notebook",
+        "notebooks",
+        "analytics",
+        "chart",
+        "charts"
+      ]
+    },
+    {
+      "tag": "Self-hosted",
+      "keywords": [
+        "self-hosted",
+        "self hosted",
+        "selfhosted",
+        "on-premise"
+      ]
+    },
+    {
+      "tag": "Fun",
+      "keywords": [
+        "pet",
+        "desktop pet",
+        "toy",
+        "fun",
+        "cute",
+        "mascot",
+        "wallpaper",
+        "screensaver"
+      ]
+    },
+    {
+      "tag": "Presenting",
+      "keywords": [
+        "teleprompter",
+        "prompter",
+        "presentation",
+        "slides",
+        "keynote"
+      ]
+    },
+    {
+      "tag": "Notifications",
+      "keywords": [
+        "notification",
+        "notifications",
+        "alert",
+        "alerts",
+        "hud"
+      ]
+    },
+    {
+      "tag": "Electron",
+      "keywords": [
+        "electron"
+      ]
+    },
+    {
+      "tag": "Tauri",
+      "keywords": [
+        "tauri"
+      ]
+    },
+    {
+      "tag": "SwiftUI",
+      "keywords": [
+        "swiftui"
+      ]
+    },
+    {
+      "tag": "iOS",
+      "keywords": [
+        "ios",
+        "ipados",
+        "iphone",
+        "ipad"
+      ]
+    },
+    {
+      "tag": "Cross-platform",
+      "keywords": [
+        "cross-platform",
+        "cross platform",
+        "crossplatform",
+        "windows and linux",
+        "linux"
+      ]
+    }
+  ],
+  "language_tags": {
+    "Swift": "Swift",
+    "Objective-C": "Objective-C",
+    "Rust": "Rust",
+    "Go": "Go",
+    "Python": "Python",
+    "TypeScript": "TypeScript",
+    "JavaScript": "JavaScript",
+    "C": "C",
+    "C++": "C++",
+    "C#": "C#",
+    "Java": "Java",
+    "Kotlin": "Kotlin",
+    "Dart": "Dart",
+    "Ruby": "Ruby",
+    "Shell": "Shell",
+    "Lua": "Lua",
+    "Vue": "Vue",
+    "Svelte": "Svelte",
+    "Pascal": "Pascal",
+    "HTML": "Web",
+    "CSS": "Web",
+    "SCSS": "Web",
+    "MDX": "Web"
+  },
+  "max_tags": 6
+}

@@ -1,0 +1,2385 @@
+{
+  "generated_at": "2026-08-18T09:12:10Z",
+  "source": {
+    "user": "KiarashS",
+    "list": "app",
+    "url": "https://github.com/stars/KiarashS/lists/app"
+  },
+  "totals": {
+    "apps": 93,
+    "categories": 23,
+    "tags": 55,
+    "stars": 832255
+  },
+  "categories": [
+    {
+      "id": "notch",
+      "label": "Notch & Island",
+      "icon": "notch",
+      "blurb": "Apps that turn the MacBook notch into something useful.",
+      "count": 9
+    },
+    {
+      "id": "clipboard",
+      "label": "Clipboard",
+      "icon": "clipboard",
+      "blurb": "Clipboard managers and paste history.",
+      "count": 2
+    },
+    {
+      "id": "packages",
+      "label": "Package Managers",
+      "icon": "shippingbox",
+      "blurb": "Homebrew front-ends, App Store tooling and update checkers.",
+      "count": 7
+    },
+    {
+      "id": "virtualization",
+      "label": "Virtualization",
+      "icon": "cube",
+      "blurb": "Virtual machines, emulators and containers.",
+      "count": 1
+    },
+    {
+      "id": "capture",
+      "label": "Screenshots & Recording",
+      "icon": "camera",
+      "blurb": "Screenshots, screen recording and screen sharing.",
+      "count": 2
+    },
+    {
+      "id": "downloads",
+      "label": "Downloads",
+      "icon": "arrowdown",
+      "blurb": "Download managers and accelerators.",
+      "count": 3
+    },
+    {
+      "id": "reading",
+      "label": "Reading & RSS",
+      "icon": "book",
+      "blurb": "Feed readers, ebook readers and read-it-later apps.",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "AI & LLM",
+      "icon": "sparkles",
+      "blurb": "Local and hosted models, assistants and speech tooling.",
+      "count": 5
+    },
+    {
+      "id": "launchers",
+      "label": "Launchers & Search",
+      "icon": "magnifier",
+      "blurb": "App launchers, command palettes and Launchpad replacements.",
+      "count": 7
+    },
+    {
+      "id": "focus",
+      "label": "Productivity & Focus",
+      "icon": "timer",
+      "blurb": "Pomodoro timers, break reminders, boards and task tools.",
+      "count": 4
+    },
+    {
+      "id": "windows",
+      "label": "Window Management",
+      "icon": "rectangles",
+      "blurb": "Tiling, window switching, the Dock and Mission Control.",
+      "count": 8
+    },
+    {
+      "id": "menubar",
+      "label": "Menu Bar",
+      "icon": "menubar",
+      "blurb": "Menu bar utilities and status item managers.",
+      "count": 3
+    },
+    {
+      "id": "terminal",
+      "label": "Terminal & Shell",
+      "icon": "terminal",
+      "blurb": "Shells, prompts, terminal emulators and CLI toys.",
+      "count": 1
+    },
+    {
+      "id": "security",
+      "label": "Security & Privacy",
+      "icon": "lock",
+      "blurb": "Firewalls, Gatekeeper tooling, encryption and password managers.",
+      "count": 2
+    },
+    {
+      "id": "network",
+      "label": "Networking & Proxy",
+      "icon": "globe",
+      "blurb": "Proxies, VPNs, DNS switchers and network tooling.",
+      "count": 4
+    },
+    {
+      "id": "input",
+      "label": "Keyboard & Input",
+      "icon": "keyboard",
+      "blurb": "Keyboards, mice, trackpads, cursors and typing feedback.",
+      "count": 9
+    },
+    {
+      "id": "media",
+      "label": "Media & Music",
+      "icon": "play",
+      "blurb": "Video players, music apps and everything that makes noise.",
+      "count": 5
+    },
+    {
+      "id": "notes",
+      "label": "Notes & Writing",
+      "icon": "note",
+      "blurb": "Note taking, Markdown editors and knowledge bases.",
+      "count": 7
+    },
+    {
+      "id": "files",
+      "label": "Files & Sync",
+      "icon": "folder",
+      "blurb": "File managers, drag-and-drop shelves, backup and archiving.",
+      "count": 4
+    },
+    {
+      "id": "system",
+      "label": "System & Maintenance",
+      "icon": "gear",
+      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
+      "count": 3
+    },
+    {
+      "id": "web",
+      "label": "Web & Templates",
+      "icon": "browser",
+      "blurb": "Portfolio sites, resumes, dashboards and web templates.",
+      "count": 3
+    },
+    {
+      "id": "devtools",
+      "label": "Developer Tools",
+      "icon": "hammer",
+      "blurb": "Things that help you ship: git, APIs, notebooks and IDE helpers.",
+      "count": 1
+    },
+    {
+      "id": "fun",
+      "label": "Fun & Desktop Toys",
+      "icon": "sparkle",
+      "blurb": "Purely delightful, mostly useless, entirely worth installing.",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "name": "Swift",
+      "count": 55
+    },
+    {
+      "name": "TypeScript",
+      "count": 14
+    },
+    {
+      "name": "Notch",
+      "count": 11
+    },
+    {
+      "name": "AI",
+      "count": 7
+    },
+    {
+      "name": "Keyboard",
+      "count": 7
+    },
+    {
+      "name": "Launcher",
+      "count": 7
+    },
+    {
+      "name": "Windows",
+      "count": 7
+    },
+    {
+      "name": "Homebrew",
+      "count": 5
+    },
+    {
+      "name": "Menu Bar",
+      "count": 5
+    },
+    {
+      "name": "Mouse",
+      "count": 5
+    },
+    {
+      "name": "Cross-platform",
+      "count": 4
+    },
+    {
+      "name": "Files",
+      "count": 4
+    },
+    {
+      "name": "JavaScript",
+      "count": 4
+    },
+    {
+      "name": "Markdown",
+      "count": 4
+    },
+    {
+      "name": "Notifications",
+      "count": 4
+    },
+    {
+      "name": "SwiftUI",
+      "count": 4
+    },
+    {
+      "name": "Audio",
+      "count": 3
+    },
+    {
+      "name": "Downloads",
+      "count": 3
+    },
+    {
+      "name": "Focus",
+      "count": 3
+    },
+    {
+      "name": "Notes",
+      "count": 3
+    },
+    {
+      "name": "Objective-C",
+      "count": 3
+    },
+    {
+      "name": "Privacy",
+      "count": 3
+    },
+    {
+      "name": "Proxy",
+      "count": 3
+    },
+    {
+      "name": "Rust",
+      "count": 3
+    },
+    {
+      "name": "Template",
+      "count": 3
+    },
+    {
+      "name": "Terminal",
+      "count": 3
+    },
+    {
+      "name": "Cleanup",
+      "count": 2
+    },
+    {
+      "name": "Clipboard",
+      "count": 2
+    },
+    {
+      "name": "DNS",
+      "count": 2
+    },
+    {
+      "name": "Dock",
+      "count": 2
+    },
+    {
+      "name": "Python",
+      "count": 2
+    },
+    {
+      "name": "Reading",
+      "count": 2
+    },
+    {
+      "name": "Shell",
+      "count": 2
+    },
+    {
+      "name": "Video",
+      "count": 2
+    },
+    {
+      "name": "Vue",
+      "count": 2
+    },
+    {
+      "name": "Web",
+      "count": 2
+    },
+    {
+      "name": "iOS",
+      "count": 2
+    },
+    {
+      "name": "Archive",
+      "count": 1
+    },
+    {
+      "name": "Backup",
+      "count": 1
+    },
+    {
+      "name": "Capture",
+      "count": 1
+    },
+    {
+      "name": "Dashboard",
+      "count": 1
+    },
+    {
+      "name": "Editor",
+      "count": 1
+    },
+    {
+      "name": "Encryption",
+      "count": 1
+    },
+    {
+      "name": "Fun",
+      "count": 1
+    },
+    {
+      "name": "Git",
+      "count": 1
+    },
+    {
+      "name": "Kotlin",
+      "count": 1
+    },
+    {
+      "name": "Pascal",
+      "count": 1
+    },
+    {
+      "name": "Presenting",
+      "count": 1
+    },
+    {
+      "name": "RSS",
+      "count": 1
+    },
+    {
+      "name": "Self-hosted",
+      "count": 1
+    },
+    {
+      "name": "Shortcuts",
+      "count": 1
+    },
+    {
+      "name": "Speech",
+      "count": 1
+    },
+    {
+      "name": "Tasks",
+      "count": 1
+    },
+    {
+      "name": "Updates",
+      "count": 1
+    },
+    {
+      "name": "Virtualization",
+      "count": 1
+    }
+  ],
+  "apps": [
+    {
+      "full_name": "romkatv/powerlevel10k",
+      "name": "powerlevel10k",
+      "owner": "romkatv",
+      "avatar": "https://github.com/romkatv.png?size=160",
+      "url": "https://github.com/romkatv/powerlevel10k",
+      "homepage": "",
+      "description": "A Zsh theme",
+      "category": "terminal",
+      "tags": [
+        "Terminal",
+        "Shell"
+      ],
+      "topics": [],
+      "language": "Shell",
+      "stars": 54928,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "CherryHQ/cherry-studio",
+      "name": "cherry-studio",
+      "owner": "CherryHQ",
+      "avatar": "https://github.com/CherryHQ.png?size=160",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "homepage": "",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 50695,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "diegosouzapw/OmniRoute",
+      "name": "OmniRoute",
+      "owner": "diegosouzapw",
+      "avatar": "https://github.com/diegosouzapw.png?size=160",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "homepage": "",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax.",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 50078,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "iina/iina",
+      "name": "iina",
+      "owner": "iina",
+      "avatar": "https://github.com/iina.png?size=160",
+      "url": "https://github.com/iina/iina",
+      "homepage": "",
+      "description": "The modern video player for macOS.",
+      "category": "media",
+      "tags": [
+        "Video",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 45996,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "RSSNext/Folo",
+      "name": "Folo",
+      "owner": "RSSNext",
+      "avatar": "https://github.com/RSSNext.png?size=160",
+      "url": "https://github.com/RSSNext/Folo",
+      "homepage": "",
+      "description": "Folo is the AI RSS Reader",
+      "category": "reading",
+      "tags": [
+        "RSS",
+        "Reading",
+        "AI",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 38821,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "utmapp/UTM",
+      "name": "UTM",
+      "owner": "utmapp",
+      "avatar": "https://github.com/utmapp.png?size=160",
+      "url": "https://github.com/utmapp/UTM",
+      "homepage": "",
+      "description": "Virtual machines for iOS and macOS",
+      "category": "virtualization",
+      "tags": [
+        "iOS",
+        "Swift",
+        "Virtualization"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 35047,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "qier222/YesPlayMusic",
+      "name": "YesPlayMusic",
+      "owner": "qier222",
+      "avatar": "https://github.com/qier222.png?size=160",
+      "url": "https://github.com/qier222/YesPlayMusic",
+      "homepage": "",
+      "description": "A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.",
+      "category": "media",
+      "tags": [
+        "Audio",
+        "Cross-platform",
+        "Vue"
+      ],
+      "topics": [],
+      "language": "Vue",
+      "stars": 33161,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "cjpais/Handy",
+      "name": "Handy",
+      "owner": "cjpais",
+      "avatar": "https://github.com/cjpais.png?size=160",
+      "url": "https://github.com/cjpais/Handy",
+      "homepage": "",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "category": "ai",
+      "tags": [
+        "Speech",
+        "Rust"
+      ],
+      "topics": [],
+      "language": "Rust",
+      "stars": 29841,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "jordanbaird/Ice",
+      "name": "Ice",
+      "owner": "jordanbaird",
+      "avatar": "https://github.com/jordanbaird.png?size=160",
+      "url": "https://github.com/jordanbaird/Ice",
+      "homepage": "",
+      "description": "Powerful menu bar manager for macOS",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 29299,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "mattermost-community/focalboard",
+      "name": "focalboard",
+      "owner": "mattermost-community",
+      "avatar": "https://github.com/mattermost-community.png?size=160",
+      "url": "https://github.com/mattermost-community/focalboard",
+      "homepage": "",
+      "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+      "category": "focus",
+      "tags": [
+        "Self-hosted",
+        "TypeScript",
+        "Tasks"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 26408,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "readest/readest",
+      "name": "readest",
+      "owner": "readest",
+      "avatar": "https://github.com/readest.png?size=160",
+      "url": "https://github.com/readest/readest",
+      "homepage": "",
+      "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…",
+      "category": "reading",
+      "tags": [
+        "Reading",
+        "Cross-platform",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 23512,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ayangweb/BongoCat",
+      "name": "BongoCat",
+      "owner": "ayangweb",
+      "avatar": "https://github.com/ayangweb.png?size=160",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "homepage": "",
+      "description": "A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.",
+      "category": "fun",
+      "tags": [
+        "Vue",
+        "Fun",
+        "Cross-platform"
+      ],
+      "topics": [],
+      "language": "Vue",
+      "stars": 22637,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "p0deje/Maccy",
+      "name": "Maccy",
+      "owner": "p0deje",
+      "avatar": "https://github.com/p0deje.png?size=160",
+      "url": "https://github.com/p0deje/Maccy",
+      "homepage": "",
+      "description": "Lightweight clipboard manager for macOS",
+      "category": "clipboard",
+      "tags": [
+        "Clipboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 21213,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "CapSoftware/Cap",
+      "name": "Cap",
+      "owner": "CapSoftware",
+      "avatar": "https://github.com/CapSoftware.png?size=160",
+      "url": "https://github.com/CapSoftware/Cap",
+      "homepage": "",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "category": "capture",
+      "tags": [
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 20940,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "obsidianmd/obsidian-releases",
+      "name": "obsidian-releases",
+      "owner": "obsidianmd",
+      "avatar": "https://github.com/obsidianmd.png?size=160",
+      "url": "https://github.com/obsidianmd/obsidian-releases",
+      "homepage": "",
+      "description": "Community plugins list, theme list, and releases of Obsidian.",
+      "category": "notes",
+      "tags": [
+        "Notes",
+        "Markdown"
+      ],
+      "topics": [],
+      "language": "",
+      "stars": 20896,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "refactoringhq/tolaria",
+      "name": "tolaria",
+      "owner": "refactoringhq",
+      "avatar": "https://github.com/refactoringhq.png?size=160",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "homepage": "",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "category": "notes",
+      "tags": [
+        "Markdown",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 19501,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "amir1376/ab-download-manager",
+      "name": "ab-download-manager",
+      "owner": "amir1376",
+      "avatar": "https://github.com/amir1376.png?size=160",
+      "url": "https://github.com/amir1376/ab-download-manager",
+      "homepage": "",
+      "description": "A Download Manager that speeds up your downloads",
+      "category": "downloads",
+      "tags": [
+        "Downloads",
+        "Kotlin"
+      ],
+      "topics": [],
+      "language": "Kotlin",
+      "stars": 17296,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ianyh/Amethyst",
+      "name": "Amethyst",
+      "owner": "ianyh",
+      "avatar": "https://github.com/ianyh.png?size=160",
+      "url": "https://github.com/ianyh/Amethyst",
+      "homepage": "",
+      "description": "Automatic tiling window manager for macOS à la xmonad.",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 16223,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "lwouis/alt-tab-macos",
+      "name": "alt-tab-macos",
+      "owner": "lwouis",
+      "avatar": "https://github.com/lwouis.png?size=160",
+      "url": "https://github.com/lwouis/alt-tab-macos",
+      "homepage": "",
+      "description": "Windows alt-tab on macOS",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 16182,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "keycastr/keycastr",
+      "name": "keycastr",
+      "owner": "keycastr",
+      "avatar": "https://github.com/keycastr.png?size=160",
+      "url": "https://github.com/keycastr/keycastr",
+      "homepage": "",
+      "description": "KeyCastr, an open-source keystroke visualizer",
+      "category": "input",
+      "tags": [
+        "Keyboard",
+        "Objective-C"
+      ],
+      "topics": [],
+      "language": "Objective-C",
+      "stars": 15045,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "alienator88/Pearcleaner",
+      "name": "Pearcleaner",
+      "owner": "alienator88",
+      "avatar": "https://github.com/alienator88.png?size=160",
+      "url": "https://github.com/alienator88/Pearcleaner",
+      "homepage": "",
+      "description": "A free, source-available and fair-code licensed mac app cleaner",
+      "category": "system",
+      "tags": [
+        "Cleanup",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 14352,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "objective-see/LuLu",
+      "name": "LuLu",
+      "owner": "objective-see",
+      "avatar": "https://github.com/objective-see.png?size=160",
+      "url": "https://github.com/objective-see/LuLu",
+      "homepage": "",
+      "description": "LuLu is the free open-source macOS firewall",
+      "category": "security",
+      "tags": [
+        "Privacy",
+        "Objective-C"
+      ],
+      "topics": [],
+      "language": "Objective-C",
+      "stars": 13066,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "mas-cli/mas",
+      "name": "mas",
+      "owner": "mas-cli",
+      "avatar": "https://github.com/mas-cli.png?size=160",
+      "url": "https://github.com/mas-cli/mas",
+      "homepage": "",
+      "description": "Mac App Store command-line interface",
+      "category": "packages",
+      "tags": [
+        "Terminal",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 12304,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "mrkai77/Loop",
+      "name": "Loop",
+      "owner": "mrkai77",
+      "avatar": "https://github.com/mrkai77.png?size=160",
+      "url": "https://github.com/mrkai77/Loop",
+      "homepage": "",
+      "description": "Window management made elegant.",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 11384,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "noah-nuebling/mac-mouse-fix",
+      "name": "mac-mouse-fix",
+      "owner": "noah-nuebling",
+      "avatar": "https://github.com/noah-nuebling.png?size=160",
+      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+      "homepage": "",
+      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "category": "input",
+      "tags": [
+        "Mouse",
+        "Objective-C"
+      ],
+      "topics": [],
+      "language": "Objective-C",
+      "stars": 10698,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "TheBoredTeam/boring.notch",
+      "name": "boring.notch",
+      "owner": "TheBoredTeam",
+      "avatar": "https://github.com/TheBoredTeam.png?size=160",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "homepage": "",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 10380,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "AnInsomniacy/motrix-next",
+      "name": "motrix-next",
+      "owner": "AnInsomniacy",
+      "avatar": "https://github.com/AnInsomniacy.png?size=160",
+      "url": "https://github.com/AnInsomniacy/motrix-next",
+      "homepage": "",
+      "description": "A full-featured download manager — rebuilt from the ground up",
+      "category": "downloads",
+      "tags": [
+        "Downloads",
+        "JavaScript"
+      ],
+      "topics": [],
+      "language": "JavaScript",
+      "stars": 9545,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "tw93/MiaoYan",
+      "name": "MiaoYan",
+      "owner": "tw93",
+      "avatar": "https://github.com/tw93.png?size=160",
+      "url": "https://github.com/tw93/MiaoYan",
+      "homepage": "",
+      "description": "Lightweight Markdown app to help you write great sentences.",
+      "category": "notes",
+      "tags": [
+        "Markdown",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 8583,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "Ghost-Downloader-3",
+      "owner": "XiaoYouChR",
+      "avatar": "https://github.com/XiaoYouChR.png?size=160",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "homepage": "",
+      "description": "A full-featured multi-threaded download manager — the only downloader you need.",
+      "category": "downloads",
+      "tags": [
+        "Downloads",
+        "Python"
+      ],
+      "topics": [],
+      "language": "Python",
+      "stars": 8417,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "coteditor/CotEditor",
+      "name": "CotEditor",
+      "owner": "coteditor",
+      "avatar": "https://github.com/coteditor.png?size=160",
+      "url": "https://github.com/coteditor/CotEditor",
+      "homepage": "",
+      "description": "Lightweight Plain Text Editor for macOS",
+      "category": "notes",
+      "tags": [
+        "Editor",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 8378,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "peazip/PeaZip",
+      "name": "PeaZip",
+      "owner": "peazip",
+      "avatar": "https://github.com/peazip.png?size=160",
+      "url": "https://github.com/peazip/PeaZip",
+      "homepage": "",
+      "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption.",
+      "category": "files",
+      "tags": [
+        "Encryption",
+        "Archive",
+        "Files",
+        "Cross-platform",
+        "Pascal"
+      ],
+      "topics": [],
+      "language": "Pascal",
+      "stars": 7759,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "glushchenko/fsnotes",
+      "name": "fsnotes",
+      "owner": "glushchenko",
+      "avatar": "https://github.com/glushchenko.png?size=160",
+      "url": "https://github.com/glushchenko/fsnotes",
+      "homepage": "",
+      "description": "Notes manager for macOS/iOS",
+      "category": "notes",
+      "tags": [
+        "Notes",
+        "iOS",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 7445,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "milanvarady/Applite",
+      "name": "Applite",
+      "owner": "milanvarady",
+      "avatar": "https://github.com/milanvarady.png?size=160",
+      "url": "https://github.com/milanvarady/Applite",
+      "homepage": "",
+      "description": "User-friendly GUI macOS application for Homebrew Casks",
+      "category": "packages",
+      "tags": [
+        "Homebrew",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 6943,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "hovancik/stretchly",
+      "name": "stretchly",
+      "owner": "hovancik",
+      "avatar": "https://github.com/hovancik.png?size=160",
+      "url": "https://github.com/hovancik/stretchly",
+      "homepage": "",
+      "description": "The break time reminder app",
+      "category": "focus",
+      "tags": [
+        "Focus",
+        "JavaScript"
+      ],
+      "topics": [],
+      "language": "JavaScript",
+      "stars": 6477,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "MetaCubeX/ClashX.Meta",
+      "name": "ClashX.Meta",
+      "owner": "MetaCubeX",
+      "avatar": "https://github.com/MetaCubeX.png?size=160",
+      "url": "https://github.com/MetaCubeX/ClashX.Meta",
+      "homepage": "",
+      "description": "A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.",
+      "category": "network",
+      "tags": [
+        "Proxy",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 6205,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "666OS/ClashMac",
+      "name": "ClashMac",
+      "owner": "666OS",
+      "avatar": "https://github.com/666OS.png?size=160",
+      "url": "https://github.com/666OS/ClashMac",
+      "homepage": "",
+      "description": "Native Proxy Experience Built for macOS",
+      "category": "network",
+      "tags": [
+        "Proxy"
+      ],
+      "topics": [],
+      "language": "",
+      "stars": 6132,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ejbills/DockDoor",
+      "name": "DockDoor",
+      "owner": "ejbills",
+      "avatar": "https://github.com/ejbills.png?size=160",
+      "url": "https://github.com/ejbills/DockDoor",
+      "homepage": "",
+      "description": "Window peeking, alt-tab and other enhancements for macOS",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Dock",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 5914,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "jacklandrin/OnlySwitch",
+      "name": "OnlySwitch",
+      "owner": "jacklandrin",
+      "avatar": "https://github.com/jacklandrin.png?size=160",
+      "url": "https://github.com/jacklandrin/OnlySwitch",
+      "homepage": "",
+      "description": "All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Notch",
+        "Keyboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 5888,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "momenbasel/PureMac",
+      "name": "PureMac",
+      "owner": "momenbasel",
+      "avatar": "https://github.com/momenbasel.png?size=160",
+      "url": "https://github.com/momenbasel/PureMac",
+      "homepage": "",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "category": "system",
+      "tags": [
+        "Cleanup",
+        "Privacy",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 5818,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "feschber/lan-mouse",
+      "name": "lan-mouse",
+      "owner": "feschber",
+      "avatar": "https://github.com/feschber.png?size=160",
+      "url": "https://github.com/feschber/lan-mouse",
+      "homepage": "",
+      "description": "Mouse & keyboard sharing via LAN",
+      "category": "input",
+      "tags": [
+        "Keyboard",
+        "Mouse",
+        "Rust"
+      ],
+      "topics": [],
+      "language": "Rust",
+      "stars": 5136,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "mangerlahn/Latest",
+      "name": "Latest",
+      "owner": "mangerlahn",
+      "avatar": "https://github.com/mangerlahn.png?size=160",
+      "url": "https://github.com/mangerlahn/Latest",
+      "homepage": "",
+      "description": "A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
+      "category": "packages",
+      "tags": [
+        "Updates",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 4737,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "buresdv/Cork",
+      "name": "Cork",
+      "owner": "buresdv",
+      "avatar": "https://github.com/buresdv.png?size=160",
+      "url": "https://github.com/buresdv/Cork",
+      "homepage": "",
+      "description": "A fast GUI for Homebrew written in SwiftUI, AI-free",
+      "category": "packages",
+      "tags": [
+        "Homebrew",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 4622,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "briefercloud/briefer",
+      "name": "briefer",
+      "owner": "briefercloud",
+      "avatar": "https://github.com/briefercloud.png?size=160",
+      "url": "https://github.com/briefercloud/briefer",
+      "homepage": "",
+      "description": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.",
+      "category": "devtools",
+      "tags": [
+        "Dashboard",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 4315,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ashutosh1919/masterPortfolio",
+      "name": "masterPortfolio",
+      "owner": "ashutosh1919",
+      "avatar": "https://github.com/ashutosh1919.png?size=160",
+      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "homepage": "",
+      "description": "The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "category": "web",
+      "tags": [
+        "Template",
+        "JavaScript"
+      ],
+      "topics": [],
+      "language": "JavaScript",
+      "stars": 4215,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Ebullioscopic/Atoll",
+      "name": "Atoll",
+      "owner": "Ebullioscopic",
+      "avatar": "https://github.com/Ebullioscopic.png?size=160",
+      "url": "https://github.com/Ebullioscopic/Atoll",
+      "homepage": "",
+      "description": "Dynamic Island for macOS",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 3962,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "f/textream",
+      "name": "textream",
+      "owner": "f",
+      "avatar": "https://github.com/f.png?size=160",
+      "url": "https://github.com/f/textream",
+      "homepage": "",
+      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "category": "media",
+      "tags": [
+        "Presenting",
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 3610,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ZToolsCenter/ZTools",
+      "name": "ZTools",
+      "owner": "ZToolsCenter",
+      "avatar": "https://github.com/ZToolsCenter.png?size=160",
+      "url": "https://github.com/ZToolsCenter/ZTools",
+      "homepage": "",
+      "description": "An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 3557,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ivoronin/TomatoBar",
+      "name": "TomatoBar",
+      "owner": "ivoronin",
+      "avatar": "https://github.com/ivoronin.png?size=160",
+      "url": "https://github.com/ivoronin/TomatoBar",
+      "homepage": "",
+      "description": "World's neatest Pomodoro timer for macOS menu bar",
+      "category": "focus",
+      "tags": [
+        "Menu Bar",
+        "Focus",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 3481,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ospfranco/sol",
+      "name": "sol",
+      "owner": "ospfranco",
+      "avatar": "https://github.com/ospfranco.png?size=160",
+      "url": "https://github.com/ospfranco/sol",
+      "homepage": "",
+      "description": "MacOS launcher & command palette",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 3057,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "RoversX/LaunchNext",
+      "name": "LaunchNext",
+      "owner": "RoversX",
+      "avatar": "https://github.com/RoversX.png?size=160",
+      "url": "https://github.com/RoversX/LaunchNext",
+      "homepage": "",
+      "description": "Bring your Launchpad back in macOS 26+, highly customizable, powerful, free.",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2941,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "artginzburg/MiddleClick",
+      "name": "MiddleClick",
+      "owner": "artginzburg",
+      "avatar": "https://github.com/artginzburg.png?size=160",
+      "url": "https://github.com/artginzburg/MiddleClick",
+      "homepage": "",
+      "description": "\"Wheel click\" with three-finger click/tap for Trackpad and Magic Mouse.",
+      "category": "input",
+      "tags": [
+        "Mouse",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2894,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "wickenico/WailBrew",
+      "name": "WailBrew",
+      "owner": "wickenico",
+      "avatar": "https://github.com/wickenico.png?size=160",
+      "url": "https://github.com/wickenico/WailBrew",
+      "homepage": "",
+      "description": "Minimalistic Homebrew GUI made with Go, Wails and React.",
+      "category": "packages",
+      "tags": [
+        "Homebrew",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 2734,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "hainguyents13/mechvibes",
+      "name": "mechvibes",
+      "owner": "hainguyents13",
+      "avatar": "https://github.com/hainguyents13.png?size=160",
+      "url": "https://github.com/hainguyents13/mechvibes",
+      "homepage": "",
+      "description": "Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs.",
+      "category": "input",
+      "tags": [
+        "JavaScript",
+        "Keyboard",
+        "Audio"
+      ],
+      "topics": [],
+      "language": "JavaScript",
+      "stars": 2303,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "steipete/RepoBar",
+      "name": "RepoBar",
+      "owner": "steipete",
+      "avatar": "https://github.com/steipete.png?size=160",
+      "url": "https://github.com/steipete/RepoBar",
+      "homepage": "",
+      "description": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Terminal",
+        "Git",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2177,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Lakr233/NotchDrop",
+      "name": "NotchDrop",
+      "owner": "Lakr233",
+      "avatar": "https://github.com/Lakr233.png?size=160",
+      "url": "https://github.com/Lakr233/NotchDrop",
+      "homepage": "",
+      "description": "Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Files",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2080,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "alienator88/Sentinel",
+      "name": "Sentinel",
+      "owner": "alienator88",
+      "avatar": "https://github.com/alienator88.png?size=160",
+      "url": "https://github.com/alienator88/Sentinel",
+      "homepage": "",
+      "description": "Configure Gatekeeper, remove apps from quarantine and self-sign apps",
+      "category": "security",
+      "tags": [
+        "Privacy",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1725,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "leaves615/KeyboardHolder",
+      "name": "KeyboardHolder",
+      "owner": "leaves615",
+      "avatar": "https://github.com/leaves615.png?size=160",
+      "url": "https://github.com/leaves615/KeyboardHolder",
+      "homepage": "",
+      "description": "No description on GitHub — open the repository to see what it does.",
+      "category": "input",
+      "tags": [
+        "Keyboard"
+      ],
+      "topics": [],
+      "language": "",
+      "stars": 1576,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "tom-james-watson/breaktimer-app",
+      "name": "breaktimer-app",
+      "owner": "tom-james-watson",
+      "avatar": "https://github.com/tom-james-watson.png?size=160",
+      "url": "https://github.com/tom-james-watson/breaktimer-app",
+      "homepage": "",
+      "description": "Manage periodic breaks. Avoid eye-strain and RSI.",
+      "category": "focus",
+      "tags": [
+        "Focus",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 1563,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "rsyncOSX/RsyncUI",
+      "name": "RsyncUI",
+      "owner": "rsyncOSX",
+      "avatar": "https://github.com/rsyncOSX.png?size=160",
+      "url": "https://github.com/rsyncOSX/RsyncUI",
+      "homepage": "",
+      "description": "A SwiftUI based macOS GUI for rsync.",
+      "category": "files",
+      "tags": [
+        "Backup",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1455,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "xjbeta/iina-plus",
+      "name": "iina-plus",
+      "owner": "xjbeta",
+      "avatar": "https://github.com/xjbeta.png?size=160",
+      "url": "https://github.com/xjbeta/iina-plus",
+      "homepage": "",
+      "description": "Extra danmaku support for iina.",
+      "category": "media",
+      "tags": [
+        "Swift",
+        "Video"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1368,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "xykong/flux-markdown",
+      "name": "flux-markdown",
+      "owner": "xykong",
+      "avatar": "https://github.com/xykong.png?size=160",
+      "url": "https://github.com/xykong/flux-markdown",
+      "homepage": "",
+      "description": "Markdown Preview Enhanced for macOS QuickLook",
+      "category": "notes",
+      "tags": [
+        "Markdown",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1215,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Lakr233/FlowDown",
+      "name": "FlowDown",
+      "owner": "Lakr233",
+      "avatar": "https://github.com/Lakr233.png?size=160",
+      "url": "https://github.com/Lakr233/FlowDown",
+      "homepage": "",
+      "description": "Blazing fast and smooth AI chat client.",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1187,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "lzhgus/Capso",
+      "name": "Capso",
+      "owner": "lzhgus",
+      "avatar": "https://github.com/lzhgus.png?size=160",
+      "url": "https://github.com/lzhgus/Capso",
+      "homepage": "",
+      "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
+      "category": "capture",
+      "tags": [
+        "Capture",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1155,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "josejuanqm/docky",
+      "name": "docky",
+      "owner": "josejuanqm",
+      "avatar": "https://github.com/josejuanqm.png?size=160",
+      "url": "https://github.com/josejuanqm/docky",
+      "homepage": "",
+      "description": "Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout and…",
+      "category": "windows",
+      "tags": [
+        "Dock",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1079,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "msitarzewski/brew-browser",
+      "name": "brew-browser",
+      "owner": "msitarzewski",
+      "avatar": "https://github.com/msitarzewski.png?size=160",
+      "url": "https://github.com/msitarzewski/brew-browser",
+      "homepage": "",
+      "description": "Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.",
+      "category": "packages",
+      "tags": [
+        "Homebrew",
+        "Rust"
+      ],
+      "topics": [],
+      "language": "Rust",
+      "stars": 1013,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "kamillobinski/thock",
+      "name": "thock",
+      "owner": "kamillobinski",
+      "avatar": "https://github.com/kamillobinski.png?size=160",
+      "url": "https://github.com/kamillobinski/thock",
+      "homepage": "",
+      "description": "THOCK your mac keyboard",
+      "category": "input",
+      "tags": [
+        "Keyboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 895,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ggkevinnnn/LaunchNow",
+      "name": "LaunchNow",
+      "owner": "ggkevinnnn",
+      "avatar": "https://github.com/ggkevinnnn.png?size=160",
+      "url": "https://github.com/ggkevinnnn/LaunchNow",
+      "homepage": "",
+      "description": "Alternative Launchpad for macOS Tahoe & Golden Gate.",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 814,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "iordv/Droppy",
+      "name": "Droppy",
+      "owner": "iordv",
+      "avatar": "https://github.com/iordv.png?size=160",
+      "url": "https://github.com/iordv/Droppy",
+      "homepage": "",
+      "description": "The native productivity layer macOS is missing.",
+      "category": "files",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 683,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "rokartur/BetterCmdTab",
+      "name": "BetterCmdTab",
+      "owner": "rokartur",
+      "avatar": "https://github.com/rokartur.png?size=160",
+      "url": "https://github.com/rokartur/BetterCmdTab",
+      "homepage": "",
+      "description": "Master your Mac's ⌘Tab",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 677,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "monuk7735/mew-notch",
+      "name": "mew-notch",
+      "owner": "monuk7735",
+      "avatar": "https://github.com/monuk7735.png?size=160",
+      "url": "https://github.com/monuk7735/mew-notch",
+      "homepage": "",
+      "description": "Make the Notches on newer Macs Useful!",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 542,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "crissNb/Dynamic-Island-Sketchybar",
+      "name": "Dynamic-Island-Sketchybar",
+      "owner": "crissNb",
+      "avatar": "https://github.com/crissNb.png?size=160",
+      "url": "https://github.com/crissNb/Dynamic-Island-Sketchybar",
+      "homepage": "",
+      "description": "Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Menu Bar",
+        "Shell"
+      ],
+      "topics": [],
+      "language": "Shell",
+      "stars": 529,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "jackson-storm/DynamicNotch",
+      "name": "DynamicNotch",
+      "owner": "jackson-storm",
+      "avatar": "https://github.com/jackson-storm.png?size=160",
+      "url": "https://github.com/jackson-storm/DynamicNotch",
+      "homepage": "",
+      "description": "Turn the MacBook notch into a living system surface.",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 505,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "anges244/evie",
+      "name": "evie",
+      "owner": "anges244",
+      "avatar": "https://github.com/anges244.png?size=160",
+      "url": "https://github.com/anges244/evie",
+      "homepage": "",
+      "description": "A production-ready theme for your projects with a minimal style guide",
+      "category": "web",
+      "tags": [
+        "Template",
+        "Web"
+      ],
+      "topics": [],
+      "language": "HTML",
+      "stars": 505,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Sanyam-G/switch",
+      "name": "switch",
+      "owner": "Sanyam-G",
+      "avatar": "https://github.com/Sanyam-G.png?size=160",
+      "url": "https://github.com/Sanyam-G/switch",
+      "homepage": "",
+      "description": "A keyboard-driven window switcher for macOS. Notarized. Free.",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Keyboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 490,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "guilhermeborgesbastos/live-resume",
+      "name": "live-resume",
+      "owner": "guilhermeborgesbastos",
+      "avatar": "https://github.com/guilhermeborgesbastos.png?size=160",
+      "url": "https://github.com/guilhermeborgesbastos/live-resume",
+      "homepage": "",
+      "description": "A fast personal web app for building a professional single-page website and resume that highlights your skills and experience.",
+      "category": "web",
+      "tags": [
+        "Template",
+        "Web"
+      ],
+      "topics": [],
+      "language": "SCSS",
+      "stars": 483,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "johnbean393/KeyType",
+      "name": "KeyType",
+      "owner": "johnbean393",
+      "avatar": "https://github.com/johnbean393.png?size=160",
+      "url": "https://github.com/johnbean393/KeyType",
+      "homepage": "",
+      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 461,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "celve/Peninsula",
+      "name": "Peninsula",
+      "owner": "celve",
+      "avatar": "https://github.com/celve.png?size=160",
+      "url": "https://github.com/celve/Peninsula",
+      "homepage": "",
+      "description": "Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Files",
+        "Notifications",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 456,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "glinford/dns-easy-switcher",
+      "name": "dns-easy-switcher",
+      "owner": "glinford",
+      "avatar": "https://github.com/glinford.png?size=160",
+      "url": "https://github.com/glinford/dns-easy-switcher",
+      "homepage": "",
+      "description": "DNS Easy Switcher for macOS",
+      "category": "network",
+      "tags": [
+        "DNS",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 357,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "romankurnovskii/BrewMate",
+      "name": "BrewMate",
+      "owner": "romankurnovskii",
+      "avatar": "https://github.com/romankurnovskii.png?size=160",
+      "url": "https://github.com/romankurnovskii/BrewMate",
+      "homepage": "",
+      "description": "Homebrew GUI apps manager",
+      "category": "packages",
+      "tags": [
+        "Homebrew",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 299,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "lifedever/PasteMemo-app",
+      "name": "PasteMemo-app",
+      "owner": "lifedever",
+      "avatar": "https://github.com/lifedever.png?size=160",
+      "url": "https://github.com/lifedever/PasteMemo-app",
+      "homepage": "",
+      "description": "PasteMemo - A clipboard manager for macOS",
+      "category": "clipboard",
+      "tags": [
+        "Clipboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 272,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "altic-dev/PeekX",
+      "name": "PeekX",
+      "owner": "altic-dev",
+      "avatar": "https://github.com/altic-dev.png?size=160",
+      "url": "https://github.com/altic-dev/PeekX",
+      "homepage": "",
+      "description": "Quick Look Extension for Folder Preview on macOS",
+      "category": "files",
+      "tags": [
+        "Files",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 252,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Ender-Wang/EdgeMark",
+      "name": "EdgeMark",
+      "owner": "Ender-Wang",
+      "avatar": "https://github.com/Ender-Wang.png?size=160",
+      "url": "https://github.com/Ender-Wang/EdgeMark",
+      "homepage": "",
+      "description": "More than a SideNotes alternative.",
+      "category": "notes",
+      "tags": [
+        "Swift",
+        "Notes"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 216,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "x0054/MKS",
+      "name": "MKS",
+      "owner": "x0054",
+      "avatar": "https://github.com/x0054.png?size=160",
+      "url": "https://github.com/x0054/MKS",
+      "homepage": "",
+      "description": "No description on GitHub — open the repository to see what it does.",
+      "category": "system",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 208,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "403unlocker/bargozin-desktop",
+      "name": "bargozin-desktop",
+      "owner": "403unlocker",
+      "avatar": "https://github.com/403unlocker.png?size=160",
+      "url": "https://github.com/403unlocker/bargozin-desktop",
+      "homepage": "",
+      "description": "DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers",
+      "category": "network",
+      "tags": [
+        "DNS",
+        "Proxy",
+        "TypeScript"
+      ],
+      "topics": [],
+      "language": "TypeScript",
+      "stars": 186,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Punshnut/macos-launchy",
+      "name": "macos-launchy",
+      "owner": "Punshnut",
+      "avatar": "https://github.com/Punshnut.png?size=160",
+      "url": "https://github.com/Punshnut/macos-launchy",
+      "homepage": "",
+      "description": "Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 167,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Licoy/StrokeMouse",
+      "name": "StrokeMouse",
+      "owner": "Licoy",
+      "avatar": "https://github.com/Licoy.png?size=160",
+      "url": "https://github.com/Licoy/StrokeMouse",
+      "homepage": "",
+      "description": "A macOS mouse gesture customization tool. Hold down the trigger key to draw a gesture and execute shortcuts, open applications, window operations, media keys, Shell / AppleScript and more.",
+      "category": "input",
+      "tags": [
+        "Mouse",
+        "Shortcuts",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 157,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "tristan666666/agent-island",
+      "name": "agent-island",
+      "owner": "tristan666666",
+      "avatar": "https://github.com/tristan666666.png?size=160",
+      "url": "https://github.com/tristan666666/agent-island",
+      "homepage": "",
+      "description": "Open-source status companion for your AI coding agents — Claude Code, Codex, Antigravity, Grok, and Cursor. Live session state, your-turn alerts, quotas and cost, all computed locally on…",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "AI",
+        "Notifications",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 142,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Lakr233/NotchNotification",
+      "name": "NotchNotification",
+      "owner": "Lakr233",
+      "avatar": "https://github.com/Lakr233.png?size=160",
+      "url": "https://github.com/Lakr233/NotchNotification",
+      "homepage": "",
+      "description": "Display Notification Inside Mac's Notch.",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Notifications",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 120,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Ryan-the-hito/Raspberry",
+      "name": "Raspberry",
+      "owner": "Ryan-the-hito",
+      "avatar": "https://github.com/Ryan-the-hito.png?size=160",
+      "url": "https://github.com/Ryan-the-hito/Raspberry",
+      "homepage": "",
+      "description": "Raspberry is another macOS Launchpad alternative and even better to help you organize your groups on macOS Tahoe.",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "Python"
+      ],
+      "topics": [],
+      "language": "Python",
+      "stars": 110,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "ShubhamPP04/Izzy",
+      "name": "Izzy",
+      "owner": "ShubhamPP04",
+      "avatar": "https://github.com/ShubhamPP04.png?size=160",
+      "url": "https://github.com/ShubhamPP04/Izzy",
+      "homepage": "",
+      "description": "Izzy Music Player - A battery-efficient macOS music player with advanced prefetching, perfect seeking, and YouTube Music integration",
+      "category": "media",
+      "tags": [
+        "Audio",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 58,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "Notchly/Notchly",
+      "name": "Notchly",
+      "owner": "Notchly",
+      "avatar": "https://github.com/Notchly.png?size=160",
+      "url": "https://github.com/Notchly/Notchly",
+      "homepage": "",
+      "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "AI",
+        "Notifications",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 45,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "writronic/MaCursor",
+      "name": "MaCursor",
+      "owner": "writronic",
+      "avatar": "https://github.com/writronic.png?size=160",
+      "url": "https://github.com/writronic/MaCursor",
+      "homepage": "",
+      "description": "Cursor Control for macOS",
+      "category": "input",
+      "tags": [
+        "Mouse",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 44,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    },
+    {
+      "full_name": "rewhex/better-launchpad",
+      "name": "better-launchpad",
+      "owner": "rewhex",
+      "avatar": "https://github.com/rewhex.png?size=160",
+      "url": "https://github.com/rewhex/better-launchpad",
+      "homepage": "",
+      "description": "A smarter, more customizable Launchpad for macOS with fast search.",
+      "category": "launchers",
+      "tags": [
+        "Launcher"
+      ],
+      "topics": [],
+      "language": "",
+      "stars": 18,
+      "forks": 0,
+      "license": "",
+      "archived": false,
+      "pushed_at": ""
+    }
+  ]
+}

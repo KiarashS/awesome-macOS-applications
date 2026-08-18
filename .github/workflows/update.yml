@@ -1,0 +1,99 @@
+name: Update app list and publish
+
+on:
+  schedule:
+    # 23:30 UTC == 03:00 Asia/Tehran. Iran does not observe DST, so this is
+    # 3 AM all year round. GitHub's scheduler can lag a few minutes at peak.
+    - cron: "30 23 * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Publish to GitHub Pages even when run from a side branch"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Rebuild data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read the star list and refresh every repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: KiarashS
+          LIST_SLUG: app
+          SITE_URL: https://kiarashs.github.io/awesome-macOS-applications/
+        run: python3 scripts/build.py
+
+      - name: Sanity-check the payload before it goes anywhere
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          d = json.load(open("site/data/apps.json"))
+          apps = d["apps"]
+          assert len(apps) >= 10, f"only {len(apps)} apps — refusing to publish"
+          assert d["categories"], "no categories"
+          for a in apps:
+              for key in ("full_name", "name", "url", "description", "category", "tags"):
+                  assert a.get(key) not in (None, ""), f"{a.get('full_name')} is missing {key}"
+          print(f"ok: {len(apps)} apps, {len(d['categories'])} categories, {len(d['tags'])} tags")
+          PY
+
+      - name: Commit the refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- README.md site/data/apps.json data/list-cache.json; then
+            echo "Nothing changed since the last run."
+            exit 0
+          fi
+          git add README.md site/data/apps.json data/list-cache.json
+          git commit -m "chore: refresh app list ($(date -u +%Y-%m-%d))"
+          for attempt in 1 2 3 4; do
+            git push -u origin "HEAD:${GITHUB_REF_NAME}" && break
+            echo "push failed, retrying in $((2 ** attempt))s"
+            sleep $((2 ** attempt))
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done
+
+      - uses: actions/configure-pages@v5
+        continue-on-error: true
+
+      - name: Package the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    name: Publish to Pages
+    needs: build
+    if: github.ref_name == github.event.repository.default_branch || inputs.deploy
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
