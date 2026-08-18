@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`91 apps` · `23 categories` · `57 tags` · `831,712 stars`
+`91 apps` · `23 categories` · `57 tags` · `831,736 stars`
 
 Last updated 2026-08-18. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -45,13 +45,13 @@ _Apps that turn the MacBook notch into something useful._
 - **[boring.notch](https://github.com/TheBoredTeam/boring.notch)** — TheBoringNotch: Not so boring notch That Rocks 🎸🎶  
   <sub>★ 10,383 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
 - **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS  
-  <sub>★ 3,966 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
+  <sub>★ 3,967 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
 - **[NotchDrop](https://github.com/Lakr233/NotchDrop)** — Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop  
   <sub>★ 2,080 · Lakr233 · Swift · `Notch` `Files` `Swift`</sub>
 - **[mew-notch](https://github.com/monuk7735/mew-notch)** — Make the Notches on newer Macs Useful!  
   <sub>★ 542 · monuk7735 · Swift · `Notch` `Notifications` `Swift`</sub>
 - **[Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)** — Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar  
-  <sub>★ 529 · crissNb · Shell · `Notch` `Menu Bar` `Shell`</sub>
+  <sub>★ 528 · crissNb · Shell · `Notch` `Menu Bar` `Shell`</sub>
 - **[DynamicNotch](https://github.com/jackson-storm/DynamicNotch)** — Turn the MacBook notch into a living system surface.  
   <sub>★ 505 · jackson-storm · Swift · `Notch` `SwiftUI` `Swift`</sub>
 - **[NotchNotification](https://github.com/Lakr233/NotchNotification)** — Display Notification Inside Mac's Notch.  
@@ -109,7 +109,7 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
-  <sub>★ 20,951 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
+  <sub>★ 20,953 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[Capso](https://github.com/lzhgus/Capso)** — Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.  
   <sub>★ 1,154 · lzhgus · Swift · `Capture` `SwiftUI` `Swift`</sub>
 
@@ -124,7 +124,7 @@ _Download managers and accelerators._
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,554 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
-  <sub>★ 8,428 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
+  <sub>★ 8,429 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
 
 <a id="cat-reading"></a>
 
@@ -144,15 +144,15 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 50,715 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 50,716 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 50,206 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 50,221 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
   <sub>★ 29,857 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[FlowDown](https://github.com/Lakr233/FlowDown)** — Https://flowdown.ai/  
   <sub>★ 1,187 · Lakr233 · Swift · `AI` `Swift`</sub>
 - **[KeyType](https://github.com/johnbean393/KeyType)** — An open-source Cotypist with macOS system wide AI autocomplete  
-  <sub>★ 466 · johnbean393 · Swift · `AI` `Swift`</sub>
+  <sub>★ 468 · johnbean393 · Swift · `AI` `Swift`</sub>
 
 <a id="cat-launchers"></a>
 
@@ -231,7 +231,7 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
-  <sub>★ 54,927 · romkatv · Shell · `Terminal` `Shell`</sub>
+  <sub>★ 54,925 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
   <sub>★ 33,161 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 
@@ -282,7 +282,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 - **[StrokeMouse](https://github.com/Licoy/StrokeMouse)** — MacOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts…  
   <sub>★ 157 · Licoy · Swift · `Mouse` `Shortcuts` `Swift`</sub>
 - **[MaCursor](https://github.com/writronic/MaCursor)** — Cursor Control for macOS  
-  <sub>★ 45 · writronic · Swift · `Mouse` `Swift`</sub>
+  <sub>★ 46 · writronic · Swift · `Mouse` `Swift`</sub>
 
 <a id="cat-media"></a>
 
@@ -291,7 +291,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 _Video players, music apps and everything that makes noise._
 
 - **[iina](https://github.com/iina/iina)** — The modern video player for macOS.  
-  <sub>★ 46,000 · iina · Swift · `Video` `Swift`</sub>
+  <sub>★ 46,002 · iina · Swift · `Video` `Swift`</sub>
 - **[textream](https://github.com/f/textream)** — Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay…  
   <sub>★ 3,611 · f · Swift · `Presenting` `Notch` `Swift`</sub>
 - **[iina-plus](https://github.com/xjbeta/iina-plus)** — Extra danmaku support for iina. (iina 弹幕支持  
@@ -310,9 +310,9 @@ _Note taking, Markdown editors and knowledge bases._
 - **[tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases  
   <sub>★ 19,504 · refactoringhq · TypeScript · `Markdown` `TypeScript`</sub>
 - **[MiaoYan](https://github.com/tw93/MiaoYan)** — Lightweight Markdown app to help you write great sentences.  
-  <sub>★ 8,584 · tw93 · Swift · `Markdown` `Notes` `Editor` `Swift`</sub>
+  <sub>★ 8,585 · tw93 · Swift · `Markdown` `Notes` `Editor` `Swift`</sub>
 - **[CotEditor](https://github.com/coteditor/CotEditor)** — Lightweight Plain Text Editor for macOS  
-  <sub>★ 8,378 · coteditor · Swift · `Editor` `Swift`</sub>
+  <sub>★ 8,379 · coteditor · Swift · `Editor` `Swift`</sub>
 - **[fsnotes](https://github.com/glushchenko/fsnotes)** — Notes manager for macOS/iOS  
   <sub>★ 7,445 · glushchenko · Swift · `Notes` `Dashboard` `iOS` `Swift`</sub>
 - **[flux-markdown](https://github.com/xykong/flux-markdown)** — Markdown Preview Enhanced for macOS QuickLook  
