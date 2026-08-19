@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:22:14Z",
+  "generated_at": "2026-08-19T16:55:47Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 111,
     "categories": 23,
     "tags": 60,
-    "stars": 1146484
+    "stars": 1146529
   },
   "categories": [
     {
@@ -467,7 +467,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128276,
+      "stars": 128282,
       "forks": 8773,
       "license": "MIT",
       "archived": false,
@@ -499,11 +499,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64349,
+      "stars": 64350,
       "forks": 5444,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T16:19:55Z"
+      "pushed_at": "2026-08-19T16:34:11Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -557,8 +557,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 51027,
-      "forks": 6947,
+      "stars": 51042,
+      "forks": 6950,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T16:00:30Z"
@@ -588,8 +588,8 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50776,
-      "forks": 4816,
+      "stars": 50777,
+      "forks": 4817,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-19T16:20:22Z"
@@ -617,7 +617,7 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46011,
+      "stars": 46013,
       "forks": 2898,
       "license": "GPL-3.0",
       "archived": false,
@@ -647,7 +647,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38826,
+      "stars": 38827,
       "forks": 2111,
       "license": "AGPL-3.0",
       "archived": false,
@@ -707,7 +707,7 @@
         "redis-gui"
       ],
       "language": "JavaScript",
-      "stars": 34643,
+      "stars": 34644,
       "forks": 2715,
       "license": "MIT",
       "archived": false,
@@ -771,8 +771,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29935,
-      "forks": 2656,
+      "stars": 29936,
+      "forks": 2657,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T06:56:48Z"
@@ -803,7 +803,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29318,
+      "stars": 29317,
       "forks": 846,
       "license": "GPL-3.0",
       "archived": false,
@@ -903,7 +903,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23552,
+      "stars": 23553,
       "forks": 1485,
       "license": "AGPL-3.0",
       "archived": false,
@@ -994,7 +994,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21000,
+      "stars": 21002,
       "forks": 1794,
       "license": "",
       "archived": false,
@@ -1023,11 +1023,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20935,
+      "stars": 20939,
       "forks": 7622,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-19T14:28:22Z"
+      "pushed_at": "2026-08-19T16:28:02Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1077,7 +1077,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17340,
+      "stars": 17341,
       "forks": 893,
       "license": "Apache-2.0",
       "archived": false,
@@ -1158,7 +1158,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15048,
+      "stars": 15049,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1373,7 +1373,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9592,
+      "stars": 9594,
       "forks": 299,
       "license": "MIT",
       "archived": false,
@@ -1438,7 +1438,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8455,
+      "stars": 8456,
       "forks": 526,
       "license": "GPL-3.0",
       "archived": false,
@@ -1557,7 +1557,7 @@
         "sequelpro"
       ],
       "language": "Objective-C",
-      "stars": 7508,
+      "stars": 7509,
       "forks": 330,
       "license": "",
       "archived": false,
@@ -1732,6 +1732,39 @@
       "pushed_at": "2026-08-11T00:49:27Z"
     },
     {
+      "full_name": "momenbasel/PureMac",
+      "name": "PureMac",
+      "owner": "momenbasel",
+      "avatar": "https://avatars.githubusercontent.com/u/8724766?v=4",
+      "icon": "icons/momenbasel__PureMac.png",
+      "url": "https://github.com/momenbasel/PureMac",
+      "homepage": "https://www.moamenbasel.com/PureMac/",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "category": "system",
+      "tags": [
+        "Cleanup",
+        "Privacy",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "cache-cleaner",
+        "cleanmymac",
+        "cleanup",
+        "disk-cleaner",
+        "disk-space",
+        "homebrew",
+        "mac-utility",
+        "macos"
+      ],
+      "language": "Swift",
+      "stars": 5893,
+      "forks": 324,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-17T22:48:27Z"
+    },
+    {
       "full_name": "jacklandrin/OnlySwitch",
       "name": "OnlySwitch",
       "owner": "jacklandrin",
@@ -1767,39 +1800,6 @@
       "pushed_at": "2026-08-11T20:50:04Z"
     },
     {
-      "full_name": "momenbasel/PureMac",
-      "name": "PureMac",
-      "owner": "momenbasel",
-      "avatar": "https://avatars.githubusercontent.com/u/8724766?v=4",
-      "icon": "icons/momenbasel__PureMac.png",
-      "url": "https://github.com/momenbasel/PureMac",
-      "homepage": "https://www.moamenbasel.com/PureMac/",
-      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
-      "category": "system",
-      "tags": [
-        "Cleanup",
-        "Privacy",
-        "SwiftUI",
-        "Swift"
-      ],
-      "topics": [
-        "cache-cleaner",
-        "cleanmymac",
-        "cleanup",
-        "disk-cleaner",
-        "disk-space",
-        "homebrew",
-        "mac-utility",
-        "macos"
-      ],
-      "language": "Swift",
-      "stars": 5890,
-      "forks": 324,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-08-17T22:48:27Z"
-    },
-    {
       "full_name": "TableProApp/TablePro",
       "name": "TablePro",
       "owner": "TableProApp",
@@ -1825,11 +1825,11 @@
         "mongodb"
       ],
       "language": "Swift",
-      "stars": 5504,
+      "stars": 5505,
       "forks": 365,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T16:20:47Z"
+      "pushed_at": "2026-08-19T16:21:54Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -2173,7 +2173,7 @@
         "timer"
       ],
       "language": "Swift",
-      "stars": 3483,
+      "stars": 3484,
       "forks": 203,
       "license": "MIT",
       "archived": false,
