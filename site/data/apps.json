@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T14:05:28Z",
+  "generated_at": "2026-08-19T14:52:18Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 104,
+    "apps": 111,
     "categories": 23,
-    "tags": 59,
-    "stars": 958871
+    "tags": 60,
+    "stars": 1146340
   },
   "categories": [
     {
@@ -42,7 +42,7 @@
       "icon": "cube",
       "color": "#64d2ff",
       "blurb": "Virtual machines, emulators and containers.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "capture",
@@ -74,7 +74,7 @@
       "icon": "sparkles",
       "color": "#bf5af2",
       "blurb": "Local and hosted models, assistants and speech tooling.",
-      "count": 7
+      "count": 10
     },
     {
       "id": "launchers",
@@ -154,7 +154,7 @@
       "icon": "note",
       "color": "#ffd426",
       "blurb": "Note taking, Markdown editors and knowledge bases.",
-      "count": 7
+      "count": 8
     },
     {
       "id": "files",
@@ -170,7 +170,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 5
+      "count": 7
     },
     {
       "id": "web",
@@ -200,27 +200,27 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 59
+      "count": 62
     },
     {
       "name": "TypeScript",
       "count": 15
     },
     {
-      "name": "Notch",
-      "count": 13
+      "name": "AI",
+      "count": 14
     },
     {
       "name": "SwiftUI",
-      "count": 13
-    },
-    {
-      "name": "AI",
-      "count": 12
+      "count": 14
     },
     {
       "name": "Cross-platform",
-      "count": 11
+      "count": 13
+    },
+    {
+      "name": "Notch",
+      "count": 13
     },
     {
       "name": "Menu Bar",
@@ -239,6 +239,10 @@
       "count": 7
     },
     {
+      "name": "Files",
+      "count": 6
+    },
+    {
       "name": "Homebrew",
       "count": 6
     },
@@ -247,7 +251,23 @@
       "count": 6
     },
     {
+      "name": "Rust",
+      "count": 6
+    },
+    {
+      "name": "Tauri",
+      "count": 6
+    },
+    {
+      "name": "Video",
+      "count": 6
+    },
+    {
       "name": "Audio",
+      "count": 5
+    },
+    {
+      "name": "Editor",
       "count": 5
     },
     {
@@ -255,7 +275,7 @@
       "count": 5
     },
     {
-      "name": "Files",
+      "name": "JavaScript",
       "count": 5
     },
     {
@@ -279,15 +299,7 @@
       "count": 5
     },
     {
-      "name": "Video",
-      "count": 5
-    },
-    {
       "name": "Focus",
-      "count": 4
-    },
-    {
-      "name": "JavaScript",
       "count": 4
     },
     {
@@ -296,14 +308,6 @@
     },
     {
       "name": "Objective-C",
-      "count": 4
-    },
-    {
-      "name": "Rust",
-      "count": 4
-    },
-    {
-      "name": "Tauri",
       "count": 4
     },
     {
@@ -316,10 +320,6 @@
     },
     {
       "name": "Downloads",
-      "count": 3
-    },
-    {
-      "name": "Editor",
       "count": 3
     },
     {
@@ -336,6 +336,10 @@
     },
     {
       "name": "Template",
+      "count": 3
+    },
+    {
+      "name": "Virtualization",
       "count": 3
     },
     {
@@ -391,12 +395,12 @@
       "count": 2
     },
     {
-      "name": "Virtualization",
+      "name": "Web",
       "count": 2
     },
     {
-      "name": "Web",
-      "count": 2
+      "name": "C",
+      "count": 1
     },
     {
       "name": "Encryption",
@@ -437,6 +441,39 @@
   ],
   "apps": [
     {
+      "full_name": "farion1231/cc-switch",
+      "name": "cc-switch",
+      "owner": "farion1231",
+      "avatar": "https://avatars.githubusercontent.com/u/44939412?v=4",
+      "icon": "icons/farion1231__cc-switch.png",
+      "url": "https://github.com/farion1231/cc-switch",
+      "homepage": "https://ccswitch.io",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Tauri",
+        "Cross-platform",
+        "Rust"
+      ],
+      "topics": [
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "desktop-app",
+        "grok",
+        "grokbuild",
+        "hermes",
+        "hermes-agent"
+      ],
+      "language": "Rust",
+      "stars": 128265,
+      "forks": 8772,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-19T05:49:45Z"
+    },
+    {
       "full_name": "warpdotdev/warp",
       "name": "warp",
       "owner": "warpdotdev",
@@ -462,7 +499,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64343,
+      "stars": 64346,
       "forks": 5443,
       "license": "AGPL-3.0",
       "archived": false,
@@ -486,7 +523,7 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 54939,
+      "stars": 54941,
       "forks": 2439,
       "license": "MIT",
       "archived": false,
@@ -520,11 +557,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50933,
-      "forks": 6937,
+      "stars": 50970,
+      "forks": 6938,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-19T13:57:20Z"
+      "pushed_at": "2026-08-19T14:48:21Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -551,11 +588,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50772,
+      "stars": 50775,
       "forks": 4815,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T13:59:58Z"
+      "pushed_at": "2026-08-19T14:47:46Z"
     },
     {
       "full_name": "iina/iina",
@@ -649,6 +686,34 @@
       "pushed_at": "2026-08-05T07:54:18Z"
     },
     {
+      "full_name": "qishibo/AnotherRedisDesktopManager",
+      "name": "AnotherRedisDesktopManager",
+      "owner": "qishibo",
+      "avatar": "https://avatars.githubusercontent.com/u/5136418?v=4",
+      "icon": "icons/qishibo__AnotherRedisDesktopManager.png",
+      "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+      "homepage": "",
+      "description": "A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+      "category": "system",
+      "tags": [
+        "Cross-platform",
+        "JavaScript"
+      ],
+      "topics": [
+        "redis",
+        "redis-client",
+        "redis-cluster",
+        "redis-desktop-manager",
+        "redis-gui"
+      ],
+      "language": "JavaScript",
+      "stars": 34643,
+      "forks": 2715,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-18T14:15:53Z"
+    },
+    {
       "full_name": "qier222/YesPlayMusic",
       "name": "YesPlayMusic",
       "owner": "qier222",
@@ -677,7 +742,7 @@
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 33170,
+      "stars": 33171,
       "forks": 4676,
       "license": "MIT",
       "archived": false,
@@ -706,7 +771,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29930,
+      "stars": 29933,
       "forks": 2656,
       "license": "MIT",
       "archived": false,
@@ -738,7 +803,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29317,
+      "stars": 29316,
       "forks": 846,
       "license": "GPL-3.0",
       "archived": false,
@@ -771,7 +836,7 @@
         "imageuploader"
       ],
       "language": "TypeScript",
-      "stars": 26997,
+      "stars": 26998,
       "forks": 2326,
       "license": "MIT",
       "archived": false,
@@ -838,7 +903,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23547,
+      "stars": 23548,
       "forks": 1484,
       "license": "AGPL-3.0",
       "archived": false,
@@ -871,7 +936,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22673,
+      "stars": 22674,
       "forks": 1093,
       "license": "MIT",
       "archived": false,
@@ -897,7 +962,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21232,
+      "stars": 21234,
       "forks": 1110,
       "license": "MIT",
       "archived": false,
@@ -929,11 +994,11 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 20998,
+      "stars": 21000,
       "forks": 1794,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-19T13:54:56Z"
+      "pushed_at": "2026-08-19T14:44:32Z"
     },
     {
       "full_name": "obsidianmd/obsidian-releases",
@@ -962,7 +1027,7 @@
       "forks": 7621,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-19T13:32:46Z"
+      "pushed_at": "2026-08-19T14:28:22Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -980,11 +1045,11 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19510,
-      "forks": 1357,
+      "stars": 19511,
+      "forks": 1356,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T14:01:57Z"
+      "pushed_at": "2026-08-19T14:47:41Z"
     },
     {
       "full_name": "amir1376/ab-download-manager",
@@ -1012,7 +1077,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17336,
+      "stars": 17337,
       "forks": 893,
       "license": "Apache-2.0",
       "archived": false,
@@ -1120,6 +1185,38 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-06-22T18:49:18Z"
+    },
+    {
+      "full_name": "palmier-io/palmier-pro",
+      "name": "palmier-pro",
+      "owner": "palmier-io",
+      "avatar": "https://avatars.githubusercontent.com/u/173962009?v=4",
+      "icon": "icons/palmier-io__palmier-pro.png",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "homepage": "https://palmier.io",
+      "description": "MacOS video editor built for AI",
+      "category": "ai",
+      "tags": [
+        "Editor",
+        "AI",
+        "Video",
+        "Swift"
+      ],
+      "topics": [
+        "ai-video",
+        "claude",
+        "macos",
+        "mcp",
+        "seedance2",
+        "swift",
+        "video-editor"
+      ],
+      "language": "Swift",
+      "stars": 13690,
+      "forks": 1029,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-19T11:20:33Z"
     },
     {
       "full_name": "objective-see/LuLu",
@@ -1345,7 +1442,7 @@
       "forks": 526,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T08:35:05Z"
+      "pushed_at": "2026-08-19T14:39:21Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -1460,7 +1557,7 @@
         "sequelpro"
       ],
       "language": "Objective-C",
-      "stars": 7507,
+      "stars": 7508,
       "forks": 330,
       "license": "",
       "archived": false,
@@ -1575,7 +1672,7 @@
       ],
       "topics": [],
       "language": "",
-      "stars": 6207,
+      "stars": 6208,
       "forks": 647,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1605,7 +1702,7 @@
         "swiftui"
       ],
       "language": "",
-      "stars": 6130,
+      "stars": 6131,
       "forks": 259,
       "license": "",
       "archived": false,
@@ -1628,8 +1725,8 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 5926,
-      "forks": 211,
+      "stars": 5927,
+      "forks": 212,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-11T00:49:27Z"
@@ -1696,11 +1793,43 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 5875,
+      "stars": 5881,
       "forks": 324,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-17T22:48:27Z"
+    },
+    {
+      "full_name": "TableProApp/TablePro",
+      "name": "TablePro",
+      "owner": "TableProApp",
+      "avatar": "https://avatars.githubusercontent.com/u/260450047?v=4",
+      "icon": "icons/TableProApp__TablePro.png",
+      "url": "https://github.com/TableProApp/TablePro",
+      "homepage": "https://tablepro.app",
+      "description": "Free and open source database client built natively for developers",
+      "category": "notes",
+      "tags": [
+        "Editor",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "appkit",
+        "database",
+        "database-client",
+        "database-gui",
+        "database-management",
+        "macos",
+        "macos-app",
+        "mongodb"
+      ],
+      "language": "Swift",
+      "stars": 5502,
+      "forks": 365,
+      "license": "AGPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-19T14:51:43Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -1793,7 +1922,7 @@
       "forks": 306,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-19T12:45:20Z"
+      "pushed_at": "2026-08-19T14:28:23Z"
     },
     {
       "full_name": "buresdv/Cork",
@@ -1910,7 +2039,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 3988,
+      "stars": 3989,
       "forks": 270,
       "license": "GPL-3.0",
       "archived": false,
@@ -2252,6 +2381,27 @@
       "pushed_at": "2026-08-09T10:58:41Z"
     },
     {
+      "full_name": "supabitapp/supacode",
+      "name": "supacode",
+      "owner": "supabitapp",
+      "avatar": "https://avatars.githubusercontent.com/u/255815177?v=4",
+      "icon": "icons/supabitapp__supacode.png",
+      "url": "https://github.com/supabitapp/supacode",
+      "homepage": "https://supacode.sh",
+      "description": "Worktree coding agents command center.",
+      "category": "ai",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2284,
+      "forks": 296,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-13T20:59:08Z"
+    },
+    {
       "full_name": "steipete/RepoBar",
       "name": "RepoBar",
       "owner": "steipete",
@@ -2333,6 +2483,36 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-05-11T16:21:53Z"
+    },
+    {
+      "full_name": "cardisoft/cardinal",
+      "name": "cardinal",
+      "owner": "cardisoft",
+      "avatar": "https://avatars.githubusercontent.com/u/244119114?v=4",
+      "icon": "icons/cardisoft__cardinal.png",
+      "url": "https://github.com/cardisoft/cardinal",
+      "homepage": "",
+      "description": "Fastest file searching tool for macOS",
+      "category": "system",
+      "tags": [
+        "Files",
+        "Tauri",
+        "Rust"
+      ],
+      "topics": [
+        "everything",
+        "file-search",
+        "mac",
+        "macos",
+        "rust",
+        "tauri"
+      ],
+      "language": "Rust",
+      "stars": 1661,
+      "forks": 67,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-23T20:38:40Z"
     },
     {
       "full_name": "leaves615/KeyboardHolder",
@@ -2437,6 +2617,35 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-05T12:45:32Z"
+    },
+    {
+      "full_name": "VirtualBox/virtualbox",
+      "name": "virtualbox",
+      "owner": "VirtualBox",
+      "avatar": "https://avatars.githubusercontent.com/u/207759635?v=4",
+      "icon": "",
+      "url": "https://github.com/VirtualBox/virtualbox",
+      "homepage": "https://www.virtualbox.org/",
+      "description": "Source code for Oracle VirtualBox",
+      "category": "virtualization",
+      "tags": [
+        "Virtualization",
+        "C"
+      ],
+      "topics": [
+        "emulation",
+        "networking",
+        "virtual-machine",
+        "virtualbox",
+        "virtualization",
+        "vm"
+      ],
+      "language": "C",
+      "stars": 1356,
+      "forks": 203,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-19T13:12:30Z"
     },
     {
       "full_name": "Blaizzy/nativ",
