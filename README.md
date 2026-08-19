@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`111 apps` · `23 categories` · `60 tags` · `1,146,588 stars`
+`111 apps` · `23 categories` · `60 tags` · `1,146,624 stars`
 
 Last updated 2026-08-19. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -43,7 +43,7 @@ into the list and it shows up on the next run.
 _Apps that turn the MacBook notch into something useful._
 
 - **[boring.notch](https://github.com/TheBoredTeam/boring.notch)** — TheBoringNotch: Not so boring notch That Rocks 🎸🎶  
-  <sub>★ 10,400 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
+  <sub>★ 10,401 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
 - **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS  
   <sub>★ 3,997 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
 - **[CodeIsland](https://github.com/wxtsky/CodeIsland)** — Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions  
@@ -132,7 +132,7 @@ _Screenshots, screen recording and screen sharing._
 _Download managers and accelerators._
 
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 17,341 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 17,342 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,595 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
@@ -156,15 +156,15 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
-  <sub>★ 128,285 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 128,288 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 51,065 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 51,084 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 50,781 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 50,783 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 29,937 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 29,939 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
-  <sub>★ 13,695 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
+  <sub>★ 13,697 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
   <sub>★ 4,734 · nguyenphutrong · Swift · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Swift`</sub>
 - **[supacode](https://github.com/supabitapp/supacode)** — Worktree coding agents command center.  
@@ -185,7 +185,7 @@ _App launchers, command palettes and Launchpad replacements._
 - **[sol](https://github.com/ospfranco/sol)** — MacOS launcher & command palette  
   <sub>★ 3,060 · ospfranco · TypeScript · `Launcher` `TypeScript`</sub>
 - **[LaunchNext](https://github.com/RoversX/LaunchNext)** — Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.  
-  <sub>★ 2,942 · RoversX · Swift · `Launcher` `Swift`</sub>
+  <sub>★ 2,943 · RoversX · Swift · `Launcher` `Swift`</sub>
 - **[docky](https://github.com/josejuanqm/docky)** — Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout, widgets…  
   <sub>★ 1,081 · josejuanqm · Swift · `Windows` `Dock` `Launcher` `Swift`</sub>
 - **[LaunchNow](https://github.com/ggkevinnnn/LaunchNow)** — Alternative Launchpad for MacOS Tahoe & Golden Gate.  
@@ -223,7 +223,7 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
-  <sub>★ 16,223 · ianyh · Swift · `Windows` `Swift`</sub>
+  <sub>★ 16,224 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,387 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
@@ -231,7 +231,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Master your Mac’s ⌘Tab  
   <sub>★ 679 · rokartur · Swift · `Windows` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
-  <sub>★ 497 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
+  <sub>★ 499 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
 - **[Peninsula](https://github.com/celve/Peninsula)** — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.  
   <sub>★ 456 · celve · Swift · `Windows` `Files` `Notifications` `Swift`</sub>
 
@@ -255,11 +255,11 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,352 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,353 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
-  <sub>★ 54,941 · romkatv · Shell · `Terminal` `Shell`</sub>
+  <sub>★ 54,942 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
-  <sub>★ 33,171 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
+  <sub>★ 33,170 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 
 <a id="cat-security"></a>
 
@@ -281,7 +281,7 @@ _Proxies, VPNs, DNS switchers and network tooling._
 - **[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)** — A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.  
   <sub>★ 6,208 · MetaCubeX · `Proxy`</sub>
 - **[ClashMac](https://github.com/666OS/ClashMac)** — Native Proxy Experience Built for macOS  
-  <sub>★ 6,132 · 666OS · `Proxy` `SwiftUI`</sub>
+  <sub>★ 6,131 · 666OS · `Proxy` `SwiftUI`</sub>
 - **[dns-easy-switcher](https://github.com/glinford/dns-easy-switcher)** — DNS Easy Switcher (for MacOS)  
   <sub>★ 357 · glinford · Swift · `DNS` `Swift`</sub>
 - **[bargozin-desktop](https://github.com/403unlocker/bargozin-desktop)** — DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers  
@@ -296,7 +296,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 - **[keycastr](https://github.com/keycastr/keycastr)** — KeyCastr, an open-source keystroke visualizer  
   <sub>★ 15,049 · keycastr · Objective-C · `Keyboard` `Objective-C`</sub>
 - **[mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)** — Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!  
-  <sub>★ 10,705 · noah-nuebling · Objective-C · `Mouse` `Objective-C`</sub>
+  <sub>★ 10,706 · noah-nuebling · Objective-C · `Mouse` `Objective-C`</sub>
 - **[MiddleClick](https://github.com/artginzburg/MiddleClick)** —  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.  
   <sub>★ 2,895 · artginzburg · Swift · `Mouse` `Swift`</sub>
 - **[mechvibes](https://github.com/hainguyents13/mechvibes)** — Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs.  
@@ -374,9 +374,9 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
   <sub>★ 14,373 · alienator88 · Swift · `Cleanup` `Swift`</sub>
 - **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
-  <sub>★ 7,768 · PostgresApp · Makefile · `System & Maintenance`</sub>
+  <sub>★ 7,769 · PostgresApp · Makefile · `System & Maintenance`</sub>
 - **[PureMac](https://github.com/momenbasel/PureMac)** — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.  
-  <sub>★ 5,899 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 5,898 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
 - **[ZTools](https://github.com/ZToolsCenter/ZTools)** — An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.  
   <sub>★ 3,566 · ZToolsCenter · TypeScript · `TypeScript`</sub>
 - **[cardinal](https://github.com/cardisoft/cardinal)** — Fastest file searching tool for macOS  
@@ -391,7 +391,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 _Portfolio sites, resumes, dashboards and web templates._
 
 - **[masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)** — The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.  
-  <sub>★ 4,219 · ashutosh1919 · JavaScript · `Template` `JavaScript`</sub>
+  <sub>★ 4,220 · ashutosh1919 · JavaScript · `Template` `JavaScript`</sub>
 - **[evie](https://github.com/anges244/evie)** — A production-ready theme for your projects with a minimal style guide https://evie.undraw.co  
   <sub>★ 505 · anges244 · HTML · `Template` `Web`</sub>
 - **[live-resume](https://github.com/guilhermeborgesbastos/live-resume)** — A fast personal web app for building a professional single-page website and resume that highlights your skills and experience.  
