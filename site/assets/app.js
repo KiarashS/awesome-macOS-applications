@@ -468,14 +468,19 @@
     }
     $("#sheet-tags").replaceChildren(...chips);
 
-    $("#sheet-repo").href = app.url;
+    // The project's own site leads when it has one, because that is where
+    // someone deciding whether to install goes first. With no homepage the
+    // repository is the only action, so it takes the primary role instead —
+    // the panel is never left without one.
+    const repo = $("#sheet-repo");
     const home = $("#sheet-home");
-    if (app.homepage && /^https?:\/\//.test(app.homepage)) {
-      home.href = app.homepage;
-      home.hidden = false;
-    } else {
-      home.hidden = true;
-    }
+    const hasHome = Boolean(app.homepage) && /^https?:\/\//.test(app.homepage);
+
+    repo.href = app.url;
+    if (hasHome) home.href = app.homepage;
+    home.hidden = !hasHome;
+    home.classList.toggle("btn-primary", hasHome);
+    repo.classList.toggle("btn-primary", !hasHome);
 
     $("#window").classList.add("is-inactive");
     $("#scrim").hidden = false;
