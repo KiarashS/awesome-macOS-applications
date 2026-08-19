@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-19T06:29:47Z",
+  "generated_at": "2026-08-19T07:15:24Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 102,
+    "apps": 104,
     "categories": 23,
     "tags": 59,
-    "stars": 893677
+    "stars": 958349
   },
   "categories": [
     {
@@ -18,7 +18,7 @@
       "icon": "notch",
       "color": "#5e5ce6",
       "blurb": "Apps that turn the MacBook notch into something useful.",
-      "count": 10
+      "count": 11
     },
     {
       "id": "clipboard",
@@ -114,7 +114,7 @@
       "icon": "terminal",
       "color": "#32d74b",
       "blurb": "Shells, prompts, terminal emulators and CLI toys.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "security",
@@ -200,27 +200,27 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 58
+      "count": 59
     },
     {
       "name": "TypeScript",
       "count": 15
     },
     {
+      "name": "Notch",
+      "count": 13
+    },
+    {
       "name": "SwiftUI",
       "count": 13
     },
     {
-      "name": "Notch",
+      "name": "AI",
       "count": 12
     },
     {
-      "name": "AI",
-      "count": 11
-    },
-    {
       "name": "Cross-platform",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Menu Bar",
@@ -275,6 +275,10 @@
       "count": 5
     },
     {
+      "name": "Terminal",
+      "count": 5
+    },
+    {
       "name": "Video",
       "count": 5
     },
@@ -295,11 +299,11 @@
       "count": 4
     },
     {
-      "name": "Tauri",
+      "name": "Rust",
       "count": 4
     },
     {
-      "name": "Terminal",
+      "name": "Tauri",
       "count": 4
     },
     {
@@ -323,7 +327,7 @@
       "count": 3
     },
     {
-      "name": "Rust",
+      "name": "Monitoring",
       "count": 3
     },
     {
@@ -368,10 +372,6 @@
     },
     {
       "name": "Fun",
-      "count": 2
-    },
-    {
-      "name": "Monitoring",
       "count": 2
     },
     {
@@ -437,6 +437,38 @@
   ],
   "apps": [
     {
+      "full_name": "warpdotdev/warp",
+      "name": "warp",
+      "owner": "warpdotdev",
+      "avatar": "https://avatars.githubusercontent.com/u/71840468?v=4",
+      "icon": "icons/warpdotdev__warp.svg",
+      "url": "https://github.com/warpdotdev/warp",
+      "homepage": "https://warp.dev",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "category": "terminal",
+      "tags": [
+        "Terminal",
+        "Cross-platform",
+        "Rust"
+      ],
+      "topics": [
+        "bash",
+        "linux",
+        "macos",
+        "rust",
+        "shell",
+        "terminal",
+        "wasm",
+        "zsh"
+      ],
+      "language": "Rust",
+      "stars": 64333,
+      "forks": 5444,
+      "license": "AGPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-19T07:13:05Z"
+    },
+    {
       "full_name": "romkatv/powerlevel10k",
       "name": "powerlevel10k",
       "owner": "romkatv",
@@ -485,11 +517,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50745,
+      "stars": 50748,
       "forks": 4811,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T06:28:08Z"
+      "pushed_at": "2026-08-19T07:05:16Z"
     },
     {
       "full_name": "diegosouzapw/OmniRoute",
@@ -519,11 +551,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50631,
-      "forks": 6895,
+      "stars": 50655,
+      "forks": 6898,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-19T01:36:39Z"
+      "pushed_at": "2026-08-19T06:38:01Z"
     },
     {
       "full_name": "iina/iina",
@@ -552,7 +584,7 @@
       "forks": 2896,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T04:15:59Z"
+      "pushed_at": "2026-08-19T07:08:05Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -610,7 +642,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35049,
+      "stars": 35050,
       "forks": 1785,
       "license": "Apache-2.0",
       "archived": false,
@@ -678,7 +710,7 @@
       "forks": 2654,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-19T06:16:35Z"
+      "pushed_at": "2026-08-19T06:56:48Z"
     },
     {
       "full_name": "jordanbaird/Ice",
@@ -806,7 +838,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23539,
+      "stars": 23540,
       "forks": 1484,
       "license": "AGPL-3.0",
       "archived": false,
@@ -839,7 +871,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22658,
+      "stars": 22660,
       "forks": 1093,
       "license": "MIT",
       "archived": false,
@@ -897,8 +929,8 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 20982,
-      "forks": 1792,
+      "stars": 20983,
+      "forks": 1793,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-18T23:16:51Z"
@@ -926,11 +958,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20922,
+      "stars": 20923,
       "forks": 7618,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-19T04:29:03Z"
+      "pushed_at": "2026-08-19T06:28:57Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1039,7 +1071,7 @@
         "window-manager"
       ],
       "language": "Swift",
-      "stars": 16185,
+      "stars": 16186,
       "forks": 835,
       "license": "GPL-3.0",
       "archived": false,
@@ -1200,11 +1232,11 @@
         "remapping"
       ],
       "language": "Objective-C",
-      "stars": 10700,
+      "stars": 10701,
       "forks": 391,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T18:49:34Z"
+      "pushed_at": "2026-08-19T07:13:04Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -1244,7 +1276,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9574,
+      "stars": 9576,
       "forks": 300,
       "license": "MIT",
       "archived": false,
@@ -1313,7 +1345,7 @@
       "forks": 526,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T06:23:21Z"
+      "pushed_at": "2026-08-19T07:01:51Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -1432,7 +1464,7 @@
       "forks": 330,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-18T20:11:35Z"
+      "pushed_at": "2026-08-19T07:07:50Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -1522,7 +1554,7 @@
         "windows"
       ],
       "language": "JavaScript",
-      "stars": 6479,
+      "stars": 6480,
       "forks": 552,
       "license": "BSD-2-Clause",
       "archived": false,
@@ -1664,7 +1696,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 5846,
+      "stars": 5847,
       "forks": 321,
       "license": "MIT",
       "archived": false,
@@ -1958,7 +1990,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3561,
+      "stars": 3562,
       "forks": 325,
       "license": "MIT",
       "archived": false,
@@ -2185,7 +2217,7 @@
       ],
       "language": "Swift",
       "stars": 2311,
-      "forks": 270,
+      "forks": 271,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-15T06:32:02Z"
@@ -2446,7 +2478,7 @@
       "topics": [],
       "language": "Swift",
       "stars": 1216,
-      "forks": 34,
+      "forks": 33,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-14T03:27:04Z"
@@ -2499,7 +2531,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1156,
+      "stars": 1157,
       "forks": 57,
       "license": "",
       "archived": false,
@@ -2936,6 +2968,36 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-17T02:13:10Z"
+    },
+    {
+      "full_name": "ericjypark/codex-island",
+      "name": "codex-island",
+      "owner": "ericjypark",
+      "avatar": "https://avatars.githubusercontent.com/u/80627536?v=4",
+      "icon": "",
+      "url": "https://github.com/ericjypark/codex-island",
+      "homepage": "https://codexisland.com",
+      "description": "CodexIsland - AI usage limits in your MacBook notch",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "AI",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "claude",
+        "claude-code",
+        "codex",
+        "macos",
+        "notch"
+      ],
+      "language": "Swift",
+      "stars": 298,
+      "forks": 32,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-18T21:01:49Z"
     },
     {
       "full_name": "lifedever/PasteMemo-app",
