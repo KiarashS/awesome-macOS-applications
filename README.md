@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`111 apps` · `23 categories` · `60 tags` · `1,146,446 stars`
+`111 apps` · `23 categories` · `60 tags` · `1,146,453 stars`
 
 Last updated 2026-08-19. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -158,11 +158,11 @@ _Local and hosted models, assistants and speech tooling._
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
   <sub>★ 128,274 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 51,011 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 51,015 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 50,777 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 29,934 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 29,935 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
   <sub>★ 13,692 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
@@ -255,7 +255,7 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,348 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,349 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,941 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
@@ -376,7 +376,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
   <sub>★ 7,768 · PostgresApp · Makefile · `System & Maintenance`</sub>
 - **[PureMac](https://github.com/momenbasel/PureMac)** — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.  
-  <sub>★ 5,886 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 5,887 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
 - **[ZTools](https://github.com/ZToolsCenter/ZTools)** — An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.  
   <sub>★ 3,566 · ZToolsCenter · TypeScript · `TypeScript`</sub>
 - **[cardinal](https://github.com/cardisoft/cardinal)** — Fastest file searching tool for macOS  
