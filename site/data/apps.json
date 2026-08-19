@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:25:37Z",
+  "generated_at": "2026-08-19T09:57:58Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 104,
     "categories": 23,
     "tags": 59,
-    "stars": 958514
+    "stars": 958559
   },
   "categories": [
     {
@@ -462,11 +462,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64335,
-      "forks": 5443,
+      "stars": 64337,
+      "forks": 5442,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-19T08:15:33Z"
+      "pushed_at": "2026-08-19T09:55:26Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -491,37 +491,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-15T09:23:06Z"
-    },
-    {
-      "full_name": "CherryHQ/cherry-studio",
-      "name": "cherry-studio",
-      "owner": "CherryHQ",
-      "avatar": "https://avatars.githubusercontent.com/u/187777663?v=4",
-      "icon": "icons/CherryHQ__cherry-studio.png",
-      "url": "https://github.com/CherryHQ/cherry-studio",
-      "homepage": "https://cherryai.com",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "TypeScript"
-      ],
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "claude-code",
-        "codex",
-        "deepseek",
-        "deepseek-harness",
-        "hermes-agent",
-        "skills"
-      ],
-      "language": "TypeScript",
-      "stars": 50754,
-      "forks": 4812,
-      "license": "AGPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-19T09:23:51Z"
     },
     {
       "full_name": "diegosouzapw/OmniRoute",
@@ -551,11 +520,42 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 50735,
-      "forks": 6908,
+      "stars": 50755,
+      "forks": 6910,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T06:38:01Z"
+    },
+    {
+      "full_name": "CherryHQ/cherry-studio",
+      "name": "cherry-studio",
+      "owner": "CherryHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/187777663?v=4",
+      "icon": "icons/CherryHQ__cherry-studio.png",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "homepage": "https://cherryai.com",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "TypeScript"
+      ],
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "hermes-agent",
+        "skills"
+      ],
+      "language": "TypeScript",
+      "stars": 50754,
+      "forks": 4813,
+      "license": "AGPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-19T09:52:33Z"
     },
     {
       "full_name": "iina/iina",
@@ -580,8 +580,8 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46008,
-      "forks": 2896,
+      "stars": 46009,
+      "forks": 2897,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-19T07:28:57Z"
@@ -706,8 +706,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 29918,
-      "forks": 2655,
+      "stars": 29920,
+      "forks": 2654,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T06:56:48Z"
@@ -804,7 +804,7 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26409,
+      "stars": 26410,
       "forks": 2577,
       "license": "",
       "archived": false,
@@ -871,7 +871,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22666,
+      "stars": 22668,
       "forks": 1093,
       "license": "MIT",
       "archived": false,
@@ -897,8 +897,8 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21229,
-      "forks": 1109,
+      "stars": 21230,
+      "forks": 1110,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-13T00:05:03Z"
@@ -929,7 +929,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 20987,
+      "stars": 20990,
       "forks": 1794,
       "license": "",
       "archived": false,
@@ -958,7 +958,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20931,
+      "stars": 20932,
       "forks": 7619,
       "license": "",
       "archived": false,
@@ -1012,7 +1012,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17333,
+      "stars": 17334,
       "forks": 893,
       "license": "Apache-2.0",
       "archived": false,
@@ -1276,7 +1276,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9580,
+      "stars": 9582,
       "forks": 299,
       "license": "MIT",
       "archived": false,
@@ -1341,7 +1341,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8444,
+      "stars": 8446,
       "forks": 526,
       "license": "GPL-3.0",
       "archived": false,
@@ -1464,7 +1464,7 @@
       "forks": 330,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-19T07:40:15Z"
+      "pushed_at": "2026-08-19T09:55:26Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -1696,8 +1696,8 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 5854,
-      "forks": 321,
+      "stars": 5859,
+      "forks": 322,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-17T22:48:27Z"
@@ -1790,7 +1790,7 @@
       ],
       "language": "Swift",
       "stars": 4732,
-      "forks": 305,
+      "forks": 306,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-17T15:07:58Z"
@@ -1969,7 +1969,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3619,
+      "stars": 3620,
       "forks": 252,
       "license": "MIT",
       "archived": false,
@@ -2245,7 +2245,7 @@
         "switch"
       ],
       "language": "JavaScript",
-      "stars": 2303,
+      "stars": 2304,
       "forks": 209,
       "license": "MIT",
       "archived": false,
