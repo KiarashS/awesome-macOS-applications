@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`130 apps` · `23 categories` · `62 tags` · `1,547,430 stars`
+`130 apps` · `23 categories` · `62 tags` · `1,547,453 stars`
 
 Last updated 2026-08-20. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -78,7 +78,7 @@ _Clipboard managers and paste history._
 - **[PicGo](https://github.com/Molunerfinn/PicGo)** — Rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste…  
   <sub>★ 26,997 · Molunerfinn · TypeScript · `Clipboard` `Git` `Electron` `TypeScript`</sub>
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS  
-  <sub>★ 21,262 · p0deje · Swift · `Clipboard` `Swift`</sub>
+  <sub>★ 21,263 · p0deje · Swift · `Clipboard` `Swift`</sub>
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
   <sub>★ 288 · lifedever · Swift · `Clipboard` `Swift`</sub>
 
@@ -95,7 +95,7 @@ _Homebrew front-ends, App Store tooling and update checkers._
 - **[Latest](https://github.com/mangerlahn/Latest)** — A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.  
   <sub>★ 4,744 · mangerlahn · Swift · `Updates` `Swift`</sub>
 - **[Cork](https://github.com/buresdv/Cork)** — A fast GUI for Homebrew written in SwiftUI, AI-free  
-  <sub>★ 4,622 · buresdv · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
+  <sub>★ 4,623 · buresdv · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
 - **[WailBrew](https://github.com/wickenico/WailBrew)** — Minimalistic Homebrew GUI made with Go, Wails and React.  
   <sub>★ 2,736 · wickenico · TypeScript · `Homebrew` `TypeScript`</sub>
 - **[brew-browser](https://github.com/msitarzewski/brew-browser)** — Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.  
@@ -174,13 +174,13 @@ _Local and hosted models, assistants and speech tooling._
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
   <sub>★ 128,498 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
-  <sub>★ 75,785 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
+  <sub>★ 75,787 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 51,873 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 51,887 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 50,837 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 30,003 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 30,006 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
   <sub>★ 13,729 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[osaurus](https://github.com/osaurus-ai/osaurus)** — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.  
@@ -285,7 +285,7 @@ _Shells, prompts, terminal emulators and CLI toys._
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,947 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[hyper](https://github.com/vercel/hyper)** — A terminal built on web technologies  
-  <sub>★ 44,697 · vercel · TypeScript · `Terminal` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 44,698 · vercel · TypeScript · `Terminal` `Cross-platform` `TypeScript`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
   <sub>★ 33,176 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 
@@ -366,7 +366,7 @@ _Note taking, Markdown editors and knowledge bases._
 - **[drawio-desktop](https://github.com/jgraph/drawio-desktop)** — Official electron build of draw.io  
   <sub>★ 62,707 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
 - **[obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.  
-  <sub>★ 20,967 · obsidianmd · `Notes` `Markdown`</sub>
+  <sub>★ 20,968 · obsidianmd · `Notes` `Markdown`</sub>
 - **[tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases  
   <sub>★ 19,525 · refactoringhq · TypeScript · `Markdown` `TypeScript`</sub>
 - **[MiaoYan](https://github.com/tw93/MiaoYan)** — Lightweight Markdown app to help you write great sentences.  
@@ -402,7 +402,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 88,815 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 88,816 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,654 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
@@ -442,7 +442,7 @@ _Portfolio sites, resumes, dashboards and web templates._
 _Things that help you ship: git, APIs, notebooks and IDE helpers._
 
 - **[Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)** — MySQL/MariaDB database management for macOS  
-  <sub>★ 7,511 · Sequel-Ace · Objective-C · `Objective-C`</sub>
+  <sub>★ 7,510 · Sequel-Ace · Objective-C · `Objective-C`</sub>
 - **[briefer](https://github.com/briefercloud/briefer)** — Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.  
   <sub>★ 4,315 · briefercloud · TypeScript · `Dashboard` `TypeScript`</sub>
 - **[PicList](https://github.com/Kuingsmile/PicList)** — An image upload and manage tool, base on PicGo  
