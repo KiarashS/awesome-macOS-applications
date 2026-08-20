@@ -19,6 +19,11 @@
     "path": "Sources/Nativ/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
     "sha": "7bb23d82a080fe1765d0cef1039c28c8f86fd3d1"
   },
+  "Brkgng/ScrollSnap": {
+    "file": "icons/Brkgng__ScrollSnap.png",
+    "path": "ScrollSnap/Assets.xcassets/AppIcon.appiconset/1024-mac.png",
+    "sha": "941f44a154b9e13a38e1b1e1c478de2678592a8c"
+  },
   "CapSoftware/Cap": {
     "file": "icons/CapSoftware__Cap.svg",
     "path": "apps/mobile/assets/icon.svg",
@@ -38,6 +43,11 @@
     "file": "icons/Ender-Wang__EdgeMark.png",
     "path": "EdgeMark/Assets.xcassets/AppIcon.appiconset/EdgeMark_icon_256x256.png",
     "sha": "8f42422323c9cbf16e252aee9bbbcbfa5f4fed6e"
+  },
+  "GeiserX/VPN-Bypass": {
+    "file": "icons/GeiserX__VPN-Bypass.svg",
+    "path": "assets/AppIcon-modern.svg",
+    "sha": "dce06ee71126749a113e48fa2bc5082006c31011"
   },
   "Kuingsmile/PicList": {
     "file": "icons/Kuingsmile__PicList.png",
@@ -444,6 +454,11 @@
     "path": "resources/src/icon.svg",
     "sha": "56384bc21bda94f0d340e43a8aef3cc15249faf5"
   },
+  "tw93/Kaku": {
+    "file": "icons/tw93__Kaku.png",
+    "path": "assets/logo.png",
+    "sha": "42cdf806a1837e5828f89f26cc698038cf539f16"
+  },
   "tw93/MiaoYan": {
     "file": "icons/tw93__MiaoYan.svg",
     "path": "Resources/Images.xcassets/icon_editor_split.imageset/icon_editor_split.svg",
@@ -453,6 +468,11 @@
     "file": "icons/utmapp__UTM.png",
     "path": "Platform/Assets.xcassets/AppIcon-Remote.appiconset/icon_20pt@2x.png",
     "sha": "6370f2ce51a3ba45bb74799f77bfcad65cba2c95"
+  },
+  "vercel/hyper": {
+    "file": "icons/vercel__hyper.png",
+    "path": "app/static/icon.png",
+    "sha": "75832880a590abf294dc6373d284e0d006437be3"
   },
   "vorssaint/vorssaint-utils": {
     "file": "icons/vorssaint__vorssaint-utils.png",
@@ -498,5 +518,10 @@
     "file": "icons/zachlatta__freeflow.png",
     "path": "website/assets/app-icon.png",
     "sha": "1ea585fd80aacc61b3ee43ff65f4fc7e8db5401d"
+  },
+  "zenangst/KeyboardCowboy": {
+    "file": "icons/zenangst__KeyboardCowboy.png",
+    "path": "App/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+    "sha": "18c53d1f20adb436c02ef75cacba5cc6daf6c120"
   }
 }
