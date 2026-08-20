@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T13:26:59Z",
+  "generated_at": "2026-08-20T13:29:56Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 127,
+    "apps": 129,
     "categories": 23,
     "tags": 62,
-    "stars": 1521534
+    "stars": 1546195
   },
   "categories": [
     {
@@ -50,7 +50,7 @@
       "icon": "camera",
       "color": "#ff375f",
       "blurb": "Screenshots, screen recording and screen sharing.",
-      "count": 4
+      "count": 6
     },
     {
       "id": "downloads",
@@ -200,23 +200,23 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 71
+      "count": 72
     },
     {
       "name": "AI",
       "count": 20
     },
     {
-      "name": "SwiftUI",
-      "count": 16
-    },
-    {
       "name": "TypeScript",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Cross-platform",
-      "count": 15
+      "count": 16
+    },
+    {
+      "name": "SwiftUI",
+      "count": 16
     },
     {
       "name": "Notch",
@@ -235,11 +235,19 @@
       "count": 9
     },
     {
+      "name": "Electron",
+      "count": 8
+    },
+    {
       "name": "Files",
       "count": 8
     },
     {
       "name": "Keyboard",
+      "count": 8
+    },
+    {
+      "name": "Mouse",
       "count": 8
     },
     {
@@ -255,19 +263,15 @@
       "count": 7
     },
     {
-      "name": "Mouse",
-      "count": 7
-    },
-    {
       "name": "Rust",
       "count": 7
     },
     {
-      "name": "Editor",
+      "name": "Capture",
       "count": 6
     },
     {
-      "name": "Electron",
+      "name": "Editor",
       "count": 6
     },
     {
@@ -305,10 +309,6 @@
     {
       "name": "Notifications",
       "count": 5
-    },
-    {
-      "name": "Capture",
-      "count": 4
     },
     {
       "name": "Cleanup",
@@ -475,7 +475,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128472,
+      "stars": 128475,
       "forks": 8792,
       "license": "MIT",
       "archived": false,
@@ -658,7 +658,7 @@
       "forks": 7034,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-20T12:49:55Z"
+      "pushed_at": "2026-08-20T13:27:27Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -1128,6 +1128,39 @@
       "pushed_at": "2026-04-28T07:33:13Z"
     },
     {
+      "full_name": "webadderallorg/Recordly",
+      "name": "Recordly",
+      "owner": "webadderallorg",
+      "avatar": "https://avatars.githubusercontent.com/u/278603407?v=4",
+      "icon": "",
+      "url": "https://github.com/webadderallorg/Recordly",
+      "homepage": "https://recordly.dev",
+      "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+      "category": "capture",
+      "tags": [
+        "Capture",
+        "Electron",
+        "Cross-platform",
+        "TypeScript"
+      ],
+      "topics": [
+        "electron",
+        "free",
+        "linux",
+        "macos",
+        "open-source",
+        "screen-recorder",
+        "screen-studio",
+        "windows"
+      ],
+      "language": "TypeScript",
+      "stars": 21643,
+      "forks": 1572,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-15T07:18:36Z"
+    },
+    {
       "full_name": "p0deje/Maccy",
       "name": "Maccy",
       "owner": "p0deje",
@@ -1514,7 +1547,7 @@
         "remapping"
       ],
       "language": "Objective-C",
-      "stars": 10713,
+      "stars": 10714,
       "forks": 391,
       "license": "",
       "archived": false,
@@ -1748,7 +1781,7 @@
       "forks": 449,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-20T12:19:33Z"
+      "pushed_at": "2026-08-20T13:28:45Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -2078,7 +2111,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 5625,
+      "stars": 5627,
       "forks": 211,
       "license": "GPL-3.0",
       "archived": false,
@@ -2404,7 +2437,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3572,
+      "stars": 3573,
       "forks": 326,
       "license": "MIT",
       "archived": false,
@@ -2494,6 +2527,30 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T15:59:51Z"
+    },
+    {
+      "full_name": "sw33tLie/macshot",
+      "name": "macshot",
+      "owner": "sw33tLie",
+      "avatar": "https://avatars.githubusercontent.com/u/47645560?v=4",
+      "icon": "icons/sw33tLie__macshot.png",
+      "url": "https://github.com/sw33tLie/macshot",
+      "homepage": "https://macshot.io",
+      "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+      "category": "capture",
+      "tags": [
+        "Mouse",
+        "Capture",
+        "Electron",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 3011,
+      "forks": 179,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-12T15:32:38Z"
     },
     {
       "full_name": "RoversX/LaunchNext",
