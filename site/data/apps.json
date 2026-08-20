@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:19:33Z",
+  "generated_at": "2026-08-20T22:53:48Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 130,
     "categories": 23,
     "tags": 62,
-    "stars": 1547571
+    "stars": 1547606
   },
   "categories": [
     {
@@ -475,7 +475,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128498,
+      "stars": 128501,
       "forks": 8790,
       "license": "MIT",
       "archived": false,
@@ -536,7 +536,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75787,
+      "stars": 75789,
       "forks": 5894,
       "license": "AGPL-3.0",
       "archived": false,
@@ -568,11 +568,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64406,
+      "stars": 64407,
       "forks": 5446,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-20T22:11:40Z"
+      "pushed_at": "2026-08-20T22:51:19Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -600,7 +600,7 @@
       "forks": 5750,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-14T09:09:47Z"
+      "pushed_at": "2026-08-20T22:30:45Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -654,11 +654,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 51940,
-      "forks": 7084,
+      "stars": 51953,
+      "forks": 7088,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-20T21:26:02Z"
+      "pushed_at": "2026-08-20T22:34:18Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -685,11 +685,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50838,
+      "stars": 50840,
       "forks": 4829,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-20T22:15:06Z"
+      "pushed_at": "2026-08-20T22:27:51Z"
     },
     {
       "full_name": "iina/iina",
@@ -956,8 +956,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30011,
-      "forks": 2671,
+      "stars": 30012,
+      "forks": 2670,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T06:56:48Z"
@@ -1054,7 +1054,7 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26414,
+      "stars": 26415,
       "forks": 2577,
       "license": "",
       "archived": false,
@@ -1212,7 +1212,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21033,
+      "stars": 21034,
       "forks": 1802,
       "license": "",
       "archived": false,
@@ -1241,7 +1241,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20968,
+      "stars": 20969,
       "forks": 7628,
       "license": "",
       "archived": false,
@@ -1263,7 +1263,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19526,
+      "stars": 19527,
       "forks": 1359,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1295,7 +1295,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17368,
+      "stars": 17369,
       "forks": 894,
       "license": "Apache-2.0",
       "archived": false,
@@ -1430,7 +1430,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13730,
+      "stars": 13732,
       "forks": 1032,
       "license": "GPL-3.0",
       "archived": false,
@@ -1547,7 +1547,7 @@
         "remapping"
       ],
       "language": "Objective-C",
-      "stars": 10714,
+      "stars": 10715,
       "forks": 391,
       "license": "",
       "archived": false,
@@ -1777,7 +1777,7 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 7665,
+      "stars": 7667,
       "forks": 448,
       "license": "MIT",
       "archived": false,
@@ -2111,7 +2111,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 5689,
+      "stars": 5690,
       "forks": 214,
       "license": "GPL-3.0",
       "archived": false,
@@ -2416,7 +2416,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3630,
+      "stars": 3629,
       "forks": 251,
       "license": "MIT",
       "archived": false,
@@ -2624,7 +2624,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2828,
+      "stars": 2829,
       "forks": 160,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -3144,7 +3144,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1232,
+      "stars": 1233,
       "forks": 62,
       "license": "",
       "archived": false,
@@ -3215,7 +3215,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 1081,
+      "stars": 1082,
       "forks": 59,
       "license": "GPL-3.0",
       "archived": false,
