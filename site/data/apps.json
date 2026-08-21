@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-21T10:02:31Z",
+  "generated_at": "2026-08-21T10:47:38Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 130,
+    "apps": 133,
     "categories": 23,
     "tags": 62,
-    "stars": 1548591
+    "stars": 1549287
   },
   "categories": [
     {
@@ -90,7 +90,7 @@
       "icon": "timer",
       "color": "#ff453a",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 6
+      "count": 7
     },
     {
       "id": "windows",
@@ -106,7 +106,7 @@
       "icon": "menubar",
       "color": "#8e8e93",
       "blurb": "Menu bar utilities and status item managers.",
-      "count": 4
+      "count": 5
     },
     {
       "id": "terminal",
@@ -170,7 +170,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 10
+      "count": 11
     },
     {
       "id": "web",
@@ -200,11 +200,15 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 73
+      "count": 76
     },
     {
       "name": "AI",
       "count": 20
+    },
+    {
+      "name": "SwiftUI",
+      "count": 17
     },
     {
       "name": "TypeScript",
@@ -215,16 +219,12 @@
       "count": 16
     },
     {
-      "name": "SwiftUI",
+      "name": "Menu Bar",
       "count": 16
     },
     {
       "name": "Notch",
       "count": 15
-    },
-    {
-      "name": "Menu Bar",
-      "count": 14
     },
     {
       "name": "Windows",
@@ -303,6 +303,10 @@
       "count": 5
     },
     {
+      "name": "Focus",
+      "count": 5
+    },
+    {
       "name": "Markdown",
       "count": 5
     },
@@ -312,10 +316,6 @@
     },
     {
       "name": "Cleanup",
-      "count": 4
-    },
-    {
-      "name": "Focus",
       "count": 4
     },
     {
@@ -503,7 +503,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 88862,
+      "stars": 88863,
       "forks": 4943,
       "license": "Apache-2.0",
       "archived": false,
@@ -536,7 +536,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75800,
+      "stars": 75801,
       "forks": 5895,
       "license": "AGPL-3.0",
       "archived": false,
@@ -568,11 +568,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64413,
+      "stars": 64414,
       "forks": 5450,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-21T09:34:27Z"
+      "pushed_at": "2026-08-21T10:09:36Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -596,7 +596,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62724,
+      "stars": 62726,
       "forks": 5751,
       "license": "Apache-2.0",
       "archived": false,
@@ -654,8 +654,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 52232,
-      "forks": 7119,
+      "stars": 52253,
+      "forks": 7123,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T07:26:31Z"
@@ -685,11 +685,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50865,
+      "stars": 50869,
       "forks": 4832,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-21T09:56:48Z"
+      "pushed_at": "2026-08-21T10:36:08Z"
     },
     {
       "full_name": "iina/iina",
@@ -714,7 +714,7 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46039,
+      "stars": 46040,
       "forks": 2899,
       "license": "GPL-3.0",
       "archived": false,
@@ -778,7 +778,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41342,
+      "stars": 41341,
       "forks": 1489,
       "license": "MIT",
       "archived": false,
@@ -808,7 +808,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38833,
+      "stars": 38832,
       "forks": 2112,
       "license": "AGPL-3.0",
       "archived": false,
@@ -841,7 +841,7 @@
       ],
       "language": "Swift",
       "stars": 35069,
-      "forks": 1789,
+      "forks": 1788,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-08-05T07:54:18Z"
@@ -956,8 +956,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30037,
-      "forks": 2674,
+      "stars": 30042,
+      "forks": 2675,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-19T06:56:48Z"
@@ -989,7 +989,7 @@
       ],
       "language": "Swift",
       "stars": 29334,
-      "forks": 848,
+      "forks": 847,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-09-20T20:28:17Z"
@@ -1121,7 +1121,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22709,
+      "stars": 22711,
       "forks": 1096,
       "license": "MIT",
       "archived": false,
@@ -1154,8 +1154,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21717,
-      "forks": 1577,
+      "stars": 21723,
+      "forks": 1578,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-15T07:18:36Z"
@@ -1180,7 +1180,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21279,
+      "stars": 21280,
       "forks": 1112,
       "license": "MIT",
       "archived": false,
@@ -1213,7 +1213,7 @@
       ],
       "language": "TypeScript",
       "stars": 21047,
-      "forks": 1803,
+      "forks": 1804,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-21T09:04:30Z"
@@ -1241,11 +1241,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20972,
-      "forks": 7629,
+      "stars": 20973,
+      "forks": 7630,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-21T08:29:11Z"
+      "pushed_at": "2026-08-21T10:27:49Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1376,7 +1376,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15049,
+      "stars": 15050,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1656,7 +1656,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8541,
+      "stars": 8543,
       "forks": 531,
       "license": "GPL-3.0",
       "archived": false,
@@ -1989,7 +1989,7 @@
       "forks": 327,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-21T09:55:30Z"
+      "pushed_at": "2026-08-21T10:24:09Z"
     },
     {
       "full_name": "ejbills/DockDoor",
@@ -2147,7 +2147,7 @@
       "forks": 368,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-21T09:39:20Z"
+      "pushed_at": "2026-08-21T10:34:41Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -2491,7 +2491,7 @@
         "timer"
       ],
       "language": "Swift",
-      "stars": 3485,
+      "stars": 3486,
       "forks": 203,
       "license": "MIT",
       "archived": false,
@@ -2568,7 +2568,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2947,
+      "stars": 2948,
       "forks": 142,
       "license": "GPL-3.0",
       "archived": false,
@@ -2624,7 +2624,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2833,
+      "stars": 2834,
       "forks": 160,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -3089,7 +3089,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1293,
+      "stars": 1295,
       "forks": 168,
       "license": "MIT",
       "archived": false,
@@ -3144,7 +3144,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1241,
+      "stars": 1242,
       "forks": 62,
       "license": "",
       "archived": false,
@@ -3215,8 +3215,8 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 1135,
-      "forks": 61,
+      "stars": 1141,
+      "forks": 62,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-20T21:49:37Z"
@@ -3237,7 +3237,7 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 1015,
+      "stars": 1016,
       "forks": 28,
       "license": "MIT",
       "archived": false,
@@ -3551,6 +3551,35 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2025-09-01T18:57:46Z"
+    },
+    {
+      "full_name": "homielab/mountmate",
+      "name": "mountmate",
+      "owner": "homielab",
+      "avatar": "https://avatars.githubusercontent.com/u/46494309?v=4",
+      "icon": "icons/homielab__mountmate.png",
+      "url": "https://github.com/homielab/mountmate",
+      "homepage": "https://homielab.com/en/page/mountmate",
+      "description": "A simple macOS menu bar app to manage external drives",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Swift"
+      ],
+      "topics": [
+        "disk",
+        "free",
+        "macapps",
+        "macos",
+        "tools",
+        "utilities"
+      ],
+      "language": "Swift",
+      "stars": 482,
+      "forks": 27,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-21T06:54:27Z"
     },
     {
       "full_name": "johnbean393/KeyType",
@@ -3911,6 +3940,35 @@
       "pushed_at": "2026-08-13T15:23:55Z"
     },
     {
+      "full_name": "yelog/SnapTraTranslator",
+      "name": "SnapTraTranslator",
+      "owner": "yelog",
+      "avatar": "https://avatars.githubusercontent.com/u/14227866?v=4",
+      "icon": "icons/yelog__SnapTraTranslator.png",
+      "url": "https://github.com/yelog/SnapTraTranslator",
+      "homepage": "http://snaptra.yelog.org/",
+      "description": "一款 macos 离线快速翻译软件",
+      "category": "system",
+      "tags": [
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "chinese",
+        "japanese",
+        "macos",
+        "ocr",
+        "swiftui",
+        "translator"
+      ],
+      "language": "Swift",
+      "stars": 126,
+      "forks": 8,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-07T10:25:37Z"
+    },
+    {
       "full_name": "Lakr233/NotchNotification",
       "name": "NotchNotification",
       "owner": "Lakr233",
@@ -4067,6 +4125,35 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-11T18:26:15Z"
+    },
+    {
+      "full_name": "homielab/timemate",
+      "name": "timemate",
+      "owner": "homielab",
+      "avatar": "https://avatars.githubusercontent.com/u/46494309?v=4",
+      "icon": "icons/homielab__timemate.svg",
+      "url": "https://github.com/homielab/timemate",
+      "homepage": "https://homielab.com/page/timemate",
+      "description": "TimeMate is a Pomodoro timer that lives in your menu bar. It helps you focus on your work and remember to take breaks.",
+      "category": "focus",
+      "tags": [
+        "Menu Bar",
+        "Focus",
+        "Swift"
+      ],
+      "topics": [
+        "focus",
+        "macos",
+        "menubar",
+        "pomodoro",
+        "productivity"
+      ],
+      "language": "Swift",
+      "stars": 28,
+      "forks": 1,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-07T15:29:51Z"
     },
     {
       "full_name": "cyrus-cai/notchi",
