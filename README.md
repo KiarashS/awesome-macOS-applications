@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`133 apps` · `23 categories` · `62 tags` · `1,549,799 stars`
+`133 apps` · `23 categories` · `62 tags` · `1,549,802 stars`
 
 Last updated 2026-08-21. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -57,7 +57,7 @@ _Apps that turn the MacBook notch into something useful._
 - **[Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)** — Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar  
   <sub>★ 528 · crissNb · Shell · `Notch` `Menu Bar` `Shell`</sub>
 - **[DynamicNotch](https://github.com/jackson-storm/DynamicNotch)** — Turn the MacBook notch into a living system surface.  
-  <sub>★ 511 · jackson-storm · Swift · `Notch` `SwiftUI` `Swift`</sub>
+  <sub>★ 512 · jackson-storm · Swift · `Notch` `SwiftUI` `Swift`</sub>
 - **[codex-island](https://github.com/ericjypark/codex-island)** — CodexIsland - AI usage limits in your MacBook notch  
   <sub>★ 299 · ericjypark · Swift · `Notch` `AI` `Monitoring` `Swift`</sub>
 - **[NotchNotification](https://github.com/Lakr233/NotchNotification)** — Display Notification Inside Mac's Notch.  
@@ -114,7 +114,7 @@ _Homebrew front-ends, App Store tooling and update checkers._
 _Virtual machines, emulators and containers._
 
 - **[UTM](https://github.com/utmapp/UTM)** — Virtual machines for iOS and macOS  
-  <sub>★ 35,069 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
+  <sub>★ 35,070 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
 - **[Kaku](https://github.com/tw93/Kaku)** — A fast, out-of-the-box terminal built for AI coding.  
   <sub>★ 5,796 · tw93 · Rust · `AI` `Terminal` `Virtualization` `Rust`</sub>
 - **[lan-mouse](https://github.com/feschber/lan-mouse)** — Mouse & keyboard sharing via LAN  
@@ -163,7 +163,7 @@ _Feed readers, ebook readers and read-it-later apps._
 - **[Folo](https://github.com/RSSNext/Folo)** — Folo is the AI RSS Reader  
   <sub>★ 38,831 · RSSNext · TypeScript · `RSS` `Reading` `AI` `TypeScript`</sub>
 - **[readest](https://github.com/readest/readest)** — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…  
-  <sub>★ 23,611 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 23,612 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
 
 <a id="cat-ai"></a>
 
@@ -268,9 +268,9 @@ _Tiling, window switching, the Dock and Mission Control._
 _Menu bar utilities and status item managers._
 
 - **[stats](https://github.com/exelban/stats)** — MacOS system monitor in your menu bar  
-  <sub>★ 41,346 · exelban · Swift · `Menu Bar` `Monitoring` `Swift`</sub>
+  <sub>★ 41,345 · exelban · Swift · `Menu Bar` `Monitoring` `Swift`</sub>
 - **[Ice](https://github.com/jordanbaird/Ice)** — Powerful menu bar manager for macOS  
-  <sub>★ 29,338 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
+  <sub>★ 29,339 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts  
   <sub>★ 5,892 · jacklandrin · Swift · `Menu Bar` `Notch` `AI` `Keyboard` `Focus` `Fun`</sub>
 - **[RepoBar](https://github.com/steipete/RepoBar)** — Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.  
@@ -285,7 +285,7 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,422 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,421 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,949 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[hyper](https://github.com/vercel/hyper)** — A terminal built on web technologies  
@@ -368,7 +368,7 @@ _Video players, music apps and everything that makes noise._
 _Note taking, Markdown editors and knowledge bases._
 
 - **[drawio-desktop](https://github.com/jgraph/drawio-desktop)** — Official electron build of draw.io  
-  <sub>★ 62,729 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
+  <sub>★ 62,730 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
 - **[obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.  
   <sub>★ 20,972 · obsidianmd · `Notes` `Markdown`</sub>
 - **[tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases  
