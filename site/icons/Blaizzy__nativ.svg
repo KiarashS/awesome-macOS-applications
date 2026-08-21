@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="icon-surface" x1="2" y1="2" x2="22" y2="22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#202020"/>
+      <stop offset=".5" stop-color="#080808"/>
+      <stop offset="1" stop-color="#181818"/>
+    </linearGradient>
+  </defs>
+  <!-- Supply an opaque canvas and let macOS apply the app-icon mask. -->
+  <rect width="24" height="24" fill="url(#icon-surface)"/>
+  <g transform="translate(1.68 1.68) scale(.86)">
+    <g fill="#FFFFFF">
+      <path d="M4.2 16.6H7.2L10.7 7.4H7.7L4.2 16.6Z"/>
+      <path d="M10.9 7.4H13.6L17.1 16.6H14.1L10.9 7.4Z"/>
+      <path d="M14.9 16.6H17.9L20.6 9.5V7.4H18.4L14.9 16.6Z"/>
+    </g>
+  </g>
+</svg>
