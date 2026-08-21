@@ -133,7 +133,7 @@ _Screenshots, screen recording and screen sharing._
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
   <sub>★ 21,054 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
-  <sub>★ 3,026 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
+  <sub>★ 3,027 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
 - **[Snapzy](https://github.com/duongductrong/Snapzy)** — An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.  
   <sub>★ 2,832 · duongductrong · Swift · `Capture` `SwiftUI` `Swift`</sub>
 - **[Capso](https://github.com/lzhgus/Capso)** — Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.  
@@ -408,7 +408,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 88,907 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 88,906 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,669 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
