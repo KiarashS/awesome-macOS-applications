@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`133 apps` · `23 categories` · `62 tags` · `1,549,972 stars`
+`133 apps` · `23 categories` · `62 tags` · `1,550,013 stars`
 
 Last updated 2026-08-21. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -78,7 +78,7 @@ _Clipboard managers and paste history._
 - **[PicGo](https://github.com/Molunerfinn/PicGo)** — Rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste…  
   <sub>★ 26,998 · Molunerfinn · TypeScript · `Clipboard` `Git` `Electron` `TypeScript`</sub>
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS  
-  <sub>★ 21,286 · p0deje · Swift · `Clipboard` `Swift`</sub>
+  <sub>★ 21,287 · p0deje · Swift · `Clipboard` `Swift`</sub>
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
   <sub>★ 292 · lifedever · Swift · `Clipboard` `Swift`</sub>
 
@@ -129,7 +129,7 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 21,743 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 21,744 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
   <sub>★ 21,052 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
@@ -148,7 +148,7 @@ _Screenshots, screen recording and screen sharing._
 _Download managers and accelerators._
 
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 17,379 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 17,381 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,651 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
@@ -172,17 +172,17 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
-  <sub>★ 128,699 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 128,706 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
-  <sub>★ 75,812 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
+  <sub>★ 75,814 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 52,520 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 52,540 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 50,884 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 50,885 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
   <sub>★ 30,067 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
-  <sub>★ 13,749 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
+  <sub>★ 13,750 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[osaurus](https://github.com/osaurus-ai/osaurus)** — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.  
   <sub>★ 7,671 · osaurus-ai · Swift · `AI` `Monitoring` `Swift`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
@@ -247,13 +247,13 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
-  <sub>★ 16,225 · ianyh · Swift · `Windows` `Swift`</sub>
+  <sub>★ 16,226 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,418 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
   <sub>★ 5,934 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
 - **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 5,753 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 5,754 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Master your Mac’s ⌘Tab  
   <sub>★ 684 · rokartur · Swift · `Windows` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
@@ -380,7 +380,7 @@ _Note taking, Markdown editors and knowledge bases._
 - **[fsnotes](https://github.com/glushchenko/fsnotes)** — Notes manager for macOS/iOS  
   <sub>★ 7,452 · glushchenko · Swift · `Notes` `Dashboard` `iOS` `Swift`</sub>
 - **[TablePro](https://github.com/TableProApp/TablePro)** — Free and open source database client built natively for developers  
-  <sub>★ 5,530 · TableProApp · Swift · `Editor` `SwiftUI` `Swift`</sub>
+  <sub>★ 5,531 · TableProApp · Swift · `Editor` `SwiftUI` `Swift`</sub>
 - **[flux-markdown](https://github.com/xykong/flux-markdown)** — Markdown Preview Enhanced for macOS QuickLook  
   <sub>★ 1,220 · xykong · Swift · `Markdown` `Swift`</sub>
 - **[EdgeMark](https://github.com/Ender-Wang/EdgeMark)** — More than a SideNotes alternative.  
@@ -393,7 +393,7 @@ _Note taking, Markdown editors and knowledge bases._
 _File managers, drag-and-drop shelves, backup and archiving._
 
 - **[PeaZip](https://github.com/peazip/PeaZip)** — Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ…  
-  <sub>★ 7,772 · peazip · Pascal · `Encryption` `Archive` `Files` `Cross-platform` `Pascal`</sub>
+  <sub>★ 7,773 · peazip · Pascal · `Encryption` `Archive` `Files` `Cross-platform` `Pascal`</sub>
 - **[RsyncUI](https://github.com/rsyncOSX/RsyncUI)** — A SwiftUI based macOS GUI for rsync.  
   <sub>★ 1,457 · rsyncOSX · Swift · `Backup` `SwiftUI` `Swift`</sub>
 - **[PeekX](https://github.com/altic-dev/PeekX)** — Quick Look Extension for Folder Preview on macOS  
@@ -406,7 +406,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 88,892 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 88,893 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,669 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
@@ -416,7 +416,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
   <sub>★ 7,769 · PostgresApp · Makefile · `System & Maintenance`</sub>
 - **[PureMac](https://github.com/momenbasel/PureMac)** — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.  
-  <sub>★ 5,991 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 5,992 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
 - **[ZTools](https://github.com/ZToolsCenter/ZTools)** — An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.  
   <sub>★ 3,575 · ZToolsCenter · TypeScript · `TypeScript`</sub>
 - **[freeflow](https://github.com/zachlatta/freeflow)** — Free & fast alternative to Wispr Flow  
