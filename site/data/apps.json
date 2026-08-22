@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:18:59Z",
+  "generated_at": "2026-08-22T19:45:41Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1571519
+    "stars": 1571564
   },
   "categories": [
     {
@@ -287,6 +287,10 @@
       "count": 6
     },
     {
+      "name": "Markdown",
+      "count": 6
+    },
+    {
       "name": "Notes",
       "count": 6
     },
@@ -304,10 +308,6 @@
     },
     {
       "name": "Focus",
-      "count": 5
-    },
-    {
-      "name": "Markdown",
       "count": 5
     },
     {
@@ -479,7 +479,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128850,
+      "stars": 128852,
       "forks": 8823,
       "license": "MIT",
       "archived": false,
@@ -576,7 +576,7 @@
       "forks": 5457,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T19:08:49Z"
+      "pushed_at": "2026-08-22T19:38:10Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -658,11 +658,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53144,
+      "stars": 53160,
       "forks": 7255,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T19:13:26Z"
+      "pushed_at": "2026-08-22T19:26:38Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -689,7 +689,7 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50919,
+      "stars": 50918,
       "forks": 4847,
       "license": "AGPL-3.0",
       "archived": false,
@@ -782,7 +782,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41362,
+      "stars": 41364,
       "forks": 1491,
       "license": "MIT",
       "archived": false,
@@ -844,7 +844,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35079,
+      "stars": 35080,
       "forks": 1788,
       "license": "Apache-2.0",
       "archived": false,
@@ -907,7 +907,7 @@
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 33187,
+      "stars": 33188,
       "forks": 4677,
       "license": "MIT",
       "archived": false,
@@ -1092,7 +1092,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23626,
+      "stars": 23627,
       "forks": 1492,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1157,8 +1157,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21820,
-      "forks": 1587,
+      "stars": 21826,
+      "forks": 1588,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-15T07:18:36Z"
@@ -1183,7 +1183,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21299,
+      "stars": 21300,
       "forks": 1114,
       "license": "MIT",
       "archived": false,
@@ -1215,7 +1215,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21065,
+      "stars": 21066,
       "forks": 1806,
       "license": "",
       "archived": false,
@@ -1248,7 +1248,7 @@
       "forks": 7634,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-22T18:27:54Z"
+      "pushed_at": "2026-08-22T19:26:27Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1319,7 +1319,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17403,
+      "stars": 17404,
       "forks": 898,
       "license": "Apache-2.0",
       "archived": false,
@@ -1422,7 +1422,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14402,
+      "stars": 14404,
       "forks": 367,
       "license": "",
       "archived": false,
@@ -1540,7 +1540,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11425,
+      "stars": 11427,
       "forks": 263,
       "license": "GPL-3.0",
       "archived": false,
@@ -1593,11 +1593,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 10429,
+      "stars": 10430,
       "forks": 942,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T05:33:53Z"
+      "pushed_at": "2026-08-22T19:43:22Z"
     },
     {
       "full_name": "AnInsomniacy/motrix-next",
@@ -1680,7 +1680,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8575,
+      "stars": 8576,
       "forks": 535,
       "license": "GPL-3.0",
       "archived": false,
@@ -1805,7 +1805,7 @@
       "forks": 449,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T18:53:01Z"
+      "pushed_at": "2026-08-22T19:29:34Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1845,9 +1845,10 @@
       "icon": "icons/glushchenko__fsnotes.png",
       "url": "https://github.com/glushchenko/fsnotes",
       "homepage": "https://fsnot.es",
-      "description": "Notes manager for macOS/iOS",
+      "description": "Fast Markdown notes for Mac and iPhone",
       "category": "notes",
       "tags": [
+        "Markdown",
         "Notes",
         "Dashboard",
         "iOS",
@@ -1856,6 +1857,7 @@
       "topics": [
         "ios",
         "macos",
+        "markdown",
         "note-taking",
         "notebook",
         "notes-app",
@@ -1866,7 +1868,7 @@
       "forks": 573,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-21T20:30:33Z"
+      "pushed_at": "2026-08-22T19:28:31Z"
     },
     {
       "full_name": "milanvarady/Applite",
@@ -2010,7 +2012,7 @@
       ],
       "language": "Swift",
       "stars": 6015,
-      "forks": 329,
+      "forks": 330,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T10:24:09Z"
@@ -2102,7 +2104,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 5818,
+      "stars": 5822,
       "forks": 223,
       "license": "GPL-3.0",
       "archived": false,
@@ -2171,7 +2173,7 @@
       "forks": 367,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T18:31:11Z"
+      "pushed_at": "2026-08-22T19:43:34Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -2208,6 +2210,37 @@
       "pushed_at": "2026-06-28T14:49:45Z"
     },
     {
+      "full_name": "nguyenphutrong/quotio",
+      "name": "quotio",
+      "owner": "nguyenphutrong",
+      "avatar": "https://avatars.githubusercontent.com/u/62984954?v=4",
+      "icon": "icons/nguyenphutrong__quotio.png",
+      "url": "https://github.com/nguyenphutrong/quotio",
+      "homepage": "https://www.quotio.dev",
+      "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…",
+      "category": "ai",
+      "tags": [
+        "Menu Bar",
+        "AI",
+        "Privacy",
+        "Proxy",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "ai-tools",
+        "developer-tools",
+        "proxy",
+        "quota-monitor"
+      ],
+      "language": "Swift",
+      "stars": 4747,
+      "forks": 309,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-22T04:31:45Z"
+    },
+    {
       "full_name": "mangerlahn/Latest",
       "name": "Latest",
       "owner": "mangerlahn",
@@ -2234,37 +2267,6 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-07-18T07:25:39Z"
-    },
-    {
-      "full_name": "nguyenphutrong/quotio",
-      "name": "quotio",
-      "owner": "nguyenphutrong",
-      "avatar": "https://avatars.githubusercontent.com/u/62984954?v=4",
-      "icon": "icons/nguyenphutrong__quotio.png",
-      "url": "https://github.com/nguyenphutrong/quotio",
-      "homepage": "https://www.quotio.dev",
-      "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…",
-      "category": "ai",
-      "tags": [
-        "Menu Bar",
-        "AI",
-        "Privacy",
-        "Proxy",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "ai-tools",
-        "developer-tools",
-        "proxy",
-        "quota-monitor"
-      ],
-      "language": "Swift",
-      "stars": 4746,
-      "forks": 309,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-08-22T04:31:45Z"
     },
     {
       "full_name": "buresdv/Cork",
@@ -2323,7 +2325,7 @@
         "data-analysis"
       ],
       "language": "TypeScript",
-      "stars": 4316,
+      "stars": 4317,
       "forks": 291,
       "license": "AGPL-3.0",
       "archived": false,
@@ -2444,7 +2446,7 @@
       "forks": 253,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T19:17:11Z"
+      "pushed_at": "2026-08-22T19:19:49Z"
     },
     {
       "full_name": "ZToolsCenter/ZTools",
@@ -2679,7 +2681,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 2751,
+      "stars": 2752,
       "forks": 105,
       "license": "MIT",
       "archived": false,
@@ -3140,7 +3142,7 @@
       "forks": 83,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T19:17:30Z"
+      "pushed_at": "2026-08-22T19:19:30Z"
     },
     {
       "full_name": "lzhgus/Capso",
@@ -3261,7 +3263,7 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 1018,
+      "stars": 1019,
       "forks": 28,
       "license": "MIT",
       "archived": false,
@@ -3744,7 +3746,7 @@
       "forks": 77,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-22T19:17:04Z"
+      "pushed_at": "2026-08-22T19:37:21Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
