@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:18:43Z",
+  "generated_at": "2026-08-22T15:45:14Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1571207
+    "stars": 1571252
   },
   "categories": [
     {
@@ -479,8 +479,8 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128825,
-      "forks": 8819,
+      "stars": 128830,
+      "forks": 8820,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T14:55:47Z"
@@ -507,7 +507,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 88969,
+      "stars": 88971,
       "forks": 4948,
       "license": "Apache-2.0",
       "archived": false,
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75838,
+      "stars": 75840,
       "forks": 5898,
       "license": "AGPL-3.0",
       "archived": false,
@@ -572,11 +572,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64441,
+      "stars": 64442,
       "forks": 5457,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T10:16:15Z"
+      "pushed_at": "2026-08-22T15:41:06Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -658,8 +658,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53031,
-      "forks": 7239,
+      "stars": 53051,
+      "forks": 7241,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-22T01:32:20Z"
@@ -689,11 +689,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50913,
+      "stars": 50914,
       "forks": 4845,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T15:10:37Z"
+      "pushed_at": "2026-08-22T15:42:13Z"
     },
     {
       "full_name": "iina/iina",
@@ -782,7 +782,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41357,
+      "stars": 41359,
       "forks": 1490,
       "license": "MIT",
       "archived": false,
@@ -960,7 +960,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30103,
+      "stars": 30104,
       "forks": 2690,
       "license": "MIT",
       "archived": false,
@@ -1092,8 +1092,8 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23623,
-      "forks": 1491,
+      "stars": 23624,
+      "forks": 1492,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-20T17:51:59Z"
@@ -1158,7 +1158,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21802,
+      "stars": 21806,
       "forks": 1582,
       "license": "",
       "archived": false,
@@ -1321,7 +1321,7 @@
       ],
       "language": "Kotlin",
       "stars": 17400,
-      "forks": 897,
+      "forks": 898,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-08-19T11:29:02Z"
@@ -1401,7 +1401,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15051,
+      "stars": 15052,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1456,7 +1456,7 @@
       ],
       "language": "Swift",
       "stars": 13774,
-      "forks": 1033,
+      "forks": 1034,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T04:48:16Z"
@@ -1616,7 +1616,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9667,
+      "stars": 9668,
       "forks": 303,
       "license": "MIT",
       "archived": false,
@@ -1681,11 +1681,11 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8573,
+      "stars": 8574,
       "forks": 534,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T14:43:24Z"
+      "pushed_at": "2026-08-22T15:39:43Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -1806,7 +1806,7 @@
       "forks": 449,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T14:37:01Z"
+      "pushed_at": "2026-08-22T15:19:19Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1926,7 +1926,7 @@
         "windows"
       ],
       "language": "JavaScript",
-      "stars": 6493,
+      "stars": 6494,
       "forks": 552,
       "license": "BSD-2-Clause",
       "archived": false,
@@ -2010,7 +2010,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6013,
+      "stars": 6014,
       "forks": 329,
       "license": "MIT",
       "archived": false,
@@ -2103,7 +2103,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 5806,
+      "stars": 5807,
       "forks": 222,
       "license": "GPL-3.0",
       "archived": false,
@@ -2168,7 +2168,7 @@
         "mongodb"
       ],
       "language": "Swift",
-      "stars": 5534,
+      "stars": 5533,
       "forks": 367,
       "license": "AGPL-3.0",
       "archived": false,
@@ -2297,7 +2297,7 @@
       "forks": 276,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-22T10:43:12Z"
+      "pushed_at": "2026-08-22T15:28:23Z"
     },
     {
       "full_name": "briefercloud/briefer",
@@ -2466,7 +2466,7 @@
       "forks": 329,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T14:07:19Z"
+      "pushed_at": "2026-08-22T15:30:28Z"
     },
     {
       "full_name": "Marginal/QuickLookVideo",
@@ -2680,7 +2680,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 2741,
+      "stars": 2742,
       "forks": 105,
       "license": "MIT",
       "archived": false,
@@ -3192,7 +3192,7 @@
       "topics": [],
       "language": "Swift",
       "stars": 1222,
-      "forks": 34,
+      "forks": 33,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-14T03:27:04Z"
@@ -3745,7 +3745,7 @@
       "forks": 77,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-22T14:48:34Z"
+      "pushed_at": "2026-08-22T15:33:43Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
