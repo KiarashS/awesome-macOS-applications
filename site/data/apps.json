@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:17:12Z",
+  "generated_at": "2026-08-22T22:47:18Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1571835
+    "stars": 1571904
   },
   "categories": [
     {
@@ -507,8 +507,8 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 88990,
-      "forks": 4947,
+      "stars": 88992,
+      "forks": 4948,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-08-21T14:02:00Z"
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75847,
+      "stars": 75848,
       "forks": 5900,
       "license": "AGPL-3.0",
       "archived": false,
@@ -572,11 +572,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64447,
+      "stars": 64446,
       "forks": 5457,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T22:15:05Z"
+      "pushed_at": "2026-08-22T22:45:23Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -658,8 +658,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53208,
-      "forks": 7262,
+      "stars": 53215,
+      "forks": 7264,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-22T22:00:40Z"
@@ -693,7 +693,7 @@
       "forks": 4847,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T22:15:00Z"
+      "pushed_at": "2026-08-22T22:40:01Z"
     },
     {
       "full_name": "iina/iina",
@@ -718,7 +718,7 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46051,
+      "stars": 46052,
       "forks": 2898,
       "license": "GPL-3.0",
       "archived": false,
@@ -1092,8 +1092,8 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23631,
-      "forks": 1492,
+      "stars": 23632,
+      "forks": 1493,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T18:53:10Z"
@@ -1157,7 +1157,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21846,
+      "stars": 21851,
       "forks": 1590,
       "license": "",
       "archived": false,
@@ -1215,7 +1215,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21069,
+      "stars": 21070,
       "forks": 1807,
       "license": "",
       "archived": false,
@@ -1244,11 +1244,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20981,
+      "stars": 20982,
       "forks": 7634,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-22T21:26:29Z"
+      "pushed_at": "2026-08-22T22:26:45Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1454,7 +1454,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13782,
+      "stars": 13783,
       "forks": 1033,
       "license": "GPL-3.0",
       "archived": false,
@@ -1801,11 +1801,11 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 7676,
+      "stars": 7677,
       "forks": 449,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T21:24:42Z"
+      "pushed_at": "2026-08-22T22:45:31Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1985,6 +1985,41 @@
       "pushed_at": "2026-07-24T14:45:34Z"
     },
     {
+      "full_name": "vorssaint/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "icon": "icons/vorssaint__vorssaint-utils.png",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
+      "tags": [
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
+      ],
+      "language": "Swift",
+      "stars": 6022,
+      "forks": 231,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-22T22:12:15Z"
+    },
+    {
       "full_name": "momenbasel/PureMac",
       "name": "PureMac",
       "owner": "momenbasel",
@@ -2016,41 +2051,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T10:24:09Z"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaint",
-      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
-      "icon": "icons/vorssaint__vorssaint-utils.png",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 5975,
-      "forks": 229,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-22T22:12:15Z"
     },
     {
       "full_name": "ejbills/DockDoor",
@@ -3142,7 +3142,7 @@
       "forks": 83,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T22:12:46Z"
+      "pushed_at": "2026-08-22T22:28:01Z"
     },
     {
       "full_name": "lzhgus/Capso",
@@ -3219,7 +3219,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 1215,
+      "stars": 1217,
       "forks": 67,
       "license": "GPL-3.0",
       "archived": false,
@@ -3746,7 +3746,7 @@
       "forks": 77,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-22T22:07:04Z"
+      "pushed_at": "2026-08-22T22:33:44Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
