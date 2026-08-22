@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`136 apps` · `23 categories` · `63 tags` · `1,571,151 stars`
+`136 apps` · `23 categories` · `63 tags` · `1,571,176 stars`
 
 Last updated 2026-08-22. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -114,7 +114,7 @@ _Homebrew front-ends, App Store tooling and update checkers._
 _Virtual machines, emulators and containers._
 
 - **[UTM](https://github.com/utmapp/UTM)** — Virtual machines for iOS and macOS  
-  <sub>★ 35,079 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
+  <sub>★ 35,078 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
 - **[Kaku](https://github.com/tw93/Kaku)** — A fast, out-of-the-box terminal built for AI coding.  
   <sub>★ 5,798 · tw93 · Rust · `AI` `Terminal` `Virtualization` `Rust`</sub>
 - **[lan-mouse](https://github.com/feschber/lan-mouse)** — Mouse & keyboard sharing via LAN  
@@ -129,11 +129,11 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 21,800 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 21,801 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
   <sub>★ 21,062 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
-  <sub>★ 3,051 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
+  <sub>★ 3,052 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
 - **[Snapzy](https://github.com/duongductrong/Snapzy)** — An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.  
   <sub>★ 2,837 · duongductrong · Swift · `Capture` `SwiftUI` `Swift`</sub>
 - **[Capso](https://github.com/lzhgus/Capso)** — Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.  
@@ -152,7 +152,7 @@ _Download managers and accelerators._
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 9,666 · AnInsomniacy · JavaScript · `Downloads` `JavaScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
-  <sub>★ 8,572 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
+  <sub>★ 8,573 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
 
 <a id="cat-reading"></a>
 
@@ -163,7 +163,7 @@ _Feed readers, ebook readers and read-it-later apps._
 - **[Folo](https://github.com/RSSNext/Folo)** — Folo is the AI RSS Reader  
   <sub>★ 38,842 · RSSNext · TypeScript · `RSS` `Reading` `AI` `TypeScript`</sub>
 - **[readest](https://github.com/readest/readest)** — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…  
-  <sub>★ 23,621 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 23,622 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
 
 <a id="cat-ai"></a>
 
@@ -172,11 +172,11 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
-  <sub>★ 128,820 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 128,823 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
   <sub>★ 75,836 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 53,014 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 53,023 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 50,913 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
@@ -205,7 +205,7 @@ _Local and hosted models, assistants and speech tooling._
 _App launchers, command palettes and Launchpad replacements._
 
 - **[sol](https://github.com/ospfranco/sol)** — MacOS launcher & command palette  
-  <sub>★ 3,070 · ospfranco · TypeScript · `Launcher` `TypeScript`</sub>
+  <sub>★ 3,071 · ospfranco · TypeScript · `Launcher` `TypeScript`</sub>
 - **[LaunchNext](https://github.com/RoversX/LaunchNext)** — Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.  
   <sub>★ 2,951 · RoversX · Swift · `Launcher` `Swift`</sub>
 - **[docky](https://github.com/josejuanqm/docky)** — Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout, widgets…  
@@ -226,7 +226,7 @@ _App launchers, command palettes and Launchpad replacements._
 _Pomodoro timers, break reminders, boards and task tools._
 
 - **[focalboard](https://github.com/mattermost-community/focalboard)** — Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.  
-  <sub>★ 26,418 · mattermost-community · TypeScript · `Privacy` `Tasks` `Self-hosted` `TypeScript`</sub>
+  <sub>★ 26,417 · mattermost-community · TypeScript · `Privacy` `Tasks` `Self-hosted` `TypeScript`</sub>
 - **[alt-tab-macos](https://github.com/lwouis/alt-tab-macos)** — Windows alt-tab on macOS  
   <sub>★ 16,202 · lwouis · Swift · `Windows` `Tasks` `Swift`</sub>
 - **[stretchly](https://github.com/hovancik/stretchly)** — The break time reminder app  
@@ -285,13 +285,13 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,440 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,441 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,954 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[hyper](https://github.com/vercel/hyper)** — A terminal built on web technologies  
   <sub>★ 44,701 · vercel · TypeScript · `Terminal` `Cross-platform` `TypeScript`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
-  <sub>★ 33,182 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
+  <sub>★ 33,183 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 
 <a id="cat-security"></a>
 
@@ -334,7 +334,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 - **[MiddleClick](https://github.com/artginzburg/MiddleClick)** —  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.  
   <sub>★ 2,897 · artginzburg · Swift · `Mouse` `Swift`</sub>
 - **[mechvibes](https://github.com/hainguyents13/mechvibes)** — Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs.  
-  <sub>★ 2,306 · hainguyents13 · JavaScript · `Keyboard` `Audio` `JavaScript`</sub>
+  <sub>★ 2,307 · hainguyents13 · JavaScript · `Keyboard` `Audio` `JavaScript`</sub>
 - **[KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)** — Keyboard: The missing keyboard shortcut utility for macOS  
   <sub>★ 2,232 · zenangst · Swift · `Keyboard` `Swift`</sub>
 - **[KeyboardHolder](https://github.com/leaves615/KeyboardHolder)** — No description on GitHub — open the repository to see what it does.  
@@ -410,9 +410,9 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 88,965 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 88,969 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
-  <sub>★ 34,671 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
+  <sub>★ 34,672 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
   <sub>★ 31,586 · barry-ran · C++ · `C++`</sub>
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
@@ -428,7 +428,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[cardinal](https://github.com/cardisoft/cardinal)** — Fastest file searching tool for macOS  
   <sub>★ 1,671 · cardisoft · Rust · `Files` `Tauri` `Rust`</sub>
 - **[codesucker](https://github.com/fanbuz/codesucker)** — 拖入项目，生成 60 页软著源程序文档。离线抽取、注释清洗、自动排版，导出前先帮你过一遍审查——代码不出本机。  
-  <sub>★ 380 · fanbuz · TypeScript · `Electron` `TypeScript`</sub>
+  <sub>★ 381 · fanbuz · TypeScript · `Electron` `TypeScript`</sub>
 - **[MKS](https://github.com/x0054/MKS)** — No description on GitHub — open the repository to see what it does.  
   <sub>★ 208 · x0054 · Swift · `Swift`</sub>
 - **[SnapTraTranslator](https://github.com/yelog/SnapTraTranslator)** — 一款 macos 离线快速翻译软件  
@@ -467,7 +467,7 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
 _Purely delightful, mostly useless, entirely worth installing._
 
 - **[BongoCat](https://github.com/BongoCatPet/BongoCat)** — 跨平台互动桌宠 BongoCat，为桌面增添乐趣！  
-  <sub>★ 22,726 · BongoCatPet · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
+  <sub>★ 22,727 · BongoCatPet · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
 
 ## How this is built
 
