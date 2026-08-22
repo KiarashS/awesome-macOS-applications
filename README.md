@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`134 apps` · `23 categories` · `63 tags` · `1,569,351 stars`
+`134 apps` · `23 categories` · `63 tags` · `1,569,376 stars`
 
 Last updated 2026-08-22. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -97,7 +97,7 @@ _Homebrew front-ends, App Store tooling and update checkers._
 - **[Cork](https://github.com/buresdv/Cork)** — A fast GUI for Homebrew written in SwiftUI, AI-free  
   <sub>★ 4,630 · buresdv · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
 - **[WailBrew](https://github.com/wickenico/WailBrew)** — Minimalistic Homebrew GUI made with Go, Wails and React.  
-  <sub>★ 2,737 · wickenico · TypeScript · `Homebrew` `TypeScript`</sub>
+  <sub>★ 2,738 · wickenico · TypeScript · `Homebrew` `TypeScript`</sub>
 - **[brew-browser](https://github.com/msitarzewski/brew-browser)** — Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.  
   <sub>★ 1,018 · msitarzewski · Rust · `Homebrew` `Rust`</sub>
 - **[SwiftShift](https://github.com/pablopunk/SwiftShift)** — Sweet window management for macOS  
@@ -129,9 +129,9 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 21,765 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 21,767 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
-  <sub>★ 21,057 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
+  <sub>★ 21,058 · CapSoftware · TypeScript · `Capture` `Tauri` `TypeScript`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
   <sub>★ 3,031 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
 - **[Snapzy](https://github.com/duongductrong/Snapzy)** — An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.  
@@ -172,27 +172,27 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
-  <sub>★ 128,751 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 128,752 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
-  <sub>★ 75,822 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
+  <sub>★ 75,823 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 52,784 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 52,795 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 50,891 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 50,892 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 30,082 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 30,084 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
   <sub>★ 13,763 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[osaurus](https://github.com/osaurus-ai/osaurus)** — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.  
-  <sub>★ 7,673 · osaurus-ai · Swift · `AI` `Monitoring` `Swift`</sub>
+  <sub>★ 7,674 · osaurus-ai · Swift · `AI` `Monitoring` `Swift`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
-  <sub>★ 4,740 · nguyenphutrong · Swift · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Swift`</sub>
+  <sub>★ 4,741 · nguyenphutrong · Swift · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Swift`</sub>
 - **[supacode](https://github.com/supabitapp/supacode)** — Worktree coding agents command center.  
   <sub>★ 2,298 · supabitapp · Swift · `Swift`</sub>
 - **[burrow](https://github.com/caezium/burrow)** — Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows  
   <sub>★ 1,298 · caezium · Swift · `Menu Bar` `AI` `Cleanup` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[nativ](https://github.com/Blaizzy/nativ)** — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.  
-  <sub>★ 1,278 · Blaizzy · Swift · `AI` `Monitoring` `Swift`</sub>
+  <sub>★ 1,279 · Blaizzy · Swift · `AI` `Monitoring` `Swift`</sub>
 - **[FlowDown](https://github.com/Lakr233/FlowDown)** — Https://flowdown.ai/  
   <sub>★ 1,189 · Lakr233 · Swift · `AI` `Swift`</sub>
 - **[KeyType](https://github.com/johnbean393/KeyType)** — An open-source Cotypist with macOS system wide AI autocomplete  
@@ -285,7 +285,7 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,434 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,435 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,950 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[hyper](https://github.com/vercel/hyper)** — A terminal built on web technologies  
@@ -408,7 +408,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 88,924 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 88,925 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,669 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
@@ -462,8 +462,8 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
 
 _Purely delightful, mostly useless, entirely worth installing._
 
-- **[BongoCat](https://github.com/ayangweb/BongoCat)** — A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.  
-  <sub>★ 22,720 · ayangweb · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
+- **[BongoCat](https://github.com/BongoCatPet/BongoCat)** — 跨平台互动桌宠 BongoCat，为桌面增添乐趣！  
+  <sub>★ 22,720 · BongoCatPet · Vue · `Fun` `Tauri` `Cross-platform` `Vue`</sub>
 
 ## How this is built
 
