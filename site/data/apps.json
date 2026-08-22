@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:45:20Z",
+  "generated_at": "2026-08-22T21:58:21Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1571756
+    "stars": 1571782
   },
   "categories": [
     {
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75846,
+      "stars": 75847,
       "forks": 5900,
       "license": "AGPL-3.0",
       "archived": false,
@@ -572,7 +572,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64446,
+      "stars": 64447,
       "forks": 5457,
       "license": "AGPL-3.0",
       "archived": false,
@@ -658,11 +658,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53202,
+      "stars": 53205,
       "forks": 7261,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T19:55:09Z"
+      "pushed_at": "2026-08-22T21:55:23Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -908,7 +908,7 @@
       ],
       "language": "Vue",
       "stars": 33188,
-      "forks": 4677,
+      "forks": 4676,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-06-14T12:57:40Z"
@@ -1157,7 +1157,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21842,
+      "stars": 21843,
       "forks": 1589,
       "license": "",
       "archived": false,
@@ -1476,7 +1476,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13084,
+      "stars": 13085,
       "forks": 594,
       "license": "GPL-3.0",
       "archived": false,
@@ -2011,34 +2011,11 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6016,
+      "stars": 6017,
       "forks": 330,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T10:24:09Z"
-    },
-    {
-      "full_name": "ejbills/DockDoor",
-      "name": "DockDoor",
-      "owner": "ejbills",
-      "avatar": "https://avatars.githubusercontent.com/u/74191134?v=4",
-      "icon": "icons/ejbills__DockDoor.png",
-      "url": "https://github.com/ejbills/DockDoor",
-      "homepage": "https://dockdoor.net",
-      "description": "Window peeking, alt-tab and other enhancements for macOS",
-      "category": "windows",
-      "tags": [
-        "Windows",
-        "Dock",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 5935,
-      "forks": 212,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-08-11T00:49:27Z"
     },
     {
       "full_name": "vorssaint/vorssaint-utils",
@@ -2069,11 +2046,34 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 5918,
-      "forks": 226,
+      "stars": 5936,
+      "forks": 228,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T21:34:20Z"
+    },
+    {
+      "full_name": "ejbills/DockDoor",
+      "name": "DockDoor",
+      "owner": "ejbills",
+      "avatar": "https://avatars.githubusercontent.com/u/74191134?v=4",
+      "icon": "icons/ejbills__DockDoor.png",
+      "url": "https://github.com/ejbills/DockDoor",
+      "homepage": "https://dockdoor.net",
+      "description": "Window peeking, alt-tab and other enhancements for macOS",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Dock",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 5935,
+      "forks": 212,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-11T00:49:27Z"
     },
     {
       "full_name": "jacklandrin/OnlySwitch",
@@ -3746,7 +3746,7 @@
       "forks": 77,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-22T21:34:00Z"
+      "pushed_at": "2026-08-22T21:54:45Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
