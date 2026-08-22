@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T13:51:47Z",
+  "generated_at": "2026-08-22T14:14:58Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 134,
+    "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1569985
+    "stars": 1571098
   },
   "categories": [
     {
@@ -122,7 +122,7 @@
       "icon": "lock",
       "color": "#ffd60a",
       "blurb": "Firewalls, Gatekeeper tooling, encryption and password managers.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "network",
@@ -170,7 +170,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 11
+      "count": 12
     },
     {
       "id": "web",
@@ -207,16 +207,16 @@
       "count": 20
     },
     {
-      "name": "SwiftUI",
-      "count": 17
-    },
-    {
       "name": "TypeScript",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Cross-platform",
-      "count": 16
+      "count": 17
+    },
+    {
+      "name": "SwiftUI",
+      "count": 17
     },
     {
       "name": "Menu Bar",
@@ -231,12 +231,12 @@
       "count": 10
     },
     {
-      "name": "Terminal",
+      "name": "Electron",
       "count": 9
     },
     {
-      "name": "Electron",
-      "count": 8
+      "name": "Terminal",
+      "count": 9
     },
     {
       "name": "Files",
@@ -255,6 +255,10 @@
       "count": 7
     },
     {
+      "name": "JavaScript",
+      "count": 7
+    },
+    {
       "name": "Launcher",
       "count": 7
     },
@@ -263,7 +267,19 @@
       "count": 7
     },
     {
+      "name": "Privacy",
+      "count": 7
+    },
+    {
+      "name": "Proxy",
+      "count": 7
+    },
+    {
       "name": "Rust",
+      "count": 7
+    },
+    {
+      "name": "Tauri",
       "count": 7
     },
     {
@@ -275,23 +291,7 @@
       "count": 6
     },
     {
-      "name": "JavaScript",
-      "count": 6
-    },
-    {
       "name": "Notes",
-      "count": 6
-    },
-    {
-      "name": "Privacy",
-      "count": 6
-    },
-    {
-      "name": "Proxy",
-      "count": 6
-    },
-    {
-      "name": "Tauri",
       "count": 6
     },
     {
@@ -479,8 +479,8 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128811,
-      "forks": 8816,
+      "stars": 128814,
+      "forks": 8817,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T14:55:47Z"
@@ -507,8 +507,8 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 88958,
-      "forks": 4948,
+      "stars": 88963,
+      "forks": 4947,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-08-21T14:02:00Z"
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75834,
+      "stars": 75835,
       "forks": 5898,
       "license": "AGPL-3.0",
       "archived": false,
@@ -600,7 +600,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62741,
+      "stars": 62742,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -658,8 +658,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 52992,
-      "forks": 7226,
+      "stars": 53001,
+      "forks": 7232,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-22T01:32:20Z"
@@ -689,11 +689,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50909,
+      "stars": 50912,
       "forks": 4844,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T13:10:35Z"
+      "pushed_at": "2026-08-22T14:08:54Z"
     },
     {
       "full_name": "iina/iina",
@@ -812,7 +812,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38841,
+      "stars": 38842,
       "forks": 2115,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1125,7 +1125,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22726,
+      "stars": 22725,
       "forks": 1095,
       "license": "MIT",
       "archived": false,
@@ -1158,8 +1158,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21795,
-      "forks": 1581,
+      "stars": 21796,
+      "forks": 1580,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-15T07:18:36Z"
@@ -1216,7 +1216,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21061,
+      "stars": 21062,
       "forks": 1806,
       "license": "",
       "archived": false,
@@ -1245,7 +1245,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 20973,
+      "stars": 20975,
       "forks": 7633,
       "license": "",
       "archived": false,
@@ -1267,11 +1267,11 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19543,
+      "stars": 19545,
       "forks": 1358,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-21T15:02:40Z"
+      "pushed_at": "2026-08-22T14:07:48Z"
     },
     {
       "full_name": "sindresorhus/quick-look-plugins",
@@ -1455,7 +1455,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13771,
+      "stars": 13772,
       "forks": 1033,
       "license": "GPL-3.0",
       "archived": false,
@@ -1477,7 +1477,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13082,
+      "stars": 13083,
       "forks": 594,
       "license": "GPL-3.0",
       "archived": false,
@@ -1616,7 +1616,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9666,
+      "stars": 9665,
       "forks": 303,
       "license": "MIT",
       "archived": false,
@@ -1681,11 +1681,11 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8569,
+      "stars": 8572,
       "forks": 534,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T13:43:54Z"
+      "pushed_at": "2026-08-22T13:58:26Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -1746,7 +1746,7 @@
         "rar"
       ],
       "language": "Pascal",
-      "stars": 7776,
+      "stars": 7778,
       "forks": 399,
       "license": "LGPL-3.0",
       "archived": false,
@@ -1947,7 +1947,7 @@
       ],
       "topics": [],
       "language": "",
-      "stars": 6208,
+      "stars": 6209,
       "forks": 647,
       "license": "AGPL-3.0",
       "archived": false,
@@ -2010,7 +2010,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6009,
+      "stars": 6010,
       "forks": 329,
       "license": "MIT",
       "archived": false,
@@ -2104,7 +2104,7 @@
       ],
       "language": "Swift",
       "stars": 5802,
-      "forks": 221,
+      "forks": 222,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T03:36:37Z"
@@ -2172,7 +2172,7 @@
       "forks": 367,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T13:18:24Z"
+      "pushed_at": "2026-08-22T13:56:09Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -2261,7 +2261,7 @@
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4742,
+      "stars": 4743,
       "forks": 308,
       "license": "MIT",
       "archived": false,
@@ -2466,7 +2466,7 @@
       "forks": 329,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T13:16:35Z"
+      "pushed_at": "2026-08-22T14:07:19Z"
     },
     {
       "full_name": "Marginal/QuickLookVideo",
@@ -2649,7 +2649,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2835,
+      "stars": 2836,
       "forks": 159,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -2680,7 +2680,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 2740,
+      "stars": 2741,
       "forks": 105,
       "license": "MIT",
       "archived": false,
@@ -2701,7 +2701,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2540,
+      "stars": 2541,
       "forks": 252,
       "license": "MIT",
       "archived": false,
@@ -2811,7 +2811,7 @@
       "forks": 297,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-22T12:51:27Z"
+      "pushed_at": "2026-08-22T13:56:32Z"
     },
     {
       "full_name": "zenangst/KeyboardCowboy",
@@ -3379,6 +3379,40 @@
       "pushed_at": "2026-08-22T10:50:36Z"
     },
     {
+      "full_name": "Juwan-Hwang/Zephyr",
+      "name": "Zephyr",
+      "owner": "Juwan-Hwang",
+      "avatar": "https://avatars.githubusercontent.com/u/180104975?v=4",
+      "icon": "icons/Juwan-Hwang__Zephyr.png",
+      "url": "https://github.com/Juwan-Hwang/Zephyr",
+      "homepage": "https://juwan-hwang.github.io/Zephyr/",
+      "description": "Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.",
+      "category": "security",
+      "tags": [
+        "Privacy",
+        "Proxy",
+        "Tauri",
+        "Cross-platform",
+        "JavaScript"
+      ],
+      "topics": [
+        "clash",
+        "clash-meta",
+        "cross-platform",
+        "desktop-app",
+        "gui",
+        "javascript",
+        "linux",
+        "macos"
+      ],
+      "language": "JavaScript",
+      "stars": 692,
+      "forks": 40,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-22T09:15:03Z"
+    },
+    {
       "full_name": "pablopunk/SwiftShift",
       "name": "SwiftShift",
       "owner": "pablopunk",
@@ -3511,7 +3545,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 506,
+      "stars": 507,
       "forks": 36,
       "license": "",
       "archived": false,
@@ -3684,6 +3718,34 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-10-10T07:50:39Z"
+    },
+    {
+      "full_name": "fanbuz/codesucker",
+      "name": "codesucker",
+      "owner": "fanbuz",
+      "avatar": "https://avatars.githubusercontent.com/u/118787336?v=4",
+      "icon": "icons/fanbuz__codesucker.svg",
+      "url": "https://github.com/fanbuz/codesucker",
+      "homepage": "",
+      "description": "拖入项目，生成 60 页软著源程序文档。离线抽取、注释清洗、自动排版，导出前先帮你过一遍审查——代码不出本机。",
+      "category": "system",
+      "tags": [
+        "Electron",
+        "TypeScript"
+      ],
+      "topics": [
+        "docx",
+        "electron",
+        "offline-first",
+        "ruanzhu",
+        "software-copyright"
+      ],
+      "language": "TypeScript",
+      "stars": 380,
+      "forks": 77,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-08-22T14:12:34Z"
     },
     {
       "full_name": "glinford/dns-easy-switcher",
