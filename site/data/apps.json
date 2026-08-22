@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:36:24Z",
+  "generated_at": "2026-08-22T23:57:23Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 136,
     "categories": 23,
     "tags": 63,
-    "stars": 1572034
+    "stars": 1572089
   },
   "categories": [
     {
@@ -479,7 +479,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128859,
+      "stars": 128858,
       "forks": 8823,
       "license": "MIT",
       "archived": false,
@@ -507,7 +507,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 88994,
+      "stars": 88995,
       "forks": 4949,
       "license": "Apache-2.0",
       "archived": false,
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75848,
+      "stars": 75849,
       "forks": 5900,
       "license": "AGPL-3.0",
       "archived": false,
@@ -572,7 +572,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64446,
+      "stars": 64447,
       "forks": 5457,
       "license": "AGPL-3.0",
       "archived": false,
@@ -658,11 +658,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53228,
-      "forks": 7268,
+      "stars": 53231,
+      "forks": 7269,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T23:31:59Z"
+      "pushed_at": "2026-08-22T23:43:15Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -812,7 +812,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38842,
+      "stars": 38843,
       "forks": 2115,
       "license": "AGPL-3.0",
       "archived": false,
@@ -844,7 +844,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35081,
+      "stars": 35082,
       "forks": 1788,
       "license": "Apache-2.0",
       "archived": false,
@@ -1157,8 +1157,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 21858,
-      "forks": 1591,
+      "stars": 21863,
+      "forks": 1593,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-15T07:18:36Z"
@@ -1476,7 +1476,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13085,
+      "stars": 13086,
       "forks": 594,
       "license": "GPL-3.0",
       "archived": false,
@@ -1805,7 +1805,7 @@
       "forks": 449,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T23:12:18Z"
+      "pushed_at": "2026-08-22T23:51:17Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1955,36 +1955,6 @@
       "pushed_at": "2026-08-16T11:44:01Z"
     },
     {
-      "full_name": "666OS/ClashMac",
-      "name": "ClashMac",
-      "owner": "666OS",
-      "avatar": "https://avatars.githubusercontent.com/u/179918304?v=4",
-      "icon": "",
-      "url": "https://github.com/666OS/ClashMac",
-      "homepage": "https://clashmac.app",
-      "description": "Native Proxy Experience Built for macOS",
-      "category": "network",
-      "tags": [
-        "Proxy",
-        "SwiftUI"
-      ],
-      "topics": [
-        "clash",
-        "clash-meta",
-        "macos",
-        "mihomo",
-        "network",
-        "proxy",
-        "swiftui"
-      ],
-      "language": "",
-      "stars": 6138,
-      "forks": 259,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-07-24T14:45:34Z"
-    },
-    {
       "full_name": "vorssaint/vorssaint-utils",
       "name": "vorssaint-utils",
       "owner": "vorssaint",
@@ -2013,11 +1983,41 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 6112,
-      "forks": 233,
+      "stars": 6154,
+      "forks": 234,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T22:56:30Z"
+    },
+    {
+      "full_name": "666OS/ClashMac",
+      "name": "ClashMac",
+      "owner": "666OS",
+      "avatar": "https://avatars.githubusercontent.com/u/179918304?v=4",
+      "icon": "",
+      "url": "https://github.com/666OS/ClashMac",
+      "homepage": "https://clashmac.app",
+      "description": "Native Proxy Experience Built for macOS",
+      "category": "network",
+      "tags": [
+        "Proxy",
+        "SwiftUI"
+      ],
+      "topics": [
+        "clash",
+        "clash-meta",
+        "macos",
+        "mihomo",
+        "network",
+        "proxy",
+        "swiftui"
+      ],
+      "language": "",
+      "stars": 6138,
+      "forks": 259,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-07-24T14:45:34Z"
     },
     {
       "full_name": "momenbasel/PureMac",
@@ -2446,7 +2446,7 @@
       "forks": 253,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-22T21:42:13Z"
+      "pushed_at": "2026-08-22T23:56:11Z"
     },
     {
       "full_name": "ZToolsCenter/ZTools",
