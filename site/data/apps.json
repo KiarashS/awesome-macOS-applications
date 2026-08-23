@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-23T13:11:05Z",
+  "generated_at": "2026-08-23T13:21:01Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 135,
+    "apps": 138,
     "categories": 23,
     "tags": 63,
-    "stars": 1574353
+    "stars": 1579946
   },
   "categories": [
     {
@@ -34,7 +34,7 @@
       "icon": "shippingbox",
       "color": "#a2845e",
       "blurb": "Homebrew front-ends, App Store tooling and update checkers.",
-      "count": 9
+      "count": 10
     },
     {
       "id": "virtualization",
@@ -146,7 +146,7 @@
       "icon": "play",
       "color": "#ff2d55",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 5
+      "count": 6
     },
     {
       "id": "notes",
@@ -170,7 +170,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 11
+      "count": 12
     },
     {
       "id": "web",
@@ -200,19 +200,19 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 76
+      "count": 78
     },
     {
       "name": "AI",
       "count": 20
     },
     {
-      "name": "Cross-platform",
-      "count": 17
+      "name": "SwiftUI",
+      "count": 19
     },
     {
-      "name": "SwiftUI",
-      "count": 17
+      "name": "Cross-platform",
+      "count": 18
     },
     {
       "name": "TypeScript",
@@ -231,15 +231,19 @@
       "count": 10
     },
     {
+      "name": "Electron",
+      "count": 9
+    },
+    {
+      "name": "Files",
+      "count": 9
+    },
+    {
       "name": "Terminal",
       "count": 9
     },
     {
-      "name": "Electron",
-      "count": 8
-    },
-    {
-      "name": "Files",
+      "name": "Homebrew",
       "count": 8
     },
     {
@@ -251,8 +255,8 @@
       "count": 8
     },
     {
-      "name": "Homebrew",
-      "count": 7
+      "name": "Privacy",
+      "count": 8
     },
     {
       "name": "JavaScript",
@@ -267,10 +271,6 @@
       "count": 7
     },
     {
-      "name": "Privacy",
-      "count": 7
-    },
-    {
       "name": "Proxy",
       "count": 7
     },
@@ -281,6 +281,10 @@
     {
       "name": "Tauri",
       "count": 7
+    },
+    {
+      "name": "Audio",
+      "count": 6
     },
     {
       "name": "Capture",
@@ -303,7 +307,7 @@
       "count": 6
     },
     {
-      "name": "Audio",
+      "name": "Cleanup",
       "count": 5
     },
     {
@@ -315,10 +319,6 @@
       "count": 5
     },
     {
-      "name": "Cleanup",
-      "count": 4
-    },
-    {
       "name": "Objective-C",
       "count": 4
     },
@@ -328,6 +328,10 @@
     },
     {
       "name": "Virtualization",
+      "count": 4
+    },
+    {
+      "name": "Vue",
       "count": 4
     },
     {
@@ -348,10 +352,6 @@
     },
     {
       "name": "Template",
-      "count": 3
-    },
-    {
-      "name": "Vue",
       "count": 3
     },
     {
@@ -479,7 +479,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128939,
+      "stars": 128942,
       "forks": 8830,
       "license": "MIT",
       "archived": false,
@@ -507,7 +507,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89056,
+      "stars": 89057,
       "forks": 4951,
       "license": "Apache-2.0",
       "archived": false,
@@ -573,7 +573,7 @@
       ],
       "language": "Rust",
       "stars": 64460,
-      "forks": 5455,
+      "forks": 5454,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-23T08:09:57Z"
@@ -658,11 +658,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53553,
-      "forks": 7308,
+      "stars": 53554,
+      "forks": 7310,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T13:09:07Z"
+      "pushed_at": "2026-08-23T13:13:32Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -690,7 +690,7 @@
       ],
       "language": "TypeScript",
       "stars": 50944,
-      "forks": 4847,
+      "forks": 4848,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-23T13:04:12Z"
@@ -782,7 +782,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41376,
+      "stars": 41377,
       "forks": 1491,
       "license": "MIT",
       "archived": false,
@@ -960,7 +960,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30141,
+      "stars": 30142,
       "forks": 2697,
       "license": "MIT",
       "archived": false,
@@ -1158,7 +1158,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22082,
+      "stars": 22083,
       "forks": 1613,
       "license": "",
       "archived": false,
@@ -1320,7 +1320,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17414,
+      "stars": 17415,
       "forks": 899,
       "license": "Apache-2.0",
       "archived": false,
@@ -1805,7 +1805,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 7698,
+      "stars": 7718,
       "forks": 270,
       "license": "GPL-3.0",
       "archived": false,
@@ -2388,7 +2388,7 @@
       "forks": 273,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T10:46:38Z"
+      "pushed_at": "2026-08-23T13:12:27Z"
     },
     {
       "full_name": "Kuingsmile/PicList",
@@ -2443,7 +2443,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3648,
+      "stars": 3649,
       "forks": 253,
       "license": "MIT",
       "archived": false,
@@ -2464,7 +2464,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3588,
+      "stars": 3589,
       "forks": 329,
       "license": "MIT",
       "archived": false,
@@ -2710,6 +2710,34 @@
       "pushed_at": "2026-08-19T08:50:07Z"
     },
     {
+      "full_name": "superhighfives/pika",
+      "name": "pika",
+      "owner": "superhighfives",
+      "avatar": "https://avatars.githubusercontent.com/u/449385?v=4",
+      "icon": "icons/superhighfives__pika.png",
+      "url": "https://github.com/superhighfives/pika",
+      "homepage": "https://superhighfives.com/pika",
+      "description": "An open-source colour picker app for macOS",
+      "category": "system",
+      "tags": [
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "app",
+        "macos",
+        "swift",
+        "swiftui",
+        "xcode"
+      ],
+      "language": "Swift",
+      "stars": 2545,
+      "forks": 82,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-22T21:56:05Z"
+    },
+    {
       "full_name": "farouqaldori/vibe-notch",
       "name": "vibe-notch",
       "owner": "farouqaldori",
@@ -2809,7 +2837,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2303,
+      "stars": 2302,
       "forks": 298,
       "license": "",
       "archived": false,
@@ -2998,6 +3026,30 @@
       "pushed_at": "2026-08-22T00:39:45Z"
     },
     {
+      "full_name": "stark81/VutronMusic",
+      "name": "VutronMusic",
+      "owner": "stark81",
+      "avatar": "https://avatars.githubusercontent.com/u/48707376?v=4",
+      "icon": "icons/stark81__VutronMusic.png",
+      "url": "https://github.com/stark81/VutronMusic",
+      "homepage": "",
+      "description": "高颜值的第三方网易云播放器；通过自写插件可支持其他线上音乐服务；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux…",
+      "category": "media",
+      "tags": [
+        "Audio",
+        "Electron",
+        "Cross-platform",
+        "Vue"
+      ],
+      "topics": [],
+      "language": "Vue",
+      "stars": 1566,
+      "forks": 88,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-07T11:56:38Z"
+    },
+    {
       "full_name": "rsyncOSX/RsyncUI",
       "name": "RsyncUI",
       "owner": "rsyncOSX",
@@ -3026,6 +3078,41 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-22T05:04:55Z"
+    },
+    {
+      "full_name": "iliyami/MacSai",
+      "name": "MacSai",
+      "owner": "iliyami",
+      "avatar": "https://avatars.githubusercontent.com/u/18049527?v=4",
+      "icon": "icons/iliyami__MacSai.png",
+      "url": "https://github.com/iliyami/MacSai",
+      "homepage": "https://github.com/iliyami/MacSai",
+      "description": "Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.",
+      "category": "packages",
+      "tags": [
+        "Privacy",
+        "Homebrew",
+        "Files",
+        "Cleanup",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "appkit",
+        "cleanmymac",
+        "cleanmymac-alternative",
+        "darwin",
+        "disk-cleaner",
+        "duplicate-finder",
+        "homebrew-cask",
+        "mac-cleaner"
+      ],
+      "language": "Swift",
+      "stars": 1452,
+      "forks": 83,
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-08-18T21:47:08Z"
     },
     {
       "full_name": "xjbeta/iina-plus",
