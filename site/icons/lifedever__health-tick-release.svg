@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="ds">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#065F46" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="100" y="100" width="824" height="824" rx="185" ry="185" fill="url(#bg)"/>
+
+  <!-- Progress ring track -->
+  <circle cx="512" cy="512" r="260" fill="none" stroke="white" stroke-opacity="0.12" stroke-width="30"/>
+
+  <!-- Progress arc ~80% -->
+  <circle cx="512" cy="512" r="260" fill="none" stroke="white" stroke-opacity="0.85" stroke-width="30" stroke-linecap="round"
+    stroke-dasharray="1307 327"
+    transform="rotate(-90 512 512)"
+    filter="url(#ds)"/>
+
+  <!-- Walking person centered at 512,512 -->
+  <g transform="translate(512, 500)" filter="url(#ds)">
+    <!-- Head -->
+    <circle cx="0" cy="-125" r="40" fill="white"/>
+    <!-- Torso -->
+    <line x1="0" y1="-85" x2="6" y2="25" stroke="white" stroke-width="28" stroke-linecap="round"/>
+    <!-- Left arm -->
+    <polyline points="-2,-52 -55,-8 -68,28" fill="none" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Right arm -->
+    <polyline points="2,-52 50,-28 62,-52" fill="none" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Left leg -->
+    <polyline points="6,25 -18,85 -50,135" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Right leg -->
+    <polyline points="6,25 38,80 55,135" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Checkmark at arc end -->
+  <circle cx="710" cy="330" r="26" fill="white" filter="url(#ds)"/>
+  <polyline points="698,330 708,340 724,322" fill="none" stroke="#059669" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
