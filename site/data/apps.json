@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:53:34Z",
+  "generated_at": "2026-08-23T10:16:27Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 135,
     "categories": 23,
     "tags": 63,
-    "stars": 1573583
+    "stars": 1573673
   },
   "categories": [
     {
@@ -479,7 +479,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128914,
+      "stars": 128918,
       "forks": 8828,
       "license": "MIT",
       "archived": false,
@@ -507,7 +507,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89037,
+      "stars": 89038,
       "forks": 4950,
       "license": "Apache-2.0",
       "archived": false,
@@ -540,7 +540,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75865,
+      "stars": 75866,
       "forks": 5900,
       "license": "AGPL-3.0",
       "archived": false,
@@ -572,7 +572,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64457,
+      "stars": 64458,
       "forks": 5456,
       "license": "AGPL-3.0",
       "archived": false,
@@ -600,7 +600,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62750,
+      "stars": 62751,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -624,7 +624,7 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 54958,
+      "stars": 54959,
       "forks": 2442,
       "license": "MIT",
       "archived": false,
@@ -658,11 +658,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53465,
-      "forks": 7294,
+      "stars": 53474,
+      "forks": 7295,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T09:47:02Z"
+      "pushed_at": "2026-08-23T10:01:11Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -693,7 +693,7 @@
       "forks": 4847,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T09:48:07Z"
+      "pushed_at": "2026-08-23T10:12:03Z"
     },
     {
       "full_name": "iina/iina",
@@ -782,7 +782,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41374,
+      "stars": 41375,
       "forks": 1491,
       "license": "MIT",
       "archived": false,
@@ -812,8 +812,8 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38845,
-      "forks": 2115,
+      "stars": 38846,
+      "forks": 2116,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-17T23:35:22Z"
@@ -844,7 +844,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35084,
+      "stars": 35085,
       "forks": 1788,
       "license": "Apache-2.0",
       "archived": false,
@@ -964,7 +964,7 @@
       "forks": 2694,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T09:48:01Z"
+      "pushed_at": "2026-08-23T10:00:41Z"
     },
     {
       "full_name": "jordanbaird/Ice",
@@ -992,7 +992,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29360,
+      "stars": 29361,
       "forks": 847,
       "license": "GPL-3.0",
       "archived": false,
@@ -1058,7 +1058,7 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26419,
+      "stars": 26420,
       "forks": 2577,
       "license": "",
       "archived": false,
@@ -1092,7 +1092,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23650,
+      "stars": 23651,
       "forks": 1493,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1158,7 +1158,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22016,
+      "stars": 22022,
       "forks": 1610,
       "license": "",
       "archived": false,
@@ -1477,7 +1477,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13088,
+      "stars": 13089,
       "forks": 595,
       "license": "GPL-3.0",
       "archived": false,
@@ -1541,7 +1541,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11426,
+      "stars": 11427,
       "forks": 263,
       "license": "GPL-3.0",
       "archived": false,
@@ -1616,7 +1616,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9690,
+      "stars": 9691,
       "forks": 303,
       "license": "MIT",
       "archived": false,
@@ -1806,7 +1806,7 @@
       "forks": 450,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T08:53:09Z"
+      "pushed_at": "2026-08-23T10:01:05Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1900,8 +1900,8 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 7271,
-      "forks": 262,
+      "stars": 7325,
+      "forks": 263,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T22:56:30Z"
@@ -2071,7 +2071,7 @@
       "topics": [],
       "language": "Swift",
       "stars": 5935,
-      "forks": 212,
+      "forks": 213,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-11T00:49:27Z"
@@ -2443,7 +2443,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3634,
+      "stars": 3635,
       "forks": 253,
       "license": "MIT",
       "archived": false,
@@ -2464,7 +2464,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3579,
+      "stars": 3580,
       "forks": 329,
       "license": "MIT",
       "archived": false,
@@ -2651,7 +2651,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2841,
+      "stars": 2842,
       "forks": 160,
       "license": "BSD-3-Clause",
       "archived": false,
