@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:43:20Z",
+  "generated_at": "2026-08-23T11:00:24Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 135,
     "categories": 23,
     "tags": 63,
-    "stars": 1573794
+    "stars": 1573876
   },
   "categories": [
     {
@@ -479,7 +479,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128919,
+      "stars": 128922,
       "forks": 8829,
       "license": "MIT",
       "archived": false,
@@ -600,7 +600,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62751,
+      "stars": 62752,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -658,8 +658,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53486,
-      "forks": 7295,
+      "stars": 53491,
+      "forks": 7296,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-23T10:01:11Z"
@@ -689,11 +689,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50941,
+      "stars": 50942,
       "forks": 4847,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T10:40:30Z"
+      "pushed_at": "2026-08-23T10:46:20Z"
     },
     {
       "full_name": "iina/iina",
@@ -908,7 +908,7 @@
       ],
       "language": "Vue",
       "stars": 33189,
-      "forks": 4677,
+      "forks": 4678,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-06-14T12:57:40Z"
@@ -960,7 +960,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30136,
+      "stars": 30137,
       "forks": 2694,
       "license": "MIT",
       "archived": false,
@@ -992,7 +992,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29361,
+      "stars": 29362,
       "forks": 847,
       "license": "GPL-3.0",
       "archived": false,
@@ -1025,8 +1025,8 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27012,
-      "forks": 2325,
+      "stars": 27013,
+      "forks": 2326,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-23T02:46:14Z"
@@ -1058,7 +1058,7 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26420,
+      "stars": 26421,
       "forks": 2577,
       "license": "",
       "archived": false,
@@ -1092,7 +1092,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23652,
+      "stars": 23653,
       "forks": 1493,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1158,7 +1158,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22031,
+      "stars": 22036,
       "forks": 1612,
       "license": "",
       "archived": false,
@@ -1216,7 +1216,7 @@
         "open-source"
       ],
       "language": "TypeScript",
-      "stars": 21078,
+      "stars": 21079,
       "forks": 1806,
       "license": "",
       "archived": false,
@@ -1806,7 +1806,7 @@
       "forks": 450,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T10:01:05Z"
+      "pushed_at": "2026-08-23T10:53:37Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -1837,6 +1837,41 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-22T10:04:21Z"
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "icon": "icons/vorssaint__vorssaint-utils.png",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
+      "tags": [
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
+      ],
+      "language": "Swift",
+      "stars": 7455,
+      "forks": 264,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-22T22:56:30Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -1870,41 +1905,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-23T09:22:27Z"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaint",
-      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
-      "icon": "icons/vorssaint__vorssaint-utils.png",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 7398,
-      "forks": 264,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-22T22:56:30Z"
     },
     {
       "full_name": "milanvarady/Applite",
@@ -2014,7 +2014,7 @@
         "swiftui"
       ],
       "language": "",
-      "stars": 6136,
+      "stars": 6135,
       "forks": 259,
       "license": "",
       "archived": false,
@@ -2204,7 +2204,7 @@
         "linux"
       ],
       "language": "Rust",
-      "stars": 5149,
+      "stars": 5150,
       "forks": 249,
       "license": "GPL-3.0",
       "archived": false,
@@ -2388,7 +2388,7 @@
       "forks": 273,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T10:38:44Z"
+      "pushed_at": "2026-08-23T10:46:38Z"
     },
     {
       "full_name": "Kuingsmile/PicList",
@@ -2443,7 +2443,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3638,
+      "stars": 3640,
       "forks": 253,
       "license": "MIT",
       "archived": false,
@@ -2573,7 +2573,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3066,
+      "stars": 3067,
       "forks": 182,
       "license": "GPL-3.0",
       "archived": false,
@@ -3374,7 +3374,7 @@
         "window-switcher"
       ],
       "language": "Swift",
-      "stars": 698,
+      "stars": 699,
       "forks": 31,
       "license": "GPL-3.0",
       "archived": false,
