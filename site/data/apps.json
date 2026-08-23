@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:16:16Z",
+  "generated_at": "2026-08-23T22:40:03Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 163,
     "categories": 23,
     "tags": 64,
-    "stars": 2046202
+    "stars": 2046266
   },
   "categories": [
     {
@@ -483,7 +483,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128988,
+      "stars": 128990,
       "forks": 8836,
       "license": "MIT",
       "archived": false,
@@ -576,7 +576,7 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 75352,
+      "stars": 75353,
       "forks": 9843,
       "license": "GPL-2.0",
       "archived": false,
@@ -640,7 +640,7 @@
       "forks": 5455,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T22:08:08Z"
+      "pushed_at": "2026-08-23T22:36:26Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -687,7 +687,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60107,
+      "stars": 60108,
       "forks": 3329,
       "license": "MIT",
       "archived": false,
@@ -777,8 +777,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53809,
-      "forks": 7361,
+      "stars": 53816,
+      "forks": 7362,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-23T22:08:28Z"
@@ -830,7 +830,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 48778,
+      "stars": 48780,
       "forks": 2846,
       "license": "ISC",
       "archived": false,
@@ -956,7 +956,7 @@
         "network-monitoring"
       ],
       "language": "Rust",
-      "stars": 40659,
+      "stars": 40660,
       "forks": 1929,
       "license": "Apache-2.0",
       "archived": false,
@@ -1167,7 +1167,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30162,
+      "stars": 30164,
       "forks": 2697,
       "license": "MIT",
       "archived": false,
@@ -1365,7 +1365,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22206,
+      "stars": 22207,
       "forks": 1620,
       "license": "",
       "archived": false,
@@ -1423,8 +1423,8 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21103,
-      "forks": 1806,
+      "stars": 21104,
+      "forks": 1807,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-23T15:52:13Z"
@@ -1456,7 +1456,7 @@
       "forks": 7640,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-23T20:26:48Z"
+      "pushed_at": "2026-08-23T22:26:35Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1882,7 +1882,7 @@
       "forks": 942,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T21:19:43Z"
+      "pushed_at": "2026-08-23T22:23:19Z"
     },
     {
       "full_name": "AnInsomniacy/motrix-next",
@@ -1900,7 +1900,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9701,
+      "stars": 9702,
       "forks": 303,
       "license": "MIT",
       "archived": false,
@@ -1935,11 +1935,11 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 8679,
-      "forks": 300,
+      "stars": 8721,
+      "forks": 302,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-22T22:56:30Z"
+      "pushed_at": "2026-08-23T22:23:41Z"
     },
     {
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
@@ -2708,7 +2708,7 @@
       ],
       "language": "JavaScript",
       "stars": 4222,
-      "forks": 1717,
+      "forks": 1716,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-01-20T03:10:09Z"
@@ -2923,7 +2923,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3071,
+      "stars": 3072,
       "forks": 182,
       "license": "GPL-3.0",
       "archived": false,
@@ -4209,7 +4209,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 514,
+      "stars": 515,
       "forks": 37,
       "license": "GPL-3.0",
       "archived": false,
@@ -4267,6 +4267,37 @@
       "pushed_at": "2022-12-09T15:19:45Z"
     },
     {
+      "full_name": "johnbean393/KeyType",
+      "name": "KeyType",
+      "owner": "johnbean393",
+      "avatar": "https://avatars.githubusercontent.com/u/113509988?v=4",
+      "icon": "icons/johnbean393__KeyType.png",
+      "url": "https://github.com/johnbean393/KeyType",
+      "homepage": "",
+      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Swift"
+      ],
+      "topics": [
+        "ai",
+        "ai-autocomplete",
+        "autocomplete",
+        "completions",
+        "cotabby",
+        "cotypist",
+        "gemma4",
+        "llm"
+      ],
+      "language": "Swift",
+      "stars": 486,
+      "forks": 22,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-27T17:18:28Z"
+    },
+    {
       "full_name": "homielab/mountmate",
       "name": "mountmate",
       "owner": "homielab",
@@ -4294,37 +4325,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T06:54:27Z"
-    },
-    {
-      "full_name": "johnbean393/KeyType",
-      "name": "KeyType",
-      "owner": "johnbean393",
-      "avatar": "https://avatars.githubusercontent.com/u/113509988?v=4",
-      "icon": "icons/johnbean393__KeyType.png",
-      "url": "https://github.com/johnbean393/KeyType",
-      "homepage": "",
-      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "Swift"
-      ],
-      "topics": [
-        "ai",
-        "ai-autocomplete",
-        "autocomplete",
-        "completions",
-        "cotabby",
-        "cotypist",
-        "gemma4",
-        "llm"
-      ],
-      "language": "Swift",
-      "stars": 485,
-      "forks": 22,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-06-27T17:18:28Z"
     },
     {
       "full_name": "guilhermeborgesbastos/live-resume",
