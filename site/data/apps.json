@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:47:24Z",
+  "generated_at": "2026-08-23T21:15:55Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 163,
     "categories": 23,
     "tags": 64,
-    "stars": 2045923
+    "stars": 2046011
   },
   "categories": [
     {
@@ -636,11 +636,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64470,
-      "forks": 5453,
+      "stars": 64472,
+      "forks": 5455,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T20:37:40Z"
+      "pushed_at": "2026-08-23T21:02:28Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -777,11 +777,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53775,
-      "forks": 7356,
+      "stars": 53789,
+      "forks": 7358,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T20:45:31Z"
+      "pushed_at": "2026-08-23T21:13:53Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -923,7 +923,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41386,
+      "stars": 41387,
       "forks": 1491,
       "license": "MIT",
       "archived": false,
@@ -960,7 +960,7 @@
       "forks": 1929,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-23T20:21:22Z"
+      "pushed_at": "2026-08-23T20:54:09Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -1167,7 +1167,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30156,
+      "stars": 30157,
       "forks": 2697,
       "license": "MIT",
       "archived": false,
@@ -1299,7 +1299,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23670,
+      "stars": 23671,
       "forks": 1498,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1365,8 +1365,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22192,
-      "forks": 1618,
+      "stars": 22197,
+      "forks": 1619,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-23T09:31:43Z"
@@ -1423,7 +1423,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21099,
+      "stars": 21101,
       "forks": 1806,
       "license": "",
       "archived": false,
@@ -1452,8 +1452,8 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21009,
-      "forks": 7638,
+      "stars": 21010,
+      "forks": 7639,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-23T20:26:48Z"
@@ -1474,7 +1474,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19557,
+      "stars": 19558,
       "forks": 1359,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1518,7 +1518,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 17957,
+      "stars": 17958,
       "forks": 1463,
       "license": "GPL-2.0",
       "archived": false,
@@ -1550,7 +1550,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17421,
+      "stars": 17422,
       "forks": 899,
       "license": "Apache-2.0",
       "archived": false,
@@ -1631,7 +1631,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15055,
+      "stars": 15056,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1717,7 +1717,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13808,
+      "stars": 13809,
       "forks": 1035,
       "license": "GPL-3.0",
       "archived": false,
@@ -1739,7 +1739,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13091,
+      "stars": 13092,
       "forks": 595,
       "license": "GPL-3.0",
       "archived": false,
@@ -1907,6 +1907,39 @@
       "pushed_at": "2026-08-20T04:54:55Z"
     },
     {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "Ghost-Downloader-3",
+      "owner": "XiaoYouChR",
+      "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
+      "icon": "icons/XiaoYouChR__Ghost-Downloader-3.png",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "homepage": "https://gd.xychr.com/",
+      "description": "A full-featured multi-threaded download manager — the only downloader you need.",
+      "category": "downloads",
+      "tags": [
+        "Downloads",
+        "Video",
+        "Cross-platform",
+        "Python"
+      ],
+      "topics": [
+        "async",
+        "asyncio",
+        "bittorent",
+        "bt",
+        "cross-platform",
+        "download-manager",
+        "downloader",
+        "fluent-design"
+      ],
+      "language": "Python",
+      "stars": 8600,
+      "forks": 537,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-23T06:53:28Z"
+    },
+    {
       "full_name": "tw93/MiaoYan",
       "name": "MiaoYan",
       "owner": "tw93",
@@ -1939,37 +1972,39 @@
       "pushed_at": "2026-08-15T14:48:21Z"
     },
     {
-      "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "name": "Ghost-Downloader-3",
-      "owner": "XiaoYouChR",
-      "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
-      "icon": "icons/XiaoYouChR__Ghost-Downloader-3.png",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "homepage": "https://gd.xychr.com/",
-      "description": "A full-featured multi-threaded download manager — the only downloader you need.",
-      "category": "downloads",
+      "full_name": "vorssaint/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "icon": "icons/vorssaint__vorssaint-utils.png",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
       "tags": [
-        "Downloads",
-        "Video",
-        "Cross-platform",
-        "Python"
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
       ],
       "topics": [
-        "async",
-        "asyncio",
-        "bittorent",
-        "bt",
-        "cross-platform",
-        "download-manager",
-        "downloader",
-        "fluent-design"
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
       ],
-      "language": "Python",
-      "stars": 8599,
-      "forks": 537,
+      "language": "Swift",
+      "stars": 8547,
+      "forks": 297,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T06:53:28Z"
+      "pushed_at": "2026-08-22T22:56:30Z"
     },
     {
       "full_name": "sindresorhus/Gifski",
@@ -2003,41 +2038,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-07-08T14:50:30Z"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaint",
-      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
-      "icon": "icons/vorssaint__vorssaint-utils.png",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 8494,
-      "forks": 295,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-22T22:56:30Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -3414,7 +3414,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1705,
+      "stars": 1706,
       "forks": 106,
       "license": "Apache-2.0",
       "archived": false,
@@ -4507,7 +4507,7 @@
       "forks": 37,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-17T02:13:10Z"
+      "pushed_at": "2026-08-23T21:03:50Z"
     },
     {
       "full_name": "ericjypark/codex-island",
