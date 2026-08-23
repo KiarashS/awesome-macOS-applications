@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:57:30Z",
+  "generated_at": "2026-08-23T20:18:22Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 163,
     "categories": 23,
     "tags": 64,
-    "stars": 2045776
+    "stars": 2045840
   },
   "categories": [
     {
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89121,
+      "stars": 89123,
       "forks": 4954,
       "license": "Apache-2.0",
       "archived": false,
@@ -544,7 +544,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75886,
+      "stars": 75887,
       "forks": 5902,
       "license": "AGPL-3.0",
       "archived": false,
@@ -576,7 +576,7 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 75350,
+      "stars": 75351,
       "forks": 9843,
       "license": "GPL-2.0",
       "archived": false,
@@ -636,7 +636,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64469,
+      "stars": 64470,
       "forks": 5453,
       "license": "AGPL-3.0",
       "archived": false,
@@ -664,7 +664,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62758,
+      "stars": 62759,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -687,7 +687,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60104,
+      "stars": 60106,
       "forks": 3330,
       "license": "MIT",
       "archived": false,
@@ -777,11 +777,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53750,
-      "forks": 7352,
+      "stars": 53764,
+      "forks": 7354,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T19:51:26Z"
+      "pushed_at": "2026-08-23T20:03:28Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -808,11 +808,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50956,
+      "stars": 50957,
       "forks": 4850,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T19:48:03Z"
+      "pushed_at": "2026-08-23T20:12:28Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -830,7 +830,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 48775,
+      "stars": 48776,
       "forks": 2846,
       "license": "ISC",
       "archived": false,
@@ -891,7 +891,7 @@
         "terminal"
       ],
       "language": "TypeScript",
-      "stars": 44703,
+      "stars": 44702,
       "forks": 3578,
       "license": "MIT",
       "archived": false,
@@ -923,7 +923,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41384,
+      "stars": 41385,
       "forks": 1491,
       "license": "MIT",
       "archived": false,
@@ -960,7 +960,7 @@
       "forks": 1929,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-22T21:32:07Z"
+      "pushed_at": "2026-08-23T20:07:04Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -986,7 +986,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38848,
+      "stars": 38849,
       "forks": 2116,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1138,7 +1138,7 @@
         "qt"
       ],
       "language": "C++",
-      "stars": 31596,
+      "stars": 31597,
       "forks": 3741,
       "license": "Apache-2.0",
       "archived": false,
@@ -1167,7 +1167,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30153,
+      "stars": 30154,
       "forks": 2697,
       "license": "MIT",
       "archived": false,
@@ -1365,8 +1365,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22182,
-      "forks": 1617,
+      "stars": 22189,
+      "forks": 1618,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-23T09:31:43Z"
@@ -1391,7 +1391,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21308,
+      "stars": 21307,
       "forks": 1113,
       "license": "MIT",
       "archived": false,
@@ -1452,7 +1452,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21008,
+      "stars": 21009,
       "forks": 7638,
       "license": "",
       "archived": false,
@@ -1550,7 +1550,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17420,
+      "stars": 17421,
       "forks": 899,
       "license": "Apache-2.0",
       "archived": false,
@@ -1907,6 +1907,38 @@
       "pushed_at": "2026-08-20T04:54:55Z"
     },
     {
+      "full_name": "tw93/MiaoYan",
+      "name": "MiaoYan",
+      "owner": "tw93",
+      "avatar": "https://avatars.githubusercontent.com/u/8736212?v=4",
+      "icon": "icons/tw93__MiaoYan.svg",
+      "url": "https://github.com/tw93/MiaoYan",
+      "homepage": "https://apps.apple.com/cn/app/miaoyan/id6759252269",
+      "description": "Lightweight Markdown app to help you write great sentences.",
+      "category": "notes",
+      "tags": [
+        "Markdown",
+        "Notes",
+        "Editor",
+        "Swift"
+      ],
+      "topics": [
+        "editor",
+        "local-first",
+        "macos",
+        "markdown",
+        "markdown-editor",
+        "notes-app",
+        "swift"
+      ],
+      "language": "Swift",
+      "stars": 8600,
+      "forks": 503,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-15T14:48:21Z"
+    },
+    {
       "full_name": "XiaoYouChR/Ghost-Downloader-3",
       "name": "Ghost-Downloader-3",
       "owner": "XiaoYouChR",
@@ -1938,38 +1970,6 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-23T06:53:28Z"
-    },
-    {
-      "full_name": "tw93/MiaoYan",
-      "name": "MiaoYan",
-      "owner": "tw93",
-      "avatar": "https://avatars.githubusercontent.com/u/8736212?v=4",
-      "icon": "icons/tw93__MiaoYan.svg",
-      "url": "https://github.com/tw93/MiaoYan",
-      "homepage": "https://apps.apple.com/cn/app/miaoyan/id6759252269",
-      "description": "Lightweight Markdown app to help you write great sentences.",
-      "category": "notes",
-      "tags": [
-        "Markdown",
-        "Notes",
-        "Editor",
-        "Swift"
-      ],
-      "topics": [
-        "editor",
-        "local-first",
-        "macos",
-        "markdown",
-        "markdown-editor",
-        "notes-app",
-        "swift"
-      ],
-      "language": "Swift",
-      "stars": 8599,
-      "forks": 503,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-08-15T14:48:21Z"
     },
     {
       "full_name": "sindresorhus/Gifski",
@@ -2033,8 +2033,8 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 8419,
-      "forks": 291,
+      "stars": 8443,
+      "forks": 293,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-22T22:56:30Z"
@@ -2098,7 +2098,7 @@
         "rar"
       ],
       "language": "Pascal",
-      "stars": 7783,
+      "stars": 7784,
       "forks": 399,
       "license": "LGPL-3.0",
       "archived": false,
@@ -2154,7 +2154,7 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 7679,
+      "stars": 7682,
       "forks": 450,
       "license": "MIT",
       "archived": false,
