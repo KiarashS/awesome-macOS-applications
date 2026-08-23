@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:45:28Z",
+  "generated_at": "2026-08-23T19:57:30Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 163,
     "categories": 23,
     "tags": 64,
-    "stars": 2045718
+    "stars": 2045776
   },
   "categories": [
     {
@@ -483,7 +483,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 128984,
+      "stars": 128986,
       "forks": 8834,
       "license": "MIT",
       "archived": false,
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89120,
+      "stars": 89121,
       "forks": 4954,
       "license": "Apache-2.0",
       "archived": false,
@@ -640,7 +640,7 @@
       "forks": 5453,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T19:32:00Z"
+      "pushed_at": "2026-08-23T19:51:47Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -777,11 +777,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 53740,
-      "forks": 7351,
+      "stars": 53750,
+      "forks": 7352,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T19:03:06Z"
+      "pushed_at": "2026-08-23T19:51:26Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -808,11 +808,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 50955,
+      "stars": 50956,
       "forks": 4850,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-23T19:39:09Z"
+      "pushed_at": "2026-08-23T19:48:03Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -1018,7 +1018,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35090,
+      "stars": 35091,
       "forks": 1788,
       "license": "Apache-2.0",
       "archived": false,
@@ -1232,7 +1232,7 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27020,
+      "stars": 27021,
       "forks": 2326,
       "license": "MIT",
       "archived": false,
@@ -1365,7 +1365,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22176,
+      "stars": 22182,
       "forks": 1617,
       "license": "",
       "archived": false,
@@ -1423,7 +1423,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21095,
+      "stars": 21096,
       "forks": 1806,
       "license": "",
       "archived": false,
@@ -1452,7 +1452,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21007,
+      "stars": 21008,
       "forks": 7638,
       "license": "",
       "archived": false,
@@ -1907,6 +1907,39 @@
       "pushed_at": "2026-08-20T04:54:55Z"
     },
     {
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "Ghost-Downloader-3",
+      "owner": "XiaoYouChR",
+      "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
+      "icon": "icons/XiaoYouChR__Ghost-Downloader-3.png",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "homepage": "https://gd.xychr.com/",
+      "description": "A full-featured multi-threaded download manager — the only downloader you need.",
+      "category": "downloads",
+      "tags": [
+        "Downloads",
+        "Video",
+        "Cross-platform",
+        "Python"
+      ],
+      "topics": [
+        "async",
+        "asyncio",
+        "bittorent",
+        "bt",
+        "cross-platform",
+        "download-manager",
+        "downloader",
+        "fluent-design"
+      ],
+      "language": "Python",
+      "stars": 8599,
+      "forks": 537,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-23T06:53:28Z"
+    },
+    {
       "full_name": "tw93/MiaoYan",
       "name": "MiaoYan",
       "owner": "tw93",
@@ -1937,39 +1970,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-15T14:48:21Z"
-    },
-    {
-      "full_name": "XiaoYouChR/Ghost-Downloader-3",
-      "name": "Ghost-Downloader-3",
-      "owner": "XiaoYouChR",
-      "avatar": "https://avatars.githubusercontent.com/u/87308195?v=4",
-      "icon": "icons/XiaoYouChR__Ghost-Downloader-3.png",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "homepage": "https://gd.xychr.com/",
-      "description": "A full-featured multi-threaded download manager — the only downloader you need.",
-      "category": "downloads",
-      "tags": [
-        "Downloads",
-        "Video",
-        "Cross-platform",
-        "Python"
-      ],
-      "topics": [
-        "async",
-        "asyncio",
-        "bittorent",
-        "bt",
-        "cross-platform",
-        "download-manager",
-        "downloader",
-        "fluent-design"
-      ],
-      "language": "Python",
-      "stars": 8597,
-      "forks": 537,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-23T06:53:28Z"
     },
     {
       "full_name": "sindresorhus/Gifski",
@@ -2005,6 +2005,41 @@
       "pushed_at": "2026-07-08T14:50:30Z"
     },
     {
+      "full_name": "vorssaint/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "icon": "icons/vorssaint__vorssaint-utils.png",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
+      "tags": [
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
+      ],
+      "language": "Swift",
+      "stars": 8419,
+      "forks": 291,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-22T22:56:30Z"
+    },
+    {
       "full_name": "coteditor/CotEditor",
       "name": "CotEditor",
       "owner": "coteditor",
@@ -2034,41 +2069,6 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-20T22:57:35Z"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaint",
-      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
-      "icon": "icons/vorssaint__vorssaint-utils.png",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 8388,
-      "forks": 291,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-22T22:56:30Z"
     },
     {
       "full_name": "peazip/PeaZip",
@@ -3576,7 +3576,7 @@
         "mac-cleaner"
       ],
       "language": "Swift",
-      "stars": 1454,
+      "stars": 1455,
       "forks": 83,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -3719,7 +3719,7 @@
       "forks": 84,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-23T19:23:13Z"
+      "pushed_at": "2026-08-23T19:54:23Z"
     },
     {
       "full_name": "lzhgus/Capso",
