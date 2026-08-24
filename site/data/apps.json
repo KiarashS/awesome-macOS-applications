@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:53:47Z",
+  "generated_at": "2026-08-24T23:17:07Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 180,
     "categories": 23,
     "tags": 64,
-    "stars": 2196795
+    "stars": 2196836
   },
   "categories": [
     {
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89263,
+      "stars": 89265,
       "forks": 4962,
       "license": "Apache-2.0",
       "archived": false,
@@ -544,7 +544,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75922,
+      "stars": 75923,
       "forks": 5908,
       "license": "AGPL-3.0",
       "archived": false,
@@ -640,7 +640,7 @@
       "forks": 5459,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T22:51:24Z"
+      "pushed_at": "2026-08-24T23:10:37Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -664,7 +664,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62778,
+      "stars": 62779,
       "forks": 5753,
       "license": "Apache-2.0",
       "archived": false,
@@ -687,7 +687,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60170,
+      "stars": 60172,
       "forks": 3341,
       "license": "MIT",
       "archived": false,
@@ -719,7 +719,7 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 59578,
+      "stars": 59579,
       "forks": 2642,
       "license": "ISC",
       "archived": false,
@@ -777,11 +777,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 54435,
-      "forks": 7446,
+      "stars": 54442,
+      "forks": 7448,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T22:50:40Z"
+      "pushed_at": "2026-08-24T23:10:09Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -831,7 +831,7 @@
       "topics": [],
       "language": "C",
       "stars": 48799,
-      "forks": 2849,
+      "forks": 2850,
       "license": "ISC",
       "archived": false,
       "pushed_at": "2026-08-24T22:03:30Z"
@@ -1138,7 +1138,7 @@
         "qt"
       ],
       "language": "C++",
-      "stars": 31618,
+      "stars": 31619,
       "forks": 3742,
       "license": "Apache-2.0",
       "archived": false,
@@ -1199,7 +1199,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29375,
+      "stars": 29376,
       "forks": 848,
       "license": "GPL-3.0",
       "archived": false,
@@ -1267,7 +1267,7 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27033,
+      "stars": 27034,
       "forks": 2327,
       "license": "MIT",
       "archived": false,
@@ -1453,7 +1453,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22357,
+      "stars": 22358,
       "forks": 1643,
       "license": "",
       "archived": false,
@@ -1488,7 +1488,7 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 21558,
+      "stars": 21559,
       "forks": 1979,
       "license": "MIT",
       "archived": false,
@@ -1546,7 +1546,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21188,
+      "stars": 21190,
       "forks": 1809,
       "license": "",
       "archived": false,
@@ -1597,7 +1597,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19574,
+      "stars": 19575,
       "forks": 1360,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1776,7 +1776,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14414,
+      "stars": 14415,
       "forks": 369,
       "license": "",
       "archived": false,
@@ -1955,6 +1955,41 @@
       "pushed_at": "2026-08-09T16:22:23Z"
     },
     {
+      "full_name": "vorssaintapp/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaintapp",
+      "avatar": "https://avatars.githubusercontent.com/u/320531393?v=4",
+      "icon": "icons/vorssaintapp__vorssaint-utils.png",
+      "url": "https://github.com/vorssaintapp/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
+      "tags": [
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
+      ],
+      "language": "Swift",
+      "stars": 10743,
+      "forks": 356,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-24T22:09:42Z"
+    },
+    {
       "full_name": "noah-nuebling/mac-mouse-fix",
       "name": "mac-mouse-fix",
       "owner": "noah-nuebling",
@@ -1984,41 +2019,6 @@
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-24T22:40:17Z"
-    },
-    {
-      "full_name": "vorssaintapp/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaintapp",
-      "avatar": "https://avatars.githubusercontent.com/u/320531393?v=4",
-      "icon": "icons/vorssaintapp__vorssaint-utils.png",
-      "url": "https://github.com/vorssaintapp/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 10728,
-      "forks": 355,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-24T22:09:42Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -2378,7 +2378,7 @@
       "forks": 330,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-24T21:02:42Z"
+      "pushed_at": "2026-08-24T23:15:48Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -3179,7 +3179,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3089,
+      "stars": 3090,
       "forks": 184,
       "license": "GPL-3.0",
       "archived": false,
@@ -3288,7 +3288,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2856,
+      "stars": 2857,
       "forks": 161,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -3323,7 +3323,7 @@
       "forks": 107,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T22:21:42Z"
+      "pushed_at": "2026-08-24T23:12:21Z"
     },
     {
       "full_name": "zachlatta/freeflow",
@@ -3403,7 +3403,7 @@
       "forks": 106,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:22:38Z"
+      "pushed_at": "2026-08-24T22:55:04Z"
     },
     {
       "full_name": "tldev/dorso",
@@ -4119,7 +4119,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1297,
+      "stars": 1298,
       "forks": 26,
       "license": "MIT",
       "archived": false,
@@ -4146,7 +4146,7 @@
       "forks": 87,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T22:48:52Z"
+      "pushed_at": "2026-08-24T23:11:16Z"
     },
     {
       "full_name": "lzhgus/Capso",
