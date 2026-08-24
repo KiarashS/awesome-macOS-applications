@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:38:11Z",
+  "generated_at": "2026-08-24T07:46:21Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 163,
     "categories": 23,
     "tags": 64,
-    "stars": 2047781
+    "stars": 2047812
   },
   "categories": [
     {
@@ -483,7 +483,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 129075,
+      "stars": 129076,
       "forks": 8845,
       "license": "MIT",
       "archived": false,
@@ -636,7 +636,7 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64480,
+      "stars": 64482,
       "forks": 5456,
       "license": "AGPL-3.0",
       "archived": false,
@@ -664,7 +664,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62769,
+      "stars": 62770,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -687,7 +687,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60126,
+      "stars": 60128,
       "forks": 3329,
       "license": "MIT",
       "archived": false,
@@ -777,11 +777,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 54041,
+      "stars": 54043,
       "forks": 7396,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T07:35:05Z"
+      "pushed_at": "2026-08-24T07:38:33Z"
     },
     {
       "full_name": "CherryHQ/cherry-studio",
@@ -812,7 +812,7 @@
       "forks": 4858,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T07:29:46Z"
+      "pushed_at": "2026-08-24T07:38:01Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -1138,7 +1138,7 @@
         "qt"
       ],
       "language": "C++",
-      "stars": 31606,
+      "stars": 31607,
       "forks": 3742,
       "license": "Apache-2.0",
       "archived": false,
@@ -1299,7 +1299,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23681,
+      "stars": 23682,
       "forks": 1499,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1332,7 +1332,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22746,
+      "stars": 22747,
       "forks": 1096,
       "license": "MIT",
       "archived": false,
@@ -1365,8 +1365,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22262,
-      "forks": 1631,
+      "stars": 22263,
+      "forks": 1632,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-24T07:20:56Z"
@@ -1453,10 +1453,10 @@
       ],
       "language": "",
       "stars": 21020,
-      "forks": 7642,
+      "forks": 7643,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-24T06:29:54Z"
+      "pushed_at": "2026-08-24T07:40:31Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1518,7 +1518,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 17960,
+      "stars": 17959,
       "forks": 1464,
       "license": "GPL-2.0",
       "archived": false,
@@ -1717,7 +1717,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13818,
+      "stars": 13819,
       "forks": 1036,
       "license": "GPL-3.0",
       "archived": false,
@@ -1860,7 +1860,7 @@
       "forks": 393,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-23T18:09:20Z"
+      "pushed_at": "2026-08-24T07:42:37Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -1935,8 +1935,8 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 9423,
-      "forks": 318,
+      "stars": 9438,
+      "forks": 319,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-24T03:08:36Z"
@@ -1968,7 +1968,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8607,
+      "stars": 8608,
       "forks": 538,
       "license": "GPL-3.0",
       "archived": false,
@@ -2188,7 +2188,7 @@
       "forks": 330,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-24T07:33:41Z"
+      "pushed_at": "2026-08-24T07:42:44Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -2364,7 +2364,7 @@
         "swiftui"
       ],
       "language": "",
-      "stars": 6137,
+      "stars": 6138,
       "forks": 259,
       "license": "",
       "archived": false,
@@ -3518,36 +3518,6 @@
       "pushed_at": "2026-08-07T11:56:38Z"
     },
     {
-      "full_name": "rsyncOSX/RsyncUI",
-      "name": "RsyncUI",
-      "owner": "rsyncOSX",
-      "avatar": "https://avatars.githubusercontent.com/u/22427340?v=4",
-      "icon": "icons/rsyncOSX__RsyncUI.png",
-      "url": "https://github.com/rsyncOSX/RsyncUI",
-      "homepage": "https://rsyncui.netlify.app/docs/",
-      "description": "A SwiftUI based macOS GUI for rsync.",
-      "category": "files",
-      "tags": [
-        "Backup",
-        "SwiftUI",
-        "Swift"
-      ],
-      "topics": [
-        "macos-sequoia",
-        "macos-sonoma",
-        "macos-tahoe",
-        "rsync",
-        "swift6",
-        "swiftui"
-      ],
-      "language": "Swift",
-      "stars": 1459,
-      "forks": 33,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-08-22T05:04:55Z"
-    },
-    {
       "full_name": "iliyami/MacSai",
       "name": "MacSai",
       "owner": "iliyami",
@@ -3576,11 +3546,41 @@
         "mac-cleaner"
       ],
       "language": "Swift",
-      "stars": 1458,
+      "stars": 1459,
       "forks": 83,
       "license": "BSD-3-Clause",
       "archived": false,
       "pushed_at": "2026-08-18T21:47:08Z"
+    },
+    {
+      "full_name": "rsyncOSX/RsyncUI",
+      "name": "RsyncUI",
+      "owner": "rsyncOSX",
+      "avatar": "https://avatars.githubusercontent.com/u/22427340?v=4",
+      "icon": "icons/rsyncOSX__RsyncUI.png",
+      "url": "https://github.com/rsyncOSX/RsyncUI",
+      "homepage": "https://rsyncui.netlify.app/docs/",
+      "description": "A SwiftUI based macOS GUI for rsync.",
+      "category": "files",
+      "tags": [
+        "Backup",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "macos-sequoia",
+        "macos-sonoma",
+        "macos-tahoe",
+        "rsync",
+        "swift6",
+        "swiftui"
+      ],
+      "language": "Swift",
+      "stars": 1459,
+      "forks": 33,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-22T05:04:55Z"
     },
     {
       "full_name": "xjbeta/iina-plus",
@@ -3719,7 +3719,7 @@
       "forks": 87,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T02:22:23Z"
+      "pushed_at": "2026-08-24T07:42:14Z"
     },
     {
       "full_name": "lzhgus/Capso",
@@ -4478,7 +4478,7 @@
       "forks": 35,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T07:31:43Z"
+      "pushed_at": "2026-08-24T07:43:40Z"
     },
     {
       "full_name": "ericjypark/codex-island",
@@ -4731,7 +4731,7 @@
         "mac-app"
       ],
       "language": "Swift",
-      "stars": 157,
+      "stars": 158,
       "forks": 8,
       "license": "AGPL-3.0",
       "archived": false,
