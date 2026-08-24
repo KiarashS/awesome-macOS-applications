@@ -4,6 +4,11 @@
     "path": "src-tauri/icons/icon.png",
     "sha": "080026d7cbfd41da6e9184a423f9b771e889f102"
   },
+  "4gray/iptvnator": {
+    "file": "icons/4gray__iptvnator.png",
+    "path": "apps/web/src/assets/icons/icon.png",
+    "sha": "d3283a33a94ba6bd382f8577c162da35b59e443f"
+  },
   "AnInsomniacy/motrix-next": {
     "file": "icons/AnInsomniacy__motrix-next.png",
     "path": "src/assets/icon.png",
@@ -39,6 +44,11 @@
     "path": "src/renderer/assets/images/logo.png",
     "sha": "98ee7d4e42cfd576e81240ddc14b1d138c60f51a"
   },
+  "EEliberto/SurgeRelay-macOS": {
+    "file": "icons/EEliberto__SurgeRelay-macOS.png",
+    "path": "SurgeRelay/WebResources/app-icon.png",
+    "sha": "868ea692b918c27c1875593cea85d7d872b12eb3"
+  },
   "Ebullioscopic/Atoll": {
     "file": "icons/Ebullioscopic__Atoll.png",
     "path": "DynamicIsland/Assets.xcassets/AppIconAlpha.appiconset/icon_128x128@2x.png",
@@ -58,6 +68,11 @@
     "file": "icons/Eugeny__tabby.svg",
     "path": "app/assets/logo.svg",
     "sha": "b3330af191ad1ae6a7c5702687aad658a5cf48d5"
+  },
+  "FI-153/QuickNetStats": {
+    "file": "icons/FI-153__QuickNetStats.png",
+    "path": "Assets/icon.png",
+    "sha": "fd84fab42a320e705fa4d2d50efa3cb76895c60a"
   },
   "GeiserX/VPN-Bypass": {
     "file": "icons/GeiserX__VPN-Bypass.svg",
@@ -93,6 +108,11 @@
     "file": "icons/Licoy__StrokeMouse.png",
     "path": "StrokeMouse/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-128@2x.png",
     "sha": "be1a7a16bf27042954504bb3f437097f7e45ec3e"
+  },
+  "LunarBar-app/LunarBar": {
+    "file": "icons/LunarBar-app__LunarBar.png",
+    "path": "Icon.png",
+    "sha": "8a2c48e44cf3a229443f63135a85b74c58407bc4"
   },
   "Marginal/QuickLookVideo": {
     "file": "icons/Marginal__QuickLookVideo.png",
@@ -138,6 +158,11 @@
     "file": "icons/Sequel-Ace__Sequel-Ace.png",
     "path": "Resources/Images.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "61ba46cd5a15c79bd1dcef45bf26a7b494a5c040"
+  },
+  "Shpigford/chops": {
+    "file": "icons/Shpigford__chops.png",
+    "path": "site/public/icon.png",
+    "sha": "4390d78ac10c8d8e613900166c1a5108598e5cd7"
   },
   "ShubhamPP04/Izzy": {
     "file": "icons/ShubhamPP04__Izzy.png",
@@ -344,6 +369,11 @@
     "path": "DynamicNotch/Resources/Assets.xcassets/AppIcon.appiconset/appicon_mac_256x256_2x.png",
     "sha": "13e7ad952e95ca057a3d8822af70369558040734"
   },
+  "jely2002/youtube-dl-gui": {
+    "file": "icons/jely2002__youtube-dl-gui.png",
+    "path": "docs/img/icon.png",
+    "sha": "100882fb49fbafce1510b11edbafcb677fa5a4d1"
+  },
   "johnbean393/KeyType": {
     "file": "icons/johnbean393__KeyType.png",
     "path": ".github/images/app-icon.png",
@@ -364,6 +394,16 @@
     "path": "Thock/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "eaa6189967e366c5267a8e01db004d549d313067"
   },
+  "koodo-reader/koodo-reader": {
+    "file": "icons/koodo-reader__koodo-reader.png",
+    "path": "public/assets/icon.png",
+    "sha": "ba578373b89eaac91758235c4b3824df04836094"
+  },
+  "kristof12345/Launchpad": {
+    "file": "icons/kristof12345__Launchpad.png",
+    "path": "Icons/Launchpad Icon.icon/Assets/icon_1024x1024-light.png",
+    "sha": "f84054b4d4950e2d1953a58a58430fc76444913c"
+  },
   "larryxiao/openquack": {
     "file": "icons/larryxiao__openquack.png",
     "path": "docs/images/icon-512.png",
@@ -383,6 +423,11 @@
     "file": "icons/lifedever__health-tick-release.svg",
     "path": "logo.svg",
     "sha": "5666abace5fce6646421dfcea4da33c1d9bd0398"
+  },
+  "linearmouse/linearmouse": {
+    "file": "icons/linearmouse__linearmouse.png",
+    "path": "LinearMouse/Assets.xcassets/AppIcon.appiconset/Icon-256.png",
+    "sha": "cf9f6f06bf99eaad3605a83bc07c6498555bf01b"
   },
   "localsend/localsend": {
     "file": "icons/localsend__localsend.png",
@@ -408,6 +453,11 @@
     "file": "icons/mattermost-community__focalboard.png",
     "path": "mac/Focalboard/Assets.xcassets/AppIcon.appiconset/focalboard-512.png",
     "sha": "d716b7190006e0e9417d6604cefa2dfa15615a5b"
+  },
+  "mihomo-party-org/clash-party": {
+    "file": "icons/mihomo-party-org__clash-party.png",
+    "path": "resources/icon.png",
+    "sha": "40fc9ea9f86b3c78ccb99a8cee598df7f8f590fb"
   },
   "momenbasel/PureMac": {
     "file": "icons/momenbasel__PureMac.png",
@@ -494,6 +544,11 @@
     "path": "Sources/PalmierPro/Resources/AppIcon.png",
     "sha": "6f89bdb9f19b4af9a8a89829e56072e28ee01567"
   },
+  "pqrs-org/Karabiner-Elements": {
+    "file": "icons/pqrs-org__Karabiner-Elements.png",
+    "path": "files/icons/@Zabriskije/EventViewer/EventViewer.icon/Assets/icon_512x512@2x.png",
+    "sha": "74c863f29a6a59d44925669ec2415ded84dc6732"
+  },
   "qier222/YesPlayMusic": {
     "file": "icons/qier222__YesPlayMusic.png",
     "path": "images/logo.png",
@@ -524,10 +579,20 @@
     "path": "src/assets/icon-raw-transparent.png",
     "sha": "aad0fda0b2be8f51e57f25af55b57d9308d753b0"
   },
+  "ronitsingh10/FineTune": {
+    "file": "icons/ronitsingh10__FineTune.png",
+    "path": "FineTune/Assets.xcassets/fineTuneIcon.appiconset/icon_128x128@2x.png",
+    "sha": "c5ad91c99c928e0ebeb0eedf28fd7013713bc9c3"
+  },
   "rsyncOSX/RsyncUI": {
     "file": "icons/rsyncOSX__RsyncUI.png",
     "path": "RsyncUIicon.icon/Assets/icon_512x512@2x_1_numbers.png",
     "sha": "6f8f886bbb1105481194acd200bf5e2828f36639"
+  },
+  "saif0200/notchprompt": {
+    "file": "icons/saif0200__notchprompt.png",
+    "path": "notchprompt/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+    "sha": "7ac59f0cf7203137a8eba58675e08831e40e4377"
   },
   "sindresorhus/Gifski": {
     "file": "icons/sindresorhus__Gifski.png",
@@ -554,6 +619,11 @@
     "path": "supacode/Assets.xcassets/AppIcon.appiconset/appicon-macOS-Dark-256x256@1x.png",
     "sha": "d1623cdf54b90a458bf4842817d164edcc5aaa37"
   },
+  "super-productivity/super-productivity": {
+    "file": "icons/super-productivity__super-productivity.png",
+    "path": "ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+    "sha": "bacbecd6a3679acb69d66fe9f6581e2e696a189a"
+  },
   "superhighfives/pika": {
     "file": "icons/superhighfives__pika.png",
     "path": "Pika/Assets/Assets.xcassets/AppIcon.appiconset/128x128@2x.png",
@@ -573,6 +643,11 @@
     "file": "icons/tkslucas__Neodisk.png",
     "path": "Packaging/icon.png",
     "sha": "24b4e0b71018012d8579a1f5f737e24c770367e7"
+  },
+  "tldev/dorso": {
+    "file": "icons/tldev__dorso.png",
+    "path": "AppIcon.icon/Assets/AppIcon.png",
+    "sha": "1dc59956da851dd18f528abc448bad93e88007bc"
   },
   "tom-james-watson/breaktimer-app": {
     "file": "icons/tom-james-watson__breaktimer-app.svg",
@@ -633,6 +708,11 @@
     "file": "icons/wxtsky__CodeIsland.png",
     "path": "ios/CodeIslandCompanion/CodeIslandCompanion/Assets.xcassets/AppIcon.appiconset/Icon-1024x1024.png",
     "sha": "108cdf23e8f9bc92eb3505b0c86a96fd7f83f0fd"
+  },
+  "wzh4869/AppPorts": {
+    "file": "icons/wzh4869__AppPorts.png",
+    "path": "User_docs/docs/public/logo.png",
+    "sha": "a4799bbbf61b33dc2d711ca899b8ab7a5b1a1960"
   },
   "x0054/MKS": {
     "file": "icons/x0054__MKS.png",
