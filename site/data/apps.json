@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:56:15Z",
+  "generated_at": "2026-08-24T20:23:04Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 180,
     "categories": 23,
     "tags": 64,
-    "stars": 2196477
+    "stars": 2196525
   },
   "categories": [
     {
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89253,
+      "stars": 89257,
       "forks": 4962,
       "license": "Apache-2.0",
       "archived": false,
@@ -544,7 +544,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75918,
+      "stars": 75919,
       "forks": 5908,
       "license": "AGPL-3.0",
       "archived": false,
@@ -580,7 +580,7 @@
       "forks": 9861,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:46:37Z"
+      "pushed_at": "2026-08-24T20:16:27Z"
     },
     {
       "full_name": "Eugeny/tabby",
@@ -637,10 +637,10 @@
       ],
       "language": "Rust",
       "stars": 64491,
-      "forks": 5458,
+      "forks": 5459,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:49:46Z"
+      "pushed_at": "2026-08-24T20:16:32Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -691,7 +691,7 @@
       "forks": 3339,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-24T19:49:50Z"
+      "pushed_at": "2026-08-24T20:11:34Z"
     },
     {
       "full_name": "starship/starship",
@@ -720,7 +720,7 @@
       ],
       "language": "Rust",
       "stars": 59576,
-      "forks": 2641,
+      "forks": 2642,
       "license": "ISC",
       "archived": false,
       "pushed_at": "2026-08-24T07:09:40Z"
@@ -777,8 +777,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 54385,
-      "forks": 7435,
+      "stars": 54398,
+      "forks": 7438,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-24T18:57:40Z"
@@ -859,7 +859,7 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46070,
+      "stars": 46072,
       "forks": 2898,
       "license": "GPL-3.0",
       "archived": false,
@@ -1046,7 +1046,7 @@
         "redis-gui"
       ],
       "language": "JavaScript",
-      "stars": 34680,
+      "stars": 34681,
       "forks": 2715,
       "license": "MIT",
       "archived": false,
@@ -1138,7 +1138,7 @@
         "qt"
       ],
       "language": "C++",
-      "stars": 31616,
+      "stars": 31617,
       "forks": 3742,
       "license": "Apache-2.0",
       "archived": false,
@@ -1234,7 +1234,7 @@
         "ebook"
       ],
       "language": "JavaScript",
-      "stars": 27959,
+      "stars": 27960,
       "forks": 2083,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1366,7 +1366,7 @@
       "forks": 1506,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:29:33Z"
+      "pushed_at": "2026-08-24T20:20:00Z"
     },
     {
       "full_name": "ayangweb/BongoCat",
@@ -1453,8 +1453,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22347,
-      "forks": 1638,
+      "stars": 22350,
+      "forks": 1640,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-24T08:20:53Z"
@@ -1514,7 +1514,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21319,
+      "stars": 21318,
       "forks": 1115,
       "license": "MIT",
       "archived": false,
@@ -1546,7 +1546,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21180,
+      "stars": 21182,
       "forks": 1809,
       "license": "",
       "archived": false,
@@ -1576,7 +1576,7 @@
       ],
       "language": "",
       "stars": 21029,
-      "forks": 7644,
+      "forks": 7645,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-24T18:28:48Z"
@@ -1645,7 +1645,7 @@
       "forks": 1467,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:52:07Z"
+      "pushed_at": "2026-08-24T19:55:44Z"
     },
     {
       "full_name": "amir1376/ab-download-manager",
@@ -1754,7 +1754,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15061,
+      "stars": 15062,
       "forks": 575,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -1808,7 +1808,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 14328,
+      "stars": 14329,
       "forks": 724,
       "license": "GPL-3.0",
       "archived": false,
@@ -1948,7 +1948,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11434,
+      "stars": 11433,
       "forks": 264,
       "license": "GPL-3.0",
       "archived": false,
@@ -2014,11 +2014,11 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 10577,
-      "forks": 348,
+      "stars": 10592,
+      "forks": 349,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-24T19:52:04Z"
+      "pushed_at": "2026-08-24T20:04:13Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -2092,7 +2092,7 @@
         "youtube-dl-gui"
       ],
       "language": "Rust",
-      "stars": 9066,
+      "stars": 9067,
       "forks": 646,
       "license": "AGPL-3.0",
       "archived": false,
@@ -2378,7 +2378,7 @@
       "forks": 330,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-24T19:53:54Z"
+      "pushed_at": "2026-08-24T20:14:15Z"
     },
     {
       "full_name": "glushchenko/fsnotes",
@@ -2684,7 +2684,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6057,
+      "stars": 6056,
       "forks": 331,
       "license": "MIT",
       "archived": false,
@@ -3021,7 +3021,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 4058,
+      "stars": 4059,
       "forks": 272,
       "license": "GPL-3.0",
       "archived": false,
@@ -3080,7 +3080,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 3670,
+      "stars": 3671,
       "forks": 254,
       "license": "MIT",
       "archived": false,
@@ -3125,7 +3125,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3542,
+      "stars": 3543,
       "forks": 123,
       "license": "GPL-2.0",
       "archived": false,
@@ -3319,7 +3319,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 2771,
+      "stars": 2772,
       "forks": 106,
       "license": "MIT",
       "archived": false,
@@ -3340,7 +3340,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2564,
+      "stars": 2565,
       "forks": 254,
       "license": "MIT",
       "archived": false,
