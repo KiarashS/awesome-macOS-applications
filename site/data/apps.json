@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:13:04Z",
+  "generated_at": "2026-08-25T19:45:53Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 184,
     "categories": 23,
     "tags": 64,
-    "stars": 2337268
+    "stars": 2337334
   },
   "categories": [
     {
@@ -483,7 +483,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 129358,
+      "stars": 129361,
       "forks": 8871,
       "license": "MIT",
       "archived": false,
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89349,
+      "stars": 89350,
       "forks": 4971,
       "license": "Apache-2.0",
       "archived": false,
@@ -539,11 +539,11 @@
         "zed"
       ],
       "language": "Rust",
-      "stars": 89200,
-      "forks": 10243,
+      "stars": 89201,
+      "forks": 10246,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-25T18:40:38Z"
+      "pushed_at": "2026-08-25T19:18:02Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -572,7 +572,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 75943,
+      "stars": 75946,
       "forks": 5913,
       "license": "AGPL-3.0",
       "archived": false,
@@ -664,11 +664,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 64519,
+      "stars": 64520,
       "forks": 5465,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-25T19:06:26Z"
+      "pushed_at": "2026-08-25T19:43:00Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -781,11 +781,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 55025,
-      "forks": 7552,
+      "stars": 55048,
+      "forks": 7554,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-25T17:01:20Z"
+      "pushed_at": "2026-08-25T19:31:11Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -805,7 +805,7 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 54974,
+      "stars": 54973,
       "forks": 2443,
       "license": "MIT",
       "archived": false,
@@ -1018,7 +1018,7 @@
         "network-monitoring"
       ],
       "language": "Rust",
-      "stars": 40683,
+      "stars": 40684,
       "forks": 1930,
       "license": "Apache-2.0",
       "archived": false,
@@ -1229,7 +1229,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30306,
+      "stars": 30311,
       "forks": 2721,
       "license": "MIT",
       "archived": false,
@@ -1424,7 +1424,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 23711,
+      "stars": 23712,
       "forks": 1508,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1515,8 +1515,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22471,
-      "forks": 1660,
+      "stars": 22475,
+      "forks": 1661,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-25T11:15:27Z"
@@ -1576,7 +1576,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21329,
+      "stars": 21330,
       "forks": 1118,
       "license": "MIT",
       "archived": false,
@@ -1608,7 +1608,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21227,
+      "stars": 21229,
       "forks": 1815,
       "license": "",
       "archived": false,
@@ -1641,7 +1641,7 @@
       "forks": 7654,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-25T18:28:45Z"
+      "pushed_at": "2026-08-25T19:28:12Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1707,7 +1707,7 @@
       "forks": 1467,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-08-25T18:57:35Z"
+      "pushed_at": "2026-08-25T19:39:32Z"
     },
     {
       "full_name": "amir1376/ab-download-manager",
@@ -1735,7 +1735,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17469,
+      "stars": 17470,
       "forks": 904,
       "license": "Apache-2.0",
       "archived": false,
@@ -1902,7 +1902,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13859,
+      "stars": 13860,
       "forks": 1045,
       "license": "GPL-3.0",
       "archived": false,
@@ -2045,11 +2045,11 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 11362,
-      "forks": 374,
+      "stars": 11375,
+      "forks": 375,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-25T19:01:14Z"
+      "pushed_at": "2026-08-25T19:41:23Z"
     },
     {
       "full_name": "noah-nuebling/mac-mouse-fix",
@@ -2187,7 +2187,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 8884,
+      "stars": 8885,
       "forks": 323,
       "license": "GPL-3.0",
       "archived": false,
@@ -2220,7 +2220,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8636,
+      "stars": 8637,
       "forks": 541,
       "license": "GPL-3.0",
       "archived": false,
@@ -2629,7 +2629,7 @@
         "sensitivity"
       ],
       "language": "Swift",
-      "stars": 6738,
+      "stars": 6739,
       "forks": 159,
       "license": "MIT",
       "archived": false,
@@ -3444,7 +3444,7 @@
         "paperwm"
       ],
       "language": "Swift",
-      "stars": 2579,
+      "stars": 2580,
       "forks": 106,
       "license": "GPL-2.0",
       "archived": false,
@@ -3608,6 +3608,27 @@
       "pushed_at": "2026-08-15T06:32:02Z"
     },
     {
+      "full_name": "supabitapp/supacode",
+      "name": "supacode",
+      "owner": "supabitapp",
+      "avatar": "https://avatars.githubusercontent.com/u/255815177?v=4",
+      "icon": "icons/supabitapp__supacode.png",
+      "url": "https://github.com/supabitapp/supacode",
+      "homepage": "https://supacode.sh",
+      "description": "Worktree coding agents command center.",
+      "category": "ai",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 2310,
+      "forks": 298,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-25T08:15:39Z"
+    },
+    {
       "full_name": "hainguyents13/mechvibes",
       "name": "mechvibes",
       "owner": "hainguyents13",
@@ -3635,27 +3656,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-09T10:58:41Z"
-    },
-    {
-      "full_name": "supabitapp/supacode",
-      "name": "supacode",
-      "owner": "supabitapp",
-      "avatar": "https://avatars.githubusercontent.com/u/255815177?v=4",
-      "icon": "icons/supabitapp__supacode.png",
-      "url": "https://github.com/supabitapp/supacode",
-      "homepage": "https://supacode.sh",
-      "description": "Worktree coding agents command center.",
-      "category": "ai",
-      "tags": [
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 2309,
-      "forks": 298,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-08-25T08:15:39Z"
     },
     {
       "full_name": "zenangst/KeyboardCowboy",
@@ -4242,11 +4242,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1308,
+      "stars": 1309,
       "forks": 88,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-25T19:02:38Z"
+      "pushed_at": "2026-08-25T19:41:33Z"
     },
     {
       "full_name": "wouterdebie/davit",
@@ -4758,7 +4758,7 @@
       ],
       "language": "Swift",
       "stars": 519,
-      "forks": 37,
+      "forks": 38,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-23T22:11:16Z"
