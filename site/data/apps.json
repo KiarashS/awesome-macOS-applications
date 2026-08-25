@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:53:00Z",
+  "generated_at": "2026-08-25T22:00:58Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 184,
     "categories": 23,
     "tags": 64,
-    "stars": 2337580
+    "stars": 2337595
   },
   "categories": [
     {
@@ -483,7 +483,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 129364,
+      "stars": 129365,
       "forks": 8871,
       "license": "MIT",
       "archived": false,
@@ -539,11 +539,11 @@
         "zed"
       ],
       "language": "Rust",
-      "stars": 89202,
-      "forks": 10246,
+      "stars": 89203,
+      "forks": 10247,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-25T19:51:10Z"
+      "pushed_at": "2026-08-25T21:53:01Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -781,11 +781,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 55130,
-      "forks": 7565,
+      "stars": 55136,
+      "forks": 7566,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-25T21:22:47Z"
+      "pushed_at": "2026-08-25T21:56:52Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -1022,7 +1022,7 @@
       "forks": 1930,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-08-25T21:50:18Z"
+      "pushed_at": "2026-08-25T21:54:26Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -1229,7 +1229,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30319,
+      "stars": 30320,
       "forks": 2721,
       "license": "MIT",
       "archived": false,
@@ -1363,7 +1363,7 @@
       ],
       "language": "TypeScript",
       "stars": 26426,
-      "forks": 2577,
+      "forks": 2576,
       "license": "",
       "archived": false,
       "pushed_at": "2026-05-18T16:05:00Z"
@@ -1550,7 +1550,7 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 21592,
+      "stars": 21593,
       "forks": 1984,
       "license": "MIT",
       "archived": false,
@@ -1985,6 +1985,41 @@
       "pushed_at": "2026-07-27T00:05:17Z"
     },
     {
+      "full_name": "vorssaintapp/vorssaint-utils",
+      "name": "vorssaint-utils",
+      "owner": "vorssaintapp",
+      "avatar": "https://avatars.githubusercontent.com/u/320531393?v=4",
+      "icon": "icons/vorssaintapp__vorssaint-utils.png",
+      "url": "https://github.com/vorssaintapp/vorssaint-utils",
+      "homepage": "https://vorssaint.com",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "category": "windows",
+      "tags": [
+        "Menu Bar",
+        "Windows",
+        "Files",
+        "Cleanup",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake",
+        "mac-os",
+        "menu-bar"
+      ],
+      "language": "Swift",
+      "stars": 11442,
+      "forks": 375,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-25T21:54:28Z"
+    },
+    {
       "full_name": "mrkai77/Loop",
       "name": "Loop",
       "owner": "mrkai77",
@@ -2015,41 +2050,6 @@
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-09T16:22:23Z"
-    },
-    {
-      "full_name": "vorssaintapp/vorssaint-utils",
-      "name": "vorssaint-utils",
-      "owner": "vorssaintapp",
-      "avatar": "https://avatars.githubusercontent.com/u/320531393?v=4",
-      "icon": "icons/vorssaintapp__vorssaint-utils.png",
-      "url": "https://github.com/vorssaintapp/vorssaint-utils",
-      "homepage": "https://vorssaint.com",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "category": "windows",
-      "tags": [
-        "Menu Bar",
-        "Windows",
-        "Files",
-        "Cleanup",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [
-        "alt-tab",
-        "app-uninstaller",
-        "appkit",
-        "finder",
-        "free",
-        "keep-awake",
-        "mac-os",
-        "menu-bar"
-      ],
-      "language": "Swift",
-      "stars": 11438,
-      "forks": 375,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-25T21:34:53Z"
     },
     {
       "full_name": "noah-nuebling/mac-mouse-fix",
@@ -3273,7 +3273,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3105,
+      "stars": 3106,
       "forks": 185,
       "license": "GPL-3.0",
       "archived": false,
@@ -4246,7 +4246,7 @@
       "forks": 88,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-25T20:18:44Z"
+      "pushed_at": "2026-08-25T21:52:32Z"
     },
     {
       "full_name": "wouterdebie/davit",
