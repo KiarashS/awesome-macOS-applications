@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T10:01:32Z",
+  "generated_at": "2026-08-25T10:07:50Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 181,
+    "apps": 184,
     "categories": 23,
     "tags": 64,
-    "stars": 2201606
+    "stars": 2336005
   },
   "categories": [
     {
@@ -146,7 +146,7 @@
       "icon": "play",
       "color": "#ff2d55",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 8
+      "count": 9
     },
     {
       "id": "notes",
@@ -154,7 +154,7 @@
       "icon": "note",
       "color": "#ffd426",
       "blurb": "Note taking, Markdown editors and knowledge bases.",
-      "count": 9
+      "count": 11
     },
     {
       "id": "files",
@@ -200,7 +200,7 @@
   "tags": [
     {
       "name": "Swift",
-      "count": 102
+      "count": 103
     },
     {
       "name": "AI",
@@ -220,7 +220,7 @@
     },
     {
       "name": "TypeScript",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Terminal",
@@ -235,23 +235,23 @@
       "count": 14
     },
     {
+      "name": "Files",
+      "count": 13
+    },
+    {
+      "name": "Rust",
+      "count": 13
+    },
+    {
+      "name": "Video",
+      "count": 13
+    },
+    {
       "name": "Privacy",
       "count": 12
     },
     {
-      "name": "Rust",
-      "count": 12
-    },
-    {
-      "name": "Video",
-      "count": 12
-    },
-    {
       "name": "Electron",
-      "count": 11
-    },
-    {
-      "name": "Files",
       "count": 11
     },
     {
@@ -261,6 +261,10 @@
     {
       "name": "Windows",
       "count": 11
+    },
+    {
+      "name": "Audio",
+      "count": 9
     },
     {
       "name": "Homebrew",
@@ -279,11 +283,11 @@
       "count": 9
     },
     {
-      "name": "Audio",
+      "name": "Capture",
       "count": 8
     },
     {
-      "name": "Capture",
+      "name": "Editor",
       "count": 8
     },
     {
@@ -295,11 +299,11 @@
       "count": 8
     },
     {
-      "name": "Focus",
-      "count": 7
+      "name": "Markdown",
+      "count": 8
     },
     {
-      "name": "Markdown",
+      "name": "Focus",
       "count": 7
     },
     {
@@ -312,10 +316,6 @@
     },
     {
       "name": "Downloads",
-      "count": 6
-    },
-    {
-      "name": "Editor",
       "count": 6
     },
     {
@@ -355,6 +355,10 @@
       "count": 4
     },
     {
+      "name": "Reading",
+      "count": 4
+    },
+    {
       "name": "Template",
       "count": 4
     },
@@ -379,10 +383,6 @@
       "count": 3
     },
     {
-      "name": "Reading",
-      "count": 3
-    },
-    {
       "name": "C++",
       "count": 2
     },
@@ -404,6 +404,10 @@
     },
     {
       "name": "Python",
+      "count": 2
+    },
+    {
+      "name": "RSS",
       "count": 2
     },
     {
@@ -436,10 +440,6 @@
     },
     {
       "name": "Pascal",
-      "count": 1
-    },
-    {
-      "name": "RSS",
       "count": 1
     },
     {
@@ -511,11 +511,39 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89313,
+      "stars": 89314,
       "forks": 4967,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-08-24T00:11:36Z"
+    },
+    {
+      "full_name": "zed-industries/zed",
+      "name": "zed",
+      "owner": "zed-industries",
+      "avatar": "https://avatars.githubusercontent.com/u/79345384?v=4",
+      "icon": "icons/zed-industries__zed.png",
+      "url": "https://github.com/zed-industries/zed",
+      "homepage": "https://zed.dev",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "category": "notes",
+      "tags": [
+        "RSS",
+        "Editor",
+        "Rust"
+      ],
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "language": "Rust",
+      "stars": 89182,
+      "forks": 10235,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-25T10:04:45Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -604,7 +632,7 @@
         "terminal-emulators"
       ],
       "language": "TypeScript",
-      "stars": 74122,
+      "stars": 74123,
       "forks": 4221,
       "license": "MIT",
       "archived": false,
@@ -719,8 +747,8 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 59587,
-      "forks": 2644,
+      "stars": 59588,
+      "forks": 2645,
       "license": "ISC",
       "archived": false,
       "pushed_at": "2026-08-24T07:09:40Z"
@@ -808,11 +836,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 51036,
+      "stars": 51038,
       "forks": 4865,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-25T09:50:23Z"
+      "pushed_at": "2026-08-25T10:04:33Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -830,7 +858,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 48807,
+      "stars": 48808,
       "forks": 2850,
       "license": "ISC",
       "archived": false,
@@ -896,6 +924,40 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T20:44:39Z"
+    },
+    {
+      "full_name": "mifi/lossless-cut",
+      "name": "lossless-cut",
+      "owner": "mifi",
+      "avatar": "https://avatars.githubusercontent.com/u/402547?v=4",
+      "icon": "icons/mifi__lossless-cut.svg",
+      "url": "https://github.com/mifi/lossless-cut",
+      "homepage": "https://losslesscut.app/",
+      "description": "The swiss army knife of lossless video/audio editing",
+      "category": "media",
+      "tags": [
+        "Editor",
+        "Audio",
+        "Video",
+        "Files",
+        "TypeScript"
+      ],
+      "topics": [
+        "codec",
+        "cut",
+        "editor",
+        "ffmpeg",
+        "lossless",
+        "losslesscut",
+        "player",
+        "video"
+      ],
+      "language": "TypeScript",
+      "stars": 43182,
+      "forks": 2135,
+      "license": "GPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-08-21T09:03:12Z"
     },
     {
       "full_name": "exelban/stats",
@@ -986,7 +1048,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38857,
+      "stars": 38858,
       "forks": 2118,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1395,7 +1457,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22768,
+      "stars": 22769,
       "forks": 1098,
       "license": "MIT",
       "archived": false,
@@ -1453,7 +1515,7 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22424,
+      "stars": 22425,
       "forks": 1652,
       "license": "",
       "archived": false,
@@ -1514,7 +1576,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21326,
+      "stars": 21325,
       "forks": 1117,
       "license": "MIT",
       "archived": false,
@@ -1983,7 +2045,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 11104,
+      "stars": 11107,
       "forks": 366,
       "license": "GPL-3.0",
       "archived": false,
@@ -2472,7 +2534,7 @@
         "macos"
       ],
       "language": "PHP",
-      "stars": 7259,
+      "stars": 7260,
       "forks": 295,
       "license": "",
       "archived": false,
@@ -2811,7 +2873,7 @@
       "forks": 366,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-25T09:17:26Z"
+      "pushed_at": "2026-08-25T10:04:39Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -3706,6 +3768,33 @@
       "pushed_at": "2026-05-18T17:50:03Z"
     },
     {
+      "full_name": "pluk-inc/markdown-preview",
+      "name": "markdown-preview",
+      "owner": "pluk-inc",
+      "avatar": "https://avatars.githubusercontent.com/u/204355064?v=4",
+      "icon": "icons/pluk-inc__markdown-preview.png",
+      "url": "https://github.com/pluk-inc/markdown-preview",
+      "homepage": "http://markdownpreview.app",
+      "description": "A simple Markdown viewer for reading .md files",
+      "category": "notes",
+      "tags": [
+        "Markdown",
+        "Reading",
+        "Files",
+        "Swift"
+      ],
+      "topics": [
+        "macos",
+        "markdown"
+      ],
+      "language": "Swift",
+      "stars": 2022,
+      "forks": 90,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-08-25T08:46:01Z"
+    },
+    {
       "full_name": "wzh4869/AppPorts",
       "name": "AppPorts",
       "owner": "wzh4869",
@@ -4174,7 +4263,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1300,
+      "stars": 1301,
       "forks": 26,
       "license": "MIT",
       "archived": false,

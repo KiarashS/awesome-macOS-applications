@@ -459,6 +459,11 @@
     "path": "mac/Focalboard/Assets.xcassets/AppIcon.appiconset/focalboard-512.png",
     "sha": "d716b7190006e0e9417d6604cefa2dfa15615a5b"
   },
+  "mifi/lossless-cut": {
+    "file": "icons/mifi__lossless-cut.svg",
+    "path": "src/renderer/src/icon.svg",
+    "sha": "8f6b1a27595399e480fa21e6cc44dab1944ffaa6"
+  },
   "mihomo-party-org/clash-party": {
     "file": "icons/mihomo-party-org__clash-party.png",
     "path": "resources/icon.png",
@@ -548,6 +553,11 @@
     "file": "icons/palmier-io__palmier-pro.png",
     "path": "Sources/PalmierPro/Resources/AppIcon.png",
     "sha": "6f89bdb9f19b4af9a8a89829e56072e28ee01567"
+  },
+  "pluk-inc/markdown-preview": {
+    "file": "icons/pluk-inc__markdown-preview.png",
+    "path": "docs/app-icon.png",
+    "sha": "84e18990c3e13d6e050820b585214ac68959d9ae"
   },
   "pqrs-org/Karabiner-Elements": {
     "file": "icons/pqrs-org__Karabiner-Elements.png",
@@ -743,6 +753,11 @@
     "file": "icons/zachlatta__freeflow.png",
     "path": "website/assets/app-icon.png",
     "sha": "1ea585fd80aacc61b3ee43ff65f4fc7e8db5401d"
+  },
+  "zed-industries/zed": {
+    "file": "icons/zed-industries__zed.png",
+    "path": "crates/zed/resources/app-icon.png",
+    "sha": "08b6d8afa0d1088e50f1e9697e01407c9c623f6d"
   },
   "zenangst/KeyboardCowboy": {
     "file": "icons/zenangst__KeyboardCowboy.png",
