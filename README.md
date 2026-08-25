@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`184 apps` · `23 categories` · `64 tags` · `2,337,334 stars`
+`184 apps` · `23 categories` · `64 tags` · `2,337,365 stars`
 
 Last updated 2026-08-25. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -122,7 +122,7 @@ _Homebrew front-ends, App Store tooling and update checkers._
 _Virtual machines, emulators and containers._
 
 - **[ghostty](https://github.com/ghostty-org/ghostty)** — Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.  
-  <sub>★ 60,216 · ghostty-org · Zig · `Terminal` `Virtualization` `Cross-platform`</sub>
+  <sub>★ 60,217 · ghostty-org · Zig · `Terminal` `Virtualization` `Cross-platform`</sub>
 - **[UTM](https://github.com/utmapp/UTM)** — Virtual machines for iOS and macOS  
   <sub>★ 35,122 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
 - **[iTerm2](https://github.com/gnachman/iTerm2)** — ITerm2 is a terminal emulator for Mac OS X that does amazing things.  
@@ -143,7 +143,7 @@ _Screenshots, screen recording and screen sharing._
 - **[obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording  
   <sub>★ 75,443 · obsproject · C · `Video` `Capture` `C`</sub>
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 22,475 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 22,476 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
   <sub>★ 21,229 · CapSoftware · Rust · `Capture` `Tauri` `Rust`</sub>
 - **[Gifski](https://github.com/sindresorhus/Gifski)** — Convert videos to high-quality GIFs on your Mac  
@@ -202,7 +202,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
   <sub>★ 75,946 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 55,048 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 55,059 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 51,060 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
@@ -297,7 +297,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,437 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 11,375 · vorssaintapp · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 11,386 · vorssaintapp · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
   <sub>★ 5,948 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
 - **[OmniWM](https://github.com/BarutSRB/OmniWM)** — MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.  
@@ -320,7 +320,7 @@ _Menu bar utilities and status item managers._
 - **[Ice](https://github.com/jordanbaird/Ice)** — Powerful menu bar manager for macOS  
   <sub>★ 29,390 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[FineTune](https://github.com/ronitsingh10/FineTune)** — FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.  
-  <sub>★ 8,885 · ronitsingh10 · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
+  <sub>★ 8,886 · ronitsingh10 · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
 - **[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts  
   <sub>★ 5,894 · jacklandrin · Swift · `Menu Bar` `Notch` `AI` `Keyboard` `Focus` `Fun`</sub>
 - **[RepoBar](https://github.com/steipete/RepoBar)** — Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.  
@@ -343,9 +343,9 @@ _Shells, prompts, terminal emulators and CLI toys._
 - **[tabby](https://github.com/Eugeny/tabby)** — A terminal for a more modern age  
   <sub>★ 74,131 · Eugeny · TypeScript · `Terminal` `TypeScript`</sub>
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,520 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,521 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[starship](https://github.com/starship/starship)** — The minimal, blazing-fast, and infinitely customizable prompt for any shell!  
-  <sub>★ 59,593 · starship · Rust · `Terminal` `Template` `Rust`</sub>
+  <sub>★ 59,595 · starship · Rust · `Terminal` `Template` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
   <sub>★ 54,973 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[tmux](https://github.com/tmux/tmux)** — Tmux source code  
@@ -423,7 +423,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 _Video players, music apps and everything that makes noise._
 
 - **[iina](https://github.com/iina/iina)** — The modern video player for macOS.  
-  <sub>★ 46,082 · iina · Swift · `Video` `Swift`</sub>
+  <sub>★ 46,083 · iina · Swift · `Video` `Swift`</sub>
 - **[lossless-cut](https://github.com/mifi/lossless-cut)** — The swiss army knife of lossless video/audio editing  
   <sub>★ 43,191 · mifi · TypeScript · `Editor` `Audio` `Video` `Files` `TypeScript`</sub>
 - **[iptvnator](https://github.com/4gray/iptvnator)** — Tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.  
@@ -494,11 +494,11 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 89,350 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 89,351 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,691 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
-  <sub>★ 31,632 · barry-ran · C++ · `C++`</sub>
+  <sub>★ 31,633 · barry-ran · C++ · `C++`</sub>
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
   <sub>★ 14,420 · alienator88 · Swift · `Cleanup` `Swift`</sub>
 - **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
