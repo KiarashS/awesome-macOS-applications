@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:11:26Z",
+  "generated_at": "2026-08-26T09:58:25Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 184,
     "categories": 23,
     "tags": 64,
-    "stars": 2339175
+    "stars": 2339312
   },
   "categories": [
     {
@@ -483,11 +483,11 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 129484,
+      "stars": 129492,
       "forks": 8881,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-26T07:55:13Z"
+      "pushed_at": "2026-08-26T09:21:30Z"
     },
     {
       "full_name": "localsend/localsend",
@@ -511,7 +511,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89403,
+      "stars": 89409,
       "forks": 4972,
       "license": "Apache-2.0",
       "archived": false,
@@ -539,11 +539,11 @@
         "zed"
       ],
       "language": "Rust",
-      "stars": 89233,
-      "forks": 10256,
+      "stars": 89238,
+      "forks": 10257,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-26T09:06:23Z"
+      "pushed_at": "2026-08-26T09:54:40Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -573,7 +573,7 @@
       ],
       "language": "Dart",
       "stars": 75963,
-      "forks": 5912,
+      "forks": 5913,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-11T13:01:19Z"
@@ -604,8 +604,8 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 75464,
-      "forks": 9887,
+      "stars": 75466,
+      "forks": 9889,
       "license": "GPL-2.0",
       "archived": false,
       "pushed_at": "2026-08-25T00:33:55Z"
@@ -632,7 +632,7 @@
         "terminal-emulators"
       ],
       "language": "TypeScript",
-      "stars": 74142,
+      "stars": 74143,
       "forks": 4221,
       "license": "MIT",
       "archived": false,
@@ -692,7 +692,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62797,
+      "stars": 62796,
       "forks": 5752,
       "license": "Apache-2.0",
       "archived": false,
@@ -715,11 +715,11 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60252,
+      "stars": 60259,
       "forks": 3350,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-26T08:58:31Z"
+      "pushed_at": "2026-08-26T09:41:48Z"
     },
     {
       "full_name": "starship/starship",
@@ -747,7 +747,7 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 59608,
+      "stars": 59606,
       "forks": 2645,
       "license": "ISC",
       "archived": false,
@@ -781,8 +781,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 55595,
-      "forks": 7638,
+      "stars": 55625,
+      "forks": 7643,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-26T05:45:11Z"
@@ -836,11 +836,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 51086,
+      "stars": 51085,
       "forks": 4875,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-26T09:07:01Z"
+      "pushed_at": "2026-08-26T09:54:08Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -858,7 +858,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 48825,
+      "stars": 48826,
       "forks": 2854,
       "license": "ISC",
       "archived": false,
@@ -985,7 +985,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41443,
+      "stars": 41444,
       "forks": 1498,
       "license": "MIT",
       "archived": false,
@@ -1018,7 +1018,7 @@
         "network-monitoring"
       ],
       "language": "Rust",
-      "stars": 40699,
+      "stars": 40703,
       "forks": 1932,
       "license": "Apache-2.0",
       "archived": false,
@@ -1048,7 +1048,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38860,
+      "stars": 38861,
       "forks": 2119,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1108,7 +1108,7 @@
         "redis-gui"
       ],
       "language": "JavaScript",
-      "stars": 34690,
+      "stars": 34692,
       "forks": 2716,
       "license": "MIT",
       "archived": false,
@@ -1150,6 +1150,30 @@
       "pushed_at": "2026-06-14T12:57:40Z"
     },
     {
+      "full_name": "barry-ran/QtScrcpy",
+      "name": "QtScrcpy",
+      "owner": "barry-ran",
+      "avatar": "https://avatars.githubusercontent.com/u/18702692?v=4",
+      "icon": "icons/barry-ran__QtScrcpy.png",
+      "url": "https://github.com/barry-ran/QtScrcpy",
+      "homepage": "https://blog.csdn.net/rankun1/article/details/87970523",
+      "description": "Android real-time display control software",
+      "category": "system",
+      "tags": [
+        "C++"
+      ],
+      "topics": [
+        "android",
+        "qt"
+      ],
+      "language": "C++",
+      "stars": 31656,
+      "forks": 3746,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-08-20T08:29:47Z"
+    },
+    {
       "full_name": "iawia002/lux",
       "name": "lux",
       "owner": "iawia002",
@@ -1183,30 +1207,6 @@
       "pushed_at": "2026-03-29T18:18:56Z"
     },
     {
-      "full_name": "barry-ran/QtScrcpy",
-      "name": "QtScrcpy",
-      "owner": "barry-ran",
-      "avatar": "https://avatars.githubusercontent.com/u/18702692?v=4",
-      "icon": "icons/barry-ran__QtScrcpy.png",
-      "url": "https://github.com/barry-ran/QtScrcpy",
-      "homepage": "https://blog.csdn.net/rankun1/article/details/87970523",
-      "description": "Android real-time display control software",
-      "category": "system",
-      "tags": [
-        "C++"
-      ],
-      "topics": [
-        "android",
-        "qt"
-      ],
-      "language": "C++",
-      "stars": 31655,
-      "forks": 3746,
-      "license": "Apache-2.0",
-      "archived": false,
-      "pushed_at": "2026-08-20T08:29:47Z"
-    },
-    {
       "full_name": "cjpais/Handy",
       "name": "Handy",
       "owner": "cjpais",
@@ -1229,8 +1229,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30351,
-      "forks": 2723,
+      "stars": 30356,
+      "forks": 2725,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-26T07:44:49Z"
@@ -1296,7 +1296,7 @@
         "ebook"
       ],
       "language": "JavaScript",
-      "stars": 27977,
+      "stars": 27978,
       "forks": 2086,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1329,8 +1329,8 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27048,
-      "forks": 2327,
+      "stars": 27049,
+      "forks": 2326,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-23T02:46:14Z"
@@ -1362,7 +1362,7 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26428,
+      "stars": 26429,
       "forks": 2576,
       "license": "",
       "archived": false,
@@ -1390,7 +1390,7 @@
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 26119,
+      "stars": 26122,
       "forks": 2053,
       "license": "GPL-3.0",
       "archived": false,
@@ -1457,7 +1457,7 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 22785,
+      "stars": 22789,
       "forks": 1100,
       "license": "MIT",
       "archived": false,
@@ -1515,8 +1515,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 22537,
-      "forks": 1663,
+      "stars": 22538,
+      "forks": 1664,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-26T08:38:46Z"
@@ -1550,8 +1550,8 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 21607,
-      "forks": 1983,
+      "stars": 21608,
+      "forks": 1984,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-25T15:55:56Z"
@@ -1608,11 +1608,11 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 21244,
+      "stars": 21247,
       "forks": 1819,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-26T07:41:11Z"
+      "pushed_at": "2026-08-26T09:16:16Z"
     },
     {
       "full_name": "obsidianmd/obsidian-releases",
@@ -1637,7 +1637,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21073,
+      "stars": 21072,
       "forks": 7657,
       "license": "",
       "archived": false,
@@ -1659,7 +1659,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19585,
+      "stars": 19586,
       "forks": 1361,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1735,7 +1735,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17477,
+      "stars": 17479,
       "forks": 902,
       "license": "Apache-2.0",
       "archived": false,
@@ -1838,7 +1838,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14422,
+      "stars": 14421,
       "forks": 368,
       "license": "",
       "archived": false,
@@ -1870,7 +1870,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 14362,
+      "stars": 14361,
       "forks": 729,
       "license": "GPL-3.0",
       "archived": false,
@@ -1902,8 +1902,8 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 13908,
-      "forks": 1050,
+      "stars": 13912,
+      "forks": 1051,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-26T00:47:13Z"
@@ -1956,7 +1956,7 @@
         "software-update"
       ],
       "language": "Swift",
-      "stars": 12315,
+      "stars": 12316,
       "forks": 298,
       "license": "MIT",
       "archived": false,
@@ -2013,8 +2013,8 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 11646,
-      "forks": 381,
+      "stars": 11668,
+      "forks": 382,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-08-26T04:44:31Z"
@@ -2045,7 +2045,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11440,
+      "stars": 11439,
       "forks": 265,
       "license": "GPL-3.0",
       "archived": false,
@@ -2077,7 +2077,7 @@
       ],
       "language": "Objective-C",
       "stars": 10750,
-      "forks": 395,
+      "forks": 396,
       "license": "",
       "archived": false,
       "pushed_at": "2026-08-26T05:40:58Z"
@@ -2098,7 +2098,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 10481,
+      "stars": 10482,
       "forks": 947,
       "license": "GPL-3.0",
       "archived": false,
@@ -2120,7 +2120,7 @@
       ],
       "topics": [],
       "language": "JavaScript",
-      "stars": 9747,
+      "stars": 9750,
       "forks": 303,
       "license": "MIT",
       "archived": false,
@@ -2220,7 +2220,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 8648,
+      "stars": 8650,
       "forks": 542,
       "license": "GPL-3.0",
       "archived": false,
@@ -2252,7 +2252,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 8606,
+      "stars": 8605,
       "forks": 502,
       "license": "MIT",
       "archived": false,
@@ -2406,11 +2406,11 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 7690,
+      "stars": 7689,
       "forks": 452,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-26T08:50:43Z"
+      "pushed_at": "2026-08-26T09:50:58Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -2746,7 +2746,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6077,
+      "stars": 6079,
       "forks": 332,
       "license": "MIT",
       "archived": false,
@@ -2769,7 +2769,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 5951,
+      "stars": 5952,
       "forks": 213,
       "license": "",
       "archived": false,
@@ -2804,7 +2804,7 @@
         "menubar-app"
       ],
       "language": "Swift",
-      "stars": 5895,
+      "stars": 5896,
       "forks": 239,
       "license": "MIT",
       "archived": false,
@@ -2873,7 +2873,7 @@
       "forks": 368,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-08-26T09:05:49Z"
+      "pushed_at": "2026-08-26T09:45:56Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -2934,7 +2934,7 @@
         "quota-monitor"
       ],
       "language": "Swift",
-      "stars": 4785,
+      "stars": 4786,
       "forks": 314,
       "license": "MIT",
       "archived": false,
@@ -3083,7 +3083,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 4084,
+      "stars": 4087,
       "forks": 274,
       "license": "GPL-3.0",
       "archived": false,
@@ -3163,8 +3163,8 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3636,
-      "forks": 334,
+      "stars": 3639,
+      "forks": 335,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-24T16:24:02Z"
@@ -3273,7 +3273,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3113,
+      "stars": 3114,
       "forks": 186,
       "license": "GPL-3.0",
       "archived": false,
@@ -3444,7 +3444,7 @@
         "paperwm"
       ],
       "language": "Swift",
-      "stars": 2594,
+      "stars": 2595,
       "forks": 107,
       "license": "GPL-2.0",
       "archived": false,
@@ -3493,7 +3493,7 @@
         "xcode"
       ],
       "language": "Swift",
-      "stars": 2548,
+      "stars": 2549,
       "forks": 81,
       "license": "MIT",
       "archived": false,
@@ -3655,7 +3655,7 @@
       "forks": 300,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-25T20:35:36Z"
+      "pushed_at": "2026-08-26T09:24:36Z"
     },
     {
       "full_name": "zenangst/KeyboardCowboy",
@@ -3852,7 +3852,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1731,
+      "stars": 1730,
       "forks": 55,
       "license": "",
       "archived": false,
@@ -4037,7 +4037,7 @@
         "mac-cleaner"
       ],
       "language": "Swift",
-      "stars": 1461,
+      "stars": 1462,
       "forks": 85,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -4096,7 +4096,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1455,
+      "stars": 1456,
       "forks": 70,
       "license": "MIT",
       "archived": false,
@@ -4156,7 +4156,7 @@
         "vm"
       ],
       "language": "C",
-      "stars": 1365,
+      "stars": 1366,
       "forks": 202,
       "license": "GPL-3.0",
       "archived": false,
@@ -4207,7 +4207,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1320,
+      "stars": 1321,
       "forks": 90,
       "license": "MIT",
       "archived": false,
@@ -4263,7 +4263,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1304,
+      "stars": 1305,
       "forks": 26,
       "license": "MIT",
       "archived": false,
@@ -4295,7 +4295,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1267,
+      "stars": 1268,
       "forks": 68,
       "license": "",
       "archived": false,
@@ -4519,7 +4519,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 807,
+      "stars": 808,
       "forks": 56,
       "license": "Apache-2.0",
       "archived": false,
@@ -4548,7 +4548,7 @@
         "window-switcher"
       ],
       "language": "Swift",
-      "stars": 711,
+      "stars": 712,
       "forks": 33,
       "license": "GPL-3.0",
       "archived": false,
@@ -4757,7 +4757,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 521,
+      "stars": 522,
       "forks": 38,
       "license": "GPL-3.0",
       "archived": false,
