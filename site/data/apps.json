@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:46:57Z",
+  "generated_at": "2026-09-02T17:11:25Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 208,
     "categories": 23,
     "tags": 66,
-    "stars": 2592455
+    "stars": 2592501
   },
   "categories": [
     {
@@ -491,7 +491,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 130720,
+      "stars": 130722,
       "forks": 8984,
       "license": "MIT",
       "archived": false,
@@ -523,7 +523,7 @@
         "vmess"
       ],
       "language": "C#",
-      "stars": 115262,
+      "stars": 115264,
       "forks": 15824,
       "license": "GPL-3.0",
       "archived": false,
@@ -551,7 +551,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 89937,
+      "stars": 89936,
       "forks": 5010,
       "license": "Apache-2.0",
       "archived": false,
@@ -580,10 +580,10 @@
       ],
       "language": "Rust",
       "stars": 89638,
-      "forks": 10405,
+      "forks": 10406,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-09-02T16:17:35Z"
+      "pushed_at": "2026-09-02T17:00:20Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -612,7 +612,7 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 76197,
+      "stars": 76199,
       "forks": 5960,
       "license": "AGPL-3.0",
       "archived": false,
@@ -644,11 +644,11 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 75749,
+      "stars": 75750,
       "forks": 9989,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-09-02T02:48:28Z"
+      "pushed_at": "2026-09-02T16:54:43Z"
     },
     {
       "full_name": "Eugeny/tabby",
@@ -672,7 +672,7 @@
         "terminal-emulators"
       ],
       "language": "TypeScript",
-      "stars": 74292,
+      "stars": 74293,
       "forks": 4230,
       "license": "MIT",
       "archived": false,
@@ -706,7 +706,7 @@
         "istat"
       ],
       "language": "Shell",
-      "stars": 65824,
+      "stars": 65826,
       "forks": 2309,
       "license": "GPL-3.0",
       "archived": false,
@@ -742,7 +742,7 @@
       "forks": 5498,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-02T16:34:53Z"
+      "pushed_at": "2026-09-02T17:04:32Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -766,7 +766,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 62902,
+      "stars": 62903,
       "forks": 5759,
       "license": "Apache-2.0",
       "archived": false,
@@ -789,11 +789,11 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 60594,
+      "stars": 60595,
       "forks": 3376,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-02T16:05:41Z"
+      "pushed_at": "2026-09-02T16:57:58Z"
     },
     {
       "full_name": "diegosouzapw/OmniRoute",
@@ -823,11 +823,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 60231,
-      "forks": 8370,
+      "stars": 60242,
+      "forks": 8371,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-02T16:37:45Z"
+      "pushed_at": "2026-09-02T16:52:55Z"
     },
     {
       "full_name": "starship/starship",
@@ -910,11 +910,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 51373,
+      "stars": 51374,
       "forks": 4907,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-02T16:43:07Z"
+      "pushed_at": "2026-09-02T16:51:10Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -932,7 +932,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 49002,
+      "stars": 49004,
       "forks": 2867,
       "license": "ISC",
       "archived": false,
@@ -1096,7 +1096,7 @@
       "forks": 1968,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-09-02T16:23:03Z"
+      "pushed_at": "2026-09-02T16:51:00Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -1122,7 +1122,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38899,
+      "stars": 38898,
       "forks": 2123,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1154,7 +1154,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35287,
+      "stars": 35289,
       "forks": 1804,
       "license": "Apache-2.0",
       "archived": false,
@@ -1303,8 +1303,8 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 30888,
-      "forks": 2787,
+      "stars": 30890,
+      "forks": 2788,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-31T23:21:44Z"
@@ -1425,7 +1425,7 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27116,
+      "stars": 27117,
       "forks": 2326,
       "license": "MIT",
       "archived": false,
@@ -1554,7 +1554,7 @@
       ],
       "language": "TypeScript",
       "stars": 23111,
-      "forks": 1716,
+      "forks": 1717,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-02T10:56:29Z"
@@ -1611,7 +1611,7 @@
         "macos"
       ],
       "language": "C++",
-      "stars": 22729,
+      "stars": 22730,
       "forks": 935,
       "license": "Unlicense",
       "archived": false,
@@ -1650,7 +1650,7 @@
       "forks": 2007,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-02T04:39:19Z"
+      "pushed_at": "2026-09-02T16:55:50Z"
     },
     {
       "full_name": "CapSoftware/Cap",
@@ -1704,7 +1704,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21441,
+      "stars": 21442,
       "forks": 1135,
       "license": "MIT",
       "archived": false,
@@ -1756,7 +1756,7 @@
       "topics": [],
       "language": "TypeScript",
       "stars": 19668,
-      "forks": 1371,
+      "forks": 1370,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-02T13:51:39Z"
@@ -1947,7 +1947,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 14653,
+      "stars": 14658,
       "forks": 510,
       "license": "GPL-3.0",
       "archived": false,
@@ -2216,7 +2216,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 9929,
+      "stars": 9930,
       "forks": 308,
       "license": "MIT",
       "archived": false,
@@ -2283,7 +2283,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 9099,
+      "stars": 9100,
       "forks": 334,
       "license": "GPL-3.0",
       "archived": false,
@@ -2506,7 +2506,7 @@
       "forks": 458,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-02T16:28:24Z"
+      "pushed_at": "2026-09-02T17:00:09Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -2838,7 +2838,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6175,
+      "stars": 6176,
       "forks": 339,
       "license": "MIT",
       "archived": false,
@@ -2891,7 +2891,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 5984,
+      "stars": 5985,
       "forks": 216,
       "license": "",
       "archived": false,
@@ -3174,7 +3174,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 4229,
+      "stars": 4230,
       "forks": 282,
       "license": "GPL-3.0",
       "archived": false,
@@ -3491,7 +3491,7 @@
       ],
       "language": "Swift",
       "stars": 3006,
-      "forks": 166,
+      "forks": 167,
       "license": "BSD-3-Clause",
       "archived": false,
       "pushed_at": "2026-08-29T16:20:09Z"
@@ -3621,7 +3621,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2614,
+      "stars": 2615,
       "forks": 261,
       "license": "MIT",
       "archived": false,
@@ -3841,10 +3841,10 @@
       ],
       "language": "JavaScript",
       "stars": 2309,
-      "forks": 210,
+      "forks": 211,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-08-09T10:58:41Z"
+      "pushed_at": "2026-09-02T16:59:37Z"
     },
     {
       "full_name": "KartikLabhshetwar/better-shot",
@@ -4386,7 +4386,7 @@
         "kimi"
       ],
       "language": "Swift",
-      "stars": 1453,
+      "stars": 1454,
       "forks": 129,
       "license": "",
       "archived": false,
@@ -4843,7 +4843,7 @@
         "cli"
       ],
       "language": "",
-      "stars": 810,
+      "stars": 811,
       "forks": 37,
       "license": "",
       "archived": false,
@@ -5696,7 +5696,7 @@
         "system-monitor"
       ],
       "language": "Swift",
-      "stars": 241,
+      "stars": 242,
       "forks": 12,
       "license": "MIT",
       "archived": false,
@@ -6069,28 +6069,6 @@
       "pushed_at": "2026-08-31T15:37:27Z"
     },
     {
-      "full_name": "writronic/MaCursor",
-      "name": "MaCursor",
-      "owner": "writronic",
-      "avatar": "https://avatars.githubusercontent.com/u/222517685?v=4",
-      "icon": "icons/writronic__MaCursor.png",
-      "url": "https://github.com/writronic/MaCursor",
-      "homepage": "https://writronic.com/macursor/",
-      "description": "Cursor Control for macOS",
-      "category": "input",
-      "tags": [
-        "Mouse",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 72,
-      "forks": 8,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-08-05T21:18:11Z"
-    },
-    {
       "full_name": "ganeshmshetty/openclip",
       "name": "openclip",
       "owner": "ganeshmshetty",
@@ -6118,11 +6096,33 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 72,
+      "stars": 73,
       "forks": 4,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-02T12:47:14Z"
+    },
+    {
+      "full_name": "writronic/MaCursor",
+      "name": "MaCursor",
+      "owner": "writronic",
+      "avatar": "https://avatars.githubusercontent.com/u/222517685?v=4",
+      "icon": "icons/writronic__MaCursor.png",
+      "url": "https://github.com/writronic/MaCursor",
+      "homepage": "https://writronic.com/macursor/",
+      "description": "Cursor Control for macOS",
+      "category": "input",
+      "tags": [
+        "Mouse",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 72,
+      "forks": 8,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-08-05T21:18:11Z"
     },
     {
       "full_name": "ShubhamPP04/Izzy",
