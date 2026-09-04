@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`214 apps` · `23 categories` · `66 tags` · `2,660,619 stars`
+`214 apps` · `23 categories` · `66 tags` · `2,660,622 stars`
 
 Last updated 2026-09-04. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -188,7 +188,7 @@ _Download managers and accelerators._
 - **[lux](https://github.com/iawia002/lux)** — Fast and simple video download library and CLI tool written in Go  
   <sub>★ 31,666 · iawia002 · Go · `Downloads` `Video` `Terminal` `Go`</sub>
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 17,681 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 17,682 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
   <sub>★ 10,001 · AnInsomniacy · TypeScript · `Downloads` `TypeScript`</sub>
 - **[youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)** — Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.  
@@ -222,7 +222,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
   <sub>★ 76,277 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 61,246 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 61,247 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 51,438 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
@@ -548,7 +548,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
   <sub>★ 31,800 · barry-ran · C++ · `C++`</sub>
 - **[anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program  
-  <sub>★ 30,319 · ankitects · Rust · `Rust`</sub>
+  <sub>★ 30,320 · ankitects · Rust · `Rust`</sub>
 - **[SwitchHosts](https://github.com/oldj/SwitchHosts)** — Switch hosts quickly!  
   <sub>★ 27,144 · oldj · Rust · `Electron` `Rust`</sub>
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
