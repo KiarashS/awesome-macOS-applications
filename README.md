@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`214 apps` · `23 categories` · `66 tags` · `2,662,846 stars`
+`214 apps` · `23 categories` · `66 tags` · `2,662,851 stars`
 
 Last updated 2026-09-05. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -94,7 +94,7 @@ _Clipboard managers and paste history._
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
   <sub>★ 304 · lifedever · Swift · `Clipboard` `Swift`</sub>
 - **[openclip](https://github.com/ganeshmshetty/openclip)** — Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.  
-  <sub>★ 159 · ganeshmshetty · Swift · `Menu Bar` `Clipboard` `AI` `SwiftUI` `Swift`</sub>
+  <sub>★ 160 · ganeshmshetty · Swift · `Menu Bar` `Clipboard` `AI` `SwiftUI` `Swift`</sub>
 
 <a id="cat-packages"></a>
 
@@ -222,7 +222,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
   <sub>★ 76,323 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 61,614 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 61,615 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
   <sub>★ 51,478 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
@@ -329,7 +329,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
   <sub>★ 16,257 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 15,475 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 15,476 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
   <sub>★ 11,520 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
@@ -496,7 +496,7 @@ _Video players, music apps and everything that makes noise._
 _Note taking, Markdown editors and knowledge bases._
 
 - **[zed](https://github.com/zed-industries/zed)** — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  
-  <sub>★ 89,809 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
+  <sub>★ 89,810 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
 - **[drawio-desktop](https://github.com/jgraph/drawio-desktop)** — Official electron build of draw.io  
   <sub>★ 62,956 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
 - **[obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.  
@@ -548,7 +548,7 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
   <sub>★ 31,807 · barry-ran · C++ · `C++`</sub>
 - **[anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program  
-  <sub>★ 30,341 · ankitects · Rust · `Rust`</sub>
+  <sub>★ 30,342 · ankitects · Rust · `Rust`</sub>
 - **[SwitchHosts](https://github.com/oldj/SwitchHosts)** — Switch hosts quickly!  
   <sub>★ 27,150 · oldj · Rust · `Electron` `Rust`</sub>
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
