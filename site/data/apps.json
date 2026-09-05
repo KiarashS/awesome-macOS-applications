@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:25:13Z",
+  "generated_at": "2026-09-05T15:35:09Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 214,
     "categories": 23,
     "tags": 66,
-    "stars": 2662151
+    "stars": 2662179
   },
   "categories": [
     {
@@ -491,11 +491,11 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 131187,
+      "stars": 131188,
       "forks": 9025,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-04T13:43:14Z"
+      "pushed_at": "2026-09-05T15:29:06Z"
     },
     {
       "full_name": "2dust/v2rayN",
@@ -523,7 +523,7 @@
         "vmess"
       ],
       "language": "C#",
-      "stars": 115490,
+      "stars": 115491,
       "forks": 15847,
       "license": "GPL-3.0",
       "archived": false,
@@ -551,7 +551,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 90128,
+      "stars": 90129,
       "forks": 5024,
       "license": "Apache-2.0",
       "archived": false,
@@ -580,7 +580,7 @@
       ],
       "language": "Rust",
       "stars": 89796,
-      "forks": 10466,
+      "forks": 10467,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-05T12:11:19Z"
@@ -644,7 +644,7 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 75846,
+      "stars": 75848,
       "forks": 10042,
       "license": "GPL-2.0",
       "archived": false,
@@ -672,7 +672,7 @@
         "terminal-emulators"
       ],
       "language": "TypeScript",
-      "stars": 74338,
+      "stars": 74340,
       "forks": 4236,
       "license": "MIT",
       "archived": false,
@@ -706,7 +706,7 @@
         "istat"
       ],
       "language": "Shell",
-      "stars": 66290,
+      "stars": 66291,
       "forks": 2330,
       "license": "GPL-3.0",
       "archived": false,
@@ -742,7 +742,7 @@
       "forks": 5507,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-05T15:16:54Z"
+      "pushed_at": "2026-09-05T15:24:04Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -800,8 +800,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 61489,
-      "forks": 8563,
+      "stars": 61493,
+      "forks": 8564,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-05T06:15:30Z"
@@ -855,7 +855,7 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 59790,
+      "stars": 59791,
       "forks": 2653,
       "license": "ISC",
       "archived": false,
@@ -914,7 +914,7 @@
       "forks": 4920,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-05T15:22:43Z"
+      "pushed_at": "2026-09-05T15:32:01Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -932,7 +932,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 49075,
+      "stars": 49074,
       "forks": 2872,
       "license": "ISC",
       "archived": false,
@@ -965,7 +965,7 @@
       "forks": 2913,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-05T13:54:11Z"
+      "pushed_at": "2026-09-05T15:23:57Z"
     },
     {
       "full_name": "vercel/hyper",
@@ -1324,7 +1324,7 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 30336,
+      "stars": 30337,
       "forks": 3185,
       "license": "",
       "archived": false,
@@ -1570,7 +1570,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 24088,
+      "stars": 24089,
       "forks": 1539,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1696,7 +1696,7 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 21819,
+      "stars": 21820,
       "forks": 2014,
       "license": "MIT",
       "archived": false,
@@ -1783,7 +1783,7 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21347,
+      "stars": 21348,
       "forks": 7717,
       "license": "",
       "archived": false,
@@ -1881,7 +1881,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17701,
+      "stars": 17704,
       "forks": 909,
       "license": "Apache-2.0",
       "archived": false,
@@ -1975,7 +1975,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 15405,
+      "stars": 15408,
       "forks": 548,
       "license": "GPL-3.0",
       "archived": false,
@@ -2191,7 +2191,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11516,
+      "stars": 11517,
       "forks": 267,
       "license": "GPL-3.0",
       "archived": false,
@@ -2299,7 +2299,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 9154,
+      "stars": 9155,
       "forks": 338,
       "license": "GPL-3.0",
       "archived": false,
@@ -2834,7 +2834,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 6309,
+      "stars": 6310,
       "forks": 898,
       "license": "",
       "archived": false,
@@ -6039,35 +6039,6 @@
       "pushed_at": "2025-12-04T21:56:12Z"
     },
     {
-      "full_name": "yelog/SnapTraTranslator",
-      "name": "SnapTraTranslator",
-      "owner": "yelog",
-      "avatar": "https://avatars.githubusercontent.com/u/14227866?v=4",
-      "icon": "icons/yelog__SnapTraTranslator.png",
-      "url": "https://github.com/yelog/SnapTraTranslator",
-      "homepage": "http://snaptra.yelog.org/",
-      "description": "一款 macos 离线快速翻译软件",
-      "category": "system",
-      "tags": [
-        "SwiftUI",
-        "Swift"
-      ],
-      "topics": [
-        "chinese",
-        "japanese",
-        "macos",
-        "ocr",
-        "swiftui",
-        "translator"
-      ],
-      "language": "Swift",
-      "stars": 134,
-      "forks": 7,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-08-31T10:09:09Z"
-    },
-    {
       "full_name": "ganeshmshetty/openclip",
       "name": "openclip",
       "owner": "ganeshmshetty",
@@ -6095,11 +6066,40 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 132,
+      "stars": 135,
       "forks": 6,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-05T08:43:21Z"
+    },
+    {
+      "full_name": "yelog/SnapTraTranslator",
+      "name": "SnapTraTranslator",
+      "owner": "yelog",
+      "avatar": "https://avatars.githubusercontent.com/u/14227866?v=4",
+      "icon": "icons/yelog__SnapTraTranslator.png",
+      "url": "https://github.com/yelog/SnapTraTranslator",
+      "homepage": "http://snaptra.yelog.org/",
+      "description": "一款 macos 离线快速翻译软件",
+      "category": "system",
+      "tags": [
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "chinese",
+        "japanese",
+        "macos",
+        "ocr",
+        "swiftui",
+        "translator"
+      ],
+      "language": "Swift",
+      "stars": 134,
+      "forks": 7,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-08-31T10:09:09Z"
     },
     {
       "full_name": "Lakr233/NotchNotification",
