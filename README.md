@@ -177,6 +177,8 @@ _Screenshots, screen recording and screen sharing._
 - **[macparakeet](https://github.com/moona3k/macparakeet)** — Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.  
   <sub>★ 629 · moona3k · Swift · `Speech` `Privacy` `Files` `Terminal` `Swift`</sub>
 - **[shotx](https://github.com/aimen08/shotx)** — Modern macOS screen capture for the menu bar.  
+- **[Snapling](https://getsnapling.com)** — Transform isolated screenshots into a searchable, actionable Mac visual workspace with AI OCR, GIF recording, instant hotkeys, and local clipboard memory.
+  <sub>· getsnapling · `Screenshot` `OCR` `Productivity` `macOS`</sub>
   <sub>★ 120 · aimen08 · Swift · `Menu Bar` `Capture` `Swift`</sub>
 
 <a id="cat-downloads"></a>
