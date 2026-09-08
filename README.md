@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`217 apps` · `23 categories` · `66 tags` · `2,675,311 stars`
+`217 apps` · `23 categories` · `66 tags` · `2,675,318 stars`
 
 Last updated 2026-09-08. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -159,7 +159,7 @@ _Screenshots, screen recording and screen sharing._
 - **[obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording  
   <sub>★ 75,944 · obsproject · C · `Video` `Capture` `C`</sub>
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 25,198 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 25,203 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
   <sub>★ 21,943 · CapSoftware · Rust · `Capture` `Tauri` `Rust`</sub>
 - **[Gifski](https://github.com/sindresorhus/Gifski)** — Convert videos to high-quality GIFs on your Mac  
@@ -327,7 +327,7 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 16,790 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 16,791 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
   <sub>★ 16,259 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
@@ -546,7 +546,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 90,318 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 90,319 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,735 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
