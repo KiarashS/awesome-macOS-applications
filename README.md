@@ -5,7 +5,7 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`231 apps` · `23 categories` · `66 tags` · `2,714,538 stars`
+`231 apps` · `23 categories` · `66 tags` · `2,714,556 stars`
 
 Last updated 2026-09-11. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
@@ -92,7 +92,7 @@ _Clipboard managers and paste history._
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS  
   <sub>★ 21,550 · p0deje · Swift · `Clipboard` `Swift`</sub>
 - **[EcoPaste](https://github.com/EcoPasteHub/EcoPaste)** — 跨平台的剪贴板管理工具 | Cross-platform clipboard management tool  
-  <sub>★ 7,392 · EcoPasteHub · Rust · `Clipboard` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 7,393 · EcoPasteHub · Rust · `Clipboard` `Tauri` `Cross-platform` `Rust`</sub>
 - **[openclip](https://github.com/ganeshmshetty/openclip)** — Fast, open-source macOS floating text actions. Transform text, run scripts, and integrate AI seamlessly.  
   <sub>★ 329 · ganeshmshetty · Swift · `Menu Bar` `Clipboard` `AI` `SwiftUI` `Swift`</sub>
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
@@ -159,7 +159,7 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording  
-  <sub>★ 76,067 · obsproject · C · `Video` `Capture` `C`</sub>
+  <sub>★ 76,068 · obsproject · C · `Video` `Capture` `C`</sub>
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
   <sub>★ 27,022 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
@@ -167,7 +167,7 @@ _Screenshots, screen recording and screen sharing._
 - **[Gifski](https://github.com/sindresorhus/Gifski)** — Convert videos to high-quality GIFs on your Mac  
   <sub>★ 8,550 · sindresorhus · Swift · `Video` `Capture` `SwiftUI` `Swift`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
-  <sub>★ 3,405 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
+  <sub>★ 3,406 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
 - **[Snapzy](https://github.com/duongductrong/Snapzy)** — An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.  
   <sub>★ 3,096 · duongductrong · Swift · `Capture` `SwiftUI` `Swift`</sub>
 - **[better-shot](https://github.com/KartikLabhshetwar/better-shot)** — Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source…  
@@ -194,7 +194,7 @@ _Download managers and accelerators._
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
   <sub>★ 17,867 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[motrix-next](https://github.com/AnInsomniacy/motrix-next)** — A full-featured download manager — rebuilt from the ground up  
-  <sub>★ 10,171 · AnInsomniacy · TypeScript · `Downloads` `TypeScript`</sub>
+  <sub>★ 10,172 · AnInsomniacy · TypeScript · `Downloads` `TypeScript`</sub>
 - **[youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)** — Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.  
   <sub>★ 9,171 · jely2002 · Rust · `Downloads` `Video` `Tauri` `Cross-platform` `Rust`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
@@ -220,13 +220,13 @@ _Feed readers, ebook readers and read-it-later apps._
 _Local and hosted models, assistants and speech tooling._
 
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io  
-  <sub>★ 132,368 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 132,370 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
   <sub>★ 76,539 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 64,871 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 64,877 · diegosouzapw · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
-  <sub>★ 51,690 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 51,691 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
   <sub>★ 31,390 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[Easydict](https://github.com/tisfeng/Easydict)** — 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up…  
@@ -335,7 +335,7 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 18,345 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 18,347 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
   <sub>★ 16,265 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
@@ -347,7 +347,7 @@ _Tiling, window switching, the Dock and Mission Control._
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Master your Mac’s ⌘Tab  
   <sub>★ 750 · rokartur · Swift · `Windows` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
-  <sub>★ 541 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
+  <sub>★ 542 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
 - **[Peninsula](https://github.com/celve/Peninsula)** — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.  
   <sub>★ 458 · celve · Swift · `Windows` `Files` `Notifications` `Swift`</sub>
 - **[tungsten-edge](https://github.com/moonbai-studio/tungsten-edge)** — A window-oriented bottom taskbar for macOS — a Dock replacement that organizes by window, not app.  
@@ -364,7 +364,7 @@ _Menu bar utilities and status item managers._
 - **[Ice](https://github.com/jordanbaird/Ice)** — Powerful menu bar manager for macOS  
   <sub>★ 29,593 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[Thaw](https://github.com/thaw-app/Thaw)** — The open source menu bar manager  
-  <sub>★ 10,679 · thaw-app · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
+  <sub>★ 10,680 · thaw-app · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[FineTune](https://github.com/ronitsingh10/FineTune)** — FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.  
   <sub>★ 9,241 · ronitsingh10 · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
 - **[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts  
@@ -403,7 +403,7 @@ _Shells, prompts, terminal emulators and CLI toys._
 - **[Mole](https://github.com/tw93/Mole)** — Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.  
   <sub>★ 66,861 · tw93 · Shell · `Terminal` `Cleanup` `Monitoring` `SwiftUI` `Shell`</sub>
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 64,958 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 64,957 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[starship](https://github.com/starship/starship)** — The minimal, blazing-fast, and infinitely customizable prompt for any shell!  
   <sub>★ 59,865 · starship · Rust · `Terminal` `Template` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
@@ -437,7 +437,7 @@ _Firewalls, Gatekeeper tooling, encryption and password managers._
 _Proxies, VPNs, DNS switchers and network tooling._
 
 - **[v2rayN](https://github.com/2dust/v2rayN)** — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
-  <sub>★ 115,932 · 2dust · C# · `Proxy` `Cross-platform` `C#`</sub>
+  <sub>★ 115,933 · 2dust · C# · `Proxy` `Cross-platform` `C#`</sub>
 - **[clash-party](https://github.com/mihomo-party-org/clash-party)** — Electron: Another Mihomo GUI.  
   <sub>★ 26,376 · mihomo-party-org · TypeScript · `Proxy` `Electron` `TypeScript`</sub>
 - **[ClashMac](https://github.com/666OS/ClashMac)** — Native Proxy Experience Built for macOS  
@@ -491,7 +491,7 @@ _Video players, music apps and everything that makes noise._
 - **[iina](https://github.com/iina/iina)** — The modern video player for macOS.  
   <sub>★ 46,305 · iina · Swift · `Video` `Swift`</sub>
 - **[lossless-cut](https://github.com/mifi/lossless-cut)** — The swiss army knife of lossless video/audio editing  
-  <sub>★ 43,644 · mifi · TypeScript · `Editor` `Audio` `Video` `Files` `TypeScript`</sub>
+  <sub>★ 43,643 · mifi · TypeScript · `Editor` `Audio` `Video` `Files` `TypeScript`</sub>
 - **[iptvnator](https://github.com/4gray/iptvnator)** — Tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.  
   <sub>★ 7,067 · 4gray · TypeScript · `Video` `Archive` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[textream](https://github.com/f/textream)** — Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay…  
@@ -514,9 +514,9 @@ _Video players, music apps and everything that makes noise._
 _Note taking, Markdown editors and knowledge bases._
 
 - **[zed](https://github.com/zed-industries/zed)** — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  
-  <sub>★ 90,123 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
+  <sub>★ 90,124 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
 - **[drawio-desktop](https://github.com/jgraph/drawio-desktop)** — Official electron build of draw.io  
-  <sub>★ 63,049 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
+  <sub>★ 63,048 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
 - **[obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.  
   <sub>★ 21,489 · obsidianmd · `Notes` `Markdown`</sub>
 - **[tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases  
@@ -530,7 +530,7 @@ _Note taking, Markdown editors and knowledge bases._
 - **[TablePro](https://github.com/TableProApp/TablePro)** — Free and open source database client built natively for developers  
   <sub>★ 5,848 · TableProApp · Swift · `Editor` `SwiftUI` `Swift`</sub>
 - **[markdown-preview](https://github.com/pluk-inc/markdown-preview)** — A simple Markdown viewer for reading .md files  
-  <sub>★ 2,313 · pluk-inc · Swift · `Markdown` `Reading` `Files` `Swift`</sub>
+  <sub>★ 2,314 · pluk-inc · Swift · `Markdown` `Reading` `Files` `Swift`</sub>
 - **[flux-markdown](https://github.com/xykong/flux-markdown)** — Markdown Preview Enhanced for macOS QuickLook  
   <sub>★ 1,239 · xykong · Swift · `Markdown` `Swift`</sub>
 - **[noty](https://github.com/aimen08/noty)** — Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.  
@@ -564,7 +564,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 90,577 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 90,578 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
   <sub>★ 34,750 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
