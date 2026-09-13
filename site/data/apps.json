@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13T21:02:12Z",
+  "generated_at": "2026-09-13T21:55:59Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 237,
+    "apps": 236,
     "categories": 26,
-    "tags": 67,
-    "stars": 2824029
+    "tags": 68,
+    "stars": 2817603
   },
   "categories": [
     {
@@ -98,7 +98,7 @@
       "icon": "timer",
       "color": "#ff453a",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 11
+      "count": 10
     },
     {
       "id": "windows",
@@ -114,7 +114,7 @@
       "icon": "menubar",
       "color": "#8e8e93",
       "blurb": "Menu bar utilities and status item managers.",
-      "count": 17
+      "count": 16
     },
     {
       "id": "terminal",
@@ -154,7 +154,7 @@
       "icon": "display",
       "color": "#b07de0",
       "blurb": "Second screens, screen sharing and controlling other devices.",
-      "count": 2
+      "count": 3
     },
     {
       "id": "input",
@@ -170,7 +170,7 @@
       "icon": "play",
       "color": "#ff2d55",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 12
+      "count": 11
     },
     {
       "id": "notes",
@@ -210,7 +210,7 @@
       "icon": "sparkle",
       "color": "#ff8cc8",
       "blurb": "Purely delightful, mostly useless, entirely worth installing.",
-      "count": 5
+      "count": 7
     },
     {
       "id": "system",
@@ -218,7 +218,7 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 11
+      "count": 10
     }
   ],
   "tags": [
@@ -240,7 +240,7 @@
     },
     {
       "name": "Cross-platform",
-      "count": 29
+      "count": 28
     },
     {
       "name": "TypeScript",
@@ -272,7 +272,7 @@
     },
     {
       "name": "Electron",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Rust",
@@ -307,7 +307,7 @@
       "count": 10
     },
     {
-      "name": "iOS",
+      "name": "Fun",
       "count": 10
     },
     {
@@ -327,11 +327,11 @@
       "count": 9
     },
     {
-      "name": "Cleanup",
-      "count": 8
+      "name": "iOS",
+      "count": 9
     },
     {
-      "name": "Fun",
+      "name": "Cleanup",
       "count": 8
     },
     {
@@ -347,16 +347,16 @@
       "count": 8
     },
     {
-      "name": "Focus",
+      "name": "Notes",
       "count": 7
+    },
+    {
+      "name": "Focus",
+      "count": 6
     },
     {
       "name": "JavaScript",
-      "count": 7
-    },
-    {
-      "name": "Notes",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Objective-C",
@@ -364,6 +364,10 @@
     },
     {
       "name": "Clipboard",
+      "count": 5
+    },
+    {
+      "name": "Display",
       "count": 5
     },
     {
@@ -519,7 +523,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 132648,
+      "stars": 132651,
       "forks": 9146,
       "license": "MIT",
       "archived": false,
@@ -551,7 +555,7 @@
         "vmess"
       ],
       "language": "C#",
-      "stars": 116085,
+      "stars": 116087,
       "forks": 15908,
       "license": "GPL-3.0",
       "archived": false,
@@ -579,7 +583,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 90860,
+      "stars": 90868,
       "forks": 5072,
       "license": "Apache-2.0",
       "archived": false,
@@ -608,7 +612,7 @@
       ],
       "language": "Rust",
       "stars": 90190,
-      "forks": 10595,
+      "forks": 10596,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-13T20:24:21Z"
@@ -640,8 +644,8 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 76602,
-      "forks": 6001,
+      "stars": 76605,
+      "forks": 6000,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-10T07:05:13Z"
@@ -734,7 +738,7 @@
         "istat"
       ],
       "language": "Shell",
-      "stars": 67024,
+      "stars": 67028,
       "forks": 2353,
       "license": "GPL-3.0",
       "archived": false,
@@ -768,8 +772,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 65683,
-      "forks": 9187,
+      "stars": 65704,
+      "forks": 9188,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-12T01:29:30Z"
@@ -828,7 +832,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 63082,
+      "stars": 63083,
       "forks": 5766,
       "license": "Apache-2.0",
       "archived": false,
@@ -851,7 +855,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 61046,
+      "stars": 61047,
       "forks": 3436,
       "license": "MIT",
       "archived": false,
@@ -907,7 +911,7 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 55093,
+      "stars": 55094,
       "forks": 2440,
       "license": "MIT",
       "archived": false,
@@ -967,11 +971,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 51757,
+      "stars": 51758,
       "forks": 4958,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-13T20:11:16Z"
+      "pushed_at": "2026-09-13T21:39:34Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -989,7 +993,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 49224,
+      "stars": 49226,
       "forks": 2889,
       "license": "ISC",
       "archived": false,
@@ -1018,7 +1022,7 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46328,
+      "stars": 46330,
       "forks": 2918,
       "license": "GPL-3.0",
       "archived": false,
@@ -1084,7 +1088,7 @@
         "video"
       ],
       "language": "TypeScript",
-      "stars": 43722,
+      "stars": 43723,
       "forks": 2168,
       "license": "GPL-2.0",
       "archived": false,
@@ -1116,7 +1120,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41759,
+      "stars": 41760,
       "forks": 1522,
       "license": "MIT",
       "archived": false,
@@ -1211,7 +1215,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35475,
+      "stars": 35476,
       "forks": 1818,
       "license": "Apache-2.0",
       "archived": false,
@@ -1254,9 +1258,10 @@
       "url": "https://github.com/waydabber/BetterDisplay",
       "homepage": "https://betterdisplay.pro",
       "description": "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!",
-      "category": "media",
+      "category": "remote",
       "tags": [
-        "Video"
+        "Video",
+        "Display"
       ],
       "topics": [
         "4k",
@@ -1321,6 +1326,7 @@
       "description": "Android real-time display control software",
       "category": "remote",
       "tags": [
+        "Display",
         "C++"
       ],
       "topics": [
@@ -1390,7 +1396,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 31493,
+      "stars": 31495,
       "forks": 2866,
       "license": "MIT",
       "archived": false,
@@ -1411,7 +1417,7 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 30514,
+      "stars": 30515,
       "forks": 3192,
       "license": "",
       "archived": false,
@@ -1434,7 +1440,7 @@
       "topics": [],
       "language": "Swift",
       "stars": 29900,
-      "forks": 994,
+      "forks": 995,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-12T20:18:37Z"
@@ -1465,7 +1471,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29610,
+      "stars": 29611,
       "forks": 902,
       "license": "GPL-3.0",
       "archived": false,
@@ -1498,8 +1504,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 28255,
-      "forks": 2137,
+      "stars": 28267,
+      "forks": 2138,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-13T19:16:18Z"
@@ -1690,7 +1696,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 24308,
+      "stars": 24310,
       "forks": 1574,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1781,7 +1787,7 @@
       ],
       "language": "Rust",
       "stars": 22205,
-      "forks": 1902,
+      "forks": 1903,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-12T22:11:53Z"
@@ -1815,7 +1821,7 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 21992,
+      "stars": 21993,
       "forks": 2039,
       "license": "MIT",
       "archived": false,
@@ -1870,11 +1876,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 21515,
+      "stars": 21516,
       "forks": 7747,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-09-13T19:21:23Z"
+      "pushed_at": "2026-09-13T21:23:05Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1892,7 +1898,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 19766,
+      "stars": 19767,
       "forks": 1376,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1948,7 +1954,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 18747,
+      "stars": 18751,
       "forks": 673,
       "license": "GPL-3.0",
       "archived": false,
@@ -2170,7 +2176,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 14385,
+      "stars": 14387,
       "forks": 1105,
       "license": "GPL-3.0",
       "archived": false,
@@ -2226,7 +2232,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13174,
+      "stars": 13175,
       "forks": 599,
       "license": "GPL-3.0",
       "archived": false,
@@ -2375,7 +2381,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 10718,
+      "stars": 10719,
       "forks": 253,
       "license": "GPL-3.0",
       "archived": false,
@@ -2397,7 +2403,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 10705,
+      "stars": 10706,
       "forks": 1006,
       "license": "GPL-3.0",
       "archived": false,
@@ -2519,7 +2525,7 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 9013,
+      "stars": 9014,
       "forks": 573,
       "license": "GPL-3.0",
       "archived": false,
@@ -2647,11 +2653,11 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 7907,
+      "stars": 7908,
       "forks": 467,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T20:57:01Z"
+      "pushed_at": "2026-09-13T21:33:06Z"
     },
     {
       "full_name": "peazip/PeaZip",
@@ -2867,7 +2873,7 @@
         "iptv-player-application"
       ],
       "language": "TypeScript",
-      "stars": 7086,
+      "stars": 7087,
       "forks": 904,
       "license": "MIT",
       "archived": false,
@@ -2935,39 +2941,6 @@
       "pushed_at": "2026-09-13T12:56:23Z"
     },
     {
-      "full_name": "hovancik/stretchly",
-      "name": "stretchly",
-      "owner": "hovancik",
-      "avatar": "https://avatars.githubusercontent.com/u/4745859?v=4",
-      "icon": "icons/hovancik__stretchly.svg",
-      "url": "https://github.com/hovancik/stretchly",
-      "homepage": "https://hovancik.net/stretchly",
-      "description": "The break time reminder app",
-      "category": "focus",
-      "tags": [
-        "Focus",
-        "Electron",
-        "Cross-platform",
-        "JavaScript"
-      ],
-      "topics": [
-        "breaks",
-        "bsd",
-        "electron",
-        "linux",
-        "longer-breaks",
-        "macos",
-        "reminder",
-        "windows"
-      ],
-      "language": "JavaScript",
-      "stars": 6533,
-      "forks": 559,
-      "license": "BSD-2-Clause",
-      "archived": false,
-      "pushed_at": "2026-08-14T08:51:57Z"
-    },
-    {
       "full_name": "momenbasel/PureMac",
       "name": "PureMac",
       "owner": "momenbasel",
@@ -2994,7 +2967,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6410,
+      "stars": 6412,
       "forks": 351,
       "license": "MIT",
       "archived": false,
@@ -3020,7 +2993,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 6404,
+      "stars": 6405,
       "forks": 912,
       "license": "",
       "archived": false,
@@ -3051,7 +3024,7 @@
       ],
       "language": "",
       "stars": 6276,
-      "forks": 266,
+      "forks": 265,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-13T09:41:57Z"
@@ -3194,7 +3167,7 @@
         "mongodb"
       ],
       "language": "Swift",
-      "stars": 5867,
+      "stars": 5869,
       "forks": 390,
       "license": "AGPL-3.0",
       "archived": false,
@@ -3693,8 +3666,8 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3419,
-      "forks": 202,
+      "stars": 3420,
+      "forks": 203,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-04T14:39:24Z"
@@ -3742,6 +3715,7 @@
       "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
       "category": "remote",
       "tags": [
+        "Display",
         "Monitoring",
         "iOS",
         "Swift"
@@ -3757,7 +3731,7 @@
         "second-monitor"
       ],
       "language": "Swift",
-      "stars": 3225,
+      "stars": 3231,
       "forks": 230,
       "license": "GPL-3.0",
       "archived": false,
@@ -3787,7 +3761,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 3116,
+      "stars": 3117,
       "forks": 174,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -3950,7 +3924,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2670,
+      "stars": 2671,
       "forks": 271,
       "license": "MIT",
       "archived": false,
@@ -4009,7 +3983,7 @@
         "shortcuts"
       ],
       "language": "",
-      "stars": 2561,
+      "stars": 2562,
       "forks": 40,
       "license": "BSD-3-Clause-Clear",
       "archived": false,
@@ -4030,7 +4004,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2546,
+      "stars": 2547,
       "forks": 72,
       "license": "MIT",
       "archived": false,
@@ -4231,7 +4205,7 @@
         "macos-app"
       ],
       "language": "Swift",
-      "stars": 2295,
+      "stars": 2296,
       "forks": 136,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -4496,7 +4470,7 @@
         "ai-workflow"
       ],
       "language": "TypeScript",
-      "stars": 1967,
+      "stars": 1968,
       "forks": 82,
       "license": "MIT",
       "archived": false,
@@ -4852,7 +4826,7 @@
       "forks": 97,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T01:06:04Z"
+      "pushed_at": "2026-09-13T21:41:44Z"
     },
     {
       "full_name": "VirtualBox/virtualbox",
@@ -5188,7 +5162,7 @@
       "forks": 28,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T20:56:29Z"
+      "pushed_at": "2026-09-13T21:06:18Z"
     },
     {
       "full_name": "MacPaw/cleanmymac-cli",
@@ -5382,11 +5356,12 @@
       "icon": "",
       "url": "https://github.com/sumimakito/Mac-Duo",
       "homepage": "",
-      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "category": "menubar",
+      "description": "Tilts, blurs and fades your screen content as you close the MacBook lid, rendered live with Metal and ScreenCaptureKit.",
+      "category": "fun",
       "tags": [
+        "Fun",
+        "Display",
         "Menu Bar",
-        "iOS",
         "Swift"
       ],
       "topics": [
@@ -5524,11 +5499,11 @@
         "parakeet"
       ],
       "language": "Swift",
-      "stars": 641,
+      "stars": 642,
       "forks": 69,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-09-13T20:44:00Z"
+      "pushed_at": "2026-09-13T21:37:00Z"
     },
     {
       "full_name": "pablopunk/SwiftShift",
@@ -6097,7 +6072,7 @@
         "mac-native"
       ],
       "language": "Swift",
-      "stars": 407,
+      "stars": 408,
       "forks": 51,
       "license": "MIT",
       "archived": false,
@@ -6349,7 +6324,7 @@
       "forks": 14,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T05:03:59Z"
+      "pushed_at": "2026-09-13T21:16:10Z"
     },
     {
       "full_name": "romankurnovskii/BrewMate",
@@ -6566,7 +6541,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 178,
+      "stars": 179,
       "forks": 10,
       "license": "AGPL-3.0",
       "archived": false,
@@ -6580,10 +6555,12 @@
       "icon": "icons/DhananjayBhosale__MacDuo.png",
       "url": "https://github.com/DhananjayBhosale/MacDuo",
       "homepage": "https://macduo.dhananjaytech.app",
-      "description": "A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.",
-      "category": "system",
+      "description": "Six Metal-rendered desktop effects that follow the movement of your MacBook lid, from a soft fade to a rolling or shuttering display.",
+      "category": "fun",
       "tags": [
-        "Swift"
+        "Swift",
+        "Fun",
+        "Display"
       ],
       "topics": [],
       "language": "Swift",
@@ -6819,7 +6796,7 @@
         "storage-analyzer"
       ],
       "language": "Swift",
-      "stars": 115,
+      "stars": 116,
       "forks": 11,
       "license": "MIT",
       "archived": false,
