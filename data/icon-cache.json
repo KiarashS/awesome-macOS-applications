@@ -59,6 +59,11 @@
     "path": "src/renderer/assets/images/logo.png",
     "sha": "98ee7d4e42cfd576e81240ddc14b1d138c60f51a"
   },
+  "DamascenoRafael/reminders-menubar": {
+    "file": "icons/DamascenoRafael__reminders-menubar.png",
+    "path": "reminders-menubar/Resources/Assets.xcassets/AppIcon.appiconset/reminders-128x128@2x.png",
+    "sha": "b6cc06064224bfeeb222de554aad296599fbaac8"
+  },
   "EEliberto/SurgeRelay-macOS": {
     "file": "icons/EEliberto__SurgeRelay-macOS.png",
     "path": "SurgeRelay/WebResources/app-icon.png",
@@ -139,11 +144,6 @@
     "path": "Icon.png",
     "sha": "8a2c48e44cf3a229443f63135a85b74c58407bc4"
   },
-  "Marginal/QuickLookVideo": {
-    "file": "icons/Marginal__QuickLookVideo.png",
-    "path": "app/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
-    "sha": "4e5174ef09110bd6cb65d3688876c61ac7c53a95"
-  },
   "Mason363/Tactile": {
     "file": "icons/Mason363__Tactile.png",
     "path": "Tactile/Assets.xcassets/AppIcon.appiconset/icon_256.png",
@@ -178,6 +178,11 @@
     "file": "icons/PostgresApp__PostgresApp.png",
     "path": "Postgres/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "4dac274cbf7eac5d11eefd3a93cccf9bc0a2684f"
+  },
+  "PostgresGUI/postgresgui": {
+    "file": "icons/PostgresGUI__postgresgui.png",
+    "path": "PostgresGUI/Assets.xcassets/AppIcon.appiconset/PostgresGUI-macOS-Default-256px.png",
+    "sha": "9329cca13cdf754c4c7370af8ee9bc7f14cd74e5"
   },
   "Punshnut/macos-launchy": {
     "file": "icons/Punshnut__macos-launchy.png",
@@ -233,6 +238,11 @@
     "file": "icons/ZToolsCenter__ZTools.png",
     "path": ".github/assets/icon.png",
     "sha": "379680f446819a8875c23a744262dc8c2bfd00a6"
+  },
+  "Zettlr/Zettlr": {
+    "file": "icons/Zettlr__Zettlr.svg",
+    "path": "source/common/img/logo.svg",
+    "sha": "3a7c49e9475d09437e56cc34b844781caade6410"
   },
   "aimen08/noty": {
     "file": "icons/aimen08__noty.png",
@@ -364,6 +374,16 @@
     "path": "ClaudeIsland/Assets.xcassets/AppIcon.appiconset/icon_256x256 1.png",
     "sha": "685044a6ad110fc268b9694efcb482399e38ad2c"
   },
+  "fatihkan/wallnetic": {
+    "file": "icons/fatihkan__wallnetic.png",
+    "path": "src/Wallnetic/Resources/Assets.xcassets/AppIcon.appiconset/mac-128x128@2x.png",
+    "sha": "ebf895579b4c4cdedc99120787260d6c81ae81c4"
+  },
+  "fayazara/Screendrop": {
+    "file": "icons/fayazara__Screendrop.png",
+    "path": "Screendrop/icon.png",
+    "sha": "c9cea00d36bde45653a1b49b8bae8c10a8534295"
+  },
   "fluffypony/yojam": {
     "file": "icons/fluffypony__yojam.png",
     "path": "Sources/Yojam/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
@@ -373,6 +393,11 @@
     "file": "icons/ganeshmshetty__openclip.png",
     "path": "Sources/OpenClip/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
     "sha": "99c2b7d39d661e5e3085850383b3a5f888ca6061"
+  },
+  "ggbond268/MacTools": {
+    "file": "icons/ggbond268__MacTools.png",
+    "path": "docs/assets/logo-mactools-rounded.png",
+    "sha": "2e088df88c77df7a4b3e70c2cf7ec0a2d8a7c97f"
   },
   "ghostty-org/ghostty": {
     "file": "icons/ghostty-org__ghostty.png",
@@ -529,6 +554,11 @@
     "path": "resources/icons/app/app.iconset/icon_128x128.png",
     "sha": "308160407906a196c39924cf7ac0a4f932cb988e"
   },
+  "lyswhut/lx-music-desktop": {
+    "file": "icons/lyswhut__lx-music-desktop.svg",
+    "path": "src/renderer/assets/images/icon.svg",
+    "sha": "2fb39ebe509a11ed294cd6a8641ab38864e9c8f1"
+  },
   "lzhgus/Capso": {
     "file": "icons/lzhgus__Capso.png",
     "path": "App/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
@@ -603,6 +633,11 @@
     "file": "icons/nguyenphutrong__quotio.png",
     "path": "Quotio/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "43deec38c4b96b3069989b927926c8c4b20b1274"
+  },
+  "nickustinov/itsytv-macos": {
+    "file": "icons/nickustinov__itsytv-macos.png",
+    "path": "itsytv/Resources/Assets.xcassets/AppIcon.appiconset/icon_256x256.png",
+    "sha": "4082e85a682b0d02226e2c672a74cdaab80d6b5d"
   },
   "noah-nuebling/mac-mouse-fix": {
     "file": "icons/noah-nuebling__mac-mouse-fix.png",
@@ -689,6 +724,11 @@
     "path": "pack/electron/icons/icon.png",
     "sha": "205ca6a9afc104c8219ff011cf649ce63f0440c3"
   },
+  "razzant/claudexor": {
+    "file": "icons/razzant__claudexor.png",
+    "path": "apps/macos/ClaudexorApp/Sources/ClaudexorApp/Resources/AppIcon.png",
+    "sha": "45e667bb1a2e64f31260dafd7ffeb6fbfe9fa807"
+  },
   "readest/readest": {
     "file": "icons/readest__readest.png",
     "path": "apps/readest-calibre-plugin/images/icon.png",
@@ -698,6 +738,11 @@
     "file": "icons/refactoringhq__tolaria.png",
     "path": "src-tauri/gen/apple/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
     "sha": "704c929133f23779ee37099bf32d400b01599be1"
+  },
+  "rlxone/Equinox": {
+    "file": "icons/rlxone__Equinox.png",
+    "path": "Equinox/Equinox/Resources/AppIcon.xcassets/AppIcon.appiconset/256-1.png",
+    "sha": "9aabbe05c68a0465b7850750d9f41436c61fcc6e"
   },
   "rokartur/BetterCmdTab": {
     "file": "icons/rokartur__BetterCmdTab.png",
