@@ -6,7 +6,8 @@
     "haystack built from the repo name, its description and its GitHub topics.",
     "Keywords match on word boundaries, so 'board' will not match 'keyboard'.",
     "Anything the rules get wrong can be pinned by hand in overrides.json.",
-    "Each category carries a 'color' used for its sidebar and Dock icon — macOS Golden Gate brings coloured sidebar icons back after Tahoe removed them."
+    "Each category carries a 'color' used for its sidebar and Dock icon — macOS Golden Gate brings coloured sidebar icons back after Tahoe removed them.",
+    "The fallback category must be LAST: it is the bucket for everything no rule claimed, so any rule after it is unreachable for the terms it matches."
   ],
   "categories": [
     {
@@ -129,6 +130,30 @@
       "color": "#ff9500"
     },
     {
+      "id": "learning",
+      "label": "Learning & Language",
+      "icon": "graduate",
+      "color": "#a3c93a",
+      "blurb": "Flashcards, spaced repetition, dictionaries and translation.",
+      "keywords": [
+        "flashcard",
+        "flashcards",
+        "spaced repetition",
+        "anki",
+        "study",
+        "revision",
+        "dictionary",
+        "translate",
+        "translation",
+        "translator",
+        "language learning",
+        "vocabulary",
+        "course",
+        "courses",
+        "quiz"
+      ]
+    },
+    {
       "id": "ai",
       "label": "AI & LLM",
       "icon": "sparkles",
@@ -151,7 +176,11 @@
         "agent",
         "agents",
         "copilot",
-        "chatbot"
+        "chatbot",
+        "voice-to-text",
+        "voice to text",
+        "voice typing",
+        "dictation"
       ],
       "color": "#bf5af2"
     },
@@ -197,7 +226,12 @@
         "reminder",
         "reminders",
         "eye-strain",
-        "rsi"
+        "rsi",
+        "posture",
+        "slouch",
+        "ergonomic",
+        "ergonomics",
+        "stretch"
       ],
       "color": "#ff453a"
     },
@@ -262,6 +296,29 @@
       "color": "#32d74b"
     },
     {
+      "id": "databases",
+      "label": "Databases & Data",
+      "icon": "database",
+      "color": "#c0562b",
+      "blurb": "Database clients, servers and data browsers.",
+      "keywords": [
+        "database",
+        "databases",
+        "redis",
+        "postgres",
+        "postgresql",
+        "mysql",
+        "mariadb",
+        "sqlite",
+        "mongodb",
+        "mongo",
+        "sql client",
+        "dbms",
+        "data browser",
+        "query editor"
+      ]
+    },
+    {
       "id": "security",
       "label": "Security & Privacy",
       "icon": "lock",
@@ -304,9 +361,37 @@
         "shadowsocks",
         "wireguard",
         "bandwidth",
-        "sni"
+        "sni",
+        "hosts",
+        "hosts file",
+        "host switcher"
       ],
       "color": "#00c7be"
+    },
+    {
+      "id": "remote",
+      "label": "Screens & Devices",
+      "icon": "display",
+      "color": "#b07de0",
+      "blurb": "Second screens, screen sharing and controlling other devices.",
+      "keywords": [
+        "scrcpy",
+        "second display",
+        "second screen",
+        "external display",
+        "sidecar",
+        "duet",
+        "screen sharing",
+        "screen share",
+        "remote desktop",
+        "vnc",
+        "rdp",
+        "android device",
+        "ios device",
+        "device control",
+        "display control",
+        "airplay"
+      ]
     },
     {
       "id": "input",
@@ -380,7 +465,10 @@
         "obsidian",
         "zettelkasten",
         "outliner",
-        "annotation"
+        "annotation",
+        "publication",
+        "publishing",
+        "workbench"
       ],
       "color": "#ffd426"
     },
@@ -410,41 +498,14 @@
         "transfer",
         "quick look",
         "quicklook",
-        "preview"
+        "preview",
+        "airdrop",
+        "file transfer",
+        "file sharing",
+        "file search",
+        "file searching"
       ],
       "color": "#409cff"
-    },
-    {
-      "id": "system",
-      "label": "System & Maintenance",
-      "icon": "gear",
-      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "keywords": [
-        "cleaner",
-        "clean",
-        "uninstall",
-        "uninstaller",
-        "maintenance",
-        "system",
-        "disk",
-        "storage",
-        "battery",
-        "monitor",
-        "monitoring",
-        "tweak",
-        "tweaks",
-        "preferences",
-        "settings",
-        "cpu",
-        "memory",
-        "temperature",
-        "fan",
-        "toolbox",
-        "switcher",
-        "toggle",
-        "toggles"
-      ],
-      "color": "#98989d"
     },
     {
       "id": "web",
@@ -499,7 +560,12 @@
         "json",
         "regex",
         "linter",
-        "boilerplate"
+        "boilerplate",
+        "colour picker",
+        "color picker",
+        "eyedropper",
+        "hex colour",
+        "hex color"
       ],
       "color": "#ac8e68"
     },
@@ -518,9 +584,44 @@
         "mascot",
         "wallpaper",
         "screensaver",
-        "aquarium"
+        "aquarium",
+        "wallpapers",
+        "desktop picture",
+        "desktop pictures"
       ],
       "color": "#ff8cc8"
+    },
+    {
+      "id": "system",
+      "label": "System & Maintenance",
+      "icon": "gear",
+      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
+      "keywords": [
+        "cleaner",
+        "clean",
+        "uninstall",
+        "uninstaller",
+        "maintenance",
+        "system",
+        "disk",
+        "storage",
+        "battery",
+        "monitor",
+        "monitoring",
+        "tweak",
+        "tweaks",
+        "preferences",
+        "settings",
+        "cpu",
+        "memory",
+        "temperature",
+        "fan",
+        "toolbox",
+        "switcher",
+        "toggle",
+        "toggles"
+      ],
+      "color": "#98989d"
     }
   ],
   "fallback_category": "system",

@@ -9,46 +9,148 @@
     "              for repos whose own description says nothing useful)",
     "Anything not listed here is left entirely to the rules."
   ],
-
-  "ashutosh1919/masterPortfolio": { "category": "web" },
-  "briefercloud/briefer": { "category": "devtools", "add_tags": ["Dashboard"] },
-  "mattermost-community/focalboard": { "add_tags": ["Tasks"] },
-
-  "jacklandrin/OnlySwitch": { "category": "menubar" },
-  "f/textream": { "category": "media", "tags": ["Presenting", "Notch", "Swift"] },
-  "crissNb/Dynamic-Island-Sketchybar": { "tags": ["Notch", "Menu Bar", "Shell"] },
-  "tristan666666/agent-island": { "tags": ["Notch", "AI", "Notifications", "Swift"] },
-
-  "momenbasel/PureMac": { "category": "system", "tags": ["Cleanup", "Privacy", "SwiftUI", "Swift"] },
-  "mangerlahn/Latest": { "category": "packages", "add_tags": ["Updates"] },
-  "buresdv/Cork": { "tags": ["Homebrew", "SwiftUI", "Swift"] },
-
-  "peazip/PeaZip": { "category": "files" },
-  "iordv/Droppy": { "category": "files" },
-  "Ender-Wang/EdgeMark": { "category": "notes", "add_tags": ["Notes"] },
-  "xjbeta/iina-plus": { "category": "media", "add_tags": ["Video"] },
-  "403unlocker/bargozin-desktop": { "category": "network", "tags": ["DNS", "Proxy", "TypeScript"] },
-  "Licoy/StrokeMouse": { "category": "input", "tags": ["Mouse", "Shortcuts", "Swift"] },
-  "utmapp/UTM": { "add_tags": ["Virtualization"] },
-  "obsidianmd/obsidian-releases": { "tags": ["Notes", "Markdown"] },
-  "romkatv/powerlevel10k": { "tags": ["Terminal", "Shell"] },
-  "ShubhamPP04/Izzy": { "tags": ["Audio", "Swift"] },
-
+  "ashutosh1919/masterPortfolio": {
+    "category": "web"
+  },
+  "briefercloud/briefer": {
+    "category": "devtools",
+    "add_tags": [
+      "Dashboard"
+    ]
+  },
+  "mattermost-community/focalboard": {
+    "add_tags": [
+      "Tasks"
+    ]
+  },
+  "jacklandrin/OnlySwitch": {
+    "category": "menubar"
+  },
+  "f/textream": {
+    "category": "media",
+    "tags": [
+      "Presenting",
+      "Notch",
+      "Swift"
+    ]
+  },
+  "crissNb/Dynamic-Island-Sketchybar": {
+    "tags": [
+      "Notch",
+      "Menu Bar",
+      "Shell"
+    ]
+  },
+  "tristan666666/agent-island": {
+    "tags": [
+      "Notch",
+      "AI",
+      "Notifications",
+      "Swift"
+    ]
+  },
+  "momenbasel/PureMac": {
+    "category": "system",
+    "tags": [
+      "Cleanup",
+      "Privacy",
+      "SwiftUI",
+      "Swift"
+    ]
+  },
+  "mangerlahn/Latest": {
+    "category": "packages",
+    "add_tags": [
+      "Updates"
+    ]
+  },
+  "buresdv/Cork": {
+    "tags": [
+      "Homebrew",
+      "SwiftUI",
+      "Swift"
+    ]
+  },
+  "peazip/PeaZip": {
+    "category": "files"
+  },
+  "iordv/Droppy": {
+    "category": "files"
+  },
+  "Ender-Wang/EdgeMark": {
+    "category": "notes",
+    "add_tags": [
+      "Notes"
+    ]
+  },
+  "xjbeta/iina-plus": {
+    "category": "media",
+    "add_tags": [
+      "Video"
+    ]
+  },
+  "403unlocker/bargozin-desktop": {
+    "category": "network",
+    "tags": [
+      "DNS",
+      "Proxy",
+      "TypeScript"
+    ]
+  },
+  "Licoy/StrokeMouse": {
+    "category": "input",
+    "tags": [
+      "Mouse",
+      "Shortcuts",
+      "Swift"
+    ]
+  },
+  "utmapp/UTM": {
+    "add_tags": [
+      "Virtualization"
+    ]
+  },
+  "obsidianmd/obsidian-releases": {
+    "tags": [
+      "Notes",
+      "Markdown"
+    ]
+  },
+  "romkatv/powerlevel10k": {
+    "tags": [
+      "Terminal",
+      "Shell"
+    ]
+  },
+  "ShubhamPP04/Izzy": {
+    "tags": [
+      "Audio",
+      "Swift"
+    ]
+  },
   "hainguyents13/mechvibes": {
     "category": "input",
-    "add_tags": ["Keyboard", "Audio"],
+    "add_tags": [
+      "Keyboard",
+      "Audio"
+    ],
     "description": "Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs."
   },
   "MetaCubeX/ClashX.Meta": {
-    "description": "A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app."
+    "description": "A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.",
+    "category": "network"
   },
-
   "ayangweb/BongoCat": {
-    "add_tags": ["Fun", "Cross-platform"],
-    "description": "A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse."
+    "add_tags": [
+      "Fun",
+      "Cross-platform"
+    ],
+    "description": "A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.",
+    "category": "fun"
   },
   "qier222/YesPlayMusic": {
-    "description": "A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux."
+    "description": "A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.",
+    "category": "media"
   },
   "ZToolsCenter/ZTools": {
     "description": "An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows."
@@ -58,5 +160,12 @@
   },
   "guilhermeborgesbastos/live-resume": {
     "description": "A fast personal web app for building a professional single-page website and resume that highlights your skills and experience."
+  },
+  "zachlatta/freeflow": {
+    "category": "ai",
+    "add_tags": [
+      "Speech"
+    ],
+    "description": "A fast, free voice-to-text dictation app for macOS, in the mould of Wispr Flow."
   }
 }
