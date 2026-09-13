@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13T08:30:08Z",
+  "generated_at": "2026-09-13T09:19:31Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 233,
-    "categories": 23,
-    "tags": 66,
-    "stars": 2785640
+    "apps": 234,
+    "categories": 26,
+    "tags": 67,
+    "stars": 2787682
   },
   "categories": [
     {
@@ -69,12 +69,20 @@
       "count": 3
     },
     {
+      "id": "learning",
+      "label": "Learning & Language",
+      "icon": "graduate",
+      "color": "#a3c93a",
+      "blurb": "Flashcards, spaced repetition, dictionaries and translation.",
+      "count": 3
+    },
+    {
       "id": "ai",
       "label": "AI & LLM",
       "icon": "sparkles",
       "color": "#bf5af2",
       "blurb": "Local and hosted models, assistants and speech tooling.",
-      "count": 28
+      "count": 30
     },
     {
       "id": "launchers",
@@ -90,7 +98,7 @@
       "icon": "timer",
       "color": "#ff453a",
       "blurb": "Pomodoro timers, break reminders, boards and task tools.",
-      "count": 10
+      "count": 11
     },
     {
       "id": "windows",
@@ -114,7 +122,15 @@
       "icon": "terminal",
       "color": "#32d74b",
       "blurb": "Shells, prompts, terminal emulators and CLI toys.",
-      "count": 8
+      "count": 7
+    },
+    {
+      "id": "databases",
+      "label": "Databases & Data",
+      "icon": "database",
+      "color": "#c0562b",
+      "blurb": "Database clients, servers and data browsers.",
+      "count": 4
     },
     {
       "id": "security",
@@ -130,7 +146,15 @@
       "icon": "globe",
       "color": "#00c7be",
       "blurb": "Proxies, VPNs, DNS switchers and network tooling.",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "remote",
+      "label": "Screens & Devices",
+      "icon": "display",
+      "color": "#b07de0",
+      "blurb": "Second screens, screen sharing and controlling other devices.",
+      "count": 2
     },
     {
       "id": "input",
@@ -146,7 +170,7 @@
       "icon": "play",
       "color": "#ff2d55",
       "blurb": "Video players, music apps and everything that makes noise.",
-      "count": 10
+      "count": 11
     },
     {
       "id": "notes",
@@ -154,7 +178,7 @@
       "icon": "note",
       "color": "#ffd426",
       "blurb": "Note taking, Markdown editors and knowledge bases.",
-      "count": 13
+      "count": 12
     },
     {
       "id": "files",
@@ -162,15 +186,7 @@
       "icon": "folder",
       "color": "#409cff",
       "blurb": "File managers, drag-and-drop shelves, backup and archiving.",
-      "count": 6
-    },
-    {
-      "id": "system",
-      "label": "System & Maintenance",
-      "icon": "gear",
-      "color": "#98989d",
-      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 25
+      "count": 9
     },
     {
       "id": "web",
@@ -194,7 +210,15 @@
       "icon": "sparkle",
       "color": "#ff8cc8",
       "blurb": "Purely delightful, mostly useless, entirely worth installing.",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "system",
+      "label": "System & Maintenance",
+      "icon": "gear",
+      "color": "#98989d",
+      "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
+      "count": 10
     }
   ],
   "tags": [
@@ -208,7 +232,7 @@
     },
     {
       "name": "AI",
-      "count": 39
+      "count": 40
     },
     {
       "name": "Menu Bar",
@@ -216,11 +240,11 @@
     },
     {
       "name": "Cross-platform",
-      "count": 28
+      "count": 29
     },
     {
       "name": "TypeScript",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Terminal",
@@ -248,7 +272,7 @@
     },
     {
       "name": "Electron",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Rust",
@@ -315,6 +339,10 @@
       "count": 8
     },
     {
+      "name": "Speech",
+      "count": 8
+    },
+    {
       "name": "Virtualization",
       "count": 8
     },
@@ -328,10 +356,6 @@
     },
     {
       "name": "Notes",
-      "count": 7
-    },
-    {
-      "name": "Speech",
       "count": 7
     },
     {
@@ -427,10 +451,6 @@
       "count": 2
     },
     {
-      "name": "System & Maintenance",
-      "count": 2
-    },
-    {
       "name": "Updates",
       "count": 2
     },
@@ -443,11 +463,19 @@
       "count": 1
     },
     {
+      "name": "Databases & Data",
+      "count": 1
+    },
+    {
       "name": "Encryption",
       "count": 1
     },
     {
       "name": "Files & Sync",
+      "count": 1
+    },
+    {
+      "name": "Fun & Desktop Toys",
       "count": 1
     },
     {
@@ -491,7 +519,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 132586,
+      "stars": 132590,
       "forks": 9142,
       "license": "MIT",
       "archived": false,
@@ -523,7 +551,7 @@
         "vmess"
       ],
       "language": "C#",
-      "stars": 116043,
+      "stars": 116047,
       "forks": 15904,
       "license": "GPL-3.0",
       "archived": false,
@@ -538,7 +566,7 @@
       "url": "https://github.com/localsend/localsend",
       "homepage": "https://localsend.org",
       "description": "An open-source cross-platform alternative to AirDrop",
-      "category": "system",
+      "category": "files",
       "tags": [
         "Files",
         "Cross-platform",
@@ -551,8 +579,8 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 90720,
-      "forks": 5062,
+      "stars": 90723,
+      "forks": 5063,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-09-12T14:49:37Z"
@@ -644,7 +672,7 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 76140,
+      "stars": 76142,
       "forks": 10143,
       "license": "GPL-2.0",
       "archived": false,
@@ -706,8 +734,8 @@
         "istat"
       ],
       "language": "Shell",
-      "stars": 66961,
-      "forks": 2351,
+      "stars": 66963,
+      "forks": 2352,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-13T07:00:36Z"
@@ -740,8 +768,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 65433,
-      "forks": 9156,
+      "stars": 65443,
+      "forks": 9159,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-12T01:29:30Z"
@@ -800,8 +828,8 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 63074,
-      "forks": 5764,
+      "stars": 63075,
+      "forks": 5765,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-09-08T15:45:18Z"
@@ -823,7 +851,7 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 61019,
+      "stars": 61023,
       "forks": 3435,
       "license": "MIT",
       "archived": false,
@@ -855,11 +883,11 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 59881,
+      "stars": 59883,
       "forks": 2660,
       "license": "ISC",
       "archived": false,
-      "pushed_at": "2026-09-13T08:27:59Z"
+      "pushed_at": "2026-09-13T08:29:00Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -908,7 +936,7 @@
         "vue"
       ],
       "language": "TypeScript",
-      "stars": 53556,
+      "stars": 53557,
       "forks": 7001,
       "license": "Apache-2.0",
       "archived": false,
@@ -939,11 +967,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 51743,
+      "stars": 51744,
       "forks": 4957,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-13T08:05:00Z"
+      "pushed_at": "2026-09-13T08:47:43Z"
     },
     {
       "full_name": "tmux/tmux",
@@ -961,7 +989,7 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 49215,
+      "stars": 49216,
       "forks": 2887,
       "license": "ISC",
       "archived": false,
@@ -990,11 +1018,11 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46318,
+      "stars": 46319,
       "forks": 2916,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-13T07:57:58Z"
+      "pushed_at": "2026-09-13T08:46:07Z"
     },
     {
       "full_name": "vercel/hyper",
@@ -1088,7 +1116,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41756,
+      "stars": 41757,
       "forks": 1521,
       "license": "MIT",
       "archived": false,
@@ -1151,7 +1179,7 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 38952,
+      "stars": 38951,
       "forks": 2120,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1183,7 +1211,7 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35468,
+      "stars": 35469,
       "forks": 1817,
       "license": "Apache-2.0",
       "archived": false,
@@ -1198,7 +1226,7 @@
       "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
       "homepage": "",
       "description": "A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
-      "category": "system",
+      "category": "databases",
       "tags": [
         "Cross-platform",
         "JavaScript"
@@ -1226,7 +1254,7 @@
       "url": "https://github.com/qier222/YesPlayMusic",
       "homepage": "https://music.qier222.com",
       "description": "A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.",
-      "category": "terminal",
+      "category": "media",
       "tags": [
         "Audio",
         "Video",
@@ -1261,7 +1289,7 @@
       "url": "https://github.com/barry-ran/QtScrcpy",
       "homepage": "https://blog.csdn.net/rankun1/article/details/87970523",
       "description": "Android real-time display control software",
-      "category": "system",
+      "category": "remote",
       "tags": [
         "C++"
       ],
@@ -1332,7 +1360,7 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 31470,
+      "stars": 31472,
       "forks": 2863,
       "license": "MIT",
       "archived": false,
@@ -1347,13 +1375,13 @@
       "url": "https://github.com/ankitects/anki",
       "homepage": "https://apps.ankiweb.net",
       "description": "Anki is a smart spaced repetition flashcard program",
-      "category": "system",
+      "category": "learning",
       "tags": [
         "Rust"
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 30502,
+      "stars": 30505,
       "forks": 3193,
       "license": "",
       "archived": false,
@@ -1408,7 +1436,7 @@
       ],
       "language": "Swift",
       "stars": 29607,
-      "forks": 900,
+      "forks": 901,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2025-09-20T20:28:17Z"
@@ -1475,8 +1503,8 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 27957,
-      "forks": 2094,
+      "stars": 27976,
+      "forks": 2095,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-13T08:01:14Z"
@@ -1523,7 +1551,7 @@
       "url": "https://github.com/oldj/SwitchHosts",
       "homepage": "https://switchhosts.app",
       "description": "Switch hosts quickly!",
-      "category": "system",
+      "category": "network",
       "tags": [
         "Electron",
         "Rust"
@@ -1598,7 +1626,7 @@
         "mihomo"
       ],
       "language": "TypeScript",
-      "stars": 26390,
+      "stars": 26392,
       "forks": 2071,
       "license": "GPL-3.0",
       "archived": false,
@@ -1632,7 +1660,7 @@
         "koreader"
       ],
       "language": "TypeScript",
-      "stars": 24294,
+      "stars": 24295,
       "forks": 1574,
       "license": "AGPL-3.0",
       "archived": false,
@@ -1665,11 +1693,11 @@
         "pet"
       ],
       "language": "Vue",
-      "stars": 23169,
+      "stars": 23170,
       "forks": 1130,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T07:52:30Z"
+      "pushed_at": "2026-09-13T09:12:41Z"
     },
     {
       "full_name": "pqrs-org/Karabiner-Elements",
@@ -1722,7 +1750,7 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 22170,
+      "stars": 22171,
       "forks": 1900,
       "license": "",
       "archived": false,
@@ -1783,7 +1811,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21557,
+      "stars": 21559,
       "forks": 1150,
       "license": "MIT",
       "archived": false,
@@ -1816,7 +1844,7 @@
       "forks": 7747,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-09-13T06:41:58Z"
+      "pushed_at": "2026-09-13T08:31:21Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -1890,7 +1918,7 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 18611,
+      "stars": 18614,
       "forks": 668,
       "license": "GPL-3.0",
       "archived": false,
@@ -1945,7 +1973,7 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 17903,
+      "stars": 17902,
       "forks": 912,
       "license": "Apache-2.0",
       "archived": false,
@@ -2063,7 +2091,7 @@
       "url": "https://github.com/tisfeng/Easydict",
       "homepage": "",
       "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up…",
-      "category": "ai",
+      "category": "learning",
       "tags": [
         "AI",
         "Keyboard",
@@ -2112,7 +2140,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 14376,
+      "stars": 14375,
       "forks": 1106,
       "license": "GPL-3.0",
       "archived": false,
@@ -2254,7 +2282,7 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11554,
+      "stars": 11555,
       "forks": 267,
       "license": "GPL-3.0",
       "archived": false,
@@ -2365,7 +2393,7 @@
       "forks": 317,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T08:26:39Z"
+      "pushed_at": "2026-09-13T09:03:24Z"
     },
     {
       "full_name": "ronitsingh10/FineTune",
@@ -2428,7 +2456,7 @@
         "youtube-dl-gui"
       ],
       "language": "Rust",
-      "stars": 9180,
+      "stars": 9181,
       "forks": 660,
       "license": "AGPL-3.0",
       "archived": false,
@@ -2593,7 +2621,7 @@
       "forks": 467,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T08:07:24Z"
+      "pushed_at": "2026-09-13T08:35:42Z"
     },
     {
       "full_name": "peazip/PeaZip",
@@ -2638,9 +2666,9 @@
       "url": "https://github.com/PostgresApp/PostgresApp",
       "homepage": "https://postgresapp.com",
       "description": "The easiest way to get started with PostgreSQL on the Mac",
-      "category": "system",
+      "category": "databases",
       "tags": [
-        "System & Maintenance"
+        "Databases & Data"
       ],
       "topics": [
         "postgis",
@@ -2662,7 +2690,7 @@
       "url": "https://github.com/Sequel-Ace/Sequel-Ace",
       "homepage": "https://sequel-ace.com",
       "description": "MySQL/MariaDB database management for macOS",
-      "category": "devtools",
+      "category": "databases",
       "tags": [
         "Objective-C"
       ],
@@ -2813,7 +2841,7 @@
       "forks": 904,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T08:12:40Z"
+      "pushed_at": "2026-09-13T09:17:55Z"
     },
     {
       "full_name": "milanvarady/Applite",
@@ -2839,7 +2867,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 7008,
+      "stars": 7009,
       "forks": 179,
       "license": "MIT",
       "archived": false,
@@ -2918,7 +2946,7 @@
       "url": "https://github.com/Beingpax/VoiceInk",
       "homepage": "https://tryvoiceink.com",
       "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
-      "category": "system",
+      "category": "ai",
       "tags": [
         "Speech",
         "Swift"
@@ -2962,7 +2990,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 6388,
+      "stars": 6389,
       "forks": 348,
       "license": "MIT",
       "archived": false,
@@ -2996,7 +3024,7 @@
       "forks": 266,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-09-13T06:08:56Z"
+      "pushed_at": "2026-09-13T09:05:46Z"
     },
     {
       "full_name": "MetaCubeX/ClashX.Meta",
@@ -3013,7 +3041,7 @@
       ],
       "topics": [],
       "language": "",
-      "stars": 6235,
+      "stars": 6236,
       "forks": 647,
       "license": "AGPL-3.0",
       "archived": false,
@@ -3036,7 +3064,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 6035,
+      "stars": 6036,
       "forks": 217,
       "license": "",
       "archived": false,
@@ -3119,7 +3147,7 @@
       "url": "https://github.com/TableProApp/TablePro",
       "homepage": "https://tablepro.app",
       "description": "Free and open source database client built natively for developers",
-      "category": "notes",
+      "category": "databases",
       "tags": [
         "Editor",
         "SwiftUI",
@@ -3136,11 +3164,11 @@
         "mongodb"
       ],
       "language": "Swift",
-      "stars": 5860,
+      "stars": 5859,
       "forks": 389,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-13T05:57:57Z"
+      "pushed_at": "2026-09-13T08:50:56Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -3171,7 +3199,7 @@
       ],
       "language": "Rust",
       "stars": 5270,
-      "forks": 264,
+      "forks": 265,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-07T07:33:12Z"
@@ -3288,7 +3316,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 4545,
+      "stars": 4546,
       "forks": 300,
       "license": "GPL-3.0",
       "archived": false,
@@ -3491,7 +3519,7 @@
       ],
       "language": "Swift",
       "stars": 3741,
-      "forks": 265,
+      "forks": 266,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-06T21:29:21Z"
@@ -3743,7 +3771,7 @@
       "url": "https://github.com/peetzweg/opendisplay",
       "homepage": "https://opendisplay.app",
       "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-      "category": "system",
+      "category": "remote",
       "tags": [
         "Monitoring",
         "iOS",
@@ -3760,8 +3788,8 @@
         "second-monitor"
       ],
       "language": "Swift",
-      "stars": 3056,
-      "forks": 222,
+      "stars": 3066,
+      "forks": 223,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-06T16:50:54Z"
@@ -3839,7 +3867,7 @@
         "paperwm"
       ],
       "language": "Swift",
-      "stars": 2864,
+      "stars": 2866,
       "forks": 120,
       "license": "GPL-2.0",
       "archived": false,
@@ -3884,10 +3912,11 @@
       "icon": "icons/zachlatta__freeflow.png",
       "url": "https://github.com/zachlatta/freeflow",
       "homepage": "https://freeflow.zachlatta.com",
-      "description": "Free & fast alternative to Wispr Flow",
-      "category": "system",
+      "description": "A fast, free voice-to-text dictation app for macOS, in the mould of Wispr Flow.",
+      "category": "ai",
       "tags": [
-        "Swift"
+        "Swift",
+        "Speech"
       ],
       "topics": [],
       "language": "Swift",
@@ -3906,7 +3935,7 @@
       "url": "https://github.com/superhighfives/pika",
       "homepage": "https://superhighfives.com/pika",
       "description": "An open-source colour picker app for macOS",
-      "category": "system",
+      "category": "devtools",
       "tags": [
         "SwiftUI",
         "Swift"
@@ -3965,7 +3994,7 @@
       "url": "https://github.com/tldev/dorso",
       "homepage": "",
       "description": "A macOS app that blurs your screen when you slouch.",
-      "category": "system",
+      "category": "focus",
       "tags": [
         "Swift"
       ],
@@ -4027,7 +4056,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 2391,
+      "stars": 2390,
       "forks": 283,
       "license": "MIT",
       "archived": false,
@@ -4108,7 +4137,7 @@
         "markdown"
       ],
       "language": "Swift",
-      "stars": 2319,
+      "stars": 2320,
       "forks": 110,
       "license": "MIT",
       "archived": false,
@@ -4404,11 +4433,44 @@
         "open-island"
       ],
       "language": "Swift",
-      "stars": 2004,
+      "stars": 2005,
       "forks": 341,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-03T08:23:21Z"
+    },
+    {
+      "full_name": "Orkas-AI/Orkas",
+      "name": "Orkas",
+      "owner": "Orkas-AI",
+      "avatar": "https://avatars.githubusercontent.com/u/217779447?v=4",
+      "icon": "icons/Orkas-AI__Orkas.png",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "homepage": "https://orkas.ai?source=gh_orkas",
+      "description": "Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as…",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Electron",
+        "Cross-platform",
+        "TypeScript"
+      ],
+      "topics": [
+        "agent-collaboration",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-team",
+        "ai-workflow"
+      ],
+      "language": "TypeScript",
+      "stars": 1954,
+      "forks": 82,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-09-13T01:28:21Z"
     },
     {
       "full_name": "Shpigford/chops",
@@ -4449,7 +4511,7 @@
       "url": "https://github.com/EEliberto/Pastel-macOS",
       "homepage": "",
       "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-      "category": "system",
+      "category": "files",
       "tags": [
         "iOS",
         "Swift"
@@ -4503,7 +4565,7 @@
       "url": "https://github.com/cardisoft/cardinal",
       "homepage": "",
       "description": "Fastest file searching tool for macOS",
-      "category": "system",
+      "category": "files",
       "tags": [
         "Files",
         "Tauri",
@@ -5343,7 +5405,7 @@
       "forks": 39,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-13T07:00:37Z"
+      "pushed_at": "2026-09-13T08:41:19Z"
     },
     {
       "full_name": "shobhit99/SuperIsland",
@@ -5631,7 +5693,7 @@
       ],
       "language": "Swift",
       "stars": 541,
-      "forks": 24,
+      "forks": 25,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-29T10:48:29Z"
@@ -6546,7 +6608,7 @@
       "url": "https://github.com/yelog/SnapTraTranslator",
       "homepage": "http://snaptra.yelog.org/",
       "description": "一款 macos 离线快速翻译软件",
-      "category": "system",
+      "category": "learning",
       "tags": [
         "SwiftUI",
         "Swift"
@@ -7138,9 +7200,9 @@
       "url": "https://github.com/acer51-doctom/macOS-Wallpapers",
       "homepage": "",
       "description": "MacOS Wallpapers from High Sierra and later.",
-      "category": "system",
+      "category": "fun",
       "tags": [
-        "System & Maintenance"
+        "Fun & Desktop Toys"
       ],
       "topics": [],
       "language": "",
