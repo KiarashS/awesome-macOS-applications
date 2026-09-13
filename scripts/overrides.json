@@ -167,5 +167,23 @@
       "Speech"
     ],
     "description": "A fast, free voice-to-text dictation app for macOS, in the mould of Wispr Flow."
+  },
+  "sumimakito/Mac-Duo": {
+    "category": "fun",
+    "tags": [
+      "Fun",
+      "Display",
+      "Menu Bar",
+      "Swift"
+    ],
+    "description": "Tilts, blurs and fades your screen content as you close the MacBook lid, rendered live with Metal and ScreenCaptureKit."
+  },
+  "DhananjayBhosale/MacDuo": {
+    "category": "fun",
+    "add_tags": [
+      "Fun",
+      "Display"
+    ],
+    "description": "Six Metal-rendered desktop effects that follow the movement of your MacBook lid, from a soft fade to a rolling or shuttering display."
   }
 }

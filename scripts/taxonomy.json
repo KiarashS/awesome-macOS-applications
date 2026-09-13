@@ -390,7 +390,16 @@
         "ios device",
         "device control",
         "display control",
-        "airplay"
+        "airplay",
+        "ddc",
+        "edid",
+        "hidpi",
+        "display scaling",
+        "virtual screen",
+        "virtual screens",
+        "external monitor",
+        "monitor brightness",
+        "screen resolution"
       ]
     },
     {
@@ -587,7 +596,12 @@
         "aquarium",
         "wallpapers",
         "desktop picture",
-        "desktop pictures"
+        "desktop pictures",
+        "lid angle",
+        "lid-angle",
+        "desktop effect",
+        "desktop effects",
+        "eye candy"
       ],
       "color": "#ff8cc8"
     },
@@ -899,6 +913,25 @@
         "streaming",
         "subtitle",
         "subtitles"
+      ]
+    },
+    {
+      "tag": "Display",
+      "keywords": [
+        "hidpi",
+        "ddc",
+        "edid",
+        "external display",
+        "external monitor",
+        "second monitor",
+        "second display",
+        "display control",
+        "display scaling",
+        "virtual screen",
+        "virtual screens",
+        "lid angle",
+        "lid-angle",
+        "brightness"
       ]
     },
     {
