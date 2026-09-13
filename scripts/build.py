@@ -597,14 +597,30 @@ def main() -> int:
     SITE_DATA.parent.mkdir(parents=True, exist_ok=True)
     SITE_DATA.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n")
 
+    # The cache records what the LIST contains, not what the API could
+    # resolve. Storing only the resolved names made every entry whose
+    # repository has since been deleted or blocked look "newly added" on the
+    # next poll, forever — so the cheap membership check reported a change on
+    # every run and the full rebuild never actually got skipped.
+    unresolved = [n for n in names if n not in set(kept_names)]
     LIST_CACHE.parent.mkdir(parents=True, exist_ok=True)
     LIST_CACHE.write_text(
         json.dumps(
-            {"updated_at": payload["generated_at"], "source": LIST_URL, "repos": kept_names},
+            {
+                "updated_at": payload["generated_at"],
+                "source": LIST_URL,
+                "repos": names,
+                # Still in the star list, but gone from GitHub (deleted,
+                # renamed, or blocked). Listed so they can be pruned.
+                "unresolved": unresolved,
+            },
             indent=2,
         )
         + "\n"
     )
+    if unresolved:
+        print(f"note: {len(unresolved)} listed repo(s) no longer resolve: "
+              + ", ".join(unresolved), file=sys.stderr)
 
     write_readme(payload, args.site_url)
 
