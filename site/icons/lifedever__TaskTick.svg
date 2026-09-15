@@ -1,65 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- TaskTick app icon — large detail level (256px and up).
+       Companions: icon-medium.svg (64/128), icon-small.svg (16/32).
+       All three are rendered into AppIcon.icns by scripts/make-icon.sh;
+       macOS picks the right one per slot, so each can carry the amount of
+       detail that survives at its size. -->
   <defs>
-    <!-- Subtle warm-white gradient for the rounded-square background so the
-         icon doesn't look flat against light-mode UIs -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f3f4f8"/>
+      <stop offset="100%" stop-color="#f2f3f6"/>
     </linearGradient>
-    <!-- Light edge glow on the squircle -->
-    <linearGradient id="edgeShine" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.6)"/>
-      <stop offset="50%" stop-color="rgba(255,255,255,0)"/>
+    <!-- Slate blue-grey dial: enough weight to hold the white canvas, light
+         enough not to read as a black puck. -->
+    <linearGradient id="dial" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#77839a"/>
+      <stop offset="100%" stop-color="#525d72"/>
     </linearGradient>
-    <!-- Soft bezel ring around the clock -->
-    <radialGradient id="bezel" cx="50%" cy="50%" r="50%">
-      <stop offset="92%" stop-color="rgba(0,0,0,0)"/>
-      <stop offset="100%" stop-color="rgba(70,75,110,0.32)"/>
-    </radialGradient>
-    <filter id="bgShadow" x="-5%" y="-5%" width="110%" height="115%">
-      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0f1224" flood-opacity="0.10"/>
+    <filter id="dialShadow" x="-25%" y="-25%" width="150%" height="165%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#2b3140" flood-opacity="0.28"/>
     </filter>
-    <filter id="badgeShadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0d6c2f" flood-opacity="0.32"/>
+    <filter id="badgeShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#1e2430" flood-opacity="0.22"/>
     </filter>
   </defs>
 
-  <!-- White rounded-square background, subtle inner shadow on bottom for depth -->
-  <rect width="1024" height="1024" rx="230" fill="url(#bg)" filter="url(#bgShadow)"/>
-  <!-- Top highlight to soften the squircle -->
-  <rect width="1024" height="1024" rx="230" fill="url(#edgeShine)" opacity="0.5"/>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="230" fill="none" stroke="rgba(70,75,110,0.10)" stroke-width="6"/>
 
-  <!-- Clock face — true center (512,512), radius 320 (~31% of canvas) -->
-  <!-- Soft outer bezel ring (gives the clock a tactile edge against white bg) -->
-  <circle cx="512" cy="512" r="328" fill="url(#bezel)"/>
-  <!-- Crisp ring (darkened so it reads at small sizes) -->
-  <circle cx="512" cy="512" r="320" fill="none" stroke="#9da4c2" stroke-width="8"/>
+  <!-- Dial. Centre sits 22px above the canvas centre so the badge, which hangs
+       off the bottom-right, doesn't drag the whole composition low. -->
+  <circle cx="512" cy="490" r="326" fill="url(#dial)" filter="url(#dialShadow)"/>
 
-  <!-- Hour markers on r=270 ring (cardinal markers stronger) -->
-  <circle cx="512" cy="242" r="18" fill="#5b76e8"/><!-- 12 -->
-  <circle cx="647" cy="278" r="12" fill="#8a90b3"/><!-- 1 -->
-  <circle cx="746" cy="377" r="12" fill="#8a90b3"/><!-- 2 -->
-  <circle cx="782" cy="512" r="18" fill="#7c66f0"/><!-- 3 -->
-  <circle cx="746" cy="647" r="12" fill="#8a90b3"/><!-- 4 -->
-  <circle cx="647" cy="746" r="12" fill="#8a90b3"/><!-- 5 -->
-  <circle cx="512" cy="782" r="18" fill="#9476f5"/><!-- 6 -->
-  <circle cx="377" cy="746" r="12" fill="#8a90b3"/><!-- 7 -->
-  <circle cx="278" cy="647" r="12" fill="#8a90b3"/><!-- 8 -->
-  <circle cx="242" cy="512" r="18" fill="#5b76e8"/><!-- 9 -->
-  <circle cx="278" cy="377" r="12" fill="#8a90b3"/><!-- 10 -->
-  <circle cx="377" cy="278" r="12" fill="#8a90b3"/><!-- 11 -->
+  <!-- Three markers, not twelve. 12 o'clock carries the orientation and is
+       brightest; 3 and 9 just close the axis. 6 o'clock is omitted — the badge
+       covers it. -->
+  <path d="M 512 208 L 512 256" stroke="#ffffff" stroke-width="28" stroke-linecap="round" opacity="0.9"/>
+  <path d="M 770 490 L 818 490" stroke="#ffffff" stroke-width="28" stroke-linecap="round" opacity="0.45"/>
+  <path d="M 206 490 L 254 490" stroke="#ffffff" stroke-width="28" stroke-linecap="round" opacity="0.45"/>
 
-  <!-- Hour hand pointing toward 11 -->
-  <line x1="512" y1="512" x2="512" y2="358" stroke="#1f2240" stroke-width="24" stroke-linecap="round"/>
-  <!-- Minute hand pointing toward 2 (darker for clarity at small sizes) -->
-  <line x1="512" y1="512" x2="640" y2="416" stroke="#4661e0" stroke-width="17" stroke-linecap="round"/>
+  <!-- Hands: white hour hand for contrast, mint minute hand tying back to the
+       badge's green. -->
+  <path d="M 512 490 L 512 336" stroke="#ffffff" stroke-width="36" stroke-linecap="round"/>
+  <path d="M 512 490 L 642 412" stroke="#86efac" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="512" cy="490" r="26" fill="#86efac"/>
 
-  <!-- Center pivot -->
-  <circle cx="512" cy="512" r="28" fill="#4661e0"/>
-  <circle cx="512" cy="512" r="12" fill="white"/>
-
-  <!-- Green check badge — bottom-right, comfortably inset -->
-  <circle cx="724" cy="724" r="100" fill="#22c55e" filter="url(#badgeShadow)"/>
-  <circle cx="724" cy="724" r="92" fill="#22c55e"/>
-  <polyline points="676,724 712,760 770,696" fill="none" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Badge: the shell prompt, in the slot the old check mark used to hold.
+       Scheduling stays the subject; the badge says what it is that gets run. -->
+  <circle cx="774" cy="766" r="158" fill="url(#bg)" filter="url(#badgeShadow)"/>
+  <circle cx="774" cy="766" r="130" fill="#22c55e"/>
+  <path d="M 726 724 L 784 766 L 726 808" fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 812 810 L 846 810" stroke="#ffffff" stroke-width="26" stroke-linecap="round"/>
 </svg>
