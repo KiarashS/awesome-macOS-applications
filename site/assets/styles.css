@@ -99,7 +99,7 @@
      encoded as WebP at q92 — 99 kB and 92 kB against 17 MB apiece, with a mean
      error under 1/255, because a 17 MB page background is not a background. */
   --wallpaper: url("wallpaper-light.webp");
-  --desktop-ground: #2a6fb8;
+  --desktop-ground: #998d84;
 
   --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
           "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
@@ -166,7 +166,7 @@
     --shadow-icon: 0 3px 9px rgb(0 0 0 / 0.44), 0 0 0 0.5px rgb(255 255 255 / 0.08);
 
     --wallpaper: url("wallpaper-dark.webp");
-    --desktop-ground: #10143a;
+    --desktop-ground: #23263a;
   }
 }
 
@@ -221,7 +221,7 @@
   --shadow-icon: 0 3px 9px rgb(0 0 0 / 0.44), 0 0 0 0.5px rgb(255 255 255 / 0.08);
 
   --wallpaper: url("wallpaper-dark.webp");
-  --desktop-ground: #10143a;
+  --desktop-ground: #23263a;
 }
 
 /* ── base ──────────────────────────────────────────────────────────── */
@@ -1105,7 +1105,8 @@ h1, h2, h3, p, dl, dd { margin: 0; }
 /* Liquid Glass needs backdrop-filter. Without it, fall back to flat opaque
    surfaces rather than letting the wallpaper wash the text out. */
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
-  :root { --glass: #f2f2f5; --glass-panel: #fbfbfd; --menubar-veil: rgb(16 26 42 / 0.86); }
+  :root { --glass: #f2f2f5; --glass-panel: #fbfbfd;
+          --menubar-veil: rgb(242 240 236 / 0.94); --dock-veil: rgb(242 240 236 / 0.88); }
   :root[data-appearance="dark"] { --glass: #2a2a2e; --glass-panel: #303035; }
   @media (prefers-color-scheme: dark) {
     :root:not([data-appearance="light"]) { --glass: #2a2a2e; --glass-panel: #303035; }
