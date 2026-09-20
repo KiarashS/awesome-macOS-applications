@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:52:49Z",
+  "generated_at": "2026-09-20T13:57:18Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
@@ -9,7 +9,7 @@
     "apps": 260,
     "categories": 26,
     "tags": 68,
-    "stars": 2972976
+    "stars": 2972986
   },
   "categories": [
     {
@@ -523,7 +523,7 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 133804,
+      "stars": 133805,
       "forks": 9236,
       "license": "MIT",
       "archived": false,
@@ -583,7 +583,7 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 92211,
+      "stars": 92212,
       "forks": 5142,
       "license": "Apache-2.0",
       "archived": false,
@@ -611,8 +611,8 @@
         "zed"
       ],
       "language": "Rust",
-      "stars": 90612,
-      "forks": 10705,
+      "stars": 90613,
+      "forks": 10706,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-20T13:33:55Z"
@@ -738,8 +738,8 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 68441,
-      "forks": 9685,
+      "stars": 68443,
+      "forks": 9686,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-19T08:30:04Z"
@@ -1153,7 +1153,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 41976,
+      "stars": 41977,
       "forks": 1543,
       "license": "MIT",
       "archived": false,
@@ -1402,7 +1402,7 @@
       ],
       "language": "C++",
       "stars": 32032,
-      "forks": 3776,
+      "forks": 3775,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-09-19T13:28:16Z"
@@ -1491,28 +1491,6 @@
       "pushed_at": "2026-09-19T01:46:47Z"
     },
     {
-      "full_name": "rxhanson/Rectangle",
-      "name": "Rectangle",
-      "owner": "rxhanson",
-      "avatar": "https://avatars.githubusercontent.com/u/13651296?v=4",
-      "icon": "icons/rxhanson__Rectangle.png",
-      "url": "https://github.com/rxhanson/Rectangle",
-      "homepage": "https://rectangleapp.com",
-      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
-      "category": "input",
-      "tags": [
-        "Keyboard",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 29944,
-      "forks": 997,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-09-18T16:07:27Z"
-    },
-    {
       "full_name": "webadderallorg/Recordly",
       "name": "Recordly",
       "owner": "webadderallorg",
@@ -1539,11 +1517,33 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 29943,
+      "stars": 29944,
       "forks": 2341,
       "license": "",
       "archived": false,
       "pushed_at": "2026-09-20T11:29:55Z"
+    },
+    {
+      "full_name": "rxhanson/Rectangle",
+      "name": "Rectangle",
+      "owner": "rxhanson",
+      "avatar": "https://avatars.githubusercontent.com/u/13651296?v=4",
+      "icon": "icons/rxhanson__Rectangle.png",
+      "url": "https://github.com/rxhanson/Rectangle",
+      "homepage": "https://rectangleapp.com",
+      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+      "category": "input",
+      "tags": [
+        "Keyboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 29944,
+      "forks": 997,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-09-18T16:07:27Z"
     },
     {
       "full_name": "jordanbaird/Ice",
@@ -1700,7 +1700,7 @@
       "forks": 2086,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-20T13:50:19Z"
+      "pushed_at": "2026-09-20T13:51:10Z"
     },
     {
       "full_name": "mattermost-community/focalboard",
@@ -2201,7 +2201,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14682,
+      "stars": 14683,
       "forks": 379,
       "license": "",
       "archived": false,
@@ -2439,7 +2439,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 11325,
+      "stars": 11326,
       "forks": 270,
       "license": "GPL-3.0",
       "archived": false,
@@ -3796,7 +3796,7 @@
       "forks": 175,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-20T13:00:31Z"
+      "pushed_at": "2026-09-20T13:52:33Z"
     },
     {
       "full_name": "Marginal/QuickLookVideo",
@@ -5682,7 +5682,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 859,
+      "stars": 860,
       "forks": 61,
       "license": "Apache-2.0",
       "archived": false,
