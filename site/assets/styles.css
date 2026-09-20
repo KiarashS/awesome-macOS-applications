@@ -62,8 +62,17 @@
   --pressed:   rgb(0 0 0 / 0.09);
   --field:     rgb(0 0 0 / 0.06);
 
-  --menubar-ink: rgb(255 255 255 / 0.97);
-  --menubar-veil: rgb(255 255 255 / calc(0.10 + var(--glass-level) * 0.26));
+  /* The menu bar floats on the desktop picture, so its ink follows the
+     picture's brightness the way macOS's does: dark over the pale Golden Gate
+     light render, white over the deep indigo dark one. White ink here measured
+     1.17:1 against the light wallpaper — unreadable. */
+  --menubar-ink: rgb(0 0 0 / 0.88);
+  --menubar-glow: rgb(255 255 255 / 0.45);
+  --menubar-hover: rgb(0 0 0 / 0.10);
+  /* Frosted harder than the Dock: dark ink has to clear 4.5:1 across the
+     whole bar, and the light Golden Gate picture runs pale up there. */
+  --menubar-veil: rgb(255 255 255 / calc(0.30 + var(--glass-level) * 0.30));
+  --dock-veil: rgb(255 255 255 / calc(0.10 + var(--glass-level) * 0.26));
   --dock-hairline: rgb(255 255 255 / 0.42);
   --dock-sheen: rgb(255 255 255 / 0.5);
   --dock-shadow: 0 20px 44px rgb(0 0 0 / 0.36);
@@ -84,7 +93,12 @@
   --shadow-pop: 0 26px 56px rgb(0 0 0 / 0.26), 0 0 0 0.5px rgb(0 0 0 / 0.16);
   --shadow-icon: 0 3px 9px rgb(0 0 0 / 0.20), 0 0 0 0.5px rgb(0 0 0 / 0.09);
 
-  --wallpaper: url("wallpaper-light.svg");
+  /* The macOS Golden Gate (macOS 27) desktop pictures, Light and Dark, as
+     published by Basic Apple Guy: basicappleguy.com/haberdashery/macosgoldengate
+     Apple's artwork, resampled from the 6016x4147 originals to 2560px wide and
+     encoded as WebP at q92 — 99 kB and 92 kB against 17 MB apiece, with a mean
+     error under 1/255, because a 17 MB page background is not a background. */
+  --wallpaper: url("wallpaper-light.webp");
   --desktop-ground: #2a6fb8;
 
   --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
@@ -129,6 +143,10 @@
     --field: rgb(255 255 255 / 0.10);
 
     --menubar-veil: rgb(0 0 0 / calc(0.14 + var(--glass-level) * 0.24));
+    --dock-veil: rgb(0 0 0 / calc(0.14 + var(--glass-level) * 0.24));
+    --menubar-ink: rgb(255 255 255 / 0.97);
+    --menubar-glow: rgb(0 0 0 / 0.32);
+    --menubar-hover: rgb(255 255 255 / 0.24);
     --dock-hairline: rgb(255 255 255 / 0.16);
     --dock-sheen: rgb(255 255 255 / 0.20);
     --dock-shadow: 0 20px 44px rgb(0 0 0 / 0.55);
@@ -147,7 +165,7 @@
     --shadow-pop: 0 26px 56px rgb(0 0 0 / 0.55), 0 0 0 0.5px rgb(255 255 255 / 0.11);
     --shadow-icon: 0 3px 9px rgb(0 0 0 / 0.44), 0 0 0 0.5px rgb(255 255 255 / 0.08);
 
-    --wallpaper: url("wallpaper-dark.svg");
+    --wallpaper: url("wallpaper-dark.webp");
     --desktop-ground: #10143a;
   }
 }
@@ -180,6 +198,10 @@
   --field: rgb(255 255 255 / 0.10);
 
   --menubar-veil: rgb(0 0 0 / calc(0.14 + var(--glass-level) * 0.24));
+  --dock-veil: rgb(0 0 0 / calc(0.14 + var(--glass-level) * 0.24));
+  --menubar-ink: rgb(255 255 255 / 0.97);
+  --menubar-glow: rgb(0 0 0 / 0.32);
+  --menubar-hover: rgb(255 255 255 / 0.24);
   --dock-hairline: rgb(255 255 255 / 0.16);
   --dock-sheen: rgb(255 255 255 / 0.20);
   --dock-shadow: 0 20px 44px rgb(0 0 0 / 0.55);
@@ -198,7 +220,7 @@
   --shadow-pop: 0 26px 56px rgb(0 0 0 / 0.55), 0 0 0 0.5px rgb(255 255 255 / 0.11);
   --shadow-icon: 0 3px 9px rgb(0 0 0 / 0.44), 0 0 0 0.5px rgb(255 255 255 / 0.08);
 
-  --wallpaper: url("wallpaper-dark.svg");
+  --wallpaper: url("wallpaper-dark.webp");
   --desktop-ground: #10143a;
 }
 
@@ -273,7 +295,7 @@ h1, h2, h3, p, dl, dd { margin: 0; }
   -webkit-backdrop-filter: var(--glass-filter);
   color: var(--menubar-ink);
   font-size: 12.5px;
-  text-shadow: 0 0 14px rgb(0 0 0 / 0.32);
+  text-shadow: 0 0 14px var(--menubar-glow);
 }
 
 .menubar-left, .menubar-right { display: flex; align-items: center; gap: 2px; min-width: 0; }
@@ -288,7 +310,7 @@ h1, h2, h3, p, dl, dd { margin: 0; }
 }
 .menu-title.is-app { font-weight: 600; }
 .menu-apple { padding: 2px 8px; display: grid; place-items: center; }
-.menu-title:hover, .menu-title[aria-expanded="true"] { background: rgb(255 255 255 / 0.24); }
+.menu-title:hover, .menu-title[aria-expanded="true"] { background: var(--menubar-hover); }
 
 .menubar-btn { padding: 3px 6px; border-radius: 6px; color: inherit; }
 .menubar-btn:hover, .menubar-btn[aria-expanded="true"] { background: rgb(255 255 255 / 0.24); }
@@ -812,7 +834,7 @@ h1, h2, h3, p, dl, dd { margin: 0; }
   padding: 6px;
   max-width: calc(100vw - 32px);
   border-radius: var(--radius-dock);
-  background: var(--menubar-veil);
+  background: var(--dock-veil);
   backdrop-filter: var(--glass-filter);
   -webkit-backdrop-filter: var(--glass-filter);
   box-shadow: var(--dock-shadow),
