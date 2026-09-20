@@ -1,21 +1,15 @@
 name: Update app list and publish
 
-# GitHub publishes no event for "a repository was added to a star list" —
-# star lists are not covered by the API or by webhooks at all. So the list is
-# polled instead: a cheap check reads the list pages, compares the set of
-# repositories against data/list-cache.json, and stops right there when
-# nothing moved. Only a real change runs the full rebuild and redeploys.
+# The site is rebuilt on a daily schedule. Star lists are not covered by the
+# GitHub API or by webhooks at all, so there is no event to react to — the
+# build reads the list pages itself and refreshes every repository.
 on:
   schedule:
-    # Membership poll. Adding a repo to the list shows up within ~15 minutes.
-    - cron: "*/15 * * * *"
-    # Full refresh every three hours, on the clock from 13:00 Asia/Tehran:
-    # 13:00, 16:00, 19:00, 22:00, 01:00, 04:00, 07:00, 10:00 local. Tehran is
-    # UTC+3:30 with no DST, so that is 09:30, 12:30, 15:30, 18:30, 21:30,
-    # 00:30, 03:30 and 06:30 UTC — hence the :30. This one runs whether or
-    # not the list changed, so star counts, descriptions and icons stay
-    # current. GitHub's scheduler can lag a few minutes under load.
-    - cron: "30 0,3,6,9,12,15,18,21 * * *"
+    # Once a day at 18:00 Asia/Tehran. Iran dropped DST in 2022 and sits at a
+    # flat UTC+03:30 all year, so 18:00 local is 14:30 UTC — hence the :30.
+    # GitHub's scheduler can lag several minutes under load; it is a
+    # "no earlier than", not a guarantee.
+    - cron: "30 14 * * *"
   push:
     paths-ignore:
       - "README.md"
@@ -42,45 +36,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  poll:
-    name: Has the list changed?
-    runs-on: ubuntu-latest
-    outputs:
-      rebuild: ${{ steps.gate.outputs.rebuild }}
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - id: gate
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: KiarashS
-          LIST_SLUG: app
-        run: |
-          # The 15-minute poll is the only trigger that has to earn a
-          # rebuild. Every other one — the three-hourly refresh, a push, a
-          # manual run, a dispatch — rebuilds unconditionally. Written as
-          # "not the poll" so changing the refresh cron cannot desync it.
-          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" != "*/15 * * * *" ]; then
-            echo "Triggered by ${{ github.event_name }} — running a full rebuild."
-            echo "rebuild=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          state=$(python3 scripts/build.py --check-only)
-          echo "Star list is $state."
-          if [ "$state" = "changed" ]; then
-            echo "rebuild=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "rebuild=false" >> "$GITHUB_OUTPUT"
-          fi
-
   build:
     name: Rebuild data
-    needs: poll
-    if: needs.poll.outputs.rebuild == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write

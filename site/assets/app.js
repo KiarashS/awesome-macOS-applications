@@ -407,8 +407,16 @@
       } else {
         Object.entries(tint(opts.seed || opts.label)).forEach(([k, v]) => node.style.setProperty(k, v));
       }
-      node.append(el("span", { class: "dock-tip", text: opts.label }));
-      return node;
+      // The label cannot live inside .dock-item. That element is clipped to
+      // the squircle and magnified on hover, so a tooltip parented to it is
+      // clipped away entirely — it never painted — and would inherit the
+      // 1.3x scale if it did. It sits beside the icon in an unclipped slot
+      // instead. aria-hidden because the button already carries the same
+      // text as its accessible name.
+      return el("span", { class: "dock-slot" }, [
+        node,
+        el("span", { class: "dock-tip", "aria-hidden": "true", text: opts.label }),
+      ]);
     };
 
     const top = DATA.categories.slice().sort((a, b) => b.count - a.count).slice(0, 8);
@@ -517,10 +525,9 @@
         <p>Click a tag anywhere — on a card, in the sidebar, in an app's info panel — to filter by it.
            Tags stack, so picking two shows only the apps carrying both. The sidebar picks the category,
            the search field narrows by name, description, language or topic.</p>
-        <p>Nothing here is written by hand. A GitHub Action watches the star list and rebuilds
-           within about fifteen minutes of a repository joining or leaving it, plus a full refresh
-           every three hours from 13:00 Asia/Tehran that pulls current metadata and icons for every
-           repository. Last run: <strong>${new Date(DATA.generated_at).toLocaleString()}</strong>.</p>
+        <p>Nothing here is written by hand. A GitHub Action rebuilds the whole thing once a day
+           at 18:00 Asia/Tehran, reading the star list and pulling current metadata and icons for
+           every repository. Last run: <strong>${new Date(DATA.generated_at).toLocaleString()}</strong>.</p>
         <p><a href="https://github.com/KiarashS/awesome-macOS-applications" target="_blank" rel="noopener">Source repository →</a></p>` }));
     }
     $("#window").classList.add("is-inactive");
