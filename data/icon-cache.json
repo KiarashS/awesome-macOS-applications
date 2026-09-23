@@ -115,9 +115,9 @@
     "sha": "bec38167e98d653784ddce9306b4f381d2067ba2"
   },
   "Homebrew/BrewUI": {
-    "file": "icons/Homebrew__BrewUI.png",
-    "path": "Homebrew/Assets.xcassets/AppIcon.appiconset/icon_256.png",
-    "sha": "34cecbffb88d19270ec6b80453c91115d4ed8734"
+    "file": "icons/Homebrew__BrewUI.svg",
+    "path": "Homebrew/AppIcon.icon/Assets/Mark.svg",
+    "sha": "33fefa8cd275c7dee34ebfadcca1f1981d1ec0ef"
   },
   "Juwan-Hwang/Zephyr": {
     "file": "icons/Juwan-Hwang__Zephyr.png",
@@ -368,6 +368,11 @@
     "file": "icons/cjpais__Handy.png",
     "path": "src-tauri/icons/icon.png",
     "sha": "6e5da0707ad0140ed42764a6e7a225a81116ebf1"
+  },
+  "clash-verge-rev/clash-verge-rev": {
+    "file": "icons/clash-verge-rev__clash-verge-rev.png",
+    "path": "src-tauri/icons/icon.png",
+    "sha": "45978f596f59c94b97551bcfcad061ae11a32d4d"
   },
   "coteditor/CotEditor": {
     "file": "icons/coteditor__CotEditor.png",
@@ -707,7 +712,7 @@
   "moonbai-studio/tungsten-edge": {
     "file": "icons/moonbai-studio__tungsten-edge.png",
     "path": "Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
-    "sha": "16f0df12fc612514646276e194f7aed7df18cf86"
+    "sha": "a25ab09796fb1307fe9c1d356f2ba6d2784d52e5"
   },
   "mrkai77/Loop": {
     "file": "icons/mrkai77__Loop.png",
@@ -943,6 +948,11 @@
     "file": "icons/sw33tLie__macshot.png",
     "path": "macshot/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "19674432d29078bdc6609d3363e39748677cd1f3"
+  },
+  "symless/synergy": {
+    "file": "icons/symless__synergy.png",
+    "path": "extra/src/apps/res/image/logo-light.png",
+    "sha": "d0d6409821d2ecf308c877c6682d336e9ef5a527"
   },
   "tddworks/ClaudeBar": {
     "file": "icons/tddworks__ClaudeBar.png",
