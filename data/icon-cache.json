@@ -269,6 +269,11 @@
     "path": "TypeWhisper/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "b3c501c1254d5f5f57862fd837c273afb684291c"
   },
+  "WallpaperMachine/WallpaperMachine": {
+    "file": "icons/WallpaperMachine__WallpaperMachine.svg",
+    "path": "App/Resources/AppIcon.icon/Assets/mark.svg",
+    "sha": "71f38bc4cd96ab0e582795bb9f11644dc71c1985"
+  },
   "XiaoYouChR/Ghost-Downloader-3": {
     "file": "icons/XiaoYouChR__Ghost-Downloader-3.png",
     "path": "app/assets/logo.png",
@@ -333,11 +338,6 @@
     "file": "icons/automazeio__vibeproxy.png",
     "path": "src/Sources/Resources/icon-active.png",
     "sha": "e4d491808aa4eca9a790a107812da4043c84c94c"
-  },
-  "ayangweb/BongoCat": {
-    "file": "icons/ayangweb__BongoCat.png",
-    "path": "src-tauri/assets/logo.png",
-    "sha": "65e344c7e924f1f4520ed825ea6a91568ad89fb9"
   },
   "bahattinkoc/ipaverse": {
     "file": "icons/bahattinkoc__ipaverse.png",
@@ -459,11 +459,6 @@
     "path": "Sources/OpenClip/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
     "sha": "99c2b7d39d661e5e3085850383b3a5f888ca6061"
   },
-  "ggbond268/MacTools": {
-    "file": "icons/ggbond268__MacTools.png",
-    "path": "docs/assets/logo-mactools-rounded.png",
-    "sha": "2e088df88c77df7a4b3e70c2cf7ec0a2d8a7c97f"
-  },
   "ghostty-org/ghostty": {
     "file": "icons/ghostty-org__ghostty.png",
     "path": "images/icons/icon_1024.png",
@@ -493,6 +488,11 @@
     "file": "icons/grishka__NearDrop.png",
     "path": "NearDrop/Assets.xcassets/AppIcon.appiconset/1024.png",
     "sha": "54f8023fbd3384350c61626c2955c63fb2358da4"
+  },
+  "h3pdesign/Neon-Vision-Editor": {
+    "file": "icons/h3pdesign__Neon-Vision-Editor.png",
+    "path": "Project/Sources/Neon Vision Editor/Resources/Assets.xcassets/AppIcon-iOS.appiconset/mac_128x128@2x.png",
+    "sha": "6e592c59855f4adc4031ff0e29327ca0d567d2c8"
   },
   "hainguyents13/mechvibes": {
     "file": "icons/hainguyents13__mechvibes.png",
@@ -668,6 +668,11 @@
     "file": "icons/lzhgus__Capso.png",
     "path": "App/Resources/Assets.xcassets/AppIcon.appiconset/icon_256.png",
     "sha": "85150796b329defb0b480213c84c7f82e394cb1b"
+  },
+  "mactools-app/MacTools": {
+    "file": "icons/mactools-app__MacTools.png",
+    "path": "docs/assets/logo-mactools-rounded.png",
+    "sha": "2e088df88c77df7a4b3e70c2cf7ec0a2d8a7c97f"
   },
   "mangerlahn/Latest": {
     "file": "icons/mangerlahn__Latest.png",
