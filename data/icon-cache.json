@@ -101,8 +101,8 @@
   },
   "GeiserX/VPN-Bypass": {
     "file": "icons/GeiserX__VPN-Bypass.svg",
-    "path": "assets/AppIcon-modern.svg",
-    "sha": "dce06ee71126749a113e48fa2bc5082006c31011"
+    "path": "docs/images/icon.svg",
+    "sha": "17c3b2d15d03d7808f9712badaf1e6eabf7104e9"
   },
   "GeorgeEnglezos/Scrcpy-GUI": {
     "file": "icons/GeorgeEnglezos__Scrcpy-GUI.png",
@@ -228,6 +228,11 @@
     "file": "icons/Ranchero-Software__NetNewsWire.png",
     "path": "Mac/Resources/Assets.xcassets/AppIcon.appiconset/Icon-MacOS-128x128@2x.png",
     "sha": "775733dc7fdab368f3dad1f54b52c3844de74a87"
+  },
+  "RockxyApp/Rockxy": {
+    "file": "icons/RockxyApp__Rockxy.png",
+    "path": "Rockxy/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "sha": "ebf962344d770357e6062cba33247f373980d16c"
   },
   "Sanyam-G/switch": {
     "file": "icons/Sanyam-G__switch.png",
@@ -463,6 +468,11 @@
     "file": "icons/ganeshmshetty__openclip.png",
     "path": "Sources/OpenClip/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png",
     "sha": "99c2b7d39d661e5e3085850383b3a5f888ca6061"
+  },
+  "getagentseal/codeburn": {
+    "file": "icons/getagentseal__codeburn.png",
+    "path": "windows/src-tauri/icons/icon.png",
+    "sha": "aace9aa73160540ca736f87533b3f5b92b787e03"
   },
   "ghostty-org/ghostty": {
     "file": "icons/ghostty-org__ghostty.png",
