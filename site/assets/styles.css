@@ -81,6 +81,13 @@
   --accent-ink:  #ffffff;
   --accent-soft: rgb(0 122 255 / 0.14);
 
+  --quiet-ink:   #7a5a12;
+  --quiet-bg:    rgb(214 162 32 / 0.16);
+  --quiet-line:  rgb(141 106 18 / 0.28);
+  --dormant-ink: #9a3412;
+  --dormant-bg:  rgb(214 90 40 / 0.15);
+  --dormant-line: rgb(154 52 18 / 0.30);
+
   --tag:      rgb(0 0 0 / 0.055);
   --tag-line: rgb(0 0 0 / 0.07);
   --tag-ink:  rgb(0 0 0 / 0.68);
@@ -154,6 +161,12 @@
     --accent: #0a84ff;
     --accent-soft: rgb(10 132 255 / 0.24);
 
+    --quiet-ink:   #e8c76a;
+    --quiet-bg:    rgb(214 162 32 / 0.18);
+    --quiet-line:  rgb(232 199 106 / 0.26);
+    --dormant-ink: #f3a383;
+    --dormant-bg:  rgb(214 90 40 / 0.20);
+    --dormant-line: rgb(243 163 131 / 0.26);
     --tag: rgb(255 255 255 / 0.09);
     --tag-line: rgb(255 255 255 / 0.11);
     --tag-ink: rgb(255 255 255 / 0.76);
@@ -209,6 +222,12 @@
   --accent: #0a84ff;
   --accent-soft: rgb(10 132 255 / 0.24);
 
+  --quiet-ink:   #e8c76a;
+  --quiet-bg:    rgb(214 162 32 / 0.18);
+  --quiet-line:  rgb(232 199 106 / 0.26);
+  --dormant-ink: #f3a383;
+  --dormant-bg:  rgb(214 90 40 / 0.20);
+  --dormant-line: rgb(243 163 131 / 0.26);
   --tag: rgb(255 255 255 / 0.09);
   --tag-line: rgb(255 255 255 / 0.11);
   --tag-ink: rgb(255 255 255 / 0.76);
@@ -684,6 +703,9 @@ h1, h2, h3, p, dl, dd { margin: 0; }
 
 .app-body { min-width: 0; flex: 1; display: flex; flex-direction: column; gap: 3px; }
 .app-top { display: flex; align-items: baseline; gap: 8px; }
+/* Holds the name and its staleness badge together, so list view can place the
+   pair in one column instead of the badge auto-placing into a stranger's cell. */
+.app-title { display: flex; align-items: baseline; gap: 6px; min-width: 0; }
 .app-name {
   font-size: 13.5px; font-weight: 640; letter-spacing: -0.01em;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
@@ -699,6 +721,25 @@ h1, h2, h3, p, dl, dd { margin: 0; }
   display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3;
   -webkit-box-orient: vertical; overflow: hidden;
 }
+/* Quiet is a note, dormant is a warning; both stay muted enough that a healthy
+   card is still the one that reads first. */
+.app-stale {
+  flex: none;
+  padding: 1px 6px;
+  border-radius: 999px;
+  font-size: 9.5px;
+  font-weight: 650;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--stale-ink);
+  background: var(--stale-bg);
+  box-shadow: inset 0 0 0 0.5px var(--stale-line);
+}
+.app-stale.is-quiet    { --stale-ink: var(--quiet-ink);    --stale-bg: var(--quiet-bg);    --stale-line: var(--quiet-line); }
+.app-stale.is-dormant,
+.app-stale.is-archived { --stale-ink: var(--dormant-ink); --stale-bg: var(--dormant-bg); --stale-line: var(--dormant-line); }
+
 .app-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
 .app-tags .tagbtn { font-size: 10.5px; padding: 2px 7px; }
 
@@ -757,7 +798,7 @@ h1, h2, h3, p, dl, dd { margin: 0; }
    by row and column, because auto-placement cannot move backwards. */
 .apps.as-list .app-body, .apps.as-list .app-top { display: contents; }
 .apps.as-list .appicon   { grid-area: 1 / 1; }
-.apps.as-list .app-name  { grid-area: 1 / 2; min-width: 0; }
+.apps.as-list .app-title { grid-area: 1 / 2; min-width: 0; }
 .apps.as-list .app-desc  { grid-area: 1 / 3; -webkit-line-clamp: 1; line-clamp: 1; margin: 0; }
 .apps.as-list .app-tags  { grid-area: 1 / 4; margin: 0; flex-wrap: nowrap; overflow: hidden; }
 .apps.as-list .app-stars { grid-area: 1 / 5; margin: 0; justify-content: flex-end; }

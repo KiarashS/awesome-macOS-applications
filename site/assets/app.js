@@ -277,6 +277,28 @@
     }, [document.createTextNode(name)]);
   }
 
+  // A curated list is only useful if it says which entries have gone quiet.
+  // pushed_at is already in the payload, and the age is computed per render
+  // rather than at build time so it stays honest between daily rebuilds.
+  const DAY = 86400000;
+  const QUIET_DAYS = 180;   // worth a note
+  const DORMANT_DAYS = 365; // worth a warning
+
+  function staleness(app) {
+    if (app.archived) return { label: "Archived", level: "archived", title: "Archived on GitHub — read-only" };
+    if (!app.pushed_at) return null;
+    const days = Math.floor((Date.now() - Date.parse(app.pushed_at)) / DAY);
+    if (!Number.isFinite(days) || days < QUIET_DAYS) return null;
+    const label = days >= 365 ? `${Math.floor(days / 365)}y` : `${Math.floor(days / 30)}mo`;
+    const when = new Date(app.pushed_at).toLocaleDateString(undefined,
+      { year: "numeric", month: "short", day: "numeric" });
+    return {
+      label,
+      level: days >= DORMANT_DAYS ? "dormant" : "quiet",
+      title: `No commits for ${label} — last push ${when}`,
+    };
+  }
+
   function appCard(app) {
     const card = el("article", {
       class: "app",
@@ -292,7 +314,15 @@
       appIcon(app),
       el("div", { class: "app-body" }, [
         el("div", { class: "app-top" }, [
-          el("span", { class: "app-name", text: app.name }),
+          el("span", { class: "app-title" }, [
+            el("span", { class: "app-name", text: app.name }),
+            ...(() => {
+              const s = staleness(app);
+              return s ? [el("span", {
+                class: "app-stale is-" + s.level, text: s.label, title: s.title,
+              })] : [];
+            })(),
+          ]),
           el("span", { class: "app-stars", title: `${app.stars.toLocaleString()} stars` }, [
             svg("i-star", 10), document.createTextNode(fmtStars(app.stars)),
           ]),

@@ -596,6 +596,16 @@ def main() -> int:
     SITE_DATA.parent.mkdir(parents=True, exist_ok=True)
     SITE_DATA.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n")
 
+    # Redraw the Open Graph card so a shared link shows today's totals. It
+    # reports its own failures and never raises: a preview image is not worth
+    # failing a build over, and the committed card stays valid either way.
+    try:
+        from ogimage import render as render_og
+        totals = payload["totals"]
+        render_og(totals["apps"], totals["categories"], totals["tags"], totals["stars"])
+    except Exception as exc:  # noqa: BLE001 - cosmetic, never fatal
+        print(f"og: could not redraw the preview card: {exc}", file=sys.stderr)
+
     # The cache records what the LIST contains, not what the API could
     # resolve. Storing only the resolved names made every entry whose
     # repository has since been deleted or blocked look "newly added" on the
