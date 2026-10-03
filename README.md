@@ -20,7 +20,7 @@ into the list and it shows up on the next run.
 - ⬇️ [Downloads](#cat-downloads) (7)
 - 📚 [Reading & RSS](#cat-reading) (5)
 - • [Learning & Language](#cat-learning) (3)
-- ✨ [AI & LLM](#cat-ai) (37)
+- ✨ [AI & LLM](#cat-ai) (38)
 - 🔍 [Launchers & Search](#cat-launchers) (9)
 - ⏱️ [Productivity & Focus](#cat-focus) (13)
 - 🪟 [Window Management](#cat-windows) (10)
@@ -337,6 +337,8 @@ _Local and hosted models, assistants and speech tooling._
   <sub>★ 43 · omartelo · Go · `Windows` `AI` `Terminal` `Git` `Go`</sub>
 - **[openvoiceflow](https://github.com/shimoverse/openvoiceflow)** — Source-available voice dictation for macOS, free for personal use. On-device WhisperKit transcription with optional LLM cleanup.  
   <sub>★ 23 · shimoverse · Swift · `Menu Bar` `AI` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
+- **[lucid](https://github.com/braedonsaunders/lucid)** — Real-time AI video super-resolution for Apple silicon Macs (browser video in place, local models).  
+  <sub>★ 0 · braedonsaunders · Python · `AI` `Video` `Python`</sub>
 
 <a id="cat-launchers"></a>
 
