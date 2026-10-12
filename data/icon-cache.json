@@ -184,6 +184,11 @@
     "path": "MonitorControl/Assets.xcassets/AppIcon.appiconset/Icon-256.png",
     "sha": "cfa727411dd07ebb450c0aa6be682de54c0f602e"
   },
+  "NickvisionApps/Parabolic": {
+    "file": "icons/NickvisionApps__Parabolic.png",
+    "path": "extension/chrome/icons/icon128.png",
+    "sha": "fa83ce7e19e921e2a441a02811677804c0cfff76"
+  },
   "Notchly/Notchly": {
     "file": "icons/Notchly__Notchly.png",
     "path": "Notchly/Resources/Assets.xcassets/AppIcon.appiconset/logo_256x256 1.png",
@@ -413,6 +418,11 @@
     "file": "icons/chao-eng__CalmBar.png",
     "path": "app/Resources/AppIcon.png",
     "sha": "00e53acf4c08323a35aec20154fafc2121aa6f55"
+  },
+  "chocoford/ExcalidrawZ": {
+    "file": "icons/chocoford__ExcalidrawZ.png",
+    "path": "ExcalidrawZ/Assets.xcassets/AppIcon.appiconset/AppIcon-128.0x128.0@2x.png",
+    "sha": "eca7a47a3972c0369a8d994b0511f4b68deb67e7"
   },
   "cjpais/Handy": {
     "file": "icons/cjpais__Handy.png",
@@ -944,6 +954,11 @@
     "path": "pack/electron/icons/icon.png",
     "sha": "205ca6a9afc104c8219ff011cf649ce63f0440c3"
   },
+  "qvacua/vimr": {
+    "file": "icons/qvacua__vimr.png",
+    "path": "VimR/VimR/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+    "sha": "fedc7acce8be0d36c36e3a2e974bec8445d8bdd7"
+  },
   "razzant/claudexor": {
     "file": "icons/razzant__claudexor.png",
     "path": "apps/macos/ClaudexorApp/Sources/ClaudexorApp/Resources/AppIcon.png",
@@ -1096,8 +1111,8 @@
   },
   "tw93/Kaku": {
     "file": "icons/tw93__Kaku.png",
-    "path": "assets/logo.png",
-    "sha": "42cdf806a1837e5828f89f26cc698038cf539f16"
+    "path": "crates/kaku-remote/assets/web/icon.png",
+    "sha": "3b4daa6e3080c5e8ab50cb342717bdf61a726ddb"
   },
   "tw93/MiaoYan": {
     "file": "icons/tw93__MiaoYan.svg",
