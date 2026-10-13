@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T22:16:22Z",
+  "generated_at": "2026-10-13T20:22:44Z",
   "source": {
     "user": "KiarashS",
     "list": "app",
     "url": "https://github.com/stars/KiarashS/lists/app"
   },
   "totals": {
-    "apps": 299,
+    "apps": 302,
     "categories": 26,
     "tags": 69,
-    "stars": 3545392
+    "stars": 3550535
   },
   "categories": [
     {
@@ -90,7 +90,7 @@
       "icon": "magnifier",
       "color": "#0a84ff",
       "blurb": "App launchers, command palettes and Launchpad replacements.",
-      "count": 9
+      "count": 10
     },
     {
       "id": "focus",
@@ -114,7 +114,7 @@
       "icon": "menubar",
       "color": "#8e8e93",
       "blurb": "Menu bar utilities and status item managers.",
-      "count": 20
+      "count": 21
     },
     {
       "id": "terminal",
@@ -218,29 +218,29 @@
       "icon": "gear",
       "color": "#98989d",
       "blurb": "Cleaners, uninstallers, monitors and system tweaks.",
-      "count": 21
+      "count": 22
     }
   ],
   "tags": [
     {
       "name": "Swift",
-      "count": 174
+      "count": 176
     },
     {
       "name": "SwiftUI",
-      "count": 60
+      "count": 61
+    },
+    {
+      "name": "Menu Bar",
+      "count": 51
     },
     {
       "name": "AI",
       "count": 50
     },
     {
-      "name": "Menu Bar",
-      "count": 50
-    },
-    {
       "name": "Cross-platform",
-      "count": 35
+      "count": 36
     },
     {
       "name": "TypeScript",
@@ -283,11 +283,11 @@
       "count": 19
     },
     {
-      "name": "Proxy",
-      "count": 17
+      "name": "Rust",
+      "count": 18
     },
     {
-      "name": "Rust",
+      "name": "Proxy",
       "count": 17
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "name": "Audio",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Editor",
@@ -320,7 +320,11 @@
     },
     {
       "name": "Launcher",
-      "count": 11
+      "count": 12
+    },
+    {
+      "name": "Tauri",
+      "count": 12
     },
     {
       "name": "Markdown",
@@ -328,10 +332,6 @@
     },
     {
       "name": "Notes",
-      "count": 11
-    },
-    {
-      "name": "Tauri",
       "count": 11
     },
     {
@@ -516,11 +516,11 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 212943,
-      "forks": 28528,
+      "stars": 213214,
+      "forks": 28597,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T22:12:19Z"
+      "pushed_at": "2026-10-13T20:19:03Z"
     },
     {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -549,11 +549,11 @@
         "windows"
       ],
       "language": "Rust",
-      "stars": 150861,
-      "forks": 10853,
+      "stars": 151111,
+      "forks": 10877,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T20:30:01Z"
+      "pushed_at": "2026-10-13T12:44:12Z"
     },
     {
       "full_name": "farion1231/cc-switch",
@@ -582,11 +582,11 @@
         "hermes-agent"
       ],
       "language": "Rust",
-      "stars": 143273,
-      "forks": 9534,
+      "stars": 143764,
+      "forks": 9557,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T16:20:03Z"
+      "pushed_at": "2026-10-13T15:14:29Z"
     },
     {
       "full_name": "2dust/v2rayN",
@@ -614,11 +614,11 @@
         "vmess"
       ],
       "language": "C#",
-      "stars": 118000,
-      "forks": 16084,
+      "stars": 118096,
+      "forks": 16094,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T05:59:58Z"
+      "pushed_at": "2026-10-13T12:36:41Z"
     },
     {
       "full_name": "localsend/localsend",
@@ -642,8 +642,8 @@
         "flutter-apps"
       ],
       "language": "Dart",
-      "stars": 94128,
-      "forks": 5262,
+      "stars": 94268,
+      "forks": 5268,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-10-10T01:13:49Z"
@@ -670,11 +670,11 @@
         "zed"
       ],
       "language": "Rust",
-      "stars": 91629,
-      "forks": 11022,
+      "stars": 91685,
+      "forks": 11038,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T21:41:48Z"
+      "pushed_at": "2026-10-13T17:57:59Z"
     },
     {
       "full_name": "obsproject/obs-studio",
@@ -702,11 +702,11 @@
         "screen-capture"
       ],
       "language": "C",
-      "stars": 77397,
-      "forks": 10607,
+      "stars": 77459,
+      "forks": 10631,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-10-10T01:13:10Z"
+      "pushed_at": "2026-10-13T18:34:11Z"
     },
     {
       "full_name": "AppFlowy-IO/AppFlowy",
@@ -735,8 +735,8 @@
         "notion-alternative"
       ],
       "language": "Dart",
-      "stars": 77266,
-      "forks": 6061,
+      "stars": 77293,
+      "forks": 6066,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-08T11:00:14Z"
@@ -769,11 +769,11 @@
         "codex"
       ],
       "language": "TypeScript",
-      "stars": 75713,
-      "forks": 10929,
+      "stars": 76117,
+      "forks": 10992,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-11T04:53:56Z"
+      "pushed_at": "2026-10-13T18:16:28Z"
     },
     {
       "full_name": "Eugeny/tabby",
@@ -797,8 +797,8 @@
         "terminal-emulators"
       ],
       "language": "TypeScript",
-      "stars": 74940,
-      "forks": 4287,
+      "stars": 74955,
+      "forks": 4289,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-12T10:12:20Z"
@@ -830,11 +830,11 @@
         "istat"
       ],
       "language": "Shell",
-      "stars": 70075,
-      "forks": 2484,
+      "stars": 70200,
+      "forks": 2488,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T16:00:53Z"
+      "pushed_at": "2026-10-13T15:56:05Z"
     },
     {
       "full_name": "warpdotdev/warp",
@@ -862,11 +862,11 @@
         "zsh"
       ],
       "language": "Rust",
-      "stars": 65440,
-      "forks": 5638,
+      "stars": 65452,
+      "forks": 5645,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T21:30:29Z"
+      "pushed_at": "2026-10-13T20:07:57Z"
     },
     {
       "full_name": "jgraph/drawio-desktop",
@@ -890,7 +890,7 @@
         "javascript-applications"
       ],
       "language": "JavaScript",
-      "stars": 63478,
+      "stars": 63495,
       "forks": 5787,
       "license": "GPL-3.0",
       "archived": false,
@@ -913,11 +913,11 @@
       ],
       "topics": [],
       "language": "Zig",
-      "stars": 62121,
-      "forks": 3633,
+      "stars": 62170,
+      "forks": 3641,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T17:30:00Z"
+      "pushed_at": "2026-10-13T20:14:05Z"
     },
     {
       "full_name": "starship/starship",
@@ -945,11 +945,11 @@
         "shell-prompt"
       ],
       "language": "Rust",
-      "stars": 60237,
-      "forks": 2701,
+      "stars": 60251,
+      "forks": 2700,
       "license": "ISC",
       "archived": false,
-      "pushed_at": "2026-10-12T12:24:22Z"
+      "pushed_at": "2026-10-13T14:03:52Z"
     },
     {
       "full_name": "romkatv/powerlevel10k",
@@ -969,8 +969,8 @@
         "zsh"
       ],
       "language": "Shell",
-      "stars": 55237,
-      "forks": 2448,
+      "stars": 55239,
+      "forks": 2447,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-14T08:10:04Z"
@@ -998,8 +998,8 @@
         "vue"
       ],
       "language": "TypeScript",
-      "stars": 54390,
-      "forks": 7056,
+      "stars": 54415,
+      "forks": 7057,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-10-07T03:41:50Z"
@@ -1029,11 +1029,11 @@
         "skills"
       ],
       "language": "TypeScript",
-      "stars": 52575,
-      "forks": 5065,
+      "stars": 52596,
+      "forks": 5069,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T20:29:49Z"
+      "pushed_at": "2026-10-13T20:18:01Z"
     },
     {
       "full_name": "upscayl/upscayl",
@@ -1062,8 +1062,8 @@
         "topaz"
       ],
       "language": "TypeScript",
-      "stars": 50501,
-      "forks": 2590,
+      "stars": 50533,
+      "forks": 2594,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-05T19:13:12Z"
@@ -1084,11 +1084,11 @@
       ],
       "topics": [],
       "language": "C",
-      "stars": 49921,
+      "stars": 49927,
       "forks": 2946,
       "license": "ISC",
       "archived": false,
-      "pushed_at": "2026-10-12T18:35:34Z"
+      "pushed_at": "2026-10-13T20:18:49Z"
     },
     {
       "full_name": "iina/iina",
@@ -1113,11 +1113,11 @@
         "video-player"
       ],
       "language": "Swift",
-      "stars": 46751,
-      "forks": 2947,
+      "stars": 46763,
+      "forks": 2952,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T16:23:01Z"
+      "pushed_at": "2026-10-13T18:57:44Z"
     },
     {
       "full_name": "vercel/hyper",
@@ -1145,8 +1145,8 @@
         "terminal"
       ],
       "language": "TypeScript",
-      "stars": 44737,
-      "forks": 3579,
+      "stars": 44734,
+      "forks": 3580,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-21T20:44:39Z"
@@ -1179,11 +1179,11 @@
         "video"
       ],
       "language": "TypeScript",
-      "stars": 44507,
-      "forks": 2212,
+      "stars": 44535,
+      "forks": 2216,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-09-30T22:09:42Z"
+      "pushed_at": "2026-10-13T07:15:14Z"
     },
     {
       "full_name": "exelban/stats",
@@ -1211,8 +1211,8 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 42504,
-      "forks": 1569,
+      "stars": 42522,
+      "forks": 1573,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-12T18:30:19Z"
@@ -1244,11 +1244,11 @@
         "linux"
       ],
       "language": "Rust",
-      "stars": 41464,
-      "forks": 1963,
+      "stars": 41503,
+      "forks": 1968,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T19:44:33Z"
+      "pushed_at": "2026-10-13T11:25:21Z"
     },
     {
       "full_name": "lfnovo/open-notebook",
@@ -1275,11 +1275,11 @@
         "self-learning"
       ],
       "language": "TypeScript",
-      "stars": 40113,
-      "forks": 4642,
+      "stars": 40152,
+      "forks": 4653,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-11T21:45:32Z"
+      "pushed_at": "2026-10-13T04:43:02Z"
     },
     {
       "full_name": "RSSNext/Folo",
@@ -1305,11 +1305,11 @@
         "rsshub"
       ],
       "language": "TypeScript",
-      "stars": 39091,
+      "stars": 39095,
       "forks": 2134,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-10T04:41:25Z"
+      "pushed_at": "2026-10-13T13:30:49Z"
     },
     {
       "full_name": "utmapp/UTM",
@@ -1337,8 +1337,8 @@
         "virtual-machines"
       ],
       "language": "Swift",
-      "stars": 35862,
-      "forks": 1851,
+      "stars": 35872,
+      "forks": 1852,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-09-25T01:53:47Z"
@@ -1365,7 +1365,7 @@
         "redis-gui"
       ],
       "language": "JavaScript",
-      "stars": 34797,
+      "stars": 34796,
       "forks": 2711,
       "license": "MIT",
       "archived": false,
@@ -1392,7 +1392,7 @@
         "usb-drives"
       ],
       "language": "TypeScript",
-      "stars": 34508,
+      "stars": 34519,
       "forks": 2433,
       "license": "Apache-2.0",
       "archived": false,
@@ -1426,7 +1426,7 @@
         "keyboard"
       ],
       "language": "Swift",
-      "stars": 34449,
+      "stars": 34458,
       "forks": 1024,
       "license": "MIT",
       "archived": false,
@@ -1457,8 +1457,8 @@
         "hidpi"
       ],
       "language": "",
-      "stars": 34027,
-      "forks": 636,
+      "stars": 34041,
+      "forks": 637,
       "license": "",
       "archived": false,
       "pushed_at": "2026-10-06T17:36:26Z"
@@ -1486,11 +1486,11 @@
         "tauri-v2"
       ],
       "language": "Rust",
-      "stars": 33616,
-      "forks": 3132,
+      "stars": 33690,
+      "forks": 3147,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T08:06:22Z"
+      "pushed_at": "2026-10-13T00:18:41Z"
     },
     {
       "full_name": "webadderallorg/Recordly",
@@ -1519,11 +1519,11 @@
         "windows"
       ],
       "language": "TypeScript",
-      "stars": 33508,
-      "forks": 2709,
+      "stars": 33639,
+      "forks": 2719,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-10T03:21:27Z"
+      "pushed_at": "2026-10-13T19:36:18Z"
     },
     {
       "full_name": "qier222/YesPlayMusic",
@@ -1554,7 +1554,7 @@
         "netease-music"
       ],
       "language": "Vue",
-      "stars": 33373,
+      "stars": 33381,
       "forks": 4658,
       "license": "MIT",
       "archived": false,
@@ -1579,8 +1579,8 @@
         "qt"
       ],
       "language": "C++",
-      "stars": 32370,
-      "forks": 3814,
+      "stars": 32388,
+      "forks": 3818,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-09-24T06:24:47Z"
@@ -1600,11 +1600,11 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 31961,
-      "forks": 3329,
+      "stars": 31987,
+      "forks": 3333,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T12:34:26Z"
+      "pushed_at": "2026-10-13T17:07:25Z"
     },
     {
       "full_name": "iawia002/lux",
@@ -1633,7 +1633,7 @@
         "qq"
       ],
       "language": "Go",
-      "stars": 31765,
+      "stars": 31768,
       "forks": 3324,
       "license": "MIT",
       "archived": false,
@@ -1655,11 +1655,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 30060,
-      "forks": 1014,
+      "stars": 30066,
+      "forks": 1018,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T15:50:25Z"
+      "pushed_at": "2026-10-13T20:01:58Z"
     },
     {
       "full_name": "jordanbaird/Ice",
@@ -1687,8 +1687,8 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 29783,
-      "forks": 990,
+      "stars": 29794,
+      "forks": 991,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-06T20:43:59Z"
@@ -1722,11 +1722,11 @@
         "ebook"
       ],
       "language": "JavaScript",
-      "stars": 28482,
-      "forks": 2136,
+      "stars": 28491,
+      "forks": 2138,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T14:42:19Z"
+      "pushed_at": "2026-10-13T01:14:43Z"
     },
     {
       "full_name": "Molunerfinn/PicGo",
@@ -1755,8 +1755,8 @@
         "image"
       ],
       "language": "TypeScript",
-      "stars": 27337,
-      "forks": 2334,
+      "stars": 27338,
+      "forks": 2333,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-10T00:21:24Z"
@@ -1784,39 +1784,11 @@
         "switchhosts"
       ],
       "language": "TypeScript",
-      "stars": 27269,
+      "stars": 27273,
       "forks": 2687,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-10-06T12:38:30Z"
-    },
-    {
-      "full_name": "mihomo-party-org/clash-party",
-      "name": "clash-party",
-      "owner": "mihomo-party-org",
-      "avatar": "https://avatars.githubusercontent.com/u/181477152?v=4",
-      "icon": "icons/mihomo-party-org__clash-party.png",
-      "url": "https://github.com/mihomo-party-org/clash-party",
-      "homepage": "https://clashparty.org",
-      "description": "Electron: Another Mihomo GUI.",
-      "category": "network",
-      "tags": [
-        "Proxy",
-        "Electron",
-        "TypeScript"
-      ],
-      "topics": [
-        "clash",
-        "clash-meta",
-        "electron",
-        "mihomo"
-      ],
-      "language": "TypeScript",
-      "stars": 26806,
-      "forks": 2115,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-10-10T21:02:50Z"
     },
     {
       "full_name": "vorssaint/vorssaint-utils",
@@ -1847,11 +1819,39 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 26617,
-      "forks": 1149,
+      "stars": 26938,
+      "forks": 1161,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T17:19:47Z"
+      "pushed_at": "2026-10-13T14:52:59Z"
+    },
+    {
+      "full_name": "mihomo-party-org/clash-party",
+      "name": "clash-party",
+      "owner": "mihomo-party-org",
+      "avatar": "https://avatars.githubusercontent.com/u/181477152?v=4",
+      "icon": "icons/mihomo-party-org__clash-party.png",
+      "url": "https://github.com/mihomo-party-org/clash-party",
+      "homepage": "https://clashparty.org",
+      "description": "Electron: Another Mihomo GUI.",
+      "category": "network",
+      "tags": [
+        "Proxy",
+        "Electron",
+        "TypeScript"
+      ],
+      "topics": [
+        "clash",
+        "clash-meta",
+        "electron",
+        "mihomo"
+      ],
+      "language": "TypeScript",
+      "stars": 26815,
+      "forks": 2115,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-10T21:02:50Z"
     },
     {
       "full_name": "mattermost-community/focalboard",
@@ -1880,8 +1880,8 @@
         "project"
       ],
       "language": "TypeScript",
-      "stars": 26498,
-      "forks": 2581,
+      "stars": 26500,
+      "forks": 2582,
       "license": "",
       "archived": false,
       "pushed_at": "2026-05-18T16:05:00Z"
@@ -1914,11 +1914,11 @@
         "foliate"
       ],
       "language": "TypeScript",
-      "stars": 25127,
-      "forks": 1690,
+      "stars": 25154,
+      "forks": 1696,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T19:39:30Z"
+      "pushed_at": "2026-10-13T18:58:27Z"
     },
     {
       "full_name": "ayangweb/BongoCat",
@@ -1947,11 +1947,11 @@
         "pet"
       ],
       "language": "Rust",
-      "stars": 23917,
-      "forks": 1179,
+      "stars": 23929,
+      "forks": 1180,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T14:38:45Z"
+      "pushed_at": "2026-10-13T10:22:22Z"
     },
     {
       "full_name": "CapSoftware/Cap",
@@ -1979,11 +1979,11 @@
         "open-source"
       ],
       "language": "Rust",
-      "stars": 23243,
-      "forks": 2028,
+      "stars": 23277,
+      "forks": 2047,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-10T16:54:10Z"
+      "pushed_at": "2026-10-13T20:18:52Z"
     },
     {
       "full_name": "pqrs-org/Karabiner-Elements",
@@ -2004,8 +2004,8 @@
         "macos"
       ],
       "language": "C++",
-      "stars": 22937,
-      "forks": 949,
+      "stars": 22942,
+      "forks": 948,
       "license": "Unlicense",
       "archived": false,
       "pushed_at": "2026-10-12T00:35:33Z"
@@ -2039,11 +2039,11 @@
         "local-first"
       ],
       "language": "TypeScript",
-      "stars": 22785,
-      "forks": 2150,
+      "stars": 22808,
+      "forks": 2151,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T22:09:31Z"
+      "pushed_at": "2026-10-13T20:15:25Z"
     },
     {
       "full_name": "obsidianmd/obsidian-releases",
@@ -2068,11 +2068,11 @@
         "obsidian-md"
       ],
       "language": "",
-      "stars": 22187,
-      "forks": 7849,
+      "stars": 22208,
+      "forks": 7854,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T21:26:56Z"
+      "pushed_at": "2026-10-13T18:37:57Z"
     },
     {
       "full_name": "p0deje/Maccy",
@@ -2094,11 +2094,11 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 21902,
-      "forks": 1206,
+      "stars": 21917,
+      "forks": 1208,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T14:33:16Z"
+      "pushed_at": "2026-10-13T18:23:53Z"
     },
     {
       "full_name": "refactoringhq/tolaria",
@@ -2116,11 +2116,11 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 20056,
+      "stars": 20062,
       "forks": 1383,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T21:07:28Z"
+      "pushed_at": "2026-10-13T19:47:29Z"
     },
     {
       "full_name": "sindresorhus/quick-look-plugins",
@@ -2137,7 +2137,7 @@
       ],
       "topics": [],
       "language": "",
-      "stars": 18782,
+      "stars": 18783,
       "forks": 548,
       "license": "",
       "archived": false,
@@ -2169,8 +2169,8 @@
         "download-manager"
       ],
       "language": "Kotlin",
-      "stars": 18459,
-      "forks": 945,
+      "stars": 18495,
+      "forks": 949,
       "license": "Apache-2.0",
       "archived": false,
       "pushed_at": "2026-10-12T04:14:02Z"
@@ -2192,11 +2192,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 18147,
+      "stars": 18150,
       "forks": 1517,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T21:41:05Z"
+      "pushed_at": "2026-10-13T07:10:16Z"
     },
     {
       "full_name": "lwouis/alt-tab-macos",
@@ -2224,11 +2224,11 @@
         "window-manager"
       ],
       "language": "Swift",
-      "stars": 16376,
-      "forks": 896,
+      "stars": 16380,
+      "forks": 898,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T08:34:13Z"
+      "pushed_at": "2026-10-13T20:14:00Z"
     },
     {
       "full_name": "ianyh/Amethyst",
@@ -2251,7 +2251,7 @@
         "xmonad"
       ],
       "language": "Swift",
-      "stars": 16285,
+      "stars": 16289,
       "forks": 536,
       "license": "MIT",
       "archived": false,
@@ -2273,7 +2273,7 @@
       ],
       "topics": [],
       "language": "Python",
-      "stars": 15338,
+      "stars": 15337,
       "forks": 944,
       "license": "GPL-3.0",
       "archived": false,
@@ -2295,8 +2295,8 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 15150,
-      "forks": 577,
+      "stars": 15152,
+      "forks": 578,
       "license": "BSD-3-Clause",
       "archived": false,
       "pushed_at": "2026-09-07T01:54:48Z"
@@ -2327,11 +2327,11 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 14914,
-      "forks": 774,
+      "stars": 14928,
+      "forks": 775,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T13:51:47Z"
+      "pushed_at": "2026-10-13T10:44:42Z"
     },
     {
       "full_name": "alienator88/Pearcleaner",
@@ -2349,7 +2349,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 14844,
+      "stars": 14848,
       "forks": 388,
       "license": "",
       "archived": false,
@@ -2381,7 +2381,7 @@
         "video-editor"
       ],
       "language": "Swift",
-      "stars": 14560,
+      "stars": 14569,
       "forks": 1139,
       "license": "GPL-3.0",
       "archived": false,
@@ -2415,11 +2415,11 @@
         "macos"
       ],
       "language": "TypeScript",
-      "stars": 13755,
+      "stars": 13758,
       "forks": 859,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T14:15:58Z"
+      "pushed_at": "2026-10-13T02:50:51Z"
     },
     {
       "full_name": "objective-see/LuLu",
@@ -2437,7 +2437,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 13312,
+      "stars": 13316,
       "forks": 604,
       "license": "GPL-3.0",
       "archived": false,
@@ -2469,11 +2469,11 @@
         "software-update"
       ],
       "language": "Swift",
-      "stars": 12384,
+      "stars": 12386,
       "forks": 301,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-29T12:44:26Z"
+      "pushed_at": "2026-10-13T11:17:23Z"
     },
     {
       "full_name": "git-up/GitUp",
@@ -2491,7 +2491,7 @@
       ],
       "topics": [],
       "language": "Objective-C",
-      "stars": 12136,
+      "stars": 12137,
       "forks": 1502,
       "license": "GPL-3.0",
       "archived": false,
@@ -2523,11 +2523,11 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 11995,
-      "forks": 304,
+      "stars": 12025,
+      "forks": 305,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T13:24:52Z"
+      "pushed_at": "2026-10-13T14:09:09Z"
     },
     {
       "full_name": "mrkai77/Loop",
@@ -2555,11 +2555,11 @@
         "window-management"
       ],
       "language": "Swift",
-      "stars": 11775,
-      "forks": 279,
+      "stars": 11781,
+      "forks": 281,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-09T17:58:13Z"
+      "pushed_at": "2026-10-13T07:51:38Z"
     },
     {
       "full_name": "getagentseal/codeburn",
@@ -2590,11 +2590,11 @@
         "menubar"
       ],
       "language": "TypeScript",
-      "stars": 11414,
-      "forks": 882,
+      "stars": 11430,
+      "forks": 886,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T21:56:13Z"
+      "pushed_at": "2026-10-13T08:10:41Z"
     },
     {
       "full_name": "noah-nuebling/mac-mouse-fix",
@@ -2621,11 +2621,11 @@
         "remapping"
       ],
       "language": "Objective-C",
-      "stars": 11075,
-      "forks": 444,
+      "stars": 11084,
+      "forks": 446,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T19:18:20Z"
+      "pushed_at": "2026-10-13T14:58:07Z"
     },
     {
       "full_name": "TheBoredTeam/boring.notch",
@@ -2643,11 +2643,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 11019,
-      "forks": 1106,
+      "stars": 11022,
+      "forks": 1108,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T18:35:40Z"
+      "pushed_at": "2026-10-13T16:25:31Z"
     },
     {
       "full_name": "AnInsomniacy/rayburst",
@@ -2665,11 +2665,11 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 10952,
-      "forks": 334,
+      "stars": 10987,
+      "forks": 335,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T13:50:41Z"
+      "pushed_at": "2026-10-13T06:29:07Z"
     },
     {
       "full_name": "Ranchero-Software/NetNewsWire",
@@ -2697,7 +2697,7 @@
         "rss-reader"
       ],
       "language": "Swift",
-      "stars": 10461,
+      "stars": 10459,
       "forks": 769,
       "license": "MIT",
       "archived": false,
@@ -2730,8 +2730,8 @@
         "fluent-design"
       ],
       "language": "Python",
-      "stars": 9782,
-      "forks": 647,
+      "stars": 9847,
+      "forks": 656,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-08T14:10:50Z"
@@ -2763,8 +2763,8 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 9673,
-      "forks": 366,
+      "stars": 9695,
+      "forks": 367,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-07-09T07:54:56Z"
@@ -2797,8 +2797,8 @@
         "youtube-dl-gui"
       ],
       "language": "Rust",
-      "stars": 9375,
-      "forks": 664,
+      "stars": 9384,
+      "forks": 666,
       "license": "AGPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-28T21:11:53Z"
@@ -2830,11 +2830,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 8670,
+      "stars": 8669,
       "forks": 517,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-11T15:47:26Z"
+      "pushed_at": "2026-10-13T10:29:45Z"
     },
     {
       "full_name": "coteditor/CotEditor",
@@ -2861,11 +2861,11 @@
         "texteditor"
       ],
       "language": "Swift",
-      "stars": 8580,
-      "forks": 541,
+      "stars": 8582,
+      "forks": 540,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T16:50:30Z"
+      "pushed_at": "2026-10-13T12:59:14Z"
     },
     {
       "full_name": "sindresorhus/Gifski",
@@ -2894,7 +2894,7 @@
         "macos-app"
       ],
       "language": "Swift",
-      "stars": 8579,
+      "stars": 8580,
       "forks": 326,
       "license": "MIT",
       "archived": false,
@@ -2917,11 +2917,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 8402,
-      "forks": 481,
+      "stars": 8465,
+      "forks": 487,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T22:04:09Z"
+      "pushed_at": "2026-10-13T20:19:56Z"
     },
     {
       "full_name": "osaurus-ai/osaurus",
@@ -2949,11 +2949,11 @@
         "mlx"
       ],
       "language": "Swift",
-      "stars": 8043,
-      "forks": 479,
+      "stars": 8041,
+      "forks": 482,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T21:57:48Z"
+      "pushed_at": "2026-10-13T20:09:03Z"
     },
     {
       "full_name": "peazip/PeaZip",
@@ -2983,7 +2983,7 @@
         "rar"
       ],
       "language": "Pascal",
-      "stars": 7959,
+      "stars": 7964,
       "forks": 417,
       "license": "LGPL-3.0",
       "archived": false,
@@ -3007,11 +3007,11 @@
         "postgres"
       ],
       "language": "Makefile",
-      "stars": 7784,
+      "stars": 7785,
       "forks": 404,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-10T12:46:36Z"
+      "pushed_at": "2026-10-12T22:51:28Z"
     },
     {
       "full_name": "Sequel-Ace/Sequel-Ace",
@@ -3037,8 +3037,8 @@
         "sequelpro"
       ],
       "language": "Objective-C",
-      "stars": 7553,
-      "forks": 340,
+      "stars": 7554,
+      "forks": 341,
       "license": "",
       "archived": false,
       "pushed_at": "2026-10-12T07:07:34Z"
@@ -3070,8 +3070,8 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 7524,
-      "forks": 584,
+      "stars": 7526,
+      "forks": 583,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-09T20:37:43Z"
@@ -3103,7 +3103,7 @@
         "macos"
       ],
       "language": "Rust",
-      "stars": 7505,
+      "stars": 7502,
       "forks": 401,
       "license": "Apache-2.0",
       "archived": false,
@@ -3135,8 +3135,8 @@
         "macos"
       ],
       "language": "PHP",
-      "stars": 7477,
-      "forks": 298,
+      "stars": 7480,
+      "forks": 300,
       "license": "",
       "archived": false,
       "pushed_at": "2026-10-07T15:40:09Z"
@@ -3169,11 +3169,11 @@
         "iptv-player-application"
       ],
       "language": "TypeScript",
-      "stars": 7352,
-      "forks": 949,
+      "stars": 7361,
+      "forks": 950,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T22:12:42Z"
+      "pushed_at": "2026-10-13T20:11:33Z"
     },
     {
       "full_name": "NickvisionApps/Parabolic",
@@ -3202,8 +3202,8 @@
         "videos"
       ],
       "language": "C#",
-      "stars": 7337,
-      "forks": 349,
+      "stars": 7352,
+      "forks": 351,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-06-29T03:59:31Z"
@@ -3233,7 +3233,7 @@
       ],
       "language": "Swift",
       "stars": 7086,
-      "forks": 181,
+      "forks": 183,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-12T10:44:24Z"
@@ -3265,11 +3265,11 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 7068,
-      "forks": 398,
+      "stars": 7085,
+      "forks": 399,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T05:02:31Z"
+      "pushed_at": "2026-10-13T04:58:01Z"
     },
     {
       "full_name": "qvacua/vimr",
@@ -3295,7 +3295,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 7011,
+      "stars": 7012,
       "forks": 234,
       "license": "MIT",
       "archived": false,
@@ -3326,8 +3326,8 @@
         "sensitivity"
       ],
       "language": "Swift",
-      "stars": 6997,
-      "forks": 180,
+      "stars": 7002,
+      "forks": 181,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-11T03:47:21Z"
@@ -3352,11 +3352,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 6768,
+      "stars": 6786,
       "forks": 954,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-01T09:16:53Z"
+      "pushed_at": "2026-10-13T16:36:35Z"
     },
     {
       "full_name": "hovancik/stretchly",
@@ -3385,8 +3385,8 @@
         "windows"
       ],
       "language": "JavaScript",
-      "stars": 6596,
-      "forks": 568,
+      "stars": 6595,
+      "forks": 569,
       "license": "BSD-2-Clause",
       "archived": false,
       "pushed_at": "2026-10-09T07:55:08Z"
@@ -3418,7 +3418,7 @@
         "ux-design"
       ],
       "language": "TypeScript",
-      "stars": 6434,
+      "stars": 6439,
       "forks": 224,
       "license": "",
       "archived": false,
@@ -3441,7 +3441,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 6326,
+      "stars": 6335,
       "forks": 236,
       "license": "",
       "archived": false,
@@ -3471,7 +3471,7 @@
         "swiftui"
       ],
       "language": "",
-      "stars": 6318,
+      "stars": 6319,
       "forks": 266,
       "license": "",
       "archived": false,
@@ -3493,7 +3493,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 6295,
+      "stars": 6297,
       "forks": 244,
       "license": "Unlicense",
       "archived": false,
@@ -3514,7 +3514,7 @@
       ],
       "topics": [],
       "language": "",
-      "stars": 6286,
+      "stars": 6287,
       "forks": 657,
       "license": "AGPL-3.0",
       "archived": false,
@@ -3546,11 +3546,11 @@
         "mongodb"
       ],
       "language": "Swift",
-      "stars": 6235,
+      "stars": 6241,
       "forks": 416,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T16:11:34Z"
+      "pushed_at": "2026-10-13T18:35:39Z"
     },
     {
       "full_name": "tw93/Kaku",
@@ -3579,11 +3579,11 @@
         "vibe-coding"
       ],
       "language": "Rust",
-      "stars": 6101,
+      "stars": 6106,
       "forks": 316,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T15:43:45Z"
+      "pushed_at": "2026-10-13T16:37:49Z"
     },
     {
       "full_name": "jacklandrin/OnlySwitch",
@@ -3614,11 +3614,11 @@
         "menubar-app"
       ],
       "language": "Swift",
-      "stars": 5976,
-      "forks": 244,
+      "stars": 5977,
+      "forks": 245,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-10T20:02:22Z"
+      "pushed_at": "2026-10-13T20:18:49Z"
     },
     {
       "full_name": "feschber/lan-mouse",
@@ -3648,8 +3648,8 @@
         "linux"
       ],
       "language": "Rust",
-      "stars": 5365,
-      "forks": 302,
+      "stars": 5374,
+      "forks": 303,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-26T12:11:08Z"
@@ -3681,8 +3681,8 @@
         "second-monitor"
       ],
       "language": "Swift",
-      "stars": 5280,
-      "forks": 348,
+      "stars": 5307,
+      "forks": 351,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-08T18:37:37Z"
@@ -3708,11 +3708,11 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 4929,
-      "forks": 338,
+      "stars": 4941,
+      "forks": 337,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T00:25:39Z"
+      "pushed_at": "2026-10-13T00:24:13Z"
     },
     {
       "full_name": "nguyenphutrong/quotio",
@@ -3740,10 +3740,10 @@
       ],
       "language": "Swift",
       "stars": 4887,
-      "forks": 323,
+      "forks": 324,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T17:16:36Z"
+      "pushed_at": "2026-10-13T15:17:51Z"
     },
     {
       "full_name": "mangerlahn/Latest",
@@ -3767,8 +3767,8 @@
         "updater"
       ],
       "language": "Swift",
-      "stars": 4813,
-      "forks": 147,
+      "stars": 4816,
+      "forks": 148,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-07-18T07:25:39Z"
@@ -3799,11 +3799,11 @@
         "macos-swift"
       ],
       "language": "Swift",
-      "stars": 4702,
+      "stars": 4703,
       "forks": 278,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T18:46:06Z"
+      "pushed_at": "2026-10-13T16:39:15Z"
     },
     {
       "full_name": "doublecmd/doublecmd",
@@ -3826,11 +3826,11 @@
         "file-manager"
       ],
       "language": "Pascal",
-      "stars": 4631,
-      "forks": 359,
+      "stars": 4635,
+      "forks": 360,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T00:47:32Z"
+      "pushed_at": "2026-10-13T00:17:24Z"
     },
     {
       "full_name": "briefercloud/briefer",
@@ -3857,7 +3857,7 @@
         "data-analysis"
       ],
       "language": "TypeScript",
-      "stars": 4326,
+      "stars": 4325,
       "forks": 294,
       "license": "AGPL-3.0",
       "archived": false,
@@ -3882,8 +3882,8 @@
         "quicklook-plugin"
       ],
       "language": "C++",
-      "stars": 4297,
-      "forks": 103,
+      "stars": 4298,
+      "forks": 104,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-16T15:18:43Z"
@@ -3913,7 +3913,7 @@
         "html5"
       ],
       "language": "JavaScript",
-      "stars": 4223,
+      "stars": 4220,
       "forks": 1713,
       "license": "MIT",
       "archived": false,
@@ -3940,7 +3940,7 @@
         "streaming"
       ],
       "language": "Swift",
-      "stars": 4022,
+      "stars": 4027,
       "forks": 282,
       "license": "MIT",
       "archived": false,
@@ -3972,7 +3972,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 3967,
+      "stars": 3969,
       "forks": 170,
       "license": "GPL-3.0",
       "archived": false,
@@ -3994,7 +3994,7 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 3932,
+      "stars": 3933,
       "forks": 366,
       "license": "MIT",
       "archived": false,
@@ -4029,11 +4029,35 @@
         "prompt-engineering"
       ],
       "language": "Rust",
-      "stars": 3795,
-      "forks": 354,
+      "stars": 3807,
+      "forks": 359,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T14:48:10Z"
+      "pushed_at": "2026-10-13T03:06:19Z"
+    },
+    {
+      "full_name": "sw33tLie/macshot",
+      "name": "macshot",
+      "owner": "sw33tLie",
+      "avatar": "https://avatars.githubusercontent.com/u/47645560?v=4",
+      "icon": "icons/sw33tLie__macshot.png",
+      "url": "https://github.com/sw33tLie/macshot",
+      "homepage": "https://macshot.io",
+      "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+      "category": "capture",
+      "tags": [
+        "Mouse",
+        "Capture",
+        "Electron",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 3778,
+      "forks": 230,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-05T00:54:03Z"
     },
     {
       "full_name": "Kuingsmile/PicList",
@@ -4061,35 +4085,11 @@
         "s3"
       ],
       "language": "TypeScript",
-      "stars": 3766,
+      "stars": 3770,
       "forks": 159,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T13:23:41Z"
-    },
-    {
-      "full_name": "sw33tLie/macshot",
-      "name": "macshot",
-      "owner": "sw33tLie",
-      "avatar": "https://avatars.githubusercontent.com/u/47645560?v=4",
-      "icon": "icons/sw33tLie__macshot.png",
-      "url": "https://github.com/sw33tLie/macshot",
-      "homepage": "https://macshot.io",
-      "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
-      "category": "capture",
-      "tags": [
-        "Mouse",
-        "Capture",
-        "Electron",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 3761,
-      "forks": 229,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-10-05T00:54:03Z"
+      "pushed_at": "2026-10-13T11:41:27Z"
     },
     {
       "full_name": "AmintaCCCP/GithubStarsManager",
@@ -4119,11 +4119,11 @@
         "github-api"
       ],
       "language": "TypeScript",
-      "stars": 3667,
+      "stars": 3676,
       "forks": 183,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T13:00:28Z"
+      "pushed_at": "2026-10-13T10:23:26Z"
     },
     {
       "full_name": "hamed-elfayome/Claude-Usage-Tracker",
@@ -4152,7 +4152,7 @@
         "usage-application"
       ],
       "language": "Swift",
-      "stars": 3646,
+      "stars": 3653,
       "forks": 195,
       "license": "MIT",
       "archived": false,
@@ -4176,7 +4176,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3607,
+      "stars": 3609,
       "forks": 130,
       "license": "GPL-2.0",
       "archived": false,
@@ -4242,7 +4242,7 @@
       "forks": 228,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T12:16:31Z"
+      "pushed_at": "2026-10-13T00:17:14Z"
     },
     {
       "full_name": "duongductrong/Snapzy",
@@ -4268,11 +4268,11 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 3340,
+      "stars": 3354,
       "forks": 190,
       "license": "BSD-3-Clause",
       "archived": false,
-      "pushed_at": "2026-10-11T17:27:22Z"
+      "pushed_at": "2026-10-13T19:03:51Z"
     },
     {
       "full_name": "OmniNull/OmniWM",
@@ -4299,8 +4299,8 @@
         "paperwm"
       ],
       "language": "Swift",
-      "stars": 3299,
-      "forks": 146,
+      "stars": 3324,
+      "forks": 150,
       "license": "GPL-2.0",
       "archived": false,
       "pushed_at": "2026-10-08T13:04:14Z"
@@ -4362,8 +4362,8 @@
         "react-native"
       ],
       "language": "TypeScript",
-      "stars": 3167,
-      "forks": 189,
+      "stars": 3168,
+      "forks": 190,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-07T22:40:29Z"
@@ -4384,7 +4384,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 3092,
+      "stars": 3100,
       "forks": 152,
       "license": "GPL-3.0",
       "archived": false,
@@ -4415,7 +4415,7 @@
         "mouse"
       ],
       "language": "Swift",
-      "stars": 2939,
+      "stars": 2941,
       "forks": 127,
       "license": "GPL-3.0",
       "archived": false,
@@ -4437,7 +4437,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2878,
+      "stars": 2890,
       "forks": 297,
       "license": "MIT",
       "archived": false,
@@ -4468,8 +4468,8 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "stars": 2842,
-      "forks": 110,
+      "stars": 2844,
+      "forks": 111,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-10T08:35:39Z"
@@ -4521,11 +4521,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2607,
+      "stars": 2608,
       "forks": 256,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T11:47:42Z"
+      "pushed_at": "2026-10-13T04:02:34Z"
     },
     {
       "full_name": "superhighfives/pika",
@@ -4549,11 +4549,11 @@
         "xcode"
       ],
       "language": "Swift",
-      "stars": 2583,
+      "stars": 2584,
       "forks": 82,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T00:26:58Z"
+      "pushed_at": "2026-10-13T19:26:18Z"
     },
     {
       "full_name": "tldev/dorso",
@@ -4570,7 +4570,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2582,
+      "stars": 2581,
       "forks": 75,
       "license": "MIT",
       "archived": false,
@@ -4616,11 +4616,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2501,
-      "forks": 77,
+      "stars": 2512,
+      "forks": 78,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T10:35:47Z"
+      "pushed_at": "2026-10-13T10:27:24Z"
     },
     {
       "full_name": "YTwsy/OpenSurge-for-Mac",
@@ -4649,11 +4649,11 @@
         "loop-engineering"
       ],
       "language": "Go",
-      "stars": 2501,
+      "stars": 2502,
       "forks": 169,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T14:35:05Z"
+      "pushed_at": "2026-10-13T10:24:49Z"
     },
     {
       "full_name": "wxtsky/CodeIsland",
@@ -4681,8 +4681,8 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 2493,
-      "forks": 307,
+      "stars": 2496,
+      "forks": 308,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-11T01:37:21Z"
@@ -4708,11 +4708,11 @@
         "markdown"
       ],
       "language": "Swift",
-      "stars": 2481,
-      "forks": 128,
+      "stars": 2491,
+      "forks": 130,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-11T14:10:52Z"
+      "pushed_at": "2026-10-13T12:46:25Z"
     },
     {
       "full_name": "sozercan/kaset",
@@ -4741,7 +4741,7 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 2398,
+      "stars": 2404,
       "forks": 176,
       "license": "MIT",
       "archived": false,
@@ -4762,11 +4762,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 2394,
-      "forks": 265,
+      "stars": 2393,
+      "forks": 267,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-11T21:32:36Z"
+      "pushed_at": "2026-10-13T01:57:47Z"
     },
     {
       "full_name": "KartikLabhshetwar/better-shot",
@@ -4798,7 +4798,7 @@
       ],
       "language": "Swift",
       "stars": 2383,
-      "forks": 143,
+      "forks": 144,
       "license": "",
       "archived": false,
       "pushed_at": "2026-10-11T13:54:28Z"
@@ -4880,11 +4880,37 @@
         "statistics"
       ],
       "language": "Swift",
-      "stars": 2205,
+      "stars": 2208,
       "forks": 137,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-12T02:38:01Z"
+    },
+    {
+      "full_name": "fayazara/Screendrop",
+      "name": "Screendrop",
+      "owner": "fayazara",
+      "avatar": "https://avatars.githubusercontent.com/u/15716057?v=4",
+      "icon": "icons/fayazara__Screendrop.png",
+      "url": "https://github.com/fayazara/Screendrop",
+      "homepage": "",
+      "description": "A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.",
+      "category": "capture",
+      "tags": [
+        "Capture",
+        "Swift"
+      ],
+      "topics": [
+        "cloudflare",
+        "macos",
+        "swift"
+      ],
+      "language": "Swift",
+      "stars": 2173,
+      "forks": 112,
+      "license": "CC0-1.0",
+      "archived": false,
+      "pushed_at": "2026-10-13T18:51:33Z"
     },
     {
       "full_name": "Orkas-AI/Orkas",
@@ -4912,37 +4938,11 @@
         "autonomous-agents"
       ],
       "language": "JavaScript",
-      "stars": 2173,
+      "stars": 2172,
       "forks": 90,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T01:07:25Z"
-    },
-    {
-      "full_name": "fayazara/Screendrop",
-      "name": "Screendrop",
-      "owner": "fayazara",
-      "avatar": "https://avatars.githubusercontent.com/u/15716057?v=4",
-      "icon": "icons/fayazara__Screendrop.png",
-      "url": "https://github.com/fayazara/Screendrop",
-      "homepage": "",
-      "description": "A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.",
-      "category": "capture",
-      "tags": [
-        "Capture",
-        "Swift"
-      ],
-      "topics": [
-        "cloudflare",
-        "macos",
-        "swift"
-      ],
-      "language": "Swift",
-      "stars": 2169,
-      "forks": 112,
-      "license": "CC0-1.0",
-      "archived": false,
-      "pushed_at": "2026-10-01T17:25:16Z"
+      "pushed_at": "2026-10-13T03:38:01Z"
     },
     {
       "full_name": "Lakr233/NotchDrop",
@@ -4992,8 +4992,8 @@
         "wallpaper"
       ],
       "language": "Swift",
-      "stars": 2123,
-      "forks": 76,
+      "stars": 2122,
+      "forks": 77,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-25T14:39:09Z"
@@ -5024,7 +5024,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 2118,
+      "stars": 2121,
       "forks": 97,
       "license": "Apache-2.0",
       "archived": false,
@@ -5057,7 +5057,7 @@
         "open-island"
       ],
       "language": "Swift",
-      "stars": 2047,
+      "stars": 2046,
       "forks": 353,
       "license": "GPL-3.0",
       "archived": false,
@@ -5092,11 +5092,11 @@
         "cursor"
       ],
       "language": "JavaScript",
-      "stars": 2026,
-      "forks": 202,
+      "stars": 2031,
+      "forks": 204,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T15:13:49Z"
+      "pushed_at": "2026-10-13T13:49:31Z"
     },
     {
       "full_name": "Shpigford/chops",
@@ -5122,7 +5122,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 1948,
+      "stars": 1947,
       "forks": 120,
       "license": "",
       "archived": false,
@@ -5178,11 +5178,11 @@
         "transcription"
       ],
       "language": "Swift",
-      "stars": 1845,
-      "forks": 147,
+      "stars": 1847,
+      "forks": 148,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T19:51:55Z"
+      "pushed_at": "2026-10-13T17:43:09Z"
     },
     {
       "full_name": "iliyami/MacSai",
@@ -5213,11 +5213,11 @@
         "mac-cleaner"
       ],
       "language": "Swift",
-      "stars": 1831,
+      "stars": 1838,
       "forks": 108,
       "license": "BSD-3-Clause",
       "archived": false,
-      "pushed_at": "2026-10-12T19:57:19Z"
+      "pushed_at": "2026-10-13T00:50:51Z"
     },
     {
       "full_name": "alienator88/Sentinel",
@@ -5246,7 +5246,7 @@
       ],
       "language": "Swift",
       "stars": 1769,
-      "forks": 59,
+      "forks": 61,
       "license": "",
       "archived": false,
       "pushed_at": "2026-05-11T16:21:53Z"
@@ -5275,7 +5275,7 @@
         "tauri"
       ],
       "language": "Rust",
-      "stars": 1735,
+      "stars": 1736,
       "forks": 82,
       "license": "MIT",
       "archived": false,
@@ -5299,11 +5299,11 @@
         "mcp"
       ],
       "language": "Swift",
-      "stars": 1684,
+      "stars": 1685,
       "forks": 122,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T13:57:09Z"
+      "pushed_at": "2026-10-13T18:57:09Z"
     },
     {
       "full_name": "stark81/VutronMusic",
@@ -5366,8 +5366,8 @@
       ],
       "topics": [],
       "language": "TypeScript",
-      "stars": 1589,
-      "forks": 143,
+      "stars": 1590,
+      "forks": 144,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-12T11:12:21Z"
@@ -5401,11 +5401,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1565,
-      "forks": 181,
+      "stars": 1568,
+      "forks": 182,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T16:58:18Z"
+      "pushed_at": "2026-10-13T15:14:54Z"
     },
     {
       "full_name": "Sitoi/ClashBar",
@@ -5433,11 +5433,11 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 1563,
-      "forks": 120,
+      "stars": 1568,
+      "forks": 121,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-09-30T06:32:41Z"
+      "pushed_at": "2026-10-13T08:24:09Z"
     },
     {
       "full_name": "wouterdebie/davit",
@@ -5454,7 +5454,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1558,
+      "stars": 1559,
       "forks": 32,
       "license": "MIT",
       "archived": false,
@@ -5487,11 +5487,34 @@
         "kimi"
       ],
       "language": "Swift",
-      "stars": 1534,
+      "stars": 1535,
       "forks": 153,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T10:35:35Z"
+      "pushed_at": "2026-10-13T14:08:07Z"
+    },
+    {
+      "full_name": "Blaizzy/nativ",
+      "name": "nativ",
+      "owner": "Blaizzy",
+      "avatar": "https://avatars.githubusercontent.com/u/23445657?v=4",
+      "icon": "icons/Blaizzy__nativ.svg",
+      "url": "https://github.com/Blaizzy/nativ",
+      "homepage": "https://blaizzy.github.io/nativ/",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Monitoring",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 1513,
+      "forks": 103,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-13T19:37:22Z"
     },
     {
       "full_name": "LunarBar-app/LunarBar",
@@ -5516,34 +5539,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1501,
+      "stars": 1502,
       "forks": 74,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-08T13:56:22Z"
-    },
-    {
-      "full_name": "Blaizzy/nativ",
-      "name": "nativ",
-      "owner": "Blaizzy",
-      "avatar": "https://avatars.githubusercontent.com/u/23445657?v=4",
-      "icon": "icons/Blaizzy__nativ.svg",
-      "url": "https://github.com/Blaizzy/nativ",
-      "homepage": "https://blaizzy.github.io/nativ/",
-      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "Monitoring",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 1499,
-      "forks": 103,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-10-12T15:24:49Z"
     },
     {
       "full_name": "chocoford/ExcalidrawZ",
@@ -5568,11 +5568,11 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 1492,
-      "forks": 88,
+      "stars": 1496,
+      "forks": 89,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-09T13:23:50Z"
+      "pushed_at": "2026-10-13T08:17:25Z"
     },
     {
       "full_name": "rsyncOSX/RsyncUI",
@@ -5599,7 +5599,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 1482,
+      "stars": 1481,
       "forks": 36,
       "license": "MIT",
       "archived": false,
@@ -5631,7 +5631,7 @@
         "vibe-coding"
       ],
       "language": "Swift",
-      "stars": 1478,
+      "stars": 1480,
       "forks": 61,
       "license": "GPL-3.0",
       "archived": false,
@@ -5660,7 +5660,7 @@
         "vm"
       ],
       "language": "C",
-      "stars": 1443,
+      "stars": 1442,
       "forks": 221,
       "license": "GPL-3.0",
       "archived": false,
@@ -5693,11 +5693,11 @@
         "macos-app"
       ],
       "language": "Swift",
-      "stars": 1418,
-      "forks": 81,
+      "stars": 1421,
+      "forks": 82,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T10:04:00Z"
+      "pushed_at": "2026-10-13T13:33:38Z"
     },
     {
       "full_name": "lzhgus/Capso",
@@ -5725,11 +5725,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 1394,
-      "forks": 80,
+      "stars": 1397,
+      "forks": 82,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-11T20:57:05Z"
+      "pushed_at": "2026-10-13T20:09:05Z"
     },
     {
       "full_name": "xjbeta/iina-plus",
@@ -5784,7 +5784,7 @@
         "teleprompter"
       ],
       "language": "Swift",
-      "stars": 1385,
+      "stars": 1387,
       "forks": 108,
       "license": "MIT",
       "archived": false,
@@ -5811,7 +5811,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 1356,
+      "stars": 1359,
       "forks": 76,
       "license": "GPL-3.0",
       "archived": false,
@@ -5840,11 +5840,11 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 1272,
-      "forks": 74,
+      "stars": 1314,
+      "forks": 76,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T15:26:45Z"
+      "pushed_at": "2026-10-13T14:20:53Z"
     },
     {
       "full_name": "xykong/flux-markdown",
@@ -5884,11 +5884,11 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1215,
+      "stars": 1214,
       "forks": 120,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-08T01:55:54Z"
+      "pushed_at": "2026-10-13T05:50:30Z"
     },
     {
       "full_name": "sumimakito/Mac-Duo",
@@ -5917,7 +5917,7 @@
         "menubarapp"
       ],
       "language": "Swift",
-      "stars": 1190,
+      "stars": 1194,
       "forks": 84,
       "license": "Apache-2.0",
       "archived": false,
@@ -5979,6 +5979,39 @@
       "pushed_at": "2025-01-20T16:58:53Z"
     },
     {
+      "full_name": "kunkka19xx/look",
+      "name": "look",
+      "owner": "kunkka19xx",
+      "avatar": "https://avatars.githubusercontent.com/u/53131553?v=4",
+      "icon": "icons/kunkka19xx__look.png",
+      "url": "https://github.com/kunkka19xx/look",
+      "homepage": "https://noah-code.com/docs/look",
+      "description": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+      "category": "launchers",
+      "tags": [
+        "Launcher",
+        "Tauri",
+        "Cross-platform",
+        "Rust"
+      ],
+      "topics": [
+        "cross-platform",
+        "launcher",
+        "linux",
+        "macos",
+        "made-in-vietnam",
+        "opensource",
+        "productivity",
+        "rofi-macos"
+      ],
+      "language": "Rust",
+      "stars": 1161,
+      "forks": 70,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-13T18:17:04Z"
+    },
+    {
       "full_name": "missuo/kumone",
       "name": "kumone",
       "owner": "missuo",
@@ -5995,8 +6028,8 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 1133,
-      "forks": 88,
+      "stars": 1140,
+      "forks": 89,
       "license": "LGPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-08T17:07:55Z"
@@ -6081,8 +6114,8 @@
       ],
       "topics": [],
       "language": "Rust",
-      "stars": 1058,
-      "forks": 31,
+      "stars": 1063,
+      "forks": 32,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-12T16:30:10Z"
@@ -6115,7 +6148,7 @@
         "cli"
       ],
       "language": "",
-      "stars": 1015,
+      "stars": 1017,
       "forks": 50,
       "license": "",
       "archived": false,
@@ -6149,7 +6182,7 @@
         "menu-bar-app"
       ],
       "language": "Swift",
-      "stars": 967,
+      "stars": 970,
       "forks": 77,
       "license": "MIT",
       "archived": false,
@@ -6181,8 +6214,8 @@
         "thock"
       ],
       "language": "Swift",
-      "stars": 964,
-      "forks": 52,
+      "stars": 965,
+      "forks": 53,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-06-05T12:12:22Z"
@@ -6234,7 +6267,7 @@
       ],
       "language": "Swift",
       "stars": 934,
-      "forks": 55,
+      "forks": 56,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-02T09:35:26Z"
@@ -6256,7 +6289,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 904,
+      "stars": 906,
       "forks": 71,
       "license": "Apache-2.0",
       "archived": false,
@@ -6277,7 +6310,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 863,
+      "stars": 865,
       "forks": 52,
       "license": "",
       "archived": false,
@@ -6328,7 +6361,7 @@
         "window-switcher"
       ],
       "language": "Swift",
-      "stars": 804,
+      "stars": 805,
       "forks": 37,
       "license": "GPL-3.0",
       "archived": false,
@@ -6349,7 +6382,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 797,
+      "stars": 798,
       "forks": 409,
       "license": "BSD-3-Clause",
       "archived": false,
@@ -6381,7 +6414,7 @@
         "vfs"
       ],
       "language": "C++",
-      "stars": 744,
+      "stars": 745,
       "forks": 57,
       "license": "GPL-3.0",
       "archived": false,
@@ -6413,7 +6446,7 @@
         "pipeline"
       ],
       "language": "Swift",
-      "stars": 736,
+      "stars": 738,
       "forks": 47,
       "license": "GPL-3.0",
       "archived": false,
@@ -6451,7 +6484,7 @@
       "forks": 39,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T12:45:52Z"
+      "pushed_at": "2026-10-13T11:26:44Z"
     },
     {
       "full_name": "moona3k/macparakeet",
@@ -6485,7 +6518,7 @@
       "forks": 83,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-12T18:52:42Z"
+      "pushed_at": "2026-10-13T15:23:37Z"
     },
     {
       "full_name": "bahattinkoc/ipaverse",
@@ -6516,38 +6549,11 @@
         "itunes"
       ],
       "language": "Swift",
-      "stars": 673,
+      "stars": 675,
       "forks": 46,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-22T05:55:38Z"
-    },
-    {
-      "full_name": "shobhit99/SuperIsland",
-      "name": "SuperIsland",
-      "owner": "shobhit99",
-      "avatar": "https://avatars.githubusercontent.com/u/38807205?v=4",
-      "icon": "icons/shobhit99__SuperIsland.svg",
-      "url": "https://github.com/shobhit99/SuperIsland",
-      "homepage": "https://dynamicisland.app",
-      "description": "Dynamic Island for MacOS — with Extensions",
-      "category": "notch",
-      "tags": [
-        "Notch",
-        "Swift"
-      ],
-      "topics": [
-        "dynamicisland",
-        "macos",
-        "notch",
-        "superisland"
-      ],
-      "language": "Swift",
-      "stars": 673,
-      "forks": 56,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-09-13T03:54:09Z"
     },
     {
       "full_name": "ganeshmshetty/openclip",
@@ -6578,11 +6584,38 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 668,
-      "forks": 39,
+      "stars": 675,
+      "forks": 40,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T15:53:38Z"
+      "pushed_at": "2026-10-13T12:47:45Z"
+    },
+    {
+      "full_name": "shobhit99/SuperIsland",
+      "name": "SuperIsland",
+      "owner": "shobhit99",
+      "avatar": "https://avatars.githubusercontent.com/u/38807205?v=4",
+      "icon": "icons/shobhit99__SuperIsland.svg",
+      "url": "https://github.com/shobhit99/SuperIsland",
+      "homepage": "https://dynamicisland.app",
+      "description": "Dynamic Island for MacOS — with Extensions",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [
+        "dynamicisland",
+        "macos",
+        "notch",
+        "superisland"
+      ],
+      "language": "Swift",
+      "stars": 674,
+      "forks": 56,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-09-13T03:54:09Z"
     },
     {
       "full_name": "pablopunk/SwiftShift",
@@ -6638,7 +6671,7 @@
         "video"
       ],
       "language": "HTML",
-      "stars": 650,
+      "stars": 651,
       "forks": 41,
       "license": "",
       "archived": false,
@@ -6672,7 +6705,7 @@
       "forks": 27,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-09-01T08:54:30Z"
+      "pushed_at": "2026-10-13T17:01:39Z"
     },
     {
       "full_name": "thsnkhn/harbor",
@@ -6700,11 +6733,34 @@
         "youtube-downloader"
       ],
       "language": "Swift",
-      "stars": 635,
-      "forks": 28,
+      "stars": 638,
+      "forks": 29,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-10-11T12:34:55Z"
+    },
+    {
+      "full_name": "tkslucas/Neodisk",
+      "name": "Neodisk",
+      "owner": "tkslucas",
+      "avatar": "https://avatars.githubusercontent.com/u/84738101?v=4",
+      "icon": "icons/tkslucas__Neodisk.png",
+      "url": "https://github.com/tkslucas/Neodisk",
+      "homepage": "https://neodisk.app",
+      "description": "Read-only treemap and sunburst disk space visualizer",
+      "category": "system",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [
+        "disk-analyzer"
+      ],
+      "language": "Swift",
+      "stars": 607,
+      "forks": 21,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-11T16:23:22Z"
     },
     {
       "full_name": "oomol-lab/LockIME",
@@ -6733,57 +6789,11 @@
         "menu-bar"
       ],
       "language": "Swift",
-      "stars": 605,
+      "stars": 606,
       "forks": 25,
       "license": "GPL-3.0",
       "archived": false,
       "pushed_at": "2026-09-18T03:01:01Z"
-    },
-    {
-      "full_name": "tkslucas/Neodisk",
-      "name": "Neodisk",
-      "owner": "tkslucas",
-      "avatar": "https://avatars.githubusercontent.com/u/84738101?v=4",
-      "icon": "icons/tkslucas__Neodisk.png",
-      "url": "https://github.com/tkslucas/Neodisk",
-      "homepage": "https://neodisk.app",
-      "description": "Read-only treemap and sunburst disk space visualizer",
-      "category": "system",
-      "tags": [
-        "Swift"
-      ],
-      "topics": [
-        "disk-analyzer"
-      ],
-      "language": "Swift",
-      "stars": 605,
-      "forks": 20,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-10-11T16:23:22Z"
-    },
-    {
-      "full_name": "Sanyam-G/switch",
-      "name": "switch",
-      "owner": "Sanyam-G",
-      "avatar": "https://avatars.githubusercontent.com/u/95066206?v=4",
-      "icon": "icons/Sanyam-G__switch.png",
-      "url": "https://github.com/Sanyam-G/switch",
-      "homepage": "https://switch-dev.sanyamgarg.com",
-      "description": "A keyboard-driven window switcher for macOS. Notarized. Free.",
-      "category": "windows",
-      "tags": [
-        "Windows",
-        "Keyboard",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 591,
-      "forks": 44,
-      "license": "",
-      "archived": false,
-      "pushed_at": "2026-09-22T05:24:36Z"
     },
     {
       "full_name": "jackson-storm/DynamicNotch",
@@ -6810,11 +6820,34 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 588,
+      "stars": 593,
       "forks": 43,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T17:50:40Z"
+      "pushed_at": "2026-10-13T18:45:25Z"
+    },
+    {
+      "full_name": "Sanyam-G/switch",
+      "name": "switch",
+      "owner": "Sanyam-G",
+      "avatar": "https://avatars.githubusercontent.com/u/95066206?v=4",
+      "icon": "icons/Sanyam-G__switch.png",
+      "url": "https://github.com/Sanyam-G/switch",
+      "homepage": "https://switch-dev.sanyamgarg.com",
+      "description": "A keyboard-driven window switcher for macOS. Notarized. Free.",
+      "category": "windows",
+      "tags": [
+        "Windows",
+        "Keyboard",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 591,
+      "forks": 44,
+      "license": "",
+      "archived": false,
+      "pushed_at": "2026-09-22T05:24:36Z"
     },
     {
       "full_name": "johnbean393/KeyType",
@@ -6841,7 +6874,7 @@
         "llm"
       ],
       "language": "Swift",
-      "stars": 572,
+      "stars": 571,
       "forks": 29,
       "license": "MIT",
       "archived": false,
@@ -6908,7 +6941,7 @@
       "forks": 67,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-08-14T06:29:48Z"
+      "pushed_at": "2026-10-13T07:23:54Z"
     },
     {
       "full_name": "crissNb/Dynamic-Island-Sketchybar",
@@ -6964,11 +6997,11 @@
         "window-manager"
       ],
       "language": "Swift",
-      "stars": 521,
+      "stars": 527,
       "forks": 21,
       "license": "GPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-11T01:25:34Z"
+      "pushed_at": "2026-10-13T06:15:40Z"
     },
     {
       "full_name": "homielab/mountmate",
@@ -6993,11 +7026,44 @@
         "utilities"
       ],
       "language": "Swift",
-      "stars": 507,
+      "stars": 508,
       "forks": 32,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-10T19:45:12Z"
+    },
+    {
+      "full_name": "razzant/claudexor",
+      "name": "claudexor",
+      "owner": "razzant",
+      "avatar": "https://avatars.githubusercontent.com/u/47871264?v=4",
+      "icon": "icons/razzant__claudexor.png",
+      "url": "https://github.com/razzant/claudexor",
+      "homepage": "https://claudexor.ai/",
+      "description": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+      "category": "ai",
+      "tags": [
+        "AI",
+        "Mouse",
+        "Terminal",
+        "TypeScript"
+      ],
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-coding",
+        "ai-coding-assistant",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex"
+      ],
+      "language": "TypeScript",
+      "stars": 507,
+      "forks": 54,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-13T14:20:52Z"
     },
     {
       "full_name": "anges244/evie",
@@ -7028,39 +7094,6 @@
       "pushed_at": "2022-12-09T15:19:45Z"
     },
     {
-      "full_name": "razzant/claudexor",
-      "name": "claudexor",
-      "owner": "razzant",
-      "avatar": "https://avatars.githubusercontent.com/u/47871264?v=4",
-      "icon": "icons/razzant__claudexor.png",
-      "url": "https://github.com/razzant/claudexor",
-      "homepage": "https://claudexor.ai/",
-      "description": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
-      "category": "ai",
-      "tags": [
-        "AI",
-        "Mouse",
-        "Terminal",
-        "TypeScript"
-      ],
-      "topics": [
-        "agent-orchestration",
-        "ai-agents",
-        "ai-coding",
-        "ai-coding-assistant",
-        "claude-code",
-        "cli",
-        "code-review",
-        "codex"
-      ],
-      "language": "TypeScript",
-      "stars": 503,
-      "forks": 53,
-      "license": "MIT",
-      "archived": false,
-      "pushed_at": "2026-10-12T15:45:53Z"
-    },
-    {
       "full_name": "GeorgeEnglezos/Scrcpy-GUI",
       "name": "Scrcpy-GUI",
       "owner": "GeorgeEnglezos",
@@ -7087,7 +7120,7 @@
         "scrcpygui"
       ],
       "language": "Dart",
-      "stars": 496,
+      "stars": 497,
       "forks": 23,
       "license": "AGPL-3.0",
       "archived": false,
@@ -7212,7 +7245,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 457,
+      "stars": 458,
       "forks": 27,
       "license": "GPL-3.0",
       "archived": false,
@@ -7273,11 +7306,11 @@
         "swift"
       ],
       "language": "Swift",
-      "stars": 447,
-      "forks": 22,
+      "stars": 448,
+      "forks": 23,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T20:17:35Z"
+      "pushed_at": "2026-10-13T20:04:17Z"
     },
     {
       "full_name": "byrencheema/airstats",
@@ -7304,11 +7337,44 @@
         "system-monitor"
       ],
       "language": "Swift",
-      "stars": 439,
+      "stars": 442,
       "forks": 17,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-23T05:53:59Z"
+    },
+    {
+      "full_name": "WallpaperMachine/WallpaperMachine",
+      "name": "WallpaperMachine",
+      "owner": "WallpaperMachine",
+      "avatar": "https://avatars.githubusercontent.com/u/334147233?v=4",
+      "icon": "icons/WallpaperMachine__WallpaperMachine.svg",
+      "url": "https://github.com/WallpaperMachine/WallpaperMachine",
+      "homepage": "https://www.wallpapermachine.app/",
+      "description": "Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.",
+      "category": "media",
+      "tags": [
+        "Video",
+        "Fun",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "animated-wallpaper",
+        "apple-silicon",
+        "desktop-wallpaper",
+        "dynamic-wallpaper",
+        "live-wallpaper",
+        "lock-screen",
+        "macos",
+        "macos-app"
+      ],
+      "language": "Swift",
+      "stars": 438,
+      "forks": 14,
+      "license": "GPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-13T03:42:04Z"
     },
     {
       "full_name": "james-see/ltx-video-mac",
@@ -7364,7 +7430,7 @@
         "software-copyright"
       ],
       "language": "TypeScript",
-      "stars": 431,
+      "stars": 434,
       "forks": 86,
       "license": "Apache-2.0",
       "archived": false,
@@ -7398,44 +7464,11 @@
         "monitoring"
       ],
       "language": "Swift",
-      "stars": 409,
+      "stars": 410,
       "forks": 50,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-09-29T09:15:19Z"
-    },
-    {
-      "full_name": "WallpaperMachine/WallpaperMachine",
-      "name": "WallpaperMachine",
-      "owner": "WallpaperMachine",
-      "avatar": "https://avatars.githubusercontent.com/u/334147233?v=4",
-      "icon": "icons/WallpaperMachine__WallpaperMachine.svg",
-      "url": "https://github.com/WallpaperMachine/WallpaperMachine",
-      "homepage": "https://www.wallpapermachine.app/",
-      "description": "Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.",
-      "category": "media",
-      "tags": [
-        "Video",
-        "Fun",
-        "SwiftUI",
-        "Swift"
-      ],
-      "topics": [
-        "animated-wallpaper",
-        "apple-silicon",
-        "desktop-wallpaper",
-        "dynamic-wallpaper",
-        "live-wallpaper",
-        "lock-screen",
-        "macos",
-        "macos-app"
-      ],
-      "language": "Swift",
-      "stars": 400,
-      "forks": 12,
-      "license": "GPL-2.0",
-      "archived": false,
-      "pushed_at": "2026-10-12T06:08:17Z"
     },
     {
       "full_name": "PostgresGUI/postgresgui",
@@ -7477,7 +7510,7 @@
         "window-manager"
       ],
       "language": "Swift",
-      "stars": 381,
+      "stars": 382,
       "forks": 23,
       "license": "MIT",
       "archived": false,
@@ -7499,7 +7532,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 361,
+      "stars": 359,
       "forks": 25,
       "license": "MIT",
       "archived": false,
@@ -7533,7 +7566,7 @@
       "forks": 38,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T20:58:45Z"
+      "pushed_at": "2026-10-13T20:16:31Z"
     },
     {
       "full_name": "ericjypark/codex-island",
@@ -7559,11 +7592,11 @@
         "notch"
       ],
       "language": "Swift",
-      "stars": 354,
+      "stars": 353,
       "forks": 60,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T05:26:34Z"
+      "pushed_at": "2026-10-13T02:22:13Z"
     },
     {
       "full_name": "mediar-ai/fazm",
@@ -7580,7 +7613,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 345,
+      "stars": 347,
       "forks": 42,
       "license": "",
       "archived": false,
@@ -7611,7 +7644,7 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 338,
+      "stars": 339,
       "forks": 13,
       "license": "MIT",
       "archived": false,
@@ -7636,7 +7669,7 @@
       "forks": 29,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T01:33:16Z"
+      "pushed_at": "2026-10-13T17:08:02Z"
     },
     {
       "full_name": "137137137/OpenDisk",
@@ -7665,11 +7698,33 @@
         "storage-analyzer"
       ],
       "language": "Swift",
-      "stars": 313,
+      "stars": 314,
       "forks": 15,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-09T13:43:40Z"
+    },
+    {
+      "full_name": "cshariq/Sapphire",
+      "name": "Sapphire",
+      "owner": "cshariq",
+      "avatar": "https://avatars.githubusercontent.com/u/134816402?v=4",
+      "icon": "icons/cshariq__Sapphire.png",
+      "url": "https://github.com/cshariq/Sapphire",
+      "homepage": "https://sapphire-app.tech",
+      "description": "The all in one mac app that redefines the notch",
+      "category": "notch",
+      "tags": [
+        "Notch",
+        "Swift"
+      ],
+      "topics": [],
+      "language": "Swift",
+      "stars": 313,
+      "forks": 59,
+      "license": "AGPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-02T00:48:27Z"
     },
     {
       "full_name": "lifedever/PasteMemo-app",
@@ -7700,28 +7755,6 @@
       "pushed_at": "2026-10-10T03:24:08Z"
     },
     {
-      "full_name": "cshariq/Sapphire",
-      "name": "Sapphire",
-      "owner": "cshariq",
-      "avatar": "https://avatars.githubusercontent.com/u/134816402?v=4",
-      "icon": "icons/cshariq__Sapphire.png",
-      "url": "https://github.com/cshariq/Sapphire",
-      "homepage": "https://sapphire-app.tech",
-      "description": "The all in one mac app that redefines the notch",
-      "category": "notch",
-      "tags": [
-        "Notch",
-        "Swift"
-      ],
-      "topics": [],
-      "language": "Swift",
-      "stars": 310,
-      "forks": 59,
-      "license": "AGPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-10-02T00:48:27Z"
-    },
-    {
       "full_name": "symless/synergy",
       "name": "synergy",
       "owner": "symless",
@@ -7738,11 +7771,11 @@
       ],
       "topics": [],
       "language": "C++",
-      "stars": 310,
+      "stars": 311,
       "forks": 52,
       "license": "GPL-2.0",
       "archived": false,
-      "pushed_at": "2026-10-12T21:34:41Z"
+      "pushed_at": "2026-10-13T08:58:00Z"
     },
     {
       "full_name": "romankurnovskii/BrewMate",
@@ -7767,7 +7800,7 @@
         "react"
       ],
       "language": "TypeScript",
-      "stars": 300,
+      "stars": 301,
       "forks": 36,
       "license": "MIT",
       "archived": false,
@@ -7881,7 +7914,7 @@
         "redux"
       ],
       "language": "JavaScript",
-      "stars": 251,
+      "stars": 250,
       "forks": 44,
       "license": "MIT",
       "archived": false,
@@ -7904,7 +7937,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 228,
+      "stars": 229,
       "forks": 23,
       "license": "MIT",
       "archived": false,
@@ -7978,7 +8011,7 @@
         "utility"
       ],
       "language": "Swift",
-      "stars": 191,
+      "stars": 192,
       "forks": 11,
       "license": "AGPL-3.0",
       "archived": false,
@@ -8010,7 +8043,7 @@
         "mac-app"
       ],
       "language": "Swift",
-      "stars": 187,
+      "stars": 188,
       "forks": 9,
       "license": "AGPL-3.0",
       "archived": false,
@@ -8136,7 +8169,7 @@
         "lulu-alternative"
       ],
       "language": "Swift",
-      "stars": 169,
+      "stars": 171,
       "forks": 12,
       "license": "MIT",
       "archived": false,
@@ -8187,7 +8220,7 @@
       ],
       "topics": [],
       "language": "Swift",
-      "stars": 146,
+      "stars": 147,
       "forks": 10,
       "license": "GPL-3.0",
       "archived": false,
@@ -8491,10 +8524,10 @@
       ],
       "language": "Swift",
       "stars": 72,
-      "forks": 8,
+      "forks": 9,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T18:48:17Z"
+      "pushed_at": "2026-10-13T20:09:36Z"
     },
     {
       "full_name": "2h4u/BingWallpaper-for-Mac",
@@ -8605,7 +8638,7 @@
         "swiftui"
       ],
       "language": "Swift",
-      "stars": 53,
+      "stars": 54,
       "forks": 3,
       "license": "MIT",
       "archived": false,
@@ -8639,11 +8672,40 @@
         "notifications"
       ],
       "language": "Swift",
-      "stars": 53,
+      "stars": 54,
       "forks": 6,
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-08-11T18:26:15Z"
+    },
+    {
+      "full_name": "helson-lin/FanBar",
+      "name": "FanBar",
+      "owner": "helson-lin",
+      "avatar": "https://avatars.githubusercontent.com/u/84565447?v=4",
+      "icon": "",
+      "url": "https://github.com/helson-lin/FanBar",
+      "homepage": "https://getfanbar.com",
+      "description": "Free, open-source Mac fan control for the menu bar. Monitor temperatures, set fan curves — Apple Silicon & Intel.",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Monitoring",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "apple-silicon",
+        "macos-fan-control",
+        "menubar",
+        "swiftui"
+      ],
+      "language": "Swift",
+      "stars": 53,
+      "forks": 5,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-13T15:55:00Z"
     },
     {
       "full_name": "edinabazi/Kompakt",
@@ -8711,35 +8773,6 @@
       "license": "MIT",
       "archived": false,
       "pushed_at": "2026-10-04T13:33:01Z"
-    },
-    {
-      "full_name": "helson-lin/FanBar",
-      "name": "FanBar",
-      "owner": "helson-lin",
-      "avatar": "https://avatars.githubusercontent.com/u/84565447?v=4",
-      "icon": "",
-      "url": "https://github.com/helson-lin/FanBar",
-      "homepage": "https://fanbar.jarin.me",
-      "description": "Free, open-source Mac fan control for the menu bar. Monitor temperatures, set fan curves — Apple Silicon & Intel.",
-      "category": "menubar",
-      "tags": [
-        "Menu Bar",
-        "Monitoring",
-        "SwiftUI",
-        "Swift"
-      ],
-      "topics": [
-        "apple-silicon",
-        "macos-fan-control",
-        "menubar",
-        "swiftui"
-      ],
-      "language": "Swift",
-      "stars": 51,
-      "forks": 5,
-      "license": "GPL-3.0",
-      "archived": false,
-      "pushed_at": "2026-10-12T15:40:50Z"
     },
     {
       "full_name": "vlr-code/dictly",
@@ -8822,7 +8855,7 @@
         "parametric-equalizer"
       ],
       "language": "Swift",
-      "stars": 44,
+      "stars": 45,
       "forks": 1,
       "license": "GPL-3.0",
       "archived": false,
@@ -8860,7 +8893,7 @@
       "forks": 5,
       "license": "AGPL-3.0",
       "archived": false,
-      "pushed_at": "2026-10-12T19:16:09Z"
+      "pushed_at": "2026-10-13T20:00:45Z"
     },
     {
       "full_name": "FI-153/QuickNetStats",
@@ -8959,7 +8992,7 @@
       "forks": 8,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T10:54:10Z"
+      "pushed_at": "2026-10-13T10:39:11Z"
     },
     {
       "full_name": "cyrus-cai/notchi",
@@ -8990,11 +9023,39 @@
         "macos"
       ],
       "language": "Swift",
-      "stars": 30,
+      "stars": 32,
       "forks": 1,
       "license": "MIT",
       "archived": false,
-      "pushed_at": "2026-10-12T15:59:01Z"
+      "pushed_at": "2026-10-13T13:00:26Z"
+    },
+    {
+      "full_name": "lifedever/TabFlick",
+      "name": "TabFlick",
+      "owner": "lifedever",
+      "avatar": "https://avatars.githubusercontent.com/u/3143306?v=4",
+      "icon": "icons/lifedever__TabFlick.svg",
+      "url": "https://github.com/lifedever/TabFlick",
+      "homepage": "https://www.lifedever.com/TabFlick/",
+      "description": "An Arc-style most-recently-used tab switcher for Google Chrome. Hold ⌃, tap ⇥.",
+      "category": "system",
+      "tags": [
+        "Swift"
+      ],
+      "topics": [
+        "arc-browser",
+        "chrome-extension",
+        "macos",
+        "productivity",
+        "swift",
+        "tab-switcher"
+      ],
+      "language": "Swift",
+      "stars": 28,
+      "forks": 0,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-09T11:43:18Z"
     },
     {
       "full_name": "homielab/timemate",
@@ -9079,7 +9140,7 @@
       "forks": 2,
       "license": "Apache-2.0",
       "archived": false,
-      "pushed_at": "2026-09-17T04:47:05Z"
+      "pushed_at": "2026-10-13T08:37:29Z"
     },
     {
       "full_name": "rewhex/better-launchpad",
@@ -9124,6 +9185,39 @@
       "pushed_at": "2025-05-14T19:32:48Z"
     },
     {
+      "full_name": "RadixIV/Mixio",
+      "name": "Mixio",
+      "owner": "RadixIV",
+      "avatar": "https://avatars.githubusercontent.com/u/316608972?v=4",
+      "icon": "",
+      "url": "https://github.com/RadixIV/Mixio",
+      "homepage": "",
+      "description": "MacOS menu bar app with per app & tab volume control, 10-band EQ with native style UI.",
+      "category": "menubar",
+      "tags": [
+        "Menu Bar",
+        "Audio",
+        "SwiftUI",
+        "Swift"
+      ],
+      "topics": [
+        "appkit",
+        "audio",
+        "audio-control",
+        "audio-visualizer",
+        "equalizer",
+        "macos",
+        "macos-app",
+        "macos-application"
+      ],
+      "language": "Swift",
+      "stars": 7,
+      "forks": 0,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-09-29T17:11:29Z"
+    },
+    {
       "full_name": "vishvavariya/homebrew-notchy",
       "name": "homebrew-notchy",
       "owner": "vishvavariya",
@@ -9151,7 +9245,7 @@
       "forks": 2,
       "license": "",
       "archived": false,
-      "pushed_at": "2026-10-11T15:52:17Z"
+      "pushed_at": "2026-10-13T14:50:31Z"
     },
     {
       "full_name": "mustafahalabi/agents-island",
