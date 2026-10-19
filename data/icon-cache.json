@@ -354,6 +354,11 @@
     "path": "desktop/app/icons/icon.png",
     "sha": "5bf39e57510e5bde9b7da9bf71322029097d26f5"
   },
+  "andreypudov/core-eq": {
+    "file": "icons/andreypudov__core-eq.svg",
+    "path": "design/logo.svg",
+    "sha": "2e2ac7f64ea93c02efca32d8be6a4014957b0527"
+  },
   "ankitects/anki": {
     "file": "icons/ankitects__anki.png",
     "path": "docs-site/media/logo.png",
@@ -459,6 +464,11 @@
     "path": "NotchGlass/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "909d19bf87a2bd25f455aeaee0c3c02d3489071c"
   },
+  "debugtheworldbot/keyStats": {
+    "file": "icons/debugtheworldbot__keyStats.png",
+    "path": "KeyStats/Assets.xcassets/AppIcon.appiconset/ICON-iOS-Default-256x256@1x.png",
+    "sha": "387ead26922d13d904a188561d88932e25bc61fe"
+  },
   "denzam/SystemEQ-for-Mac": {
     "file": "icons/denzam__SystemEQ-for-Mac.png",
     "path": "SystemEQ for Mac/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
@@ -516,8 +526,8 @@
   },
   "farion1231/cc-switch": {
     "file": "icons/farion1231__cc-switch.png",
-    "path": "src/assets/icons/app-icon.png",
-    "sha": "6ea9e37ce4d55a30388036a3a0c9337159ce2387"
+    "path": "src-tauri/icons/icon.png",
+    "sha": "69c97dc4d6f631d6d65b3706fbff59bc52814dfe"
   },
   "farouqaldori/vibe-notch": {
     "file": "icons/farouqaldori__vibe-notch.png",
@@ -632,7 +642,7 @@
   "iliyami/MacSai": {
     "file": "icons/iliyami__MacSai.png",
     "path": "assets/app_icon.png",
-    "sha": "f9032de4e1ebc2bc678907d51d69ba57e7c49374"
+    "sha": "00510f8f6889c4e27819a9964a6c815c2b11c2f3"
   },
   "ivoronin/TomatoBar": {
     "file": "icons/ivoronin__TomatoBar.png",
@@ -993,6 +1003,11 @@
     "file": "icons/qvacua__vimr.png",
     "path": "VimR/VimR/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "fedc7acce8be0d36c36e3a2e974bec8445d8bdd7"
+  },
+  "rashn/RuSwitcher": {
+    "file": "icons/rashn__RuSwitcher.png",
+    "path": "macos/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+    "sha": "6bd898809230b4bf90fb6128e5e88c9770fef4a8"
   },
   "razzant/claudexor": {
     "file": "icons/razzant__claudexor.png",
