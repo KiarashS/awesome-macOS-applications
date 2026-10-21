@@ -130,9 +130,9 @@
     "sha": "e338d903438ad59f39c58600108dfb997c2e80b3"
   },
   "Juwan-Hwang/Zephyr": {
-    "file": "icons/Juwan-Hwang__Zephyr.png",
-    "path": "apps/desktop/src/app-icon.png",
-    "sha": "6b5e703cfdaabf3686ba461337531718227fcdc5"
+    "file": "icons/Juwan-Hwang__Zephyr.svg",
+    "path": "apps/desktop/src/app-icon.svg",
+    "sha": "859e8f8e33075a3f7dad3233028c7ca71ce1150a"
   },
   "KartikLabhshetwar/better-shot": {
     "file": "icons/KartikLabhshetwar__better-shot.png",
@@ -444,6 +444,11 @@
     "path": "app/Resources/AppIcon.png",
     "sha": "00e53acf4c08323a35aec20154fafc2121aa6f55"
   },
+  "cheaper-inference/OmniRoute": {
+    "file": "icons/cheaper-inference__OmniRoute.png",
+    "path": "electron/assets/icon.png",
+    "sha": "4d4a0d1407f0f0db9dc10e3310d0c8893681cc5a"
+  },
   "chocoford/ExcalidrawZ": {
     "file": "icons/chocoford__ExcalidrawZ.png",
     "path": "ExcalidrawZ/Assets.xcassets/AppIcon.appiconset/AppIcon-128.0x128.0@2x.png",
@@ -489,10 +494,10 @@
     "path": "Penc/Assets.xcassets/AppIcon.appiconset/penc-logo-256.png",
     "sha": "46d9f75077b18cede046e54a7598c1fb36e5c452"
   },
-  "diegosouzapw/OmniRoute": {
-    "file": "icons/diegosouzapw__OmniRoute.png",
-    "path": "electron/assets/icon.png",
-    "sha": "4d4a0d1407f0f0db9dc10e3310d0c8893681cc5a"
+  "didriksg/Crisp": {
+    "file": "icons/didriksg__Crisp.png",
+    "path": "Crisp/Assets.xcassets/AppIcon.appiconset/icon_256.png",
+    "sha": "a607717a7aa8d1b609afb158f29e563747f5a258"
   },
   "duongductrong/Snapzy": {
     "file": "icons/duongductrong__Snapzy.png",
@@ -906,8 +911,8 @@
   },
   "mylxsw/typeflux": {
     "file": "icons/mylxsw__typeflux.png",
-    "path": "Apps/iOS/TypefluxIOS/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-    "sha": "01052890a9ed1896597b907078a49bdcd1f46e40"
+    "path": "Apps/iOS/TypefluxIOS/Assets.xcassets/AppIcon-black.appiconset/AppIcon.png",
+    "sha": "74de1f347846010ad594fe4cb870009ccecfa7a9"
   },
   "nguyenphutrong/quotio": {
     "file": "icons/nguyenphutrong__quotio.png",
@@ -983,6 +988,11 @@
     "file": "icons/peetzweg__opendisplay.png",
     "path": "Mac/Assets.xcassets/AppIcon-Dev.appiconset/icon_256.png",
     "sha": "fdf6e034eceba78dfdf10673b5dc9311469d2f12"
+  },
+  "pilotmoon/Scroll-Reverser": {
+    "file": "icons/pilotmoon__Scroll-Reverser.png",
+    "path": "Media.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+    "sha": "25468b032f150b26d4bda0b52ef21af1f2aa8f7a"
   },
   "pluk-inc/markdown-preview": {
     "file": "icons/pluk-inc__markdown-preview.png",
@@ -1184,6 +1194,11 @@
     "path": "Resources/Images.xcassets/icon_editor_split.imageset/icon_editor_split.svg",
     "sha": "8d66735ebb33ab19b7e5583cbac69f8d326dbd48"
   },
+  "tw93/Mole": {
+    "file": "icons/tw93__Mole.png",
+    "path": "plugins/mole/.claude-plugin/icon.png",
+    "sha": "8ce0fef4b7f67b48a1af0c02b1407f21f97027cf"
+  },
   "upscayl/upscayl": {
     "file": "icons/upscayl__upscayl.png",
     "path": "renderer/public/icon.png",
@@ -1278,6 +1293,11 @@
     "file": "icons/yelog__SnapTraTranslator.png",
     "path": "SnapTra Translator/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "9fdff802c185c478e9df4ea544f0165057c15882"
+  },
+  "yetone/magpie": {
+    "file": "icons/yetone__magpie.png",
+    "path": "internal/gui/icon.png",
+    "sha": "a38774f1a1e6dfb8a6f8d7c958b51be04314abe0"
   },
   "zachlatta/freeflow": {
     "file": "icons/zachlatta__freeflow.png",
