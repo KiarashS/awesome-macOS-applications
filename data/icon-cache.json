@@ -169,6 +169,11 @@
     "path": "Icon.png",
     "sha": "f7eb29d5cb1bab9949428bbd7e08a5c38cdf8392"
   },
+  "MMFoundation/WallpaperMachine": {
+    "file": "icons/MMFoundation__WallpaperMachine.svg",
+    "path": "App/Resources/AppIcon.icon/Assets/mark.svg",
+    "sha": "71f38bc4cd96ab0e582795bb9f11644dc71c1985"
+  },
   "MR-TABATA/MrEditor": {
     "file": "icons/MR-TABATA__MrEditor.svg",
     "path": "art/icon.svg",
@@ -298,11 +303,6 @@
     "file": "icons/TypeWhisper__typewhisper-mac.png",
     "path": "TypeWhisper/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "b3c501c1254d5f5f57862fd837c273afb684291c"
-  },
-  "WallpaperMachine/WallpaperMachine": {
-    "file": "icons/WallpaperMachine__WallpaperMachine.svg",
-    "path": "App/Resources/AppIcon.icon/Assets/mark.svg",
-    "sha": "71f38bc4cd96ab0e582795bb9f11644dc71c1985"
   },
   "Wunderlandmedia/HotkeyClash": {
     "file": "icons/Wunderlandmedia__HotkeyClash.png",
@@ -641,13 +641,13 @@
   },
   "hainguyents13/mechvibes": {
     "file": "icons/hainguyents13__mechvibes.png",
-    "path": "src/assets/icon.png",
-    "sha": "3efb8d2f4f185305c52754c6cfa54907360a4efc"
-  },
-  "hainguyents13/mechvibes-dx": {
-    "file": "icons/hainguyents13__mechvibes-dx.png",
     "path": "assets/icon.png",
     "sha": "57f187669023bd48dc86bb467e1c6356be54307b"
+  },
+  "hainguyents13/mechvibes-electron": {
+    "file": "icons/hainguyents13__mechvibes-electron.png",
+    "path": "src/assets/icon.png",
+    "sha": "3efb8d2f4f185305c52754c6cfa54907360a4efc"
   },
   "hamed-elfayome/Claude-Usage-Tracker": {
     "file": "icons/hamed-elfayome__Claude-Usage-Tracker.png",
