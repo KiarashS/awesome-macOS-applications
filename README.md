@@ -11,6 +11,7 @@ Last updated 2026-11-08. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
 
 ## Contents
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimal desktop corner companion showing current track & album art on macOS.
 
 - 🌗 [Notch & Island](#cat-notch) (22)
 - 📋 [Clipboard](#cat-clipboard) (8)
