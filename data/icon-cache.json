@@ -894,6 +894,11 @@
     "path": "web/public/icon-192.png",
     "sha": "5b5206c45a82d09f9c058b04c4e9beb7acfb28e1"
   },
+  "metasequoiaime/msime": {
+    "file": "icons/metasequoiaime__msime.png",
+    "path": "platforms/ios/App/Resources/Assets.xcassets/AppIconDusk.appiconset/Icon-120.png",
+    "sha": "b9fa7fa47d8cd3c312702078281cb89f6455219e"
+  },
   "mhuusko5/Gestr": {
     "file": "icons/mhuusko5__Gestr.png",
     "path": "Gestr/Images.xcassets/AppIcon.appiconset/128.png",
@@ -1027,7 +1032,7 @@
   "osaurus-ai/osaurus": {
     "file": "icons/osaurus-ai__osaurus.png",
     "path": "App/osaurus/Assets.xcassets/AppIcon.appiconset/icon_256.png",
-    "sha": "f0bfed43f5da216311d87c886600c5a1f4f1a30b"
+    "sha": "3e2cf60ed243d57bc9c515052bcea08a6989f5b8"
   },
   "ospfranco/sol": {
     "file": "icons/ospfranco__sol.png",
@@ -1214,6 +1219,11 @@
     "path": "macshot/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "19674432d29078bdc6609d3363e39748677cd1f3"
   },
+  "swiftbar/SwiftBar": {
+    "file": "icons/swiftbar__SwiftBar.png",
+    "path": "SwiftBar/Resources/Assets.xcassets/AppIcon.appiconset/mac_128@2x.png",
+    "sha": "c8a285dcfedde49086eaa761482d034b8617a7b6"
+  },
   "tddworks/ClaudeBar": {
     "file": "icons/tddworks__ClaudeBar.png",
     "path": "Sources/App/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
@@ -1392,6 +1402,6 @@
   "zheltukheen/lanfi": {
     "file": "icons/zheltukheen__lanfi.png",
     "path": "Assets.xcassets/AppIcon.appiconset/icon_128@2x.png",
-    "sha": "72cc6969b7225d75c447ad0734e7a467c727cd70"
+    "sha": "de202761bec63f82b318672b91833c6b3781e197"
   }
 }
