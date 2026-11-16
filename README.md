@@ -5,26 +5,25 @@
 
 **[Browse it as a macOS desktop →](https://kiarashs.github.io/awesome-macOS-applications/)**
 
-`348 apps` · `26 categories` · `69 tags` · `3,808,934 stars`
+`355 apps` · `26 categories` · `69 tags` · `3,813,884 stars`
 
-Last updated 2026-11-15. Nothing here is edited by hand: star a repo
+Last updated 2026-11-16. Nothing here is edited by hand: star a repo
 into the list and it shows up on the next run.
 
 ## Contents
-- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimal desktop corner companion showing current track & album art on macOS.
 
 - 🌗 [Notch & Island](#cat-notch) (22)
-- 📋 [Clipboard](#cat-clipboard) (8)
+- 📋 [Clipboard](#cat-clipboard) (10)
 - 📦 [Package Managers](#cat-packages) (20)
 - 🧊 [Virtualization](#cat-virtualization) (10)
-- 📸 [Screenshots & Recording](#cat-capture) (13)
+- 📸 [Screenshots & Recording](#cat-capture) (14)
 - ⬇️ [Downloads](#cat-downloads) (10)
-- 📚 [Reading & RSS](#cat-reading) (7)
+- 📚 [Reading & RSS](#cat-reading) (8)
 - • [Learning & Language](#cat-learning) (4)
 - ✨ [AI & LLM](#cat-ai) (47)
 - 🔍 [Launchers & Search](#cat-launchers) (13)
-- ⏱️ [Productivity & Focus](#cat-focus) (13)
-- 🪟 [Window Management](#cat-windows) (11)
+- ⏱️ [Productivity & Focus](#cat-focus) (14)
+- 🪟 [Window Management](#cat-windows) (13)
 - 📊 [Menu Bar](#cat-menubar) (27)
 - ⌨️ [Terminal & Shell](#cat-terminal) (7)
 - • [Databases & Data](#cat-databases) (4)
@@ -32,8 +31,8 @@ into the list and it shows up on the next run.
 - 🌐 [Networking & Proxy](#cat-network) (11)
 - • [Screens & Devices](#cat-remote) (4)
 - 🖱️ [Keyboard & Input](#cat-input) (21)
-- 🎬 [Media & Music](#cat-media) (14)
-- 📝 [Notes & Writing](#cat-notes) (16)
+- 🎬 [Media & Music](#cat-media) (15)
+- 📝 [Notes & Writing](#cat-notes) (15)
 - 🗂️ [Files & Sync](#cat-files) (17)
 - 🧩 [Web & Templates](#cat-web) (2)
 - 🛠️ [Developer Tools](#cat-devtools) (4)
@@ -47,35 +46,35 @@ into the list and it shows up on the next run.
 _Apps that turn the MacBook notch into something useful._
 
 - **[boring.notch](https://github.com/TheBoredTeam/boring.notch)** — TheBoringNotch: Not so boring notch That Rocks 🎸🎶  
-  <sub>★ 11,369 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
+  <sub>★ 11,385 · TheBoredTeam · Swift · `Notch` `Swift`</sub>
 - **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS  
-  <sub>★ 5,277 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
+  <sub>★ 5,284 · Ebullioscopic · Swift · `Notch` `Swift`</sub>
 - **[CodeIsland](https://github.com/wxtsky/CodeIsland)** — Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions  
-  <sub>★ 2,579 · wxtsky · Swift · `Notch` `AI` `iOS` `Swift`</sub>
+  <sub>★ 2,582 · wxtsky · Swift · `Notch` `AI` `iOS` `Swift`</sub>
 - **[vibe-notch](https://github.com/farouqaldori/vibe-notch)** — Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.  
-  <sub>★ 2,535 · farouqaldori · Swift · `Notch` `AI` `Notifications` `Swift`</sub>
+  <sub>★ 2,534 · farouqaldori · Swift · `Notch` `AI` `Notifications` `Swift`</sub>
 - **[NotchDrop](https://github.com/Lakr233/NotchDrop)** — Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop  
   <sub>★ 2,129 · Lakr233 · Swift · `Notch` `Files` `Swift`</sub>
 - **[open-vibe-island](https://github.com/Octane0411/open-vibe-island)** — Native macOS control center for AI coding agents — monitor sessions, approve actions, and jump back instantly.  
-  <sub>★ 2,080 · Octane0411 · Swift · `AI` `Terminal` `Monitoring` `Swift`</sub>
+  <sub>★ 2,083 · Octane0411 · Swift · `AI` `Terminal` `Monitoring` `Swift`</sub>
 - **[notchprompt](https://github.com/saif0200/notchprompt)** — Distraction-free teleprompter hidden in the macbook notch  
-  <sub>★ 1,402 · saif0200 · Swift · `Notch` `Focus` `Presenting` `Swift`</sub>
+  <sub>★ 1,403 · saif0200 · Swift · `Notch` `Focus` `Presenting` `Swift`</sub>
 - **[NotchPrompter](https://github.com/jpomykala/NotchPrompter)** — Super simple-to-use, always-on-top floating text prompter for macOS. Perfect for quick videos or keeping important text visible while you work.  
-  <sub>★ 688 · jpomykala · HTML · `Notch` `Video` `Presenting` `Web`</sub>
+  <sub>★ 689 · jpomykala · HTML · `Notch` `Video` `Presenting` `Web`</sub>
 - **[SuperIsland](https://github.com/shobhit99/SuperIsland)** — Dynamic Island for MacOS — with Extensions  
-  <sub>★ 685 · shobhit99 · Swift · `Notch` `Swift`</sub>
+  <sub>★ 686 · shobhit99 · Swift · `Notch` `Swift`</sub>
 - **[DynamicNotch](https://github.com/jackson-storm/DynamicNotch)** — The native Dynamic Island and notch experience for macOS.  
-  <sub>★ 664 · jackson-storm · Swift · `Notch` `SwiftUI` `Swift`</sub>
+  <sub>★ 663 · jackson-storm · Swift · `Notch` `SwiftUI` `Swift`</sub>
 - **[mew-notch](https://github.com/monuk7735/mew-notch)** — Make the Notches on newer Macs Useful!  
   <sub>★ 557 · monuk7735 · Swift · `Notch` `Notifications` `Swift`</sub>
 - **[MioIsland](https://github.com/MioMioOS/MioIsland)** — MacOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.  
-  <sub>★ 544 · MioMioOS · Swift · `Menu Bar` `Notch` `AI` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 545 · MioMioOS · Swift · `Menu Bar` `Notch` `AI` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)** — Dynamic Island on iPhone 14 Pro implementation on Mac using Sketchybar  
   <sub>★ 531 · crissNb · Shell · `Notch` `Menu Bar` `Shell`</sub>
 - **[Sapphire](https://github.com/cshariq/Sapphire)** — The all in one mac app that redefines the notch  
-  <sub>★ 422 · cshariq · Swift · `Notch` `Swift`</sub>
+  <sub>★ 425 · cshariq · Swift · `Notch` `Swift`</sub>
 - **[codex-island](https://github.com/ericjypark/codex-island)** — CodexIsland - AI usage limits in your MacBook notch  
-  <sub>★ 368 · ericjypark · Swift · `Notch` `AI` `Monitoring` `Swift`</sub>
+  <sub>★ 369 · ericjypark · Swift · `Notch` `AI` `Monitoring` `Swift`</sub>
 - **[NotchNotification](https://github.com/Lakr233/NotchNotification)** — Display Notification Inside Mac's Notch.  
   <sub>★ 119 · Lakr233 · Swift · `Notch` `Notifications` `Swift`</sub>
 - **[wallnetic](https://github.com/fatihkan/wallnetic)** — Cinematic live wallpapers for macOS — turn any video you own into a living 4K desktop. Dynamic Island, per-Space & multi-monitor wallpapers, photo slideshows, effects, Liquid Glass UI…  
@@ -98,21 +97,25 @@ _Apps that turn the MacBook notch into something useful._
 _Clipboard managers and paste history._
 
 - **[PicGo](https://github.com/Molunerfinn/PicGo)** — Rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste…  
-  <sub>★ 27,496 · Molunerfinn · TypeScript · `Clipboard` `Git` `Electron` `TypeScript`</sub>
+  <sub>★ 27,502 · Molunerfinn · TypeScript · `Clipboard` `Git` `Electron` `TypeScript`</sub>
 - **[Maccy](https://github.com/p0deje/Maccy)** — Lightweight clipboard manager for macOS  
-  <sub>★ 22,338 · p0deje · Swift · `Clipboard` `Swift`</sub>
+  <sub>★ 22,349 · p0deje · Swift · `Clipboard` `Swift`</sub>
 - **[EcoPaste](https://github.com/EcoPasteHub/EcoPaste)** — 跨平台的剪贴板管理工具 | Cross-platform clipboard management tool  
   <sub>★ 7,588 · EcoPasteHub · Rust · `Clipboard` `Tauri` `Cross-platform` `Rust`</sub>
 - **[capcap](https://github.com/realskyrin/capcap)** — A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with…  
-  <sub>★ 1,061 · realskyrin · Swift · `Menu Bar` `Clipboard` `Editor` `Capture` `Swift`</sub>
+  <sub>★ 1,068 · realskyrin · Swift · `Menu Bar` `Clipboard` `Editor` `Capture` `Swift`</sub>
 - **[openclip](https://github.com/ganeshmshetty/openclip)** — An open-source, macOS text action popup for running custom scripts, AI actions, and extensible workflows on selected text.  
-  <sub>★ 771 · ganeshmshetty · Swift · `Menu Bar` `Clipboard` `AI` `SwiftUI` `Swift`</sub>
+  <sub>★ 799 · ganeshmshetty · Swift · `Menu Bar` `Clipboard` `AI` `SwiftUI` `Swift`</sub>
 - **[RuSwitcher](https://github.com/rashn/RuSwitcher)** — Fix a wrong keyboard layout on macOS — Latin, Cyrillic and Hebrew (RTL) — by a tap or automatically, locally and over Screen Sharing. Menu-bar app, clipboard-free, free & open-source.  
-  <sub>★ 363 · rashn · Swift · `Menu Bar` `Clipboard` `Keyboard` `Swift`</sub>
+  <sub>★ 366 · rashn · Swift · `Menu Bar` `Clipboard` `Keyboard` `Swift`</sub>
 - **[PasteMemo-app](https://github.com/lifedever/PasteMemo-app)** — PasteMemo - A clipboard manager for macOS  
-  <sub>★ 316 · lifedever · Swift · `Clipboard` `Swift`</sub>
+  <sub>★ 319 · lifedever · Swift · `Clipboard` `Swift`</sub>
 - **[hop](https://github.com/antonyshakirov/hop)** — Free, open-source menu bar toolkit for macOS. Eighteen tools in one panel: Pomodoro timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager…  
-  <sub>★ 172 · antonyshakirov · Swift · `Menu Bar` `Windows` `Launcher` `Clipboard` `Privacy` `Proxy`</sub>
+  <sub>★ 174 · antonyshakirov · Swift · `Menu Bar` `Windows` `Launcher` `Clipboard` `Privacy` `Proxy`</sub>
+- **[pesty](https://github.com/momenbasel/pesty)** — Free, open-source clipboard manager for macOS a native Paste app alternative with color-coded history, pinboards, search & keyboard paste. Signed, notarized, Homebrew.  
+  <sub>★ 171 · momenbasel · Swift · `Menu Bar` `Clipboard` `Homebrew` `Keyboard` `SwiftUI` `Swift`</sub>
+- **[ZevLink](https://github.com/Gagan-Zeus/ZevLink)** — Local-first Android and Mac continuity  
+  <sub>★ 11 · Gagan-Zeus · Kotlin · `Clipboard` `Backup` `Notifications` `SwiftUI` `Kotlin`</sub>
 
 <a id="cat-packages"></a>
 
@@ -121,37 +124,37 @@ _Clipboard managers and paste history._
 _Homebrew front-ends, App Store tooling and update checkers._
 
 - **[Mos](https://github.com/Caldis/Mos)** — 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS  
-  <sub>★ 21,923 · Caldis · Swift · `Homebrew` `Mouse` `Swift`</sub>
+  <sub>★ 21,935 · Caldis · Swift · `Homebrew` `Mouse` `Swift`</sub>
 - **[mas](https://github.com/mas-cli/mas)** — Package: Mac App Store command-line interface  
-  <sub>★ 12,431 · mas-cli · Swift · `Homebrew` `Updates` `Terminal` `Swift`</sub>
+  <sub>★ 12,432 · mas-cli · Swift · `Homebrew` `Updates` `Terminal` `Swift`</sub>
 - **[Applite](https://github.com/milanvarady/Applite)** — A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask  
-  <sub>★ 7,146 · milanvarady · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
+  <sub>★ 7,157 · milanvarady · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
 - **[Latest](https://github.com/mangerlahn/Latest)** — A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.  
-  <sub>★ 4,856 · mangerlahn · Swift · `Updates` `Swift`</sub>
+  <sub>★ 4,859 · mangerlahn · Swift · `Updates` `Swift`</sub>
 - **[Cork](https://github.com/buresdv/Cork)** — [NO AI] Fast GUI for Homebrew written in SwiftUI  
-  <sub>★ 4,731 · buresdv · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
+  <sub>★ 4,732 · buresdv · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
 - **[phpmon](https://github.com/nicoverbruggen/phpmon)** — Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions, manage extensions, and quickly resolve issues automatically.  
   <sub>★ 3,226 · nicoverbruggen · Swift · `Homebrew` `Monitoring` `Swift`</sub>
 - **[WailBrew](https://github.com/wickenico/WailBrew)** — Minimalistic Homebrew GUI made with Go, Wails and React.  
-  <sub>★ 2,864 · wickenico · TypeScript · `Homebrew` `TypeScript`</sub>
+  <sub>★ 2,866 · wickenico · TypeScript · `Homebrew` `TypeScript`</sub>
 - **[BrewUI](https://github.com/Homebrew/BrewUI)** — Homebrew's official macOS GUI  
-  <sub>★ 2,841 · Homebrew · Swift · `Homebrew` `Swift`</sub>
+  <sub>★ 2,843 · Homebrew · Swift · `Homebrew` `Swift`</sub>
 - **[KeyCluCask](https://github.com/Anze/KeyCluCask)** — A simple and handy overview of application shortcuts  
-  <sub>★ 2,662 · Anze · `Homebrew` `Keyboard`</sub>
+  <sub>★ 2,663 · Anze · `Homebrew` `Keyboard`</sub>
 - **[MacSai](https://github.com/iliyami/MacSai)** — Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.  
-  <sub>★ 2,165 · iliyami · Swift · `Privacy` `Homebrew` `Files` `Cleanup` `SwiftUI` `Swift`</sub>
+  <sub>★ 2,171 · iliyami · Swift · `Privacy` `Homebrew` `Files` `Cleanup` `SwiftUI` `Swift`</sub>
 - **[CaskHub](https://github.com/alielsokary/CaskHub)** — Native GUI for Homebrew Casks  
-  <sub>★ 1,431 · alielsokary · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,435 · alielsokary · Swift · `Homebrew` `SwiftUI` `Swift`</sub>
 - **[brew-browser](https://github.com/msitarzewski/brew-browser)** — Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI.  
-  <sub>★ 1,081 · msitarzewski · Rust · `Homebrew` `Rust`</sub>
+  <sub>★ 1,082 · msitarzewski · Rust · `Homebrew` `Rust`</sub>
 - **[cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli)** — Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.  
-  <sub>★ 1,058 · MacPaw · `AI` `Homebrew` `Terminal` `Virtualization` `Cleanup`</sub>
+  <sub>★ 1,059 · MacPaw · `AI` `Homebrew` `Terminal` `Virtualization` `Cleanup`</sub>
 - **[ipaverse](https://github.com/bahattinkoc/ipaverse)** — Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS & visionOS apps without Xcode or Terminal — plus an authorized security-testing toolkit (ATS bypass, Frida injection, static scan…  
-  <sub>★ 694 · bahattinkoc · Swift · `Privacy` `Encryption` `Downloads` `Terminal` `SwiftUI` `iOS`</sub>
+  <sub>★ 695 · bahattinkoc · Swift · `Privacy` `Encryption` `Downloads` `Terminal` `SwiftUI` `iOS`</sub>
 - **[SwiftShift](https://github.com/pablopunk/SwiftShift)** — Sweet window management for macOS  
   <sub>★ 668 · pablopunk · Swift · `Windows` `Swift`</sub>
 - **[mountmate](https://github.com/homielab/mountmate)** — MacOS menu bar app to mount, unmount and eject external drives and network shares with one click — SMB/NFS auto-mount, Keep Alive, encrypted APFS, Shortcuts  
-  <sub>★ 524 · homielab · Swift · `Menu Bar` `Homebrew` `Keyboard` `Mouse` `SwiftUI` `Swift`</sub>
+  <sub>★ 525 · homielab · Swift · `Menu Bar` `Homebrew` `Keyboard` `Mouse` `SwiftUI` `Swift`</sub>
 - **[TourKit](https://github.com/rampatra/TourKit)** — Apple style onboarding for Mac and iPhone apps  
   <sub>★ 344 · rampatra · Swift · `iOS` `Swift`</sub>
 - **[BrewMate](https://github.com/romankurnovskii/BrewMate)** — Homebrew GUI apps manager  
@@ -168,19 +171,19 @@ _Homebrew front-ends, App Store tooling and update checkers._
 _Virtual machines, emulators and containers._
 
 - **[ghostty](https://github.com/ghostty-org/ghostty)** — Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.  
-  <sub>★ 64,135 · ghostty-org · Zig · `Terminal` `Virtualization` `Cross-platform`</sub>
+  <sub>★ 64,171 · ghostty-org · Zig · `Terminal` `Virtualization` `Cross-platform`</sub>
 - **[UTM](https://github.com/utmapp/UTM)** — Virtual machines for iOS and macOS  
-  <sub>★ 36,908 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
+  <sub>★ 36,925 · utmapp · Swift · `Virtualization` `iOS` `Swift`</sub>
 - **[iTerm2](https://github.com/gnachman/iTerm2)** — ITerm2 is a terminal emulator for Mac OS X that does amazing things.  
-  <sub>★ 18,291 · gnachman · Swift · `Terminal` `Virtualization` `Swift`</sub>
+  <sub>★ 18,292 · gnachman · Swift · `Terminal` `Virtualization` `Swift`</sub>
 - **[Netcatty](https://github.com/binaricat/Netcatty)** — SSH workspace, SFTP, and terminals in one  
-  <sub>★ 7,406 · binaricat · TypeScript · `Terminal` `Virtualization` `Electron` `TypeScript`</sub>
+  <sub>★ 7,434 · binaricat · TypeScript · `Terminal` `Virtualization` `Electron` `TypeScript`</sub>
 - **[Kaku](https://github.com/tw93/Kaku)** — A fast, AI-friendly Mac terminal.  
-  <sub>★ 6,209 · tw93 · Rust · `AI` `Terminal` `Virtualization` `Rust`</sub>
+  <sub>★ 6,216 · tw93 · Rust · `AI` `Terminal` `Virtualization` `Rust`</sub>
 - **[lan-mouse](https://github.com/feschber/lan-mouse)** — Mouse & keyboard sharing via LAN  
-  <sub>★ 5,492 · feschber · Rust · `Keyboard` `Mouse` `Virtualization` `Cross-platform` `Rust`</sub>
+  <sub>★ 5,490 · feschber · Rust · `Keyboard` `Mouse` `Virtualization` `Cross-platform` `Rust`</sub>
 - **[virtualbox](https://github.com/VirtualBox/virtualbox)** — Source code for Oracle VirtualBox  
-  <sub>★ 1,491 · VirtualBox · C · `Virtualization` `C`</sub>
+  <sub>★ 1,492 · VirtualBox · C · `Virtualization` `C`</sub>
 - **[nimble-commander](https://github.com/mikekazakov/nimble-commander)** — Nimble Commander - dual-pane file manager for Mac  
   <sub>★ 771 · mikekazakov · C++ · `Files` `Terminal` `Virtualization` `C++`</sub>
 - **[Scrcpy-GUI](https://github.com/GeorgeEnglezos/Scrcpy-GUI)** — An unofficial beginner-friendly user interface for the Scrcpy Project  
@@ -195,29 +198,31 @@ _Virtual machines, emulators and containers._
 _Screenshots, screen recording and screen sharing._
 
 - **[obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording  
-  <sub>★ 79,591 · obsproject · C · `Video` `Capture` `C`</sub>
+  <sub>★ 79,606 · obsproject · C · `Video` `Capture` `C`</sub>
 - **[Recordly](https://github.com/webadderallorg/Recordly)** — Create polished demo videos without editing skills. Mac/Windows/Linux  
-  <sub>★ 36,847 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 36,932 · webadderallorg · TypeScript · `Capture` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Cap](https://github.com/CapSoftware/Cap)** — Open source Loom alternative. Beautiful, shareable screen recordings.  
-  <sub>★ 25,073 · CapSoftware · Rust · `Capture` `Tauri` `Rust`</sub>
+  <sub>★ 25,132 · CapSoftware · Rust · `Capture` `Tauri` `Rust`</sub>
 - **[Gifski](https://github.com/sindresorhus/Gifski)** — Convert videos to high-quality GIFs on your Mac  
   <sub>★ 8,607 · sindresorhus · Swift · `Video` `Capture` `SwiftUI` `Swift`</sub>
 - **[Dayflow](https://github.com/JerryZLiu/Dayflow)** — The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.  
-  <sub>★ 7,449 · JerryZLiu · Swift · `AI` `Privacy` `Capture` `Swift`</sub>
+  <sub>★ 7,455 · JerryZLiu · Swift · `AI` `Privacy` `Capture` `Swift`</sub>
 - **[macshot](https://github.com/sw33tLie/macshot)** — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.  
-  <sub>★ 4,170 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
+  <sub>★ 4,183 · sw33tLie · Swift · `Mouse` `Capture` `Electron` `Swift`</sub>
 - **[Snapzy](https://github.com/duongductrong/Snapzy)** — An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.  
-  <sub>★ 3,576 · duongductrong · Swift · `Capture` `SwiftUI` `Swift`</sub>
+  <sub>★ 3,580 · duongductrong · Swift · `Capture` `SwiftUI` `Swift`</sub>
+- **[OpenOats](https://github.com/yazinsai/OpenOats)** — A minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a You/Them transcript in one markdown file. On-device, free and open source.  
+  <sub>★ 2,673 · yazinsai · Swift · `Markdown` `Notes` `Speech` `Files` `SwiftUI` `Swift`</sub>
 - **[better-shot](https://github.com/KartikLabhshetwar/better-shot)** — Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source…  
-  <sub>★ 2,459 · KartikLabhshetwar · Swift · `Editor` `Privacy` `Keyboard` `Video` `Capture` `Self-hosted`</sub>
+  <sub>★ 2,460 · KartikLabhshetwar · Swift · `Editor` `Privacy` `Keyboard` `Video` `Capture` `Self-hosted`</sub>
 - **[Screendrop](https://github.com/fayazara/Screendrop)** — A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.  
-  <sub>★ 2,404 · fayazara · Swift · `Capture` `Swift`</sub>
+  <sub>★ 2,410 · fayazara · Swift · `Capture` `Swift`</sub>
 - **[Capso](https://github.com/lzhgus/Capso)** — Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.  
-  <sub>★ 1,506 · lzhgus · Swift · `Capture` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,508 · lzhgus · Swift · `Capture` `SwiftUI` `Swift`</sub>
 - **[ScrollSnap](https://github.com/Brkgng/ScrollSnap)** — A macOS app for capturing and stitching scrolling screenshots.  
-  <sub>★ 943 · Brkgng · Swift · `Mouse` `Capture` `Swift`</sub>
+  <sub>★ 945 · Brkgng · Swift · `Mouse` `Capture` `Swift`</sub>
 - **[macparakeet](https://github.com/moona3k/macparakeet)** — Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.  
-  <sub>★ 788 · moona3k · Swift · `Speech` `Privacy` `Files` `Terminal` `Swift`</sub>
+  <sub>★ 790 · moona3k · Swift · `Speech` `Privacy` `Files` `Terminal` `Swift`</sub>
 - **[shotx](https://github.com/aimen08/shotx)** — Modern macOS screen capture for the menu bar.  
   <sub>★ 128 · aimen08 · Swift · `Menu Bar` `Capture` `Swift`</sub>
 
@@ -228,23 +233,23 @@ _Screenshots, screen recording and screen sharing._
 _Download managers and accelerators._
 
 - **[lux](https://github.com/iawia002/lux)** — Fast and simple video download library and CLI tool written in Go  
-  <sub>★ 31,844 · iawia002 · Go · `Downloads` `Video` `Terminal` `Go`</sub>
+  <sub>★ 31,845 · iawia002 · Go · `Downloads` `Video` `Terminal` `Go`</sub>
 - **[ab-download-manager](https://github.com/amir1376/ab-download-manager)** — A Download Manager that speeds up your downloads  
-  <sub>★ 19,303 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
+  <sub>★ 19,331 · amir1376 · Kotlin · `Downloads` `Cross-platform` `Kotlin`</sub>
 - **[rayburst](https://github.com/AnInsomniacy/rayburst)** — Redefining the open-source download manager  
-  <sub>★ 11,564 · AnInsomniacy · TypeScript · `Downloads` `TypeScript`</sub>
+  <sub>★ 11,582 · AnInsomniacy · TypeScript · `Downloads` `TypeScript`</sub>
 - **[Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — A full-featured multi-threaded download manager — the only downloader you need.  
-  <sub>★ 11,458 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
+  <sub>★ 11,536 · XiaoYouChR · Python · `Downloads` `Video` `Cross-platform` `Python`</sub>
 - **[youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)** — Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.  
-  <sub>★ 9,722 · jely2002 · Rust · `Downloads` `Video` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 9,729 · jely2002 · Rust · `Downloads` `Video` `Tauri` `Cross-platform` `Rust`</sub>
 - **[Parabolic](https://github.com/NickvisionApps/Parabolic)** — Download web video and audio  
-  <sub>★ 7,634 · NickvisionApps · C# · `Downloads` `Audio` `Video` `C#`</sub>
+  <sub>★ 7,644 · NickvisionApps · C# · `Downloads` `Audio` `Video` `C#`</sub>
 - **[harbor](https://github.com/thsnkhn/harbor)** — Beautiful native macOS download manager for direct links, magnets, and torrents.  
-  <sub>★ 708 · thsnkhn · Swift · `Downloads` `SwiftUI` `Swift`</sub>
+  <sub>★ 711 · thsnkhn · Swift · `Downloads` `SwiftUI` `Swift`</sub>
 - **[kasetPlus](https://github.com/Yoddikko/kasetPlus)** — The missing YouTube and YouTube Music macOS app. KasetPlus adds AdBlocker, SponsorBlocker, Return Youtube Dislike and other features.  
   <sub>★ 42 · Yoddikko · Swift · `Downloads` `Audio` `Video` `SwiftUI` `Swift`</sub>
 - **[Shatl](https://github.com/mamontov-design/Shatl)** — A lightweight, open-source BitTorrent client for Apple Silicon Macs.  
-  <sub>★ 17 · mamontov-design · Swift · `Downloads` `SwiftUI` `Swift`</sub>
+  <sub>★ 21 · mamontov-design · Swift · `Downloads` `SwiftUI` `Swift`</sub>
 - **[diskpulse-for-mac](https://github.com/djperov/diskpulse-for-mac)** — Find what is growing on your Mac. Compare folder sizes over time. Free, open-source and private.  
   <sub>★ 1 · djperov · Swift · `Downloads` `Files` `Monitoring` `Swift`</sub>
 
@@ -255,19 +260,21 @@ _Download managers and accelerators._
 _Feed readers, ebook readers and read-it-later apps._
 
 - **[Folo](https://github.com/RSSNext/Folo)** — Folo is the AI RSS Reader  
-  <sub>★ 39,294 · RSSNext · TypeScript · `RSS` `Reading` `AI` `TypeScript`</sub>
+  <sub>★ 39,308 · RSSNext · TypeScript · `RSS` `Reading` `AI` `TypeScript`</sub>
 - **[koodo-reader](https://github.com/koodo-reader/koodo-reader)** — A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web  
-  <sub>★ 28,857 · koodo-reader · JavaScript · `Markdown` `Reading` `Backup` `iOS` `Cross-platform` `JavaScript`</sub>
+  <sub>★ 28,872 · koodo-reader · JavaScript · `Markdown` `Reading` `Backup` `iOS` `Cross-platform` `JavaScript`</sub>
 - **[readest](https://github.com/readest/readest)** — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading…  
-  <sub>★ 26,325 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 26,370 · readest · TypeScript · `Reading` `Backup` `Tauri` `Cross-platform` `TypeScript`</sub>
 - **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** — RSS reader for macOS and iOS.  
-  <sub>★ 10,537 · Ranchero-Software · Swift · `RSS` `Reading` `iOS` `Swift`</sub>
+  <sub>★ 10,540 · Ranchero-Software · Swift · `RSS` `Reading` `iOS` `Swift`</sub>
 - **[fluent-reader](https://github.com/yang991178/fluent-reader)** — Modern desktop RSS reader built with Electron, React, and Fluent UI  
-  <sub>★ 9,793 · yang991178 · TypeScript · `RSS` `Reading` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 9,797 · yang991178 · TypeScript · `RSS` `Reading` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[imark](https://github.com/migsilva89/imark)** — Native Markdown reader for macOS. Keep it open while you write and it follows every save. Comment on a phrase and the note is saved into the .md file itself. Your coding agent can open a…  
-  <sub>★ 120 · migsilva89 · Swift · `Markdown` `Notes` `Editor` `Reading` `AI` `Files`</sub>
+  <sub>★ 121 · migsilva89 · Swift · `Markdown` `Notes` `Editor` `Reading` `AI` `Files`</sub>
 - **[Downright](https://github.com/ezzy1630/Downright)** — Free native Markdown editor and reader for macOS. Beautiful typography, Quick Look, Finder previews, themes, exact source preservation, offline, MIT.  
-  <sub>★ 87 · ezzy1630 · Swift · `Markdown` `Editor` `Reading` `Files` `Swift`</sub>
+  <sub>★ 90 · ezzy1630 · Swift · `Markdown` `Editor` `Reading` `Files` `Swift`</sub>
+- **[Rime](https://github.com/Yvsleyen00941/Rime)** — A PDF reader for macOS where only the page is left: everything around it freezes over into frosted ice.  
+  <sub>★ 4 · Yvsleyen00941 · Swift · `Markdown` `Reading` `Focus` `SwiftUI` `Swift`</sub>
 
 <a id="cat-learning"></a>
 
@@ -276,11 +283,11 @@ _Feed readers, ebook readers and read-it-later apps._
 _Flashcards, spaced repetition, dictionaries and translation._
 
 - **[anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program  
-  <sub>★ 32,822 · ankitects · Rust · `Rust`</sub>
+  <sub>★ 32,841 · ankitects · Rust · `Rust`</sub>
 - **[Easydict](https://github.com/tisfeng/Easydict)** — 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up…  
-  <sub>★ 15,326 · tisfeng · Swift · `AI` `Keyboard` `Swift`</sub>
+  <sub>★ 15,337 · tisfeng · Swift · `AI` `Keyboard` `Swift`</sub>
 - **[MoePeek](https://github.com/cosZone/MoePeek)** — A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯…  
-  <sub>★ 871 · cosZone · Swift · `Privacy` `Monitoring` `Swift`</sub>
+  <sub>★ 876 · cosZone · Swift · `Privacy` `Monitoring` `Swift`</sub>
 - **[SnapTraTranslator](https://github.com/yelog/SnapTraTranslator)** — 一款 macos 离线快速翻译软件 A macos offline fast translation software  
   <sub>★ 157 · yelog · Swift · `SwiftUI` `Swift`</sub>
 
@@ -291,79 +298,79 @@ _Flashcards, spaced repetition, dictionaries and translation._
 _Local and hosted models, assistants and speech tooling._
 
 - **[opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.  
-  <sub>★ 227,018 · anomalyco · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 227,314 · anomalyco · TypeScript · `AI` `TypeScript`</sub>
 - **[cc-switch](https://github.com/farion1231/cc-switch)** — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io  
-  <sub>★ 154,613 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 154,913 · farion1231 · Rust · `AI` `Tauri` `Cross-platform` `Rust`</sub>
 - **[OmniRoute](https://github.com/cheaper-inference/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor…  
-  <sub>★ 87,738 · cheaper-inference · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
+  <sub>★ 88,107 · cheaper-inference · TypeScript · `AI` `Proxy` `Mouse` `Archive` `TypeScript`</sub>
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion…  
-  <sub>★ 78,964 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
+  <sub>★ 79,045 · AppFlowy-IO · Dart · `Notes` `AI` `Tasks` `Dart`</sub>
 - **[cherry-studio](https://github.com/CherryHQ/cherry-studio)** — Your AI workspace for models, agents, and productivity.  
-  <sub>★ 53,542 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
+  <sub>★ 53,567 · CherryHQ · TypeScript · `AI` `TypeScript`</sub>
 - **[upscayl](https://github.com/upscayl/upscayl)** — Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.  
-  <sub>★ 52,679 · upscayl · TypeScript · `AI` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 52,774 · upscayl · TypeScript · `AI` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[open-notebook](https://github.com/lfnovo/open-notebook)** — An Open Source implementation of Notebook LM with more flexibility and features  
-  <sub>★ 41,995 · lfnovo · TypeScript · `Notes` `AI` `Dashboard` `TypeScript`</sub>
+  <sub>★ 42,021 · lfnovo · TypeScript · `Notes` `AI` `Dashboard` `TypeScript`</sub>
 - **[Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline.  
-  <sub>★ 38,866 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 38,999 · cjpais · Rust · `Speech` `Tauri` `Cross-platform` `Rust`</sub>
 - **[magpie](https://github.com/yetone/magpie)** — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.  
-  <sub>★ 36,911 · yetone · Go · `Menu Bar` `AI` `Terminal` `Go`</sub>
+  <sub>★ 37,542 · yetone · Go · `Menu Bar` `AI` `Terminal` `Go`</sub>
 - **[palmier-pro](https://github.com/palmier-io/palmier-pro)** — MacOS video editor built for AI  
-  <sub>★ 14,754 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
+  <sub>★ 14,763 · palmier-io · Swift · `Editor` `AI` `Video` `Swift`</sub>
 - **[codeburn](https://github.com/getagentseal/codeburn)** — Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn  
-  <sub>★ 11,816 · getagentseal · TypeScript · `Menu Bar` `Editor` `AI` `Privacy` `Mouse` `Tasks`</sub>
+  <sub>★ 11,835 · getagentseal · TypeScript · `Menu Bar` `Editor` `AI` `Privacy` `Mouse` `Tasks`</sub>
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode…  
-  <sub>★ 9,377 · Orkas-AI · JavaScript · `AI` `Tasks` `JavaScript`</sub>
+  <sub>★ 9,407 · Orkas-AI · JavaScript · `AI` `Tasks` `JavaScript`</sub>
 - **[osaurus](https://github.com/osaurus-ai/osaurus)** — Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.  
-  <sub>★ 8,168 · osaurus-ai · Swift · `AI` `Monitoring` `Swift`</sub>
+  <sub>★ 8,173 · osaurus-ai · Swift · `AI` `Monitoring` `Swift`</sub>
 - **[VoiceInk](https://github.com/Beingpax/VoiceInk)** — The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription  
-  <sub>★ 7,133 · Beingpax · Swift · `Speech` `Swift`</sub>
+  <sub>★ 7,142 · Beingpax · Swift · `Speech` `Swift`</sub>
 - **[quotio](https://github.com/nguyenphutrong/quotio)** — Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and…  
-  <sub>★ 4,916 · nguyenphutrong · Rust · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Rust`</sub>
+  <sub>★ 4,917 · nguyenphutrong · Rust · `Menu Bar` `AI` `Privacy` `Proxy` `Monitoring` `Rust`</sub>
 - **[openless](https://github.com/Open-Less/openless)** — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)  
-  <sub>★ 4,104 · Open-Less · Rust · `AI` `Speech` `Mouse` `Terminal` `Tauri` `Cross-platform`</sub>
+  <sub>★ 4,114 · Open-Less · Rust · `AI` `Speech` `Mouse` `Terminal` `Tauri` `Cross-platform`</sub>
 - **[GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)** — AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking  
-  <sub>★ 3,872 · AmintaCCCP · TypeScript · `AI` `Privacy` `Git` `Electron` `TypeScript`</sub>
+  <sub>★ 3,879 · AmintaCCCP · TypeScript · `AI` `Privacy` `Git` `Electron` `TypeScript`</sub>
 - **[Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)** — Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.  
-  <sub>★ 3,791 · hamed-elfayome · Swift · `Menu Bar` `AI` `Privacy` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 3,801 · hamed-elfayome · Swift · `Menu Bar` `AI` `Privacy` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[vibeproxy](https://github.com/automazeio/vibeproxy)** — Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed  
-  <sub>★ 3,413 · automazeio · Swift · `Menu Bar` `AI` `Proxy` `Terminal` `Swift`</sub>
+  <sub>★ 3,412 · automazeio · Swift · `Menu Bar` `AI` `Proxy` `Terminal` `Swift`</sub>
 - **[freeflow](https://github.com/zachlatta/freeflow)** — A fast, free voice-to-text dictation app for macOS, in the mould of Wispr Flow.  
-  <sub>★ 3,107 · zachlatta · Swift · `Swift` `Speech`</sub>
+  <sub>★ 3,117 · zachlatta · Swift · `Swift` `Speech`</sub>
 - **[OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)** — Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.  
-  <sub>★ 2,712 · YTwsy · Go · `AI` `Proxy` `DNS` `Go`</sub>
+  <sub>★ 2,716 · YTwsy · Go · `AI` `Proxy` `DNS` `Go`</sub>
 - **[supacode](https://github.com/supabitapp/supacode)** — Worktree coding agents command center.  
-  <sub>★ 2,399 · supabitapp · Swift · `Swift`</sub>
+  <sub>★ 2,401 · supabitapp · Swift · `Swift`</sub>
 - **[muxy](https://github.com/muxy-app/muxy)** — Lightweight and Memory efficient terminal multiplexer  
-  <sub>★ 2,386 · muxy-app · Rust · `AI` `Terminal` `Monitoring` `Rust`</sub>
+  <sub>★ 2,391 · muxy-app · Rust · `AI` `Terminal` `Monitoring` `Rust`</sub>
 - **[TokenTracker](https://github.com/xiufengsun/TokenTracker)** — Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.  
-  <sub>★ 2,240 · xiufengsun · JavaScript · `AI` `Privacy` `Mouse` `Terminal` `Monitoring` `Dashboard`</sub>
+  <sub>★ 2,241 · xiufengsun · JavaScript · `AI` `Privacy` `Mouse` `Terminal` `Monitoring` `Dashboard`</sub>
 - **[chops](https://github.com/Shpigford/chops)** — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.  
   <sub>★ 2,115 · Shpigford · Swift · `AI` `Mouse` `SwiftUI` `Swift`</sub>
 - **[typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac)** — Local speech-to-text for macOS on-device AI, fully private, optional cloud  
-  <sub>★ 1,927 · TypeWhisper · Swift · `AI` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,928 · TypeWhisper · Swift · `AI` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
 - **[burrow](https://github.com/caezium/burrow)** — Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.  
-  <sub>★ 1,788 · caezium · Swift · `Menu Bar` `AI` `Cleanup` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,799 · caezium · Swift · `Menu Bar` `AI` `Cleanup` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[nativ](https://github.com/Neywa-Labs/nativ)** — Nativ is an open-source local AI app for Mac. It runs open AI models on Apple Silicon, and nothing leaves your Mac.  
-  <sub>★ 1,592 · Neywa-Labs · Swift · `AI` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,595 · Neywa-Labs · Swift · `AI` `SwiftUI` `Swift`</sub>
 - **[ClaudeBar](https://github.com/tddworks/ClaudeBar)** — A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.  
-  <sub>★ 1,581 · tddworks · Swift · `Menu Bar` `AI` `Monitoring` `Swift`</sub>
+  <sub>★ 1,583 · tddworks · Swift · `Menu Bar` `AI` `Monitoring` `Swift`</sub>
 - **[Rockxy](https://github.com/RockxyApp/Rockxy)** — Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.  
-  <sub>★ 1,500 · RockxyApp · Swift · `AI` `Proxy` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,504 · RockxyApp · Swift · `AI` `Proxy` `SwiftUI` `Swift`</sub>
 - **[FlowDown](https://github.com/Lakr233/FlowDown)** — Https://flowdown.ai/  
-  <sub>★ 1,248 · Lakr233 · Swift · `AI` `Swift`</sub>
+  <sub>★ 1,249 · Lakr233 · Swift · `AI` `Swift`</sub>
 - **[HiPixel](https://github.com/okooo5km/HiPixel)** — HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.  
-  <sub>★ 1,171 · okooo5km · Swift · `AI` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,172 · okooo5km · Swift · `AI` `SwiftUI` `Swift`</sub>
 - **[KeyType](https://github.com/johnbean393/KeyType)** — An open-source Cotypist with macOS system wide AI autocomplete  
   <sub>★ 583 · johnbean393 · Swift · `AI` `Swift`</sub>
 - **[adrafinil](https://github.com/kageroumado/adrafinil)** — Keep your Mac awake only while AI coding agents are working  
-  <sub>★ 530 · kageroumado · Swift · `Menu Bar` `AI` `Swift`</sub>
+  <sub>★ 531 · kageroumado · Swift · `Menu Bar` `AI` `Swift`</sub>
 - **[claudexor](https://github.com/razzant/claudexor)** — Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.  
   <sub>★ 525 · razzant · TypeScript · `AI` `Mouse` `Terminal` `TypeScript`</sub>
 - **[live-resume](https://github.com/guilhermeborgesbastos/live-resume)** — A fast personal web app for building a professional single-page website and resume that highlights your skills and experience.  
   <sub>★ 493 · guilhermeborgesbastos · TypeScript · `AI` `Template` `Cross-platform` `TypeScript`</sub>
 - **[yap](https://github.com/FrigadeHQ/yap)** — Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.  
-  <sub>★ 479 · FrigadeHQ · Swift · `Menu Bar` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 480 · FrigadeHQ · Swift · `Menu Bar` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
 - **[ltx-video-mac](https://github.com/james-see/ltx-video-mac)** — Native macOS app for local AI video on Apple Silicon — LTX-2, LTX-2.3, LTX-2.5, and MiniMax H3  
   <sub>★ 459 · james-see · Swift · `AI` `Video` `Swift`</sub>
 - **[Usage4Claude](https://github.com/f-is-h/Usage4Claude)** — Monitor all your Claude/Codex usage limits in real-time from your macOS menu bar - supports 5-hour, 7-day, extra usage, 7-day Opus and 7-day Sonnet quotas.  
@@ -371,7 +378,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[typeflux](https://github.com/mylxsw/typeflux)** — Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast "hold to talk, release to insert" workflow: press a hotkey, speak naturally, let the app transcribe…  
   <sub>★ 366 · mylxsw · Swift · `Menu Bar` `AI` `Speech` `Keyboard` `Swift`</sub>
 - **[lockpaw](https://github.com/sorkila/lockpaw)** — Cover your Mac's screen with a hotkey while AI agents keep running, even with the lid closed. The covered screen glows when Claude Code, Codex or Gemini needs you. Touch ID unlock.  
-  <sub>★ 179 · sorkila · Swift · `Menu Bar` `AI` `Privacy` `Keyboard` `Terminal` `SwiftUI`</sub>
+  <sub>★ 180 · sorkila · Swift · `Menu Bar` `AI` `Privacy` `Keyboard` `Terminal` `SwiftUI`</sub>
 - **[double-shot](https://github.com/noahelhadedy/double-shot)** — Keeps your Mac awake. With the lid closed too, and for as long as your AI agents are working. Menu bar app for macOS.  
   <sub>★ 109 · noahelhadedy · Swift · `Menu Bar` `AI` `SwiftUI` `Swift`</sub>
 - **[openquack](https://github.com/larryxiao/openquack)** — Voice dictation menu-bar app for macOS. Press a hotkey, speak, transcript appears at the cursor. Whisper runs locally via WhisperKit on Apple Silicon — no audio, text, or telemetry leaves…  
@@ -383,7 +390,7 @@ _Local and hosted models, assistants and speech tooling._
 - **[openvoiceflow](https://github.com/shimoverse/openvoiceflow)** — Free, open-source push-to-talk dictation for macOS 14+. Local speech recognition; optional local or cloud text cleanup. AGPL-3.0.  
   <sub>★ 22 · shimoverse · Swift · `Menu Bar` `Speech` `Privacy` `SwiftUI` `Swift`</sub>
 - **[Golosok](https://github.com/Berliner187/Golosok)** — Free Wispr Flow & Superwhisper alternative. Native macOS voice dictation & speech-to-text. Powered by Sber GigaAM v3 & Whisper. Instant direct input under cursor via ⌥+Space, push-to-talk…  
-  <sub>★ 15 · Berliner187 · Swift · `Speech` `Mouse` `Video` `Files` `Swift`</sub>
+  <sub>★ 17 · Berliner187 · Swift · `Speech` `Mouse` `Video` `Files` `Swift`</sub>
 
 <a id="cat-launchers"></a>
 
@@ -392,21 +399,21 @@ _Local and hosted models, assistants and speech tooling._
 _App launchers, command palettes and Launchpad replacements._
 
 - **[tinycast](https://github.com/abue-ammar/tinycast)** — A native macOS launcher for everyday productivity. Lightweight and open source.  
-  <sub>★ 9,468 · abue-ammar · Swift · `Launcher` `Swift`</sub>
+  <sub>★ 9,499 · abue-ammar · Swift · `Launcher` `Swift`</sub>
 - **[ZTools](https://github.com/ZToolsCenter/ZTools)** — An open-source implementation of uTools: a fast, extensible application launcher and plugin platform for macOS and Windows.  
-  <sub>★ 4,135 · ZToolsCenter · TypeScript · `Launcher` `TypeScript`</sub>
+  <sub>★ 4,139 · ZToolsCenter · TypeScript · `Launcher` `TypeScript`</sub>
 - **[QuickLookVideo](https://github.com/Marginal/QuickLookVideo)** — Thumbnails in Finder, Quick Look previews, and metadata in Spotlight and Finder's Get Info window for most types of audio and video files.  
   <sub>★ 3,645 · Marginal · Swift · `Windows` `Launcher` `Audio` `Video` `Files` `Swift`</sub>
 - **[sol](https://github.com/ospfranco/sol)** — MacOS launcher & command palette  
   <sub>★ 3,213 · ospfranco · TypeScript · `Launcher` `TypeScript`</sub>
 - **[LaunchNext](https://github.com/RoversX/LaunchNext)** — Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.  
-  <sub>★ 3,202 · RoversX · Swift · `Launcher` `Swift`</sub>
+  <sub>★ 3,208 · RoversX · Swift · `Launcher` `Swift`</sub>
 - **[docky](https://github.com/josejuanqm/docky)** — Docky is a Dock replacement for macOS that elegantly replaces the system one. It brings the Dock back into reach: quieter, smarter, and native-feeling, with a configurable layout, widgets…  
-  <sub>★ 1,411 · josejuanqm · Swift · `Windows` `Dock` `Launcher` `Swift`</sub>
+  <sub>★ 1,414 · josejuanqm · Swift · `Windows` `Dock` `Launcher` `Swift`</sub>
 - **[look](https://github.com/kunkka19xx/look)** — An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳  
-  <sub>★ 1,309 · kunkka19xx · Rust · `Launcher` `Cross-platform` `Rust`</sub>
+  <sub>★ 1,308 · kunkka19xx · Rust · `Launcher` `Cross-platform` `Rust`</sub>
 - **[BetterCmdTab](https://github.com/rokartur/BetterCmdTab)** — Free, open-source ⌘Tab window switcher for macOS  
-  <sub>★ 873 · rokartur · Swift · `Windows` `Launcher` `Swift`</sub>
+  <sub>★ 875 · rokartur · Swift · `Windows` `Launcher` `Swift`</sub>
 - **[LaunchNow](https://github.com/ggkevinnnn/LaunchNow)** — Alternative Launchpad for MacOS Tahoe & Golden Gate.  
   <sub>★ 849 · ggkevinnnn · Swift · `Launcher` `Swift`</sub>
 - **[macos-launchy](https://github.com/Punshnut/macos-launchy)** — Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!  
@@ -425,31 +432,33 @@ _App launchers, command palettes and Launchpad replacements._
 _Pomodoro timers, break reminders, boards and task tools._
 
 - **[focalboard](https://github.com/mattermost-community/focalboard)** — Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.  
-  <sub>★ 26,556 · mattermost-community · TypeScript · `Privacy` `Tasks` `Self-hosted` `TypeScript`</sub>
+  <sub>★ 26,559 · mattermost-community · TypeScript · `Privacy` `Tasks` `Self-hosted` `TypeScript`</sub>
 - **[super-productivity](https://github.com/super-productivity/super-productivity)** — Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.  
-  <sub>★ 23,690 · super-productivity · TypeScript · `Privacy` `Focus` `Tasks` `Git` `iOS` `Cross-platform`</sub>
+  <sub>★ 23,743 · super-productivity · TypeScript · `Privacy` `Focus` `Tasks` `Git` `iOS` `Cross-platform`</sub>
 - **[alt-tab-macos](https://github.com/lwouis/alt-tab-macos)** — Windows alt-tab on macOS  
-  <sub>★ 16,532 · lwouis · Swift · `Windows` `Tasks` `Swift`</sub>
+  <sub>★ 16,539 · lwouis · Swift · `Windows` `Tasks` `Swift`</sub>
 - **[stretchly](https://github.com/hovancik/stretchly)** — The break time reminder app  
-  <sub>★ 6,647 · hovancik · JavaScript · `Focus` `Electron` `Cross-platform` `JavaScript`</sub>
+  <sub>★ 6,652 · hovancik · JavaScript · `Focus` `Electron` `Cross-platform` `JavaScript`</sub>
 - **[reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)** — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.  
-  <sub>★ 4,018 · DamascenoRafael · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
+  <sub>★ 4,021 · DamascenoRafael · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[TomatoBar](https://github.com/ivoronin/TomatoBar)** — World's neatest Pomodoro timer for macOS menu bar  
-  <sub>★ 3,597 · ivoronin · Swift · `Menu Bar` `Focus` `Swift`</sub>
+  <sub>★ 3,601 · ivoronin · Swift · `Menu Bar` `Focus` `Swift`</sub>
 - **[dorso](https://github.com/tldev/dorso)** — A macOS app that blurs your screen when you slouch.  
   <sub>★ 2,637 · tldev · Swift · `Swift`</sub>
 - **[iMCP](https://github.com/mattt/iMCP)** — A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more  
-  <sub>★ 1,977 · mattt · Swift · `Swift`</sub>
+  <sub>★ 1,981 · mattt · Swift · `Swift`</sub>
 - **[breaktimer-app](https://github.com/tom-james-watson/breaktimer-app)** — Manage periodic breaks. Avoid eye-strain and RSI.  
-  <sub>★ 1,605 · tom-james-watson · TypeScript · `Focus` `TypeScript`</sub>
+  <sub>★ 1,608 · tom-james-watson · TypeScript · `Focus` `TypeScript`</sub>
 - **[TaskTick](https://github.com/lifedever/TaskTick)** — A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more.  
-  <sub>★ 489 · lifedever · Swift · `Menu Bar` `Tasks` `SwiftUI` `Swift`</sub>
+  <sub>★ 490 · lifedever · Swift · `Menu Bar` `Tasks` `SwiftUI` `Swift`</sub>
 - **[health-tick-release](https://github.com/lifedever/health-tick-release)** — HealthTick - macOS Menu Bar Sedentary Reminder Tool  
-  <sub>★ 466 · lifedever · Swift · `Menu Bar` `Swift`</sub>
+  <sub>★ 467 · lifedever · Swift · `Menu Bar` `Swift`</sub>
 - **[MrEditor](https://github.com/MR-TABATA/MrEditor)** — 86,420,337 lines — a 10 GB log — open in 80 ms, and 0 bytes of it live in memory. A Mac-native viewer and editor for the files that break everything else: edit in place, save with atomic…  
   <sub>★ 37 · MR-TABATA · Swift · `Editor` `Focus` `Files` `Monitoring` `Swift`</sub>
 - **[timemate](https://github.com/homielab/timemate)** — TimeMate is a Pomodoro timer that lives in your menu bar. It helps you focus on your work and remember to take breaks.  
   <sub>★ 29 · homielab · Swift · `Menu Bar` `Focus` `Swift`</sub>
+- **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** — All-in-one unified daily dashboard for macOS & iOS (Calendar, Music, Notion, Mail)  
+  <sub>★ 14 · Yvsleyen00941 · Swift · `Menu Bar` `Keyboard` `Audio` `Monitoring` `Dashboard` `Notifications`</sub>
 
 <a id="cat-windows"></a>
 
@@ -458,27 +467,31 @@ _Pomodoro timers, break reminders, boards and task tools._
 _Tiling, window switching, the Dock and Mission Control._
 
 - **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.  
-  <sub>★ 34,822 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
+  <sub>★ 34,987 · vorssaint · Swift · `Menu Bar` `Windows` `Files` `Cleanup` `Monitoring` `Swift`</sub>
 - **[Amethyst](https://github.com/ianyh/Amethyst)** — Automatic tiling window manager for macOS à la xmonad.  
-  <sub>★ 16,332 · ianyh · Swift · `Windows` `Swift`</sub>
+  <sub>★ 16,334 · ianyh · Swift · `Windows` `Swift`</sub>
 - **[Loop](https://github.com/mrkai77/Loop)** — Window management made elegant.  
-  <sub>★ 11,973 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
+  <sub>★ 11,983 · mrkai77 · Swift · `Windows` `SwiftUI` `Swift`</sub>
 - **[DockDoor](https://github.com/ejbills/DockDoor)** — Window peeking, alt-tab and other enhancements for macOS  
-  <sub>★ 6,580 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
+  <sub>★ 6,584 · ejbills · Swift · `Windows` `Dock` `Swift`</sub>
 - **[OmniWM](https://github.com/OmniNull/OmniWM)** — Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.  
-  <sub>★ 3,626 · OmniNull · Swift · `Windows` `Swift`</sub>
+  <sub>★ 3,634 · OmniNull · Swift · `Windows` `Swift`</sub>
 - **[Penc](https://github.com/dgurkaynak/Penc)** — Trackpad-oriented window manager for macOS  
   <sub>★ 1,162 · dgurkaynak · Swift · `Windows` `Mouse` `Swift`</sub>
 - **[tungsten-edge](https://github.com/moonbai-studio/tungsten-edge)** — A per-window taskbar for macOS — a Dock replacement that organizes by window, not app.  
-  <sub>★ 659 · moonbai-studio · Swift · `Windows` `Dock` `SwiftUI` `Swift`</sub>
+  <sub>★ 660 · moonbai-studio · Swift · `Windows` `Dock` `SwiftUI` `Swift`</sub>
 - **[switch](https://github.com/Sanyam-G/switch)** — A keyboard-driven window switcher for macOS. Notarized. Free.  
-  <sub>★ 649 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
+  <sub>★ 650 · Sanyam-G · Swift · `Windows` `Keyboard` `Swift`</sub>
 - **[Peninsula](https://github.com/celve/Peninsula)** — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.  
   <sub>★ 459 · celve · Swift · `Windows` `Files` `Notifications` `Swift`</sub>
 - **[WinMux](https://github.com/ZimengXiong/WinMux)** — A powerful project-based, sidebar-first window manager for macOS.  
   <sub>★ 401 · ZimengXiong · Swift · `Windows` `Swift`</sub>
 - **[LumaRing](https://github.com/potatoQi/LumaRing)** — A small ring for switching apps, windows, and browser tabs on macOS.  
-  <sub>★ 90 · potatoQi · Swift · `Menu Bar` `Windows` `Swift`</sub>
+  <sub>★ 91 · potatoQi · Swift · `Menu Bar` `Windows` `Swift`</sub>
+- **[Tape](https://github.com/Yvsleyen00941/Tape)** — A stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.  
+  <sub>★ 7 · Yvsleyen00941 · Swift · `Menu Bar` `Dock` `SwiftUI` `Swift`</sub>
+- **[Needle](https://github.com/Yvsleyen00941/Needle)** — What's playing on your Mac, in the empty corner beside the Dock: the cover, and the title in its colour.  
+  <sub>★ 4 · Yvsleyen00941 · Swift · `Menu Bar` `Dock` `Audio` `Video` `SwiftUI` `Swift`</sub>
 
 <a id="cat-menubar"></a>
 
@@ -487,43 +500,43 @@ _Tiling, window switching, the Dock and Mission Control._
 _Menu bar utilities and status item managers._
 
 - **[stats](https://github.com/exelban/stats)** — MacOS system monitor in your menu bar  
-  <sub>★ 43,415 · exelban · Swift · `Menu Bar` `Monitoring` `Swift`</sub>
+  <sub>★ 43,448 · exelban · Swift · `Menu Bar` `Monitoring` `Swift`</sub>
 - **[MonitorControl](https://github.com/MonitorControl/MonitorControl)** — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.  
-  <sub>★ 34,733 · MonitorControl · Swift · `Menu Bar` `Keyboard` `Display` `Monitoring` `Swift`</sub>
+  <sub>★ 34,753 · MonitorControl · Swift · `Menu Bar` `Keyboard` `Display` `Monitoring` `Swift`</sub>
 - **[Ice](https://github.com/jordanbaird/Ice)** — Powerful menu bar manager for macOS  
-  <sub>★ 30,033 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
+  <sub>★ 30,044 · jordanbaird · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[Thaw](https://github.com/thaw-app/Thaw)** — The open source menu bar manager  
-  <sub>★ 12,739 · thaw-app · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
+  <sub>★ 12,765 · thaw-app · Swift · `Menu Bar` `SwiftUI` `Swift`</sub>
 - **[FineTune](https://github.com/ronitsingh10/FineTune)** — FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.  
-  <sub>★ 10,170 · ronitsingh10 · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
+  <sub>★ 10,183 · ronitsingh10 · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
 - **[OnlySwitch](https://github.com/jacklandrin/OnlySwitch)** — The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.  
-  <sub>★ 6,058 · jacklandrin · Swift · `Menu Bar` `Notch` `AI` `Keyboard` `Focus` `Capture`</sub>
+  <sub>★ 6,062 · jacklandrin · Swift · `Menu Bar` `Notch` `AI` `Keyboard` `Focus` `Capture`</sub>
 - **[SwiftBar](https://github.com/swiftbar/SwiftBar)** — Powerful macOS menu bar customization tool  
-  <sub>★ 4,797 · swiftbar · Swift · `Menu Bar` `Swift`</sub>
+  <sub>★ 4,801 · swiftbar · Swift · `Menu Bar` `Swift`</sub>
 - **[Crisp](https://github.com/didriksg/Crisp)** — Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual…  
-  <sub>★ 2,413 · didriksg · Swift · `Menu Bar` `Display` `Monitoring` `Swift`</sub>
+  <sub>★ 2,421 · didriksg · Swift · `Menu Bar` `Display` `Monitoring` `Swift`</sub>
 - **[RepoBar](https://github.com/steipete/RepoBar)** — Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.  
-  <sub>★ 2,230 · steipete · Swift · `Menu Bar` `Terminal` `Git` `Swift`</sub>
+  <sub>★ 2,231 · steipete · Swift · `Menu Bar` `Terminal` `Git` `Swift`</sub>
 - **[LunarBar](https://github.com/LunarBar-app/LunarBar)** — A compact lunar calendar for your macOS menu bar.  
-  <sub>★ 1,518 · LunarBar-app · Swift · `Menu Bar` `Swift`</sub>
+  <sub>★ 1,519 · LunarBar-app · Swift · `Menu Bar` `Swift`</sub>
 - **[MacTools](https://github.com/mactools-app/MacTools)** — A free and open-source collection of native macOS menu bar tools.  
   <sub>★ 1,432 · mactools-app · Swift · `Menu Bar` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[RunCatNeo](https://github.com/runcat-dev/RunCatNeo)** — A cute running cat animation on your macOS menubar.  
-  <sub>★ 972 · runcat-dev · Swift · `Menu Bar` `Fun` `Swift`</sub>
+  <sub>★ 975 · runcat-dev · Swift · `Menu Bar` `Fun` `Swift`</sub>
 - **[phosphene](https://github.com/kageroumado/phosphene)** — Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane  
-  <sub>★ 935 · kageroumado · Swift · `Menu Bar` `Video` `Fun` `SwiftUI` `Swift`</sub>
+  <sub>★ 937 · kageroumado · Swift · `Menu Bar` `Video` `Fun` `SwiftUI` `Swift`</sub>
 - **[itsytv-macos](https://github.com/nickustinov/itsytv-macos)** — The missing Apple TV remote app for macOS  
   <sub>★ 663 · nickustinov · Swift · `Menu Bar` `Swift`</sub>
 - **[LockIME](https://github.com/oomol-lab/LockIME)** — A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.  
-  <sub>★ 623 · oomol-lab · Swift · `Menu Bar` `Keyboard` `SwiftUI` `Swift`</sub>
+  <sub>★ 624 · oomol-lab · Swift · `Menu Bar` `Keyboard` `SwiftUI` `Swift`</sub>
 - **[airstats](https://github.com/byrencheema/airstats)** — A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU.  
-  <sub>★ 504 · byrencheema · Swift · `Menu Bar` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 507 · byrencheema · Swift · `Menu Bar` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[HotkeyClash](https://github.com/Wunderlandmedia/HotkeyClash)** — Find where your keyboard shortcuts clash. A free, open-source macOS menu bar app that detects shortcut conflicts across apps, config tools, and system settings.  
   <sub>★ 235 · Wunderlandmedia · Swift · `Menu Bar` `Proxy` `Keyboard` `SwiftUI` `Swift`</sub>
 - **[FanBar](https://github.com/helson-lin/FanBar)** — Free, open-source Mac fan control for the menu bar. Monitor temperatures, set fan curves — Apple Silicon & Intel.  
-  <sub>★ 158 · helson-lin · Swift · `Menu Bar` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 163 · helson-lin · Swift · `Menu Bar` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[fader](https://github.com/pantafive/fader)** — Menu bar volume mixer for macOS: per-app volume, one-click audio output switching, Bluetooth headphone control. Free, native, no telemetry.  
-  <sub>★ 88 · pantafive · Swift · `Menu Bar` `Privacy` `Mouse` `Audio` `SwiftUI` `Swift`</sub>
+  <sub>★ 90 · pantafive · Swift · `Menu Bar` `Privacy` `Mouse` `Audio` `SwiftUI` `Swift`</sub>
 - **[Tactile](https://github.com/Mason363/Tactile)** — A light-weight macOS system wide app for trackpad haptics.  
   <sub>★ 65 · Mason363 · Swift · `Menu Bar` `Mouse` `SwiftUI` `Swift`</sub>
 - **[BingWallpaper-for-Mac](https://github.com/2h4u/BingWallpaper-for-Mac)** — A menubar app for MacOS which automatically sets a new wallpaper everyday  
@@ -535,7 +548,7 @@ _Menu bar utilities and status item managers._
 - **[Konverter](https://github.com/davidpraznik/Konverter)** — MacOS menu bar file converter and image optimizer. Shift-drag to convert, ⌘-drag to prepare images for the web or strip metadata.  
   <sub>★ 15 · davidpraznik · Swift · `Menu Bar` `Archive` `Files` `SwiftUI` `Swift`</sub>
 - **[Archivator](https://github.com/davidpraznik/Archivator)** — MacOS menu bar archive tool. Hold Option while dragging files to open the wheel.  
-  <sub>★ 12 · davidpraznik · Swift · `Menu Bar` `Archive` `Files` `SwiftUI` `Swift`</sub>
+  <sub>★ 13 · davidpraznik · Swift · `Menu Bar` `Archive` `Files` `SwiftUI` `Swift`</sub>
 - **[Mixio](https://github.com/RadixIV/Mixio)** — MacOS menu bar app with per app & tab volume control, 10-band EQ with native style UI.  
   <sub>★ 11 · RadixIV · Swift · `Menu Bar` `Audio` `SwiftUI` `Swift`</sub>
 - **[Memo](https://github.com/LaluIman/Memo)** — To-dos that live in your menu bar  
@@ -548,19 +561,19 @@ _Menu bar utilities and status item managers._
 _Shells, prompts, terminal emulators and CLI toys._
 
 - **[tabby](https://github.com/Eugeny/tabby)** — A terminal for a more modern age  
-  <sub>★ 75,436 · Eugeny · TypeScript · `Terminal` `TypeScript`</sub>
+  <sub>★ 75,456 · Eugeny · TypeScript · `Terminal` `TypeScript`</sub>
 - **[Mole](https://github.com/tw93/Mole)** — Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.  
-  <sub>★ 75,161 · tw93 · Shell · `Terminal` `Cleanup` `Shell`</sub>
+  <sub>★ 75,300 · tw93 · Shell · `Terminal` `Cleanup` `Shell`</sub>
 - **[warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.  
-  <sub>★ 66,021 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
+  <sub>★ 66,035 · warpdotdev · Rust · `Terminal` `Cross-platform` `Rust`</sub>
 - **[starship](https://github.com/starship/starship)** — The minimal, blazing-fast, and infinitely customizable prompt for any shell!  
-  <sub>★ 60,744 · starship · Rust · `Terminal` `Template` `Rust`</sub>
+  <sub>★ 60,751 · starship · Rust · `Terminal` `Template` `Rust`</sub>
 - **[powerlevel10k](https://github.com/romkatv/powerlevel10k)** — A Zsh theme  
-  <sub>★ 55,381 · romkatv · Shell · `Terminal` `Shell`</sub>
+  <sub>★ 55,385 · romkatv · Shell · `Terminal` `Shell`</sub>
 - **[tmux](https://github.com/tmux/tmux)** — Tmux source code  
-  <sub>★ 50,326 · tmux · C · `Terminal` `C`</sub>
+  <sub>★ 50,410 · tmux · C · `Terminal` `C`</sub>
 - **[hyper](https://github.com/vercel/hyper)** — A terminal built on web technologies  
-  <sub>★ 44,752 · vercel · TypeScript · `Archived` `Terminal` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 44,751 · vercel · TypeScript · `Archived` `Terminal` `Cross-platform` `TypeScript`</sub>
 
 <a id="cat-databases"></a>
 
@@ -569,13 +582,13 @@ _Shells, prompts, terminal emulators and CLI toys._
 _Database clients, servers and data browsers._
 
 - **[AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)** — A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.  
-  <sub>★ 34,861 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
+  <sub>★ 34,860 · qishibo · JavaScript · `Cross-platform` `JavaScript`</sub>
 - **[PostgresApp](https://github.com/PostgresApp/PostgresApp)** — The easiest way to get started with PostgreSQL on the Mac  
-  <sub>★ 7,787 · PostgresApp · Makefile · `Databases & Data`</sub>
+  <sub>★ 7,786 · PostgresApp · Makefile · `Databases & Data`</sub>
 - **[Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)** — MySQL/MariaDB database management for macOS  
   <sub>★ 7,563 · Sequel-Ace · Objective-C · `Objective-C`</sub>
 - **[TablePro](https://github.com/TableProApp/TablePro)** — Free, open-source native database client for macOS, Linux, iPhone and iPad.  
-  <sub>★ 6,471 · TableProApp · Swift · `Editor` `iOS` `Cross-platform` `Swift`</sub>
+  <sub>★ 6,475 · TableProApp · Swift · `Editor` `iOS` `Cross-platform` `Swift`</sub>
 
 <a id="cat-security"></a>
 
@@ -584,17 +597,17 @@ _Database clients, servers and data browsers._
 _Firewalls, Gatekeeper tooling, encryption and password managers._
 
 - **[sniffnet](https://github.com/GyulyVGC/sniffnet)** — Comfortably monitor your network traffic 🕵️‍♂️  
-  <sub>★ 42,832 · GyulyVGC · Rust · `Privacy` `Monitoring` `Cross-platform` `Rust`</sub>
+  <sub>★ 42,941 · GyulyVGC · Rust · `Privacy` `Monitoring` `Cross-platform` `Rust`</sub>
 - **[LuLu](https://github.com/objective-see/LuLu)** — LuLu is the free open-source macOS firewall  
-  <sub>★ 13,592 · objective-see · Objective-C · `Privacy` `Objective-C`</sub>
+  <sub>★ 13,599 · objective-see · Objective-C · `Privacy` `Objective-C`</sub>
 - **[Sentinel](https://github.com/alienator88/Sentinel)** — Configure Gatekeeper, remove apps from quarantine and self-sign apps  
   <sub>★ 1,796 · alienator88 · Swift · `Privacy` `SwiftUI` `Swift`</sub>
 - **[Zephyr](https://github.com/Juwan-Hwang/Zephyr)** — Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.  
   <sub>★ 748 · Juwan-Hwang · JavaScript · `Privacy` `Proxy` `Tauri` `Cross-platform` `JavaScript`</sub>
 - **[puresnitch](https://github.com/momenbasel/puresnitch)** — Free, open-source application firewall for macOS. Little Snitch alternative with zero telemetry. Native SwiftUI world map, rules manager, DNS over HTTPS, pf-based blocking. Signed…  
-  <sub>★ 223 · momenbasel · Swift · `Privacy` `Proxy` `DNS` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 225 · momenbasel · Swift · `Privacy` `Proxy` `DNS` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[lanfi](https://github.com/zheltukheen/lanfi)** — LanFi (formerly WiFA) — free, open-source native macOS Wi-Fi analyzer with protocol blocks, diagnostics, channel recommendations and a security audit.  
-  <sub>★ 27 · zheltukheen · Swift · `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 31 · zheltukheen · Swift · `Privacy` `SwiftUI` `Swift`</sub>
 
 <a id="cat-network"></a>
 
@@ -603,27 +616,27 @@ _Firewalls, Gatekeeper tooling, encryption and password managers._
 _Proxies, VPNs, DNS switchers and network tooling._
 
 - **[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)** — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience  
-  <sub>★ 158,575 · clash-verge-rev · Rust · `Proxy` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 158,781 · clash-verge-rev · Rust · `Proxy` `Tauri` `Cross-platform` `Rust`</sub>
 - **[v2rayN](https://github.com/2dust/v2rayN)** — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others  
-  <sub>★ 120,688 · 2dust · C# · `Proxy` `Cross-platform` `C#`</sub>
+  <sub>★ 120,767 · 2dust · C# · `Proxy` `Cross-platform` `C#`</sub>
 - **[SwitchHosts](https://github.com/oldj/SwitchHosts)** — Switch hosts quickly!  
-  <sub>★ 27,410 · oldj · TypeScript · `Electron` `TypeScript`</sub>
+  <sub>★ 27,414 · oldj · TypeScript · `Electron` `TypeScript`</sub>
 - **[clash-party](https://github.com/mihomo-party-org/clash-party)** — Electron: Another Mihomo GUI.  
-  <sub>★ 27,232 · mihomo-party-org · TypeScript · `Proxy` `Electron` `TypeScript`</sub>
+  <sub>★ 27,238 · mihomo-party-org · TypeScript · `Proxy` `Electron` `TypeScript`</sub>
 - **[ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta)** — A macOS proxy client built on the Clash.Meta core, packaged as a menu bar app.  
-  <sub>★ 6,365 · MetaCubeX · `Proxy`</sub>
+  <sub>★ 6,369 · MetaCubeX · `Proxy`</sub>
 - **[ClashMac](https://github.com/666OS/ClashMac)** — Native Proxy Experience Built for macOS  
-  <sub>★ 6,330 · 666OS · `Proxy` `SwiftUI`</sub>
+  <sub>★ 6,331 · 666OS · `Proxy` `SwiftUI`</sub>
 - **[ClashBar](https://github.com/Sitoi/ClashBar)** — 原生 macOS 菜单栏代理客户端，基于 SwiftUI + AppKit，由 mihomo 驱动。 轻量、稳定，在菜单栏完成配置、节点、规则、连接与系统代理管理。  
-  <sub>★ 1,637 · Sitoi · Swift · `Proxy` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,642 · Sitoi · Swift · `Proxy` `SwiftUI` `Swift`</sub>
 - **[dns-easy-switcher](https://github.com/glinford/dns-easy-switcher)** — DNS Easy Switcher (for MacOS)  
   <sub>★ 365 · glinford · Swift · `DNS` `Swift`</sub>
 - **[bargozin-desktop](https://github.com/403unlocker/bargozin-desktop)** — DNS & network testing tool - Test URL accessibility, download speeds, and Docker registries across multiple DNS servers  
   <sub>★ 180 · 403unlocker · TypeScript · `DNS` `Proxy` `TypeScript`</sub>
 - **[veil-macos](https://github.com/The-Veil-Foundation/veil-macos)** — Native macOS VPN client for Xray-core and sing-box (VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC, WireGuard; Reality, TUN, routing) — SwiftUI  
-  <sub>★ 18 · The-Veil-Foundation · Swift · `Proxy` `SwiftUI` `Swift`</sub>
+  <sub>★ 28 · The-Veil-Foundation · Swift · `Proxy` `SwiftUI` `Swift`</sub>
 - **[MacSense](https://github.com/behruzinho/MacSense)** — Native macOS system monitor: CPU, memory, GPU, battery, temperatures, fans, storage and network. SwiftUI, five languages, MIT.  
-  <sub>★ 6 · behruzinho · Swift · `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 9 · behruzinho · Swift · `Monitoring` `SwiftUI` `Swift`</sub>
 
 <a id="cat-remote"></a>
 
@@ -632,11 +645,11 @@ _Proxies, VPNs, DNS switchers and network tooling._
 _Second screens, screen sharing and controlling other devices._
 
 - **[BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -…  
-  <sub>★ 34,560 · waydabber · `Video` `Display`</sub>
+  <sub>★ 34,579 · waydabber · `Video` `Display`</sub>
 - **[QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software  
-  <sub>★ 32,871 · barry-ran · C++ · `Display` `C++`</sub>
+  <sub>★ 32,892 · barry-ran · C++ · `Display` `C++`</sub>
 - **[opendisplay](https://github.com/peetzweg/opendisplay)** — Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.  
-  <sub>★ 6,377 · peetzweg · Rust · `Display` `Monitoring` `iOS` `Rust`</sub>
+  <sub>★ 6,391 · peetzweg · Rust · `Display` `Monitoring` `iOS` `Rust`</sub>
 - **[saundo](https://github.com/4202217/saundo)** — A pure-Go AirPlay 2 audio sender for Windows.  
   <sub>★ 7 · 4202217 · Go · `Audio` `Go`</sub>
 
@@ -647,21 +660,21 @@ _Second screens, screen sharing and controlling other devices._
 _Keyboards, mice, trackpads, cursors and typing feedback._
 
 - **[Rectangle](https://github.com/rxhanson/Rectangle)** — Move and resize windows on macOS with keyboard shortcuts and snap areas  
-  <sub>★ 30,287 · rxhanson · Swift · `Keyboard` `Swift`</sub>
+  <sub>★ 30,292 · rxhanson · Swift · `Keyboard` `Swift`</sub>
 - **[Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)** — Karabiner-Elements is a powerful tool for customizing keyboards on macOS  
-  <sub>★ 23,105 · pqrs-org · C++ · `Keyboard` `C++`</sub>
+  <sub>★ 23,109 · pqrs-org · C++ · `Keyboard` `C++`</sub>
 - **[keycastr](https://github.com/keycastr/keycastr)** — KeyCastr, an open-source keystroke visualizer  
   <sub>★ 15,208 · keycastr · Objective-C · `Keyboard` `Objective-C`</sub>
 - **[mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)** — Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!  
-  <sub>★ 11,248 · noah-nuebling · Objective-C · `Mouse` `Objective-C`</sub>
+  <sub>★ 11,252 · noah-nuebling · Objective-C · `Mouse` `Objective-C`</sub>
 - **[linearmouse](https://github.com/linearmouse/linearmouse)** — The mouse and trackpad utility for Mac.  
-  <sub>★ 7,192 · linearmouse · Swift · `Mouse` `Swift`</sub>
+  <sub>★ 7,208 · linearmouse · Swift · `Mouse` `Swift`</sub>
 - **[kando](https://github.com/kando-menu/kando)** — Do things with utmost efficiency.  
-  <sub>★ 6,654 · kando-menu · TypeScript · `Mouse` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 6,653 · kando-menu · TypeScript · `Mouse` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)** — Per-device scrolling prefs on macOS.  
-  <sub>★ 3,711 · pilotmoon · Objective-C · `Mouse` `Objective-C`</sub>
+  <sub>★ 3,713 · pilotmoon · Objective-C · `Mouse` `Objective-C`</sub>
 - **[MiddleClick](https://github.com/artginzburg/MiddleClick)** —  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.  
-  <sub>★ 2,959 · artginzburg · Swift · `Mouse` `Swift`</sub>
+  <sub>★ 2,960 · artginzburg · Swift · `Mouse` `Swift`</sub>
 - **[mechvibes-electron](https://github.com/hainguyents13/mechvibes-electron)** — Mechvibes Legacy: the original Electron version, no longer maintained. The official Mechvibes app is now at hainguyents13/mechvibes.  
   <sub>★ 2,356 · hainguyents13 · JavaScript · `Archived` `Keyboard` `Audio` `Electron` `JavaScript`</sub>
 - **[KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)** — Keyboard: The missing keyboard shortcut utility for macOS  
@@ -671,11 +684,11 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 - **[keyStats](https://github.com/debugtheworldbot/keyStats)** — Keyboard & Mouse Stats for macOS/Windows  
   <sub>★ 1,499 · debugtheworldbot · Swift · `Keyboard` `Mouse` `Monitoring` `Swift`</sub>
 - **[thock](https://github.com/kamillobinski/thock)** — THOCK your mac keyboard >> new release soon!  
-  <sub>★ 1,021 · kamillobinski · Swift · `Keyboard` `Audio` `Swift`</sub>
+  <sub>★ 1,023 · kamillobinski · Swift · `Keyboard` `Audio` `Swift`</sub>
 - **[mechvibes](https://github.com/hainguyents13/mechvibes)** — Plays mechanical keyboard and typewriter sounds as you type, with swappable sound packs.  
-  <sub>★ 402 · hainguyents13 · Rust · `Keyboard` `Mouse` `Audio` `Cross-platform` `Rust`</sub>
+  <sub>★ 406 · hainguyents13 · Rust · `Keyboard` `Mouse` `Audio` `Cross-platform` `Rust`</sub>
 - **[Snowhush](https://github.com/mbezruchko/Snowhush)** — Snow, autumn leaves, rain or cherry blossom on your Mac, Windows or Linux desktop. It settles on your windows and parts under your cursor.  
-  <sub>★ 351 · mbezruchko · Rust · `Mouse` `Cross-platform` `Rust`</sub>
+  <sub>★ 367 · mbezruchko · Rust · `Mouse` `Cross-platform` `Rust`</sub>
 - **[Keyty](https://github.com/keytyapp/Keyty)** — Keyty - modern open-source keyboard and mouse visualizer for macOS  
   <sub>★ 269 · keytyapp · Swift · `Keyboard` `Mouse` `SwiftUI` `Swift`</sub>
 - **[kbsim](https://github.com/tplai/kbsim)** — Mechanical keyboard simulator website w/ a typing test. Offers 10+ unique switch sounds, layouts, and keyboard colors for an oddly satisfying typing experience.  
@@ -683,7 +696,7 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 - **[StrokeMouse](https://github.com/Licoy/StrokeMouse)** — MacOS 鼠标/触控板手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts…  
   <sub>★ 247 · Licoy · Swift · `Mouse` `Shortcuts` `Swift`</sub>
 - **[MaCursor](https://github.com/writronic/MaCursor)** — Cursor Control for macOS  
-  <sub>★ 203 · writronic · Swift · `Mouse` `Swift`</sub>
+  <sub>★ 207 · writronic · Swift · `Mouse` `Swift`</sub>
 - **[Gestr](https://github.com/mhuusko5/Gestr)** — [Maintained] [macOS] Launch apps and bookmarks on your Mac with multitouch trackpad drawings.  
   <sub>★ 45 · mhuusko5 · Objective-C · `Mouse` `Objective-C`</sub>
 - **[SecureKey](https://github.com/DE4ACTO/SecureKey)** — An elegant macOS app to block keyboard and trackpad input for quick cleaning.  
@@ -696,31 +709,33 @@ _Keyboards, mice, trackpads, cursors and typing feedback._
 _Video players, music apps and everything that makes noise._
 
 - **[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** — 一个基于 Electron 的音乐软件  
-  <sub>★ 55,383 · lyswhut · TypeScript · `Audio` `Video` `Electron` `TypeScript`</sub>
+  <sub>★ 55,410 · lyswhut · TypeScript · `Audio` `Video` `Electron` `TypeScript`</sub>
 - **[iina](https://github.com/iina/iina)** — The modern video player for macOS.  
-  <sub>★ 47,132 · iina · Swift · `Video` `Swift`</sub>
+  <sub>★ 47,143 · iina · Swift · `Video` `Swift`</sub>
 - **[lossless-cut](https://github.com/mifi/lossless-cut)** — The swiss army knife of lossless video/audio editing  
-  <sub>★ 46,058 · mifi · TypeScript · `Editor` `Audio` `Video` `Files` `TypeScript`</sub>
+  <sub>★ 46,099 · mifi · TypeScript · `Editor` `Audio` `Video` `Files` `TypeScript`</sub>
 - **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** — A good-looking third-party NetEase Cloud Music player for Windows, macOS and Linux.  
-  <sub>★ 33,633 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
+  <sub>★ 33,632 · qier222 · Vue · `Audio` `Video` `Terminal` `Electron` `Cross-platform` `Vue`</sub>
 - **[iptvnator](https://github.com/4gray/iptvnator)** — Tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.  
-  <sub>★ 7,760 · 4gray · TypeScript · `Video` `Archive` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 7,778 · 4gray · TypeScript · `Video` `Archive` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[textream](https://github.com/f/textream)** — Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay…  
-  <sub>★ 4,287 · f · Swift · `Presenting` `Notch` `Swift`</sub>
+  <sub>★ 4,292 · f · Swift · `Presenting` `Notch` `Swift`</sub>
 - **[kaset](https://github.com/sozercan/kaset)** — The missing YouTube and YouTube Music macOS app  
-  <sub>★ 2,604 · sozercan · Swift · `Audio` `Video` `SwiftUI` `Swift`</sub>
+  <sub>★ 2,613 · sozercan · Swift · `Audio` `Video` `SwiftUI` `Swift`</sub>
 - **[VutronMusic](https://github.com/stark81/VutronMusic)** — 高颜值的第三方网易云播放器；通过自写插件可支持其他线上音乐服务；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux…  
-  <sub>★ 1,655 · stark81 · Vue · `Audio` `Electron` `Cross-platform` `Vue`</sub>
+  <sub>★ 1,654 · stark81 · Vue · `Audio` `Electron` `Cross-platform` `Vue`</sub>
 - **[WallpaperMachine](https://github.com/MMFoundation/WallpaperMachine)** — Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.  
-  <sub>★ 1,493 · MMFoundation · Swift · `Video` `Fun` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,509 · MMFoundation · Swift · `Video` `Fun` `SwiftUI` `Swift`</sub>
 - **[iina-plus](https://github.com/xjbeta/iina-plus)** — Extra danmaku support for iina. (iina 弹幕支持  
   <sub>★ 1,393 · xjbeta · Swift · `Swift` `Video`</sub>
 - **[kumone](https://github.com/missuo/kumone)** — 雲の音 — A native music player for macOS and iOS, built with SwiftUI  
-  <sub>★ 1,347 · missuo · Swift · `Audio` `Video` `SwiftUI` `iOS` `Swift`</sub>
+  <sub>★ 1,351 · missuo · Swift · `Audio` `Video` `SwiftUI` `iOS` `Swift`</sub>
 - **[SystemEQ-for-Mac](https://github.com/denzam/SystemEQ-for-Mac)** — System-wide parametric equalizer for macOS 13+ with AutoEQ, calibration and a visualizer. Free, open source (GPLv3). Developer ID signed, Apple-notarized releases.  
   <sub>★ 62 · denzam · Swift · `Audio` `SwiftUI` `Swift`</sub>
 - **[Izzy](https://github.com/ShubhamPP04/Izzy)** — Izzy Music Player - A battery-efficient macOS music player with advanced prefetching, perfect seeking, and YouTube Music integration  
   <sub>★ 61 · ShubhamPP04 · Swift · `Audio` `Swift`</sub>
+- **[Waybill](https://github.com/Yvsleyen00941/Waybill)** — Logistics idle game for iPad with 3D dioramas built with Swift, SwiftUI and RealityKit  
+  <sub>★ 2 · Yvsleyen00941 · Swift · `Audio` `SwiftUI` `iOS` `Swift`</sub>
 - **[lucid](https://github.com/braedonsaunders/lucid)** — Video super-resolution for Apple silicon — what RTX Video Super Resolution does for NVIDIA cards, for Macs. Enhances low-bitrate browser video in place, inside the page's own video box.  
   <sub>★ 1 · braedonsaunders · Python · `Video` `Python`</sub>
 
@@ -731,35 +746,33 @@ _Video players, music apps and everything that makes noise._
 _Note taking, Markdown editors and knowledge bases._
 
 - **[zed](https://github.com/zed-industries/zed)** — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.  
-  <sub>★ 95,079 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
+  <sub>★ 95,164 · zed-industries · Rust · `RSS` `Editor` `Rust`</sub>
 - **[drawio-desktop](https://github.com/jgraph/drawio-desktop)** — Official electron build of draw.io  
-  <sub>★ 64,008 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
+  <sub>★ 64,022 · jgraph · JavaScript · `Editor` `Electron` `JavaScript`</sub>
 - **[obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.  
-  <sub>★ 23,299 · obsidianmd · `Notes` `Markdown`</sub>
+  <sub>★ 23,331 · obsidianmd · `Notes` `Markdown`</sub>
 - **[tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases  
-  <sub>★ 20,521 · refactoringhq · TypeScript · `Markdown` `TypeScript`</sub>
+  <sub>★ 20,549 · refactoringhq · TypeScript · `Markdown` `TypeScript`</sub>
 - **[Zettlr](https://github.com/Zettlr/Zettlr)** — Your One-Stop Publication Workbench  
-  <sub>★ 13,919 · Zettlr · TypeScript · `Markdown` `Reading` `Electron` `Cross-platform` `TypeScript`</sub>
+  <sub>★ 13,923 · Zettlr · TypeScript · `Markdown` `Reading` `Electron` `Cross-platform` `TypeScript`</sub>
 - **[MiaoYan](https://github.com/tw93/MiaoYan)** — A light, native Markdown notebook for Mac, iPhone and iPad.  
-  <sub>★ 8,781 · tw93 · Swift · `Markdown` `Notes` `Editor` `Dashboard` `iOS` `Swift`</sub>
+  <sub>★ 8,783 · tw93 · Swift · `Markdown` `Notes` `Editor` `Dashboard` `iOS` `Swift`</sub>
 - **[CotEditor](https://github.com/coteditor/CotEditor)** — Lightweight Plain Text Editor for macOS  
-  <sub>★ 8,692 · coteditor · Swift · `Editor` `Swift`</sub>
+  <sub>★ 8,693 · coteditor · Swift · `Editor` `Swift`</sub>
 - **[fsnotes](https://github.com/glushchenko/fsnotes)** — Fast Markdown note-taking app for Mac and iPhone  
-  <sub>★ 7,577 · glushchenko · Swift · `Markdown` `Notes` `Dashboard` `iOS` `Swift`</sub>
+  <sub>★ 7,580 · glushchenko · Swift · `Markdown` `Notes` `Dashboard` `iOS` `Swift`</sub>
 - **[markdown-preview](https://github.com/pluk-inc/markdown-preview)** — A simple Markdown viewer for reading .md files  
-  <sub>★ 2,820 · pluk-inc · Swift · `Markdown` `Reading` `Files` `Swift`</sub>
-- **[OpenOats](https://github.com/yazinsai/OpenOats)** — A meeting note-taker that talks back.  
-  <sub>★ 2,672 · yazinsai · Swift · `Notes` `Swift`</sub>
+  <sub>★ 2,828 · pluk-inc · Swift · `Markdown` `Reading` `Files` `Swift`</sub>
 - **[smoothcsv3](https://github.com/kohii/smoothcsv3)** — SmoothCSV is a powerful and intuitive tool for editing CSV files.  
-  <sub>★ 1,372 · kohii · `Editor` `Files` `Tauri`</sub>
+  <sub>★ 1,373 · kohii · `Editor` `Files` `Tauri`</sub>
 - **[flux-markdown](https://github.com/xykong/flux-markdown)** — Markdown Preview Enhanced for macOS QuickLook  
-  <sub>★ 1,340 · xykong · Swift · `Markdown` `Swift`</sub>
+  <sub>★ 1,342 · xykong · Swift · `Markdown` `Swift`</sub>
 - **[apple-notes-exporter](https://github.com/kzaremski/apple-notes-exporter)** — MacOS app written in Swift that bulk exports Apple Notes (including iCloud Notes) to a multitude of formats preserving note folder structure.  
   <sub>★ 778 · kzaremski · Swift · `Notes` `Files` `Swift`</sub>
 - **[noty](https://github.com/aimen08/noty)** — Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.  
-  <sub>★ 515 · aimen08 · Swift · `Notes` `SwiftUI` `Swift`</sub>
+  <sub>★ 517 · aimen08 · Swift · `Notes` `SwiftUI` `Swift`</sub>
 - **[Neon-Vision-Editor](https://github.com/h3pdesign/Neon-Vision-Editor)** — A native Swift editor for Code and Markdown across macOS, iPadOS, iOS, and visionOS.  
-  <sub>★ 464 · h3pdesign · Swift · `Markdown` `Editor` `SwiftUI` `iOS` `Swift`</sub>
+  <sub>★ 467 · h3pdesign · Swift · `Markdown` `Editor` `SwiftUI` `iOS` `Swift`</sub>
 - **[EdgeMark](https://github.com/Ender-Wang/EdgeMark)** — A native macOS side-panel Markdown notes app. Always one edge away.  
   <sub>★ 287 · Ender-Wang · Swift · `Markdown` `Notes` `Editor` `Swift`</sub>
 
@@ -770,39 +783,39 @@ _Note taking, Markdown editors and knowledge bases._
 _File managers, drag-and-drop shelves, backup and archiving._
 
 - **[localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop  
-  <sub>★ 99,137 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
+  <sub>★ 99,299 · localsend · Dart · `Files` `Cross-platform` `Dart`</sub>
 - **[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)** — List of useful Quick Look plugins for developers  
-  <sub>★ 18,812 · sindresorhus · `Files & Sync`</sub>
+  <sub>★ 18,813 · sindresorhus · `Files & Sync`</sub>
 - **[mackup](https://github.com/lra/mackup)** — Backup and keep your application settings in sync.  
   <sub>★ 15,359 · lra · Python · `Backup` `Python`</sub>
 - **[PeaZip](https://github.com/peazip/PeaZip)** — Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ…  
-  <sub>★ 8,148 · peazip · Pascal · `Encryption` `Archive` `Files` `Cross-platform` `Pascal`</sub>
+  <sub>★ 8,155 · peazip · Pascal · `Encryption` `Archive` `Files` `Cross-platform` `Pascal`</sub>
 - **[Keka](https://github.com/aonez/Keka)** — The macOS & iOS file archiver  
-  <sub>★ 7,663 · aonez · PHP · `Archive` `Files` `iOS`</sub>
+  <sub>★ 7,669 · aonez · PHP · `Archive` `Files` `iOS`</sub>
 - **[NearDrop](https://github.com/grishka/NearDrop)** — An unofficial Google Nearby Share/Quick Share app for macOS  
   <sub>★ 6,359 · grishka · Swift · `Files` `Swift`</sub>
 - **[doublecmd](https://github.com/doublecmd/doublecmd)** — Double Commander is a free cross platform open source file manager with two panels side by side.  
-  <sub>★ 4,796 · doublecmd · Pascal · `Files` `Cross-platform` `Pascal`</sub>
+  <sub>★ 4,803 · doublecmd · Pascal · `Files` `Cross-platform` `Pascal`</sub>
 - **[SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)** — Quick Look extension for highlight source code files on macOS 12 and later.  
-  <sub>★ 4,354 · sbarex · C++ · `Files` `C++`</sub>
+  <sub>★ 4,355 · sbarex · C++ · `Files` `C++`</sub>
 - **[cardinal](https://github.com/cardisoft/cardinal)** — Fastest file searching tool for macOS  
-  <sub>★ 1,788 · cardisoft · Rust · `Files` `Tauri` `Rust`</sub>
+  <sub>★ 1,790 · cardisoft · Rust · `Files` `Tauri` `Rust`</sub>
 - **[MacPacker](https://github.com/sarensw/MacPacker)** — Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.  
-  <sub>★ 1,499 · sarensw · Swift · `Archive` `Files` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,504 · sarensw · Swift · `Archive` `Files` `SwiftUI` `Swift`</sub>
 - **[RsyncUI](https://github.com/rsyncOSX/RsyncUI)** — A SwiftUI based macOS GUI for rsync.  
   <sub>★ 1,498 · rsyncOSX · Swift · `Backup` `SwiftUI` `Swift`</sub>
 - **[RClick](https://github.com/wflixu/RClick)** — Macos finder contextmenu  
-  <sub>★ 1,160 · wflixu · Swift · `Backup` `Files` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,164 · wflixu · Swift · `Backup` `Files` `SwiftUI` `Swift`</sub>
 - **[ShichiZip](https://github.com/idawnlight/ShichiZip)** — The 7-Zip derivative intended for macOS  
-  <sub>★ 991 · idawnlight · Swift · `Archive` `Swift`</sub>
+  <sub>★ 993 · idawnlight · Swift · `Archive` `Swift`</sub>
 - **[marta-issues](https://github.com/marta-file-manager/marta-issues)** — An issue tracker for Marta File Manager.  
   <sub>★ 450 · marta-file-manager · `Files`</sub>
 - **[AndroidFileSync](https://github.com/Santosh7017/AndroidFileSync)** — AndroidFileSync: A free, native macOS app to transfer files between your Mac and Android phone — over USB or WiFi.  
-  <sub>★ 273 · Santosh7017 · Swift · `Backup` `Files` `Swift`</sub>
+  <sub>★ 274 · Santosh7017 · Swift · `Backup` `Files` `Swift`</sub>
 - **[PeekX](https://github.com/altic-dev/PeekX)** — Quick Look Extension for Folder Preview on macOS  
   <sub>★ 263 · altic-dev · Swift · `Files` `Swift`</sub>
 - **[Filetor](https://github.com/davidpraznik/Filetor)** — Free, open source dual-pane file manager for macOS, written in Swift and SwiftUI.  
-  <sub>★ 11 · davidpraznik · Swift · `Files` `SwiftUI` `Swift`</sub>
+  <sub>★ 17 · davidpraznik · Swift · `Files` `SwiftUI` `Swift`</sub>
 
 <a id="cat-web"></a>
 
@@ -811,7 +824,7 @@ _File managers, drag-and-drop shelves, backup and archiving._
 _Portfolio sites, resumes, dashboards and web templates._
 
 - **[masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)** — The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.  
-  <sub>★ 4,230 · ashutosh1919 · JavaScript · `Template` `JavaScript`</sub>
+  <sub>★ 4,229 · ashutosh1919 · JavaScript · `Template` `JavaScript`</sub>
 - **[evie](https://github.com/anges244/evie)** — A production-ready theme for your projects with a minimal style guide https://evie.undraw.co  
   <sub>★ 505 · anges244 · HTML · `Template` `Web`</sub>
 
@@ -822,11 +835,11 @@ _Portfolio sites, resumes, dashboards and web templates._
 _Things that help you ship: git, APIs, notebooks and IDE helpers._
 
 - **[GitUp](https://github.com/git-up/GitUp)** — The Git interface you've been missing all your life has finally arrived.  
-  <sub>★ 12,164 · git-up · Objective-C · `Git` `Objective-C`</sub>
+  <sub>★ 12,165 · git-up · Objective-C · `Git` `Objective-C`</sub>
 - **[briefer](https://github.com/briefercloud/briefer)** — Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.  
   <sub>★ 4,325 · briefercloud · TypeScript · `Dashboard` `TypeScript`</sub>
 - **[PicList](https://github.com/Kuingsmile/PicList)** — An image upload and manage tool, base on PicGo  
-  <sub>★ 3,799 · Kuingsmile · TypeScript · `Git` `Electron` `TypeScript`</sub>
+  <sub>★ 3,801 · Kuingsmile · TypeScript · `Git` `Electron` `TypeScript`</sub>
 - **[pika](https://github.com/superhighfives/pika)** — An open-source colour picker app for macOS  
   <sub>★ 2,617 · superhighfives · Swift · `SwiftUI` `Swift`</sub>
 
@@ -837,19 +850,19 @@ _Things that help you ship: git, APIs, notebooks and IDE helpers._
 _Purely delightful, mostly useless, entirely worth installing._
 
 - **[BongoCat](https://github.com/ayangweb/BongoCat)** — A cross-platform interactive desktop pet: a cat that drums along with your keystrokes and mouse.  
-  <sub>★ 24,644 · ayangweb · Rust · `Fun` `Tauri` `Cross-platform` `Rust`</sub>
+  <sub>★ 24,652 · ayangweb · Rust · `Fun` `Tauri` `Cross-platform` `Rust`</sub>
 - **[Equinox](https://github.com/rlxone/Equinox)** — Create dynamic wallpapers for macOS.  
   <sub>★ 2,162 · rlxone · Swift · `Fun` `Swift`</sub>
 - **[WaifuX](https://github.com/jipika/WaifuX)** — Macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧  
-  <sub>★ 1,615 · jipika · Swift · `Fun` `SwiftUI` `Swift`</sub>
+  <sub>★ 1,620 · jipika · Swift · `Fun` `SwiftUI` `Swift`</sub>
 - **[Mac-Duo](https://github.com/sumimakito/Mac-Duo)** — Tilts, blurs and fades your screen content as you close the MacBook lid, rendered live with Metal and ScreenCaptureKit.  
-  <sub>★ 1,237 · sumimakito · Swift · `Fun` `Display` `Menu Bar` `Swift`</sub>
+  <sub>★ 1,236 · sumimakito · Swift · `Fun` `Display` `Menu Bar` `Swift`</sub>
 - **[LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS)** — This is a Opensource Live wallpaper solution for MacOS  
   <sub>★ 971 · thusvill · Objective-C++ · `Fun`</sub>
 - **[MacDuo](https://github.com/DhananjayBhosale/MacDuo)** — Six Metal-rendered desktop effects that follow the movement of your MacBook lid, from a soft fade to a rolling or shuttering display.  
   <sub>★ 227 · DhananjayBhosale · Swift · `Swift` `Fun` `Display`</sub>
 - **[moonleaf](https://github.com/illufied/moonleaf)** — Light, capable wallpaper manager for macOS  
-  <sub>★ 173 · illufied · Swift · `Archived` `Fun` `Swift`</sub>
+  <sub>★ 172 · illufied · Swift · `Archived` `Fun` `Swift`</sub>
 - **[macOS-Wallpapers](https://github.com/acer51-doctom/macOS-Wallpapers)** — MacOS Wallpapers from High Sierra and later.  
   <sub>★ 20 · acer51-doctom · `Fun & Desktop Toys`</sub>
 
@@ -860,45 +873,45 @@ _Purely delightful, mostly useless, entirely worth installing._
 _Cleaners, uninstallers, monitors and system tweaks._
 
 - **[etcher](https://github.com/balena-io/etcher)** — Flash OS images to SD cards & USB drives, safely and easily.  
-  <sub>★ 34,717 · balena-io · TypeScript · `Cross-platform` `TypeScript`</sub>
+  <sub>★ 34,725 · balena-io · TypeScript · `Cross-platform` `TypeScript`</sub>
 - **[Pearcleaner](https://github.com/alienator88/Pearcleaner)** — A free, source-available and fair-code licensed mac app cleaner  
-  <sub>★ 15,141 · alienator88 · Swift · `Cleanup` `Swift`</sub>
+  <sub>★ 15,151 · alienator88 · Swift · `Cleanup` `Swift`</sub>
 - **[tart](https://github.com/openai/tart)** — MacOS and Linux VMs on Apple Silicon to use in CI and other automations  
-  <sub>★ 7,912 · openai · Swift · `Cross-platform` `Swift`</sub>
+  <sub>★ 7,927 · openai · Swift · `Cross-platform` `Swift`</sub>
 - **[PureMac](https://github.com/momenbasel/PureMac)** — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.  
-  <sub>★ 7,805 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
+  <sub>★ 7,827 · momenbasel · Swift · `Cleanup` `Privacy` `SwiftUI` `Swift`</sub>
 - **[vimr](https://github.com/qvacua/vimr)** — VimR — Neovim GUI for macOS in Swift  
-  <sub>★ 7,016 · qvacua · Swift · `Swift`</sub>
+  <sub>★ 7,014 · qvacua · Swift · `Swift`</sub>
 - **[AppPorts](https://github.com/wzh4869/AppPorts)** — A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】  
-  <sub>★ 2,251 · wzh4869 · Swift · `Cleanup` `SwiftUI` `Swift`</sub>
+  <sub>★ 2,268 · wzh4869 · Swift · `Cleanup` `SwiftUI` `Swift`</sub>
 - **[Pastel-macOS](https://github.com/EEliberto/Pastel-macOS)** — 在 Mac 上搜索并下载 iOS、iPadOS 与 visionOS App 的历史版本，管理 IPA，并通过隔空投送发送至 iPhone 或 iPad。  
-  <sub>★ 2,021 · EEliberto · Go · `iOS` `Go`</sub>
+  <sub>★ 2,026 · EEliberto · Go · `iOS` `Go`</sub>
 - **[ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ)** — Excalidraw app for mac. Powered by pure SwiftUI.  
-  <sub>★ 1,915 · chocoford · Swift · `SwiftUI` `iOS` `Swift`</sub>
+  <sub>★ 1,940 · chocoford · Swift · `SwiftUI` `iOS` `Swift`</sub>
 - **[davit](https://github.com/wouterdebie/davit)** — A native macOS UI for Apple's platform  
   <sub>★ 1,636 · wouterdebie · Swift · `Swift`</sub>
 - **[msime](https://github.com/metasequoiaime/msime)** — 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。  
-  <sub>★ 1,315 · metasequoiaime · Rust · `iOS` `Cross-platform` `Rust`</sub>
+  <sub>★ 1,333 · metasequoiaime · Rust · `iOS` `Cross-platform` `Rust`</sub>
 - **[pdfx](https://github.com/AlexandrosGounis/pdfx)** — A free-floating 2D Canvas for processing multiple PDF files simultaneously  
-  <sub>★ 1,092 · AlexandrosGounis · TypeScript · `Reading` `Files` `Electron` `TypeScript`</sub>
+  <sub>★ 1,093 · AlexandrosGounis · TypeScript · `Reading` `Files` `Electron` `TypeScript`</sub>
 - **[MacCalendar](https://github.com/bylinxx/MacCalendar)** — 完全免费&开源的小而美 macOS 菜单栏日历App(带小组件)，支持中国农历、节假日、放假安排、系统日程、个性化配置等  
   <sub>★ 876 · bylinxx · Swift · `Swift`</sub>
 - **[mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic)** — MyGo 云音乐 - 第三方网易云音乐原生客户端  
-  <sub>★ 818 · egoist · `Archived`</sub>
+  <sub>★ 817 · egoist · `Archived`</sub>
 - **[yojam](https://github.com/fluffypony/yojam)** — Open links on macOS in whatever browser, app, or profile you need - whatever yo jam is  
   <sub>★ 800 · fluffypony · Swift · `Swift`</sub>
 - **[ntfsmac](https://github.com/khr898/ntfsmac)** — NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.  
-  <sub>★ 652 · khr898 · Swift · `Swift`</sub>
+  <sub>★ 653 · khr898 · Swift · `Swift`</sub>
 - **[Neodisk](https://github.com/tkslucas/Neodisk)** — Read-only treemap and sunburst disk space visualizer  
-  <sub>★ 638 · tkslucas · Swift · `Swift`</sub>
+  <sub>★ 641 · tkslucas · Swift · `Swift`</sub>
 - **[codesucker](https://github.com/fanbuz/codesucker)** — 拖入项目，生成 60 页软著源程序文档。离线抽取、注释清洗、自动排版，导出前先帮你过一遍审查——代码不出本机。  
-  <sub>★ 462 · fanbuz · TypeScript · `Electron` `TypeScript`</sub>
+  <sub>★ 463 · fanbuz · TypeScript · `Electron` `TypeScript`</sub>
 - **[postgresgui](https://github.com/PostgresGUI/postgresgui)** — No description on GitHub — open the repository to see what it does.  
   <sub>★ 397 · PostgresGUI · Swift · `Swift`</sub>
 - **[OpenDisk](https://github.com/137137137/OpenDisk)** — Fast macOS disk-usage analyzer with an interactive sunburst chart — scans a full drive in seconds.  
   <sub>★ 380 · 137137137 · Swift · `Monitoring` `Dashboard` `SwiftUI` `Swift`</sub>
 - **[fazm](https://github.com/mediar-ai/fazm)** — Fazm Desktop for macOS  
-  <sub>★ 349 · mediar-ai · Swift · `Swift`</sub>
+  <sub>★ 350 · mediar-ai · Swift · `Swift`</sub>
 - **[MKS](https://github.com/x0054/MKS)** — No description on GitHub — open the repository to see what it does.  
   <sub>★ 212 · x0054 · Swift · `Swift`</sub>
 - **[core-eq](https://github.com/andreypudov/core-eq)** — System-wide equalizer for macOS  
@@ -908,9 +921,9 @@ _Cleaners, uninstallers, monitors and system tweaks._
 - **[macSCP](https://github.com/macnev2013/macSCP)** — MacSCP is software that allows storing the details of your remote server and connect to it securely. A great alternative to Putty and WinSCP for MacOS.  
   <sub>★ 145 · macnev2013 · Swift · `Swift`</sub>
 - **[ExtendFS](https://github.com/kthchew/ExtendFS)** — A ext2, ext3 & ext4 file system driver for Mac to mount Linux disks with read-only access using FSKit  
-  <sub>★ 100 · kthchew · Swift · `Files` `Cross-platform` `Swift`</sub>
+  <sub>★ 101 · kthchew · Swift · `Files` `Cross-platform` `Swift`</sub>
 - **[Mole-GUI](https://github.com/khan-umirzakoff/Mole-GUI)** — Free, open-source Mac cleaner: a native SwiftUI app for Mole. Clean caches, uninstall apps and their leftovers, map your disk, monitor your Mac. A CleanMyMac alternative.  
-  <sub>★ 96 · khan-umirzakoff · Swift · `Cleanup` `Monitoring` `SwiftUI` `Swift`</sub>
+  <sub>★ 98 · khan-umirzakoff · Swift · `Cleanup` `Monitoring` `SwiftUI` `Swift`</sub>
 - **[TabFlick](https://github.com/lifedever/TabFlick)** — An Arc-style most-recently-used tab switcher for Google Chrome. Hold ⌃, tap ⇥.  
   <sub>★ 35 · lifedever · Swift · `Swift`</sub>
 - **[CalmBar](https://github.com/chao-eng/CalmBar)** — 常驻菜单栏的 macOS 工具集，把散热、充电、剪贴板、录屏这些日常操作收进一个面板。  
