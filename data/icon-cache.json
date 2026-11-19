@@ -256,8 +256,8 @@
   },
   "PostgresApp/PostgresApp": {
     "file": "icons/PostgresApp__PostgresApp.png",
-    "path": "Postgres/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
-    "sha": "4dac274cbf7eac5d11eefd3a93cccf9bc0a2684f"
+    "path": "Postgres/AppIcon.icon/Assets/app_icon_1024.png",
+    "sha": "d94475f1f02a41e1da348e36bd72c073bcfb0613"
   },
   "PostgresGUI/postgresgui": {
     "file": "icons/PostgresGUI__postgresgui.png",
@@ -517,7 +517,7 @@
   "byrencheema/airstats": {
     "file": "icons/byrencheema__airstats.png",
     "path": "Sources/AirStatUI/Resources/Logo.png",
-    "sha": "0eea8537faf44bc98006485b44400871708c65f2"
+    "sha": "0c7b241ac3569dc312e062a1ad80031aae32de95"
   },
   "caezium/burrow": {
     "file": "icons/caezium__burrow.png",
@@ -776,8 +776,8 @@
   },
   "jackson-storm/DynamicNotch": {
     "file": "icons/jackson-storm__DynamicNotch.png",
-    "path": "DynamicNotch/Resources/Assets.xcassets/AppIcon.appiconset/appicon_mac_256x256_2x.png",
-    "sha": "13e7ad952e95ca057a3d8822af70369558040734"
+    "path": "DynamicNotch/Resources/Assets.xcassets/AppIcon.appiconset/logo1024.png",
+    "sha": "3d2da9938f03d1b9b6b4faef2dd3a8fe01880747"
   },
   "james-see/ltx-video-mac": {
     "file": "icons/james-see__ltx-video-mac.png",
@@ -1313,6 +1313,11 @@
     "file": "icons/systemAdmin-ai__NotchDeck.png",
     "path": "Assets/AppIcon.png",
     "sha": "399dc81a321c5dce1abc16f0f5c62baaae508f8b"
+  },
+  "t8y2/motty": {
+    "file": "icons/t8y2__motty.svg",
+    "path": "assets/icon.svg",
+    "sha": "457cce3596fbc2b2f8903f1344e47dc4f3b18dac"
   },
   "tddworks/ClaudeBar": {
     "file": "icons/tddworks__ClaudeBar.png",
