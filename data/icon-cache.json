@@ -592,7 +592,7 @@
   "cyrus-cai/notchi": {
     "file": "icons/cyrus-cai__notchi.png",
     "path": "NotchGlass/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
-    "sha": "909d19bf87a2bd25f455aeaee0c3c02d3489071c"
+    "sha": "641aa68a42278f797031108f77a76d8fa4f24c48"
   },
   "davidpraznik/Archivator": {
     "file": "icons/davidpraznik__Archivator.png",
@@ -834,11 +834,6 @@
     "path": "notch-prompter/Assets.xcassets/AppIcon.appiconset/NotchPrompterIcon-iOS-Default-128x128@2x.png",
     "sha": "68591338720d1e22fccc4381035a576f3e6882ec"
   },
-  "junior-rj/menubar-hide": {
-    "file": "icons/junior-rj__menubar-hide.png",
-    "path": "MenubarHide/Assets.xcassets/AppIcon.appiconset/icon_256.png",
-    "sha": "07426746d1282fdd93138a3074c00192757bd10f"
-  },
   "kamillobinski/thock": {
     "file": "icons/kamillobinski__thock.png",
     "path": "Thock/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
@@ -889,6 +884,11 @@
     "path": "apps/macos/LauncherApp/look-app/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
     "sha": "04a647627c6178dc05c977d3a1e16f47daf0720b"
   },
+  "kurama/mute": {
+    "file": "icons/kurama__mute.png",
+    "path": "mute/Assets.xcassets/AppIcon.appiconset/icon_256x256_1x.png",
+    "sha": "47a0ebb5696cb826c63f943aed77b1abded3c41f"
+  },
   "kzaremski/apple-notes-exporter": {
     "file": "icons/kzaremski__apple-notes-exporter.png",
     "path": "Apple Notes Exporter/Apple Notes Exporter/Assets.xcassets/AppIcon.appiconset/icon_256.png",
@@ -938,6 +938,11 @@
     "file": "icons/linearmouse__linearmouse.png",
     "path": "LinearMouse/Assets.xcassets/AppIcon.appiconset/Icon-256.png",
     "sha": "cf9f6f06bf99eaad3605a83bc07c6498555bf01b"
+  },
+  "lingyired/status-trio": {
+    "file": "icons/lingyired__status-trio.png",
+    "path": "Support/AppIcon.png",
+    "sha": "76236011699e76afc562814a06f038347b2804a9"
   },
   "localsend/localsend": {
     "file": "icons/localsend__localsend.png",
